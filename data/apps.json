@@ -1,5 +1,80 @@
 [
   {
+    "id": "claude-plugins-community",
+    "name": "Claude Plugins Community",
+    "description": "This is a read-only list of community plugins for Claude Cowork and Claude Code. Each plugin was submitted through the official form, checked for security, and approved before being added. You can install them from the Claude plugins site or by adding the marketplace in Claude Code. The benefit is simple: you get a safe, approved place to find useful plugins without needing to sort through unverified ones.\n\nhttps://github.com/anthropics/claude-plugins-community",
+    "website": "",
+    "repository": "https://github.com/anthropics/claude-plugins-community",
+    "developer": {
+      "name": "anthropics",
+      "url": "https://github.com/anthropics"
+    },
+    "features": [],
+    "tags": [
+      "python"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15946,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-23T11:30:01+00:00",
+    "updated_at": "2026-08-23T12:48:21.226853+00:00"
+  },
+  {
+    "id": "spielewoy-autoprompt-skill",
+    "name": "Spielewoy/autoprompt-skill",
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.\n**Language**: JavaScript",
+    "website": "",
+    "repository": "https://github.com/Spielewoy/autoprompt-skill",
+    "developer": {
+      "name": "Spielewoy",
+      "url": "https://github.com/Spielewoy"
+    },
+    "features": [],
+    "tags": [
+      "agent_orchestration",
+      "agent_skills",
+      "agentic_workflows",
+      "ai_agents",
+      "ai_coding",
+      "automated_testing",
+      "autonomous_agents",
+      "claude_code",
+      "cli",
+      "code_review",
+      "codex",
+      "coding_agent",
+      "developer_tools",
+      "github_copilot",
+      "multi_agent_systems",
+      "opencode",
+      "prompt_engineering",
+      "subagents",
+      "test_driven_development",
+      "workflow_automation"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13689,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-23T10:00:02+00:00",
+    "updated_at": "2026-08-23T12:48:18.264905+00:00"
+  },
+  {
     "id": "jeremy-prt-bloub",
     "name": "jeremy-prt/bloub",
     "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.\n**Language**: TypeScript",
@@ -19477,7 +19552,9 @@
       "OpenSource",
       "Interesting",
       "Security",
-      "Privacy"
+      "Privacy",
+      "Messaging",
+      "Private"
     ],
     "images": {
       "cover": "",
@@ -19491,7 +19568,7 @@
     },
     "status": "active",
     "created_at": "2026-06-26T12:00:27+00:00",
-    "updated_at": "2026-08-23T08:31:31.304657+00:00"
+    "updated_at": "2026-08-23T12:48:19.243497+00:00"
   },
   {
     "id": "smokingyou",
@@ -34765,7 +34842,18 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "javascript",
+      "agents",
+      "ai_image_generation",
+      "chatgpt",
+      "dsh_plugin",
+      "gpt_image_2",
+      "image_prompts",
+      "prompt_as_code",
+      "prompt_engineering",
+      "skills",
+      "workflow_automation"
     ],
     "images": {
       "cover": "",
@@ -34779,7 +34867,7 @@
     },
     "status": "active",
     "created_at": "2026-05-12T14:35:16+00:00",
-    "updated_at": "2026-08-23T10:52:29.938499+00:00"
+    "updated_at": "2026-08-23T12:48:21.345562+00:00"
   },
   {
     "id": "nextup-resource",

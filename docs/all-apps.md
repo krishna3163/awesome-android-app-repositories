@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16955`
+> **Total Cataloged Projects:** `16957`
 
 ---
 
@@ -22,12 +22,12 @@
 | **([EP](https://t.me/popMODS/1374)) **Cloudstream** | CloudStream is an app that allows you to stream and download movies,… | [GitHub](https://github.com/recloudstream/cloudstream) | — | `Android, Media, Streaming, cloudstream, cloud` |
 | **(Enhanced post)__ [File Navigator](https://t.me/popMODS/4801)** | Are you tired of cluttered files on your device? Seeking a streamline… | [GitHub](https://github.com/w2sv/FileNavigator) | — | `Android, Tools, GitHub, OpenSource` |
 | ****** | ** | [GitHub](https://github.com/google/adk-js) | — | `typescript, agent, agentic, agentic_ai, agents, agents_sdk, ai, ai_agents, aiagentframework, genai, genai_chatbot, llm, llms, multi_agent, multi_agent_systems, multi_agents, multi_agents_collaboration` |
-| ****** | Wifi password list of 320 million passwords | [GitHub](https://github.com/vladimircovic/wifi_pass) | — | `GitHub, OpenSource` |
-| ****** | Hidden program for catching password**[s | [GitHub](https://github.com/4w4k3/BeeLogger) | — | `GitHub, OpenSource` |
-| ****** | onlyfans leak search tool - | [GitHub](https://github**.com/Zekh/OnlyfansSearcher) | — | `GitHub, OpenSource` |
-| ****** | Moriarty-Project V3.**0 - The tool provides information about the pho… | [GitHub](https://github.com/AzizKpln/Moriarty-Project‌‌) | — | `GitHub, OpenSource` |
-| ****** | We mute a DDoS attack on **[the si](https://github.com/rk1342k/Hammer… | [GitHub](https://github.com/rk1342k/Hammer) | — | `GitHub, OpenSource` |
 | ****** | ♾ ****https://github.com/bel**lingcat/instagram-location-search‌‌ | [GitHub](https://github.com/bel**lingcat/instagram-location-search‌‌) | — | `GitHub, OpenSource` |
+| ****** | We mute a DDoS attack on **[the si](https://github.com/rk1342k/Hammer… | [GitHub](https://github.com/rk1342k/Hammer) | — | `GitHub, OpenSource` |
+| ****** | Moriarty-Project V3.**0 - The tool provides information about the pho… | [GitHub](https://github.com/AzizKpln/Moriarty-Project‌‌) | — | `GitHub, OpenSource` |
+| ****** | onlyfans leak search tool - | [GitHub](https://github**.com/Zekh/OnlyfansSearcher) | — | `GitHub, OpenSource` |
+| ****** | Hidden program for catching password**[s | [GitHub](https://github.com/4w4k3/BeeLogger) | — | `GitHub, OpenSource` |
+| ****** | Wifi password list of 320 million passwords | [GitHub](https://github.com/vladimircovic/wifi_pass) | — | `GitHub, OpenSource` |
 | **- https://github.com/caprover/caprover - About** | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | [GitHub](https://github.com/caprover/caprover) | — | `GitHub, OpenSource` |
 | **.** | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | [GitHub](https://github.com/google-gemini/gemini-cli) | [Website](https://github.com/google-gemini/gemini-cli#readme) | `GitHub, OpenSource, readme, gemini, gemini_api, typescript` |
 | **01-ai/Yi** | A series of large language models trained from scratch by developers… | [GitHub](https://github.com/01-ai/Yi) | — | `large_language_models` |
@@ -224,21 +224,21 @@
 | **9emin1/charlotte** | c++ fully undetected shellcode launcher ;) | [GitHub](https://github.com/9emin1/charlotte) | — | `GitHub, OpenSource` |
 | **9j/claude-code-mux** | High-performance AI routing proxy built in Rust with automatic failov… | [GitHub](https://github.com/9j/claude-code-mux) | — | `ai, anthropic, claude_code, claude_code_router, openai` |
 | **9Router** | 🔗 [https://github.com/decolua/9router](https://github.com/decolua/9ro… | [GitHub](https://github.com/decolua/9router) | — | `GitHub, OpenSource` |
-| **[** | B](https://telegra.ph/file/3052a994f60f80cfc230a.png)**rute force soc… | [GitHub](https://github.com/UltimateHackers/Blazy) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/06e3fc70070b298226802.jpg)**​Finding SQL vu… | [GitHub](https://github.com/americo/sqlifinder) | — | `GitHub, OpenSource` |
-| **[** | F](https://telegra.ph/file/92b098e1a471fb4573523.jpg)**ind out the IP… | [GitHub](https://github.com/AeonDave/sir.g`it`) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/3cf4a9d9454f010c43cd6.jpg)**Install 340 use… | [GitHub](https://gi**thub.com/vi**ew`erdiscretion/sashay) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/123fb56994b011c0b7e2c.jpg)**We check oursel… | [GitHub](https://github.com/Neo23x0/Loki) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/42169729f167cc6766c20.jpg)**Managing our ow… | [GitHub](https://github.com/rajkumardusad/MyServer) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/d5dae36dd13254bda1a38.jpg)**Brute-force Ins… | [GitHub](https://github.com/Pure-L0G1C/Instagram) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/97b80745adc99fd962017.jpg)**​📦 Ready-made V… | [GitHub](https://github.com/utmapp/vm-downloads) | — | `GitHub, OpenSource` |
-| **[** | ](https://telegra.ph/file/2a4621560611dfaf23d49.jpg)**​✉️ Silence and… | [GitHub](https://github.com/itds-co`ns`ulting/android-silent-ping-sms) | [Website](https://silence.im/) | `SI, Android, Privacy` |
-| **[** | ](https://telegra.ph/file/7a945558bfe385693b50a.jpg)​🔖** A selection… | [GitHub](https://github.com/jivoi/awesome-osint) | [Website](https://github.com/q`azbnm456/awesome-web-security) | `Selection____, Linux____, __Anonymity, Book, Course, Pentest, CTF, Raspberry, Android, Forensics` |
-| **[** | ](https://telegra.ph/file/9f36187c0ea1f96d3cde2.jpg)​🔖** A selection… | [GitHub](https://github.com/joe-shenouda/awesome-cyber-skil```ls) | [Website](https://github.com/infoslack/awesome-web-hacking) | `Compilation, Linux, Anonymity, Book, Course, Pentest, CTF, Raspberry, Android, Forensic` |
-| **[** | ](https://telegra.ph/file/652025a8871df9eb6e2e8.jpg)**​🔖 A selection… | [GitHub](https://github.com/jakejarvis/awesome-shodan-queries) | — | `Selection, Linux, Anonymity, Book, Course, Pentest, CTF, Raspberry, Android, Forensic` |
-| **[** | ](https://telegra.ph/file/a7ed9785b311121043ad8.jpg)**​🔖 A selection… | [GitHub](https://t.me/Social_engineering/1093) | — | `security, Selection, Linux, Anonymity, Book, Course, Pentest` |
-| **[** | ](https://telegra.ph/file/bb790668d1bd51465d01a.jpg)**​🔖 A selection… | [GitHub](https://github.com/enaqx/awesome-pentest) | [Website](https://github.com/anubi5egypt/awesome-web-pentest) | `Selection, Linux, OSINT, Cobalt_Strike, Pentest, Android, Anonymity, Book, Course` |
 | **[** | ](https://telegra.ph/file/f4d7def36e401ae727022.jpg)**We use a script… | [GitHub](https://github.com/Cesar-Hack-Gray/SocialSploit) | — | `GitHub, OpenSource` |
+| **[** | ](https://telegra.ph/file/bb790668d1bd51465d01a.jpg)**​🔖 A selection… | [GitHub](https://github.com/enaqx/awesome-pentest) | [Website](https://github.com/anubi5egypt/awesome-web-pentest) | `Selection, Linux, OSINT, Cobalt_Strike, Pentest, Android, Anonymity, Book, Course` |
+| **[** | ](https://telegra.ph/file/a7ed9785b311121043ad8.jpg)**​🔖 A selection… | [GitHub](https://t.me/Social_engineering/1093) | — | `security, Selection, Linux, Anonymity, Book, Course, Pentest` |
+| **[** | ](https://telegra.ph/file/652025a8871df9eb6e2e8.jpg)**​🔖 A selection… | [GitHub](https://github.com/jakejarvis/awesome-shodan-queries) | — | `Selection, Linux, Anonymity, Book, Course, Pentest, CTF, Raspberry, Android, Forensic` |
+| **[** | ](https://telegra.ph/file/9f36187c0ea1f96d3cde2.jpg)​🔖** A selection… | [GitHub](https://github.com/joe-shenouda/awesome-cyber-skil```ls) | [Website](https://github.com/infoslack/awesome-web-hacking) | `Compilation, Linux, Anonymity, Book, Course, Pentest, CTF, Raspberry, Android, Forensic` |
+| **[** | ](https://telegra.ph/file/7a945558bfe385693b50a.jpg)​🔖** A selection… | [GitHub](https://github.com/jivoi/awesome-osint) | [Website](https://github.com/q`azbnm456/awesome-web-security) | `Selection____, Linux____, __Anonymity, Book, Course, Pentest, CTF, Raspberry, Android, Forensics` |
+| **[** | ](https://telegra.ph/file/2a4621560611dfaf23d49.jpg)**​✉️ Silence and… | [GitHub](https://github.com/itds-co`ns`ulting/android-silent-ping-sms) | [Website](https://silence.im/) | `SI, Android, Privacy` |
+| **[** | ](https://telegra.ph/file/97b80745adc99fd962017.jpg)**​📦 Ready-made V… | [GitHub](https://github.com/utmapp/vm-downloads) | — | `GitHub, OpenSource` |
+| **[** | ](https://telegra.ph/file/d5dae36dd13254bda1a38.jpg)**Brute-force Ins… | [GitHub](https://github.com/Pure-L0G1C/Instagram) | — | `GitHub, OpenSource` |
+| **[** | ](https://telegra.ph/file/42169729f167cc6766c20.jpg)**Managing our ow… | [GitHub](https://github.com/rajkumardusad/MyServer) | — | `GitHub, OpenSource` |
+| **[** | ](https://telegra.ph/file/123fb56994b011c0b7e2c.jpg)**We check oursel… | [GitHub](https://github.com/Neo23x0/Loki) | — | `GitHub, OpenSource` |
+| **[** | ](https://telegra.ph/file/3cf4a9d9454f010c43cd6.jpg)**Install 340 use… | [GitHub](https://gi**thub.com/vi**ew`erdiscretion/sashay) | — | `GitHub, OpenSource` |
+| **[** | F](https://telegra.ph/file/92b098e1a471fb4573523.jpg)**ind out the IP… | [GitHub](https://github.com/AeonDave/sir.g`it`) | — | `GitHub, OpenSource` |
+| **[** | ](https://telegra.ph/file/06e3fc70070b298226802.jpg)**​Finding SQL vu… | [GitHub](https://github.com/americo/sqlifinder) | — | `GitHub, OpenSource` |
+| **[** | B](https://telegra.ph/file/3052a994f60f80cfc230a.png)**rute force soc… | [GitHub](https://github.com/UltimateHackers/Blazy) | — | `GitHub, OpenSource` |
 | **[**DockerAndroid**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - A guide explaining how to run Docker on Android.** | To do this, you need to root your phone, compile the kernel, and comp… | [GitHub](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27) | — | `Interesting, Docker, Android, Guide` |
 | **[**dom3d**](https://gist.github.com/OrionReed/4c3778ebc2b5026d2354359ca49077ca)** is an HTML/DOM viewer that allows you to view a site in 3D.** | In order to visualize the site in this mode, just copy the code and p… | [GitHub](https://gist.github.com/OrionReed/4c3778ebc2b5026d2354359ca49077ca) | — | `Interesting, JavaScript` |
 | **[Check this if you love Google-ish Calculator](https://github.com/Darkempire78/OpenCalc)** | — | [GitHub](https://github.com/Darkempire78/OpenCalc) | — | `—` |
@@ -1522,7 +1522,7 @@
 | **Awesome Free Saas** | Free SaaS tools span multiple business functions—from project managem… | [GitHub](https://github.com/LlamaGenAI/awesome-free-saas) | — | `other, awesome_list, awesone, distrubuted, global, infra, onboarding, paas, saas, toolbox, GitHub, OpenSource` |
 | **Awesome Frontend Dev** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/FilimonovAlexey/awesome-frontend-dev) | — | `GitHub, OpenSource` |
 | **Awesome Generative Ai Data Scientist** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/business-science/awesome-generative-ai-data-scientist) | — | `GitHub, OpenSource` |
-| **Awesome Gpt Image 2** | OpenAI's next-generation image model with pixel-perfect text renderin… | [GitHub](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | — | `GitHub, OpenSource` |
+| **Awesome Gpt Image 2** | OpenAI's next-generation image model with pixel-perfect text renderin… | [GitHub](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | — | `GitHub, OpenSource, javascript, agents, ai_image_generation, chatgpt, dsh_plugin, gpt_image_2, image_prompts, prompt_as_code, prompt_engineering, skills, workflow_automation` |
 | **Awesome Java** | Java developers have access to a wide range of libraries and framewor… | [GitHub](https://github.com/akullpp/awesome-java) | — | `other, awesome, awesome_list` |
 | **Awesome Jetpack Compose Learning Resources** | 📝 **Description:** 👓 A continuously updated list of learning Jetpack… | [GitHub](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) | — | `readme, android, kotlin, awesome, mvvm, android_architecture, compose, beginner_friendly, android_apps, hacktoberfest, coroutines_android, mvvm_android, android_jetpack, first_issue, jetpack_android, learn_android, jetpack_compose, hacktoberfest2020, android_compose, awesome_android` |
 | **Awesome Langchain** | 🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/kyrolabs/awesome-langchain) | — | `GitHub, OpenSource` |
@@ -2726,6 +2726,7 @@
 | **Claude Howto** | 🔗 [https://github.com/luongnv89/claude-howto](https://github.com/luon… | [GitHub](https://github.com/luongnv89/claude-howto) | — | `GitHub, OpenSource, python, claude_code, guide, tutorial` |
 | **Claude Mem** | 🔗 [https://github.com/thedotmack/claude-mem](https://github.com/thedo… | [GitHub](https://github.com/thedotmack/claude-mem) | — | `GitHub, OpenSource, javascript` |
 | **Claude Pilot** | Claude Pilot enhances Claude Code by enforcing production-grade quali… | [GitHub](https://github.com/maxritter/claude-pilot) | — | `typescript, ai_agents, ai_assistant, ai_coding, ai_coding_tools, ai_engineering, ai_tools, anthropic, anthropic_claude, claude, claude_ai, claude_code, claude_context, claude_mem, claude_skills, claudecode, mcp, model_context_protocol, software_engineering, spec_driven_development, GitHub, OpenSource` |
+| **Claude Plugins Community** | This is a read-only list of community plugins for Claude Cowork and C… | [GitHub](https://github.com/anthropics/claude-plugins-community) | — | `python` |
 | **Claude Quickstarts** | — | [GitHub](https://github.com/anthropics/claude-quickstarts) | — | `python` |
 | **Claude Relay Service** | You can set up your own Claude API relay server to securely manage mu… | [GitHub](https://github.com/Wei-Shaw/claude-relay-service) | — | `javascript, claude, claude_api, claude_code, claude_proxy, codex_cli, crs, droid, droid_cli, droid2api, gemini_cli` |
 | **Claude Scientific Skills** | Claude Scientific Skills offers 148+ ready-to-use tools for AI agents… | [GitHub](https://github.com/K-Dense-AI/claude-scientific-skills) | — | `python, agent_skills, ai_scientist, bioinformatics, chemoinformatics, claude, claude_skills, claudecode, clinical_research, computational_biology, data_analysis, drug_discovery, genomics, materials_science, metabolomics, proteomics, scientific_computing, scientific_visualization` |
@@ -13377,7 +13378,7 @@
 | **simplescaling/s1** | s1: Simple test-time scaling | [GitHub](https://github.com/simplescaling/s1) | — | `GitHub, OpenSource` |
 | **simpletut/Universal-React-Apollo-Registration** | Open Source Universal User Registration System – NodeJS React Apollo… | [GitHub](https://github.com/simpletut/Universal-React-Apollo-Registration) | — | `apollo_client, json_web_token, mongodb, nodejs, react_apollo, reactjs_boilerplate, server_side_rendering, universal_react, user_registration` |
 | **Simplewall **- **Open-Source firewall app.** | This is Simplewall. A simple tool to configure Windows Filtering Plat… | [GitHub](https://github.com/henrypp/simplewall) | — | `Windows` |
-| **Simplex Chat** | 🔗 [https://github.com/simplex-chat/simplex-chat](https://github.com/s… | [GitHub](https://github.com/simplex-chat/simplex-chat) | — | `GitHub, OpenSource, Interesting, Security, Privacy` |
+| **Simplex Chat** | 🔗 [https://github.com/simplex-chat/simplex-chat](https://github.com/s… | [GitHub](https://github.com/simplex-chat/simplex-chat) | — | `GitHub, OpenSource, Interesting, Security, Privacy, Messaging, Private` |
 | **SimpMusic** | **A simple music app using YouTube Music for backend | [GitHub](https://github.com/maxrave-dev/SimpMusic) | — | `screenshot, Android, GitHub, OpenSource` |
 | **Simrepo** | **Characteristics:** | [GitHub](https://github.com/Mubelotix/SimRepo) | — | `GitHub, OpenSource` |
 | **Simulai** | Easily create your own chatbots using a drag-and-drop interface. Idea… | [GitHub](https://github.com/simulaiofficial/simulai) | — | `Useful, Bot` |
@@ -13740,6 +13741,7 @@
 | **SpiderLabs/SharpCompile** | SharpCompile is an aggressor script for Cobalt Strike which allows yo… | [GitHub](https://github.com/SpiderLabs/SharpCompile) | — | `GitHub, OpenSource` |
 | **Spidersuite** | It can be used to map and analyze the attack surface. It supports imp… | [GitHub](https://github.com/3nock/SpiderSuite) | — | `Web, Useful` |
 | **spieglt/whatfiles** | Log what files are accessed by any Linux process | [GitHub](https://github.com/spieglt/whatfiles) | — | `GitHub, OpenSource` |
+| **Spielewoy/autoprompt-skill** | Autoprompt is a coding-agent skill that cuts failures by 45% on agent… | [GitHub](https://github.com/Spielewoy/autoprompt-skill) | — | `agent_orchestration, agent_skills, agentic_workflows, ai_agents, ai_coding, automated_testing, autonomous_agents, claude_code, cli, code_review, codex, coding_agent, developer_tools, github_copilot, multi_agent_systems, opencode, prompt_engineering, subagents, test_driven_development, workflow_automation` |
 | **Spikeysanju/MotionToast** | A Beautiful Motion Toast Library for Kotlin Android | [GitHub](https://github.com/Spikeysanju/MotionToast) | — | `android_app, android_development, android_library, android_sdk, android_ui, androidkotlin, androidstudio, kotlin, kotlin_android, kotlin_library, material_design, materialdesign_library, materialdesign_ui, spikeysanju, toastlibrary` |
 | **Spill** | Features:** | [GitHub](https://github.com/inversepolarity/spill) | — | `GitHub, OpenSource` |
 | **spiritov/ds.css** | A css framework recreating the DS / DS Lite's UI | [GitHub](https://github.com/spiritov/ds.css) | — | `GitHub, OpenSource` |

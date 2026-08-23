@@ -44482,5 +44482,27 @@
     "message_id": 359,
     "raw_text": "APIDetector:  Efficiently scan for exposed Swagger endpoints across web domains and subdomains (Supports HTTP/HTTPS, multi-threading, and flexible input/output options. Ideal for API security testing).\n\nhttps://github.com/brinhosa/apidetector",
     "timestamp": "2026-08-23T11:12:24.635482+00:00"
+  },
+  {
+    "incoming_name": "Aseprite",
+    "incoming_normalized": "aseprite",
+    "matched_project_id": "spriter",
+    "matched_project_name": "Spriter",
+    "similarity_score": 80.0,
+    "channel": "@github",
+    "message_id": 11089,
+    "raw_text": "[**Aseprite**](https://github.com/aseprite/aseprite) — анимированный редактор спрайтов и инструмент для пиксель-арта (Windows, macOS, Linux)\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-23T12:48:24.308470+00:00"
+  },
+  {
+    "incoming_name": "Audiobookshelf",
+    "incoming_normalized": "audiobookshelf",
+    "matched_project_id": "mawise-bookshelf",
+    "matched_project_name": "mawise/bookshelf",
+    "similarity_score": 75.86206896551724,
+    "channel": "@github",
+    "message_id": 11090,
+    "raw_text": "[**Audiobookshelf**](https://github.com/advplyr/audiobookshelf) — бесплатный и открытый сервер для хранения и потоковой передачи аудиокниг и подкастов. \n\nПозволяет организовывать вашу коллекцию, слушать книги в браузере или через мобильные приложения, а также делиться доступом с другими пользователями.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-23T12:48:24.855812+00:00"
   }
 ]

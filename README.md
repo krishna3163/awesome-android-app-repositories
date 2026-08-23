@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16955`
-- 🏷️ **Unique Categories / Tags:** `15463`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 11:12 UTC`
+- 📦 **Total Discovered Apps & Projects:** `16957`
+- 🏷️ **Unique Categories / Tags:** `15468`
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 12:48 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1608 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13369 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13371 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `824 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `778 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `687 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,152 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1047 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `240 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `345 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16955 cataloged applications | `16955 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16957 cataloged applications | `16957 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16955 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16957 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 jeremy-prt/bloub
+
+> **Categories:** `#animation` `#avatar` `#morphing` `#svg` `#svg_animation` `#typescript` `#vue`
+
+SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/jeremy-prt/bloub](https://github.com/jeremy-prt/bloub)
+- 👤 **Developer:** [jeremy-prt](https://github.com/jeremy-prt)
+
+
+---
+
+### 📦 Nervercc/gpt_nerver
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows
+**Language**: Python
+**Stars**: 650 **Issues**: 0 **Forks**: 87
+[https://github.com/Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver)
+
+- 🐙 **Source Code:** [https://github.com/Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver)
+- 👤 **Developer:** [Nervercc](https://github.com/Nervercc)
+
+
+---
+
+### 📦 Amlogic S9Xxx Openwrt
+
+> **Categories:** `#shell` `#a311d` `#allwinner` `#amlogic` `#h96` `#hg680p` `#hk1` `#n1` `#openwrt` `#r66s` `#r68s` `#rockchip` `#s905` `#s905d` `#s905x` `#s905x2` `#s905x3` `#s912` `#s922x` `#ugoos` `#x96`
+
+OpenWrt turns a TV box or router into a flexible Linux system you can customize with many packages. You can install it, update the system or kernel, make swap space, back up the old system, and reset it if needed. This helps you give old hardware new life, add features you want, and fix problems more easily.
+
+https://github.com/ophub/amlogic-s9xxx-openwrt
+
+- 🐙 **Source Code:** [https://github.com/ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
+- 👤 **Developer:** [ophub](https://github.com/ophub)
+
+
+---
+
+### 📦 MengTo/threeui
+
+> **Categories:** `#react` `#shaders` `#threejs` `#ui_components` `#webgl`
+
+Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+**Language**: HTML
+
+- 🐙 **Source Code:** [https://github.com/MengTo/threeui](https://github.com/MengTo/threeui)
+- 👤 **Developer:** [MengTo](https://github.com/MengTo)
+
+
+---
+
+### 📦 Clatscope
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Ideal for investigators, pentesters and anyone who needs an effective reconnaissance and OSINT tool.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Clats97/ClatScope](https://github.com/Clats97/ClatScope)
+- 👤 **Developer:** [Clats97](https://github.com/Clats97)
+
+
+---
+
+### 📦 Alain00/blobatar
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: TypeScript
+**Stars**: 620 **Issues**: 3 **Forks**: 38
+[https://github.com/Alain00/blobatar](https://github.com/Alain00/blobatar)
+
+- 🐙 **Source Code:** [https://github.com/Alain00/blobatar](https://github.com/Alain00/blobatar)
+- 👤 **Developer:** [Alain00](https://github.com/Alain00)
+
+
+---
+
+### 📦 SigmanticAI/apex-inference-chip
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.
+**Language**: Python
+**Stars**: 647 **Issues**: 0 **Forks**: 1
+[https://github.com/SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip)
+
+- 🐙 **Source Code:** [https://github.com/SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip)
+- 👤 **Developer:** [SigmanticAI](https://github.com/SigmanticAI)
+
+
+---
+
+### 📦 Osx And Ios Security Awesome
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
+- 👤 **Developer:** [ashishb](https://github.com/ashishb)
+
+
+---
+
+### 📦 Interlace
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**It allows you to turn a single-threaded command line application into a multi-threaded program
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/codingo/Interlace](https://github.com/codingo/Interlace)
+- 👤 **Developer:** [codingo](https://github.com/codingo)
+
+
+---
+
+### 📦 DenisSergeevitch/desktop-fly
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
+**Language**: Swift
+**Stars**: 649 **Issues**: 5 **Forks**: 38
+[https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+
+- 🐙 **Source Code:** [https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+- 👤 **Developer:** [DenisSergeevitch](https://github.com/DenisSergeevitch)
+
+
+---
 
 ### 📦 Croc
 
@@ -342,6 +481,380 @@ croc is a simple, secure, and fast command-line file transfer tool that allows u
 
 ---
 
+### 📦 Leutenegger/vanity-eth
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).
+**Language**: Python
+**Stars**: 801 **Issues**: 0 **Forks**: 90
+[https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
+
+
+---
+
+### 📦 Awesome Ai Memory
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/topoteretes/awesome-ai-memory](https://github.com/topoteretes/awesome-ai-memory)
+- 👤 **Developer:** [topoteretes](https://github.com/topoteretes)
+
+
+---
+
+### 📦 More models. Lower cost. One API key.
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Access GPT, Claude, Grok, Gemini, DeepSeek, Kimi, Qwen and more through one gateway.
+
+💰 Better value
+Access leading models at prices below official API list rates.
+
+🔌 One unified gateway
+Connect apps, agents and coding tools with one Smart API key.
+
+📈 Clear costs
+Track every request, token and cost in one place.
+
+🛡️ Reliable access
+Choose model groups with ordered fallback options.
+
+👉 Models & pricing:
+https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1
+
+⚡️ Create an account:
+https://modelflare.dev/sign-up?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1
+
+💬 Join the ModelFlare community:
+https://t.me/+GxEEPAsQ0ERiOGUx
+
+- 🐙 **Source Code:** [https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1](https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1)
+- 🌐 **Official Website:** [https://modelflare.dev/sign-up?utm_source=telegram_xuliya&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1](https://modelflare.dev/sign-up?utm_source=telegram_xuliya&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1)
+
+
+---
+
+### 📦 Popcorntime
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/popcorntime/popcorntime](https://github.com/popcorntime/popcorntime)
+- 👤 **Developer:** [popcorntime](https://github.com/popcorntime)
+
+
+---
+
+### 📦 vvxw/deploy-vercel
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Install Command：npm install
+**Language**: JavaScript
+**Stars**: 597 **Issues**: 2 **Forks**: 117
+[https://github.com/vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)
+
+- 🐙 **Source Code:** [https://github.com/vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)
+- 👤 **Developer:** [vvxw](https://github.com/vvxw)
+
+
+---
+
+### 📦 Ai Infra Guard
+
+> **Categories:** `#GitHub` `#OpenSource` `#python` `#agent` `#agent_security` `#ai_infra` `#ai_red_teaming` `#ai_security` `#llm` `#llm_evaluation` `#llm_jailbreak` `#llm_security` `#mcp_scan` `#openclaw_security` `#prompt_injection` `#prompt_security` `#scanner` `#security` `#security_tools` `#skill_scanner` `#skills_security` `#vulnerability`
+
+🔗 [https://github.com/Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
+📝 A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+──────────────────────────────
+
+**What is AI‑Infra‑Guard (A.I.G)?**
+A.I.G is Tencent Zhuque Lab’s all‑in‑one AI red‑team platform. It bundles security scanners for AI models, AI‑agent skills, model‑centered components (MCP) and jailbreak evaluation, plus a marketplace for vetted security skills. In short, it lets you stress‑test your AI stack from code to deployment with a single, user‑friendly interface.
+
+**Key Features**
+
+**🔎 Skill‑Scan Engine** – Detects nine categories of skill‑level risks (instruction hijacking, memory poisoning, code execution, privilege escalation, tool hijacking, insecure dependencies, etc.) and scores on the public __SkillTrustBench__ leaderboard (top F1 0.9848 with Claude Opus 4.6).
+
+**🛡️ ClawScan (OpenClaw Security Scan)** – One‑click audit of OpenClaw configurations, skill vulnerabilities, CVE exposures and privacy leaks.
+
+**🤖 Agent‑Scan** – Automated multi‑agent framework that checks agent‑side skills, web‑exfiltration, OWASP‑style issues and more.
+
+**🧩 MCP‑Scan** – Scans model‑centered components for tool poisoning, credential exfiltration, command injection and dozens of LLaMA cpp CVEs.
+
+**🚪 Jailbreak Evaluation** – Runs multi‑turn jailbreak attacks (Many‑Shot, PAIR, GOAT, ActorAttack) to gauge model resistance.
+
+**🛒 AI Security Skill Market** – Official marketplace where you can publish or acquire security‑hardened skills; the frontend is fully open‑sourced.
+
+**⚙️ Stand‑alone CLI Tools** – `aig-skill-scan`, `aig-agent-scan`, `aig-mcp-scan` can be run independently or embedded into CI/CD pipelines.
+
+**📊 API‑Checker & Model Relay** – Unified service that lists available LLM endpoints and validates request/response formats.
+
+**How to Get Started**
+
+**🐳 Docker (quickest)**
+```
+git clone https://github.com/Tencent/AI-Infra-Guard.git
+cd AI-Infra-Guard
+docker-compose -f docker-compose.images.yml up -d
+```
+Open a browser at `http://localhost:8088` to reach the web UI.
+
+**🚀 One‑Click Install Script** (installs Docker if needed)
+```
+curl https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/refs/heads/main/docker.sh | bash
+```
+
+**🛠️ Python CLI for Skill Scan**
+```
+pip install aig-skill-scan
+export LLM_API_KEY="your-api-key"
+aig-skill-scan --repo /path/to/skill \
+-m deepseek-v4-flash \
+--language en \
+-o result.json
+```
+
+**🔧 Build from Source** – Clone the repo, then run `docker-compose up -d` (or build the Go CLI with `go build -o ai-infra-guard ./cmd/cli/main.go`) for full control.
+
+**Technical Highlights**
+
+- __Performance‑focused__: Skill‑scan runs in parallel across LLM backends, achieving sub‑second latency on typical models.
+- __Extensible rule base__: > 2000 CVE rules, continuously updated; users can add custom policies via simple YAML.
+- __Multi‑mode MCP scanning__: Dynamic mode enforces tool whitelisting to block RCE attempts.
+- __Zero‑trust deployment__: Designed for internal enterprise use; no public auth layer, so keep it behind a firewall.
+- __Cross‑language support__: Scanners accept Python, JavaScript, and compiled bytecode (.pyc) with bypass detection.
+
+**Who Should Use It?**
+__(1/2)__
+
+- 🐙 **Source Code:** [https://github.com/Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
+- 🌐 **Official Website:** [http://localhost:8088`](http://localhost:8088`)
+- 👤 **Developer:** [Tencent](https://github.com/Tencent)
+
+
+---
+
+### 📦 vibeinging/deepseek-harness-desktop-app
+
+> **Categories:** `#agentic_workflows` `#ai_agent` `#ai_workbench` `#data_analysis` `#deepseek_harness` `#desktop_app` `#dsh` `#dsh_plugin` `#electron` `#local_first` `#mcp` `#model_context_protocol` `#office_automation` `#react` `#typescript`
+
+DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/vibeinging/deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app)
+- 👤 **Developer:** [vibeinging](https://github.com/vibeinging)
+
+
+---
+
+### 📦 Pdf Document Layout Analysis
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+This service provides powerful and flexible PDF analysis capabilities.
+
+The service allows you to segment and classify different parts of PDF pages, identifying elements such as texts, headings, images, tables, etc.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/huridocs/pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis)
+- 👤 **Developer:** [huridocs](https://github.com/huridocs)
+
+
+---
+
+### 📦 curl -fsSL https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh | bash
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+```
+
+For a single agent you can also run the appropriate plugin command (Claude Code, Gemini CLI, etc.) – see the README for the exact syntax.
+
+Once installed, run `caveman learn` to see where your tokens leak, then let the tool guide you through safe, consent‑gated fixes.
+
+---
+
+**Technical highlights**
+
+* __Per‑type compressors__ – JSON (70‑90 % reduction), logs (85‑95 %), code (40‑70 %), diffs (60‑80 %), search results (80‑95 %), generic text/HTML (50‑80 %).
+* Tree‑sitter integration (Go, Python, JS/TS) for structural code compression; pure‑Go fallback for Go‑only environments.
+* __BM25‑based relevance ranking__ combined with recency and error signals to pack the most useful context into the model’s token budget while preserving chronological order.
+* Content‑addressed “CCR” store guarantees byte‑exact recovery; every transformation is logged with a clear “decline reason” when it would enlarge the payload.
+* The proxy is a BSL‑1.1 runtime with an MIT‑licensed CLI – you can compile it yourself from source (Go + pnpm) if you prefer not to use the signed binaries.
+* Benchmarks (Claude Code, 54 runs) show a 33.2 % reduction in input tokens and unchanged answer correctness; pixel mode on a 63.7 k‑char JSON+log slab drops estimated tokens from ~55 k to ~11 k.
+
+---
+
+**Who should care?**
+
+* **Prompt engineers** looking to squeeze more mileage out of token‑priced models.
+* **Dev teams** that run continuous LLM‑assisted coding, CI, or debugging pipelines and see their bills balloon.
+* **Open‑source AI hobbyists** using Claude, Gemini, Codex, or any of the 30+ supported agents.
+* Anyone who wants to keep the “brain” of their AI big while making the “mouth” tiny.
+
+---
+
+**Takeaway** – __Talk less, think more: Caveman lets your agents stay smart without swallowing the token bill.__
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+__(2/2)__
+
+- 🐙 **Source Code:** [https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh](https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh)
+
+
+---
+
+### 📦 Google Timeline Visualizer
+
+> **Categories:** `#GitHub` `#OpenSource` `#kotlin`
+
+🔗 [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+📝 Visualize your year in travel using your Google Location History (Timeline) data
+──────────────────────────────
+
+**What it does**
+Turn a Google Maps Timeline export (the `Timeline.json` file) into a smooth, animated travel video that you can watch, share, or keep as an MP4. The app works completely offline – your location history never leaves the device.
+
+**Key features**
+- Choose exact dates or a month range, then preview the journey on a map.
+- Pick camera styles: __steady__ (fixed zoom) or __dynamic__ (follows local movement).
+- Set video length from 10 s up to 5 min; the UI warns when long renders will need extra storage.
+- Export in square (480 p / 720 p / 1080 p) or portrait/landscape HD presets.
+- Built‑in “My videos” library with thumbnails, titles, and quick share actions.
+- Supports English, Korean, Japanese, Chinese (Simplified & Traditional), Spanish, French, German, Portuguese (BR).
+- No Google sign‑in, no location permissions, no analytics – only the JSON you feed it and the map tiles from CARTO/OpenStreetMap.
+
+**How to use it**
+
+__iPhone (web app)__
+1. Export `Timeline.json` from Google Maps (Settings → Personal content → Export Timeline data).
+2. Open the web app [here](https://ahn-lab.org/google-timeline-visualizer/) in Safari (iOS 16.4+).
+3. Tap **Choose Timeline.json**, set the date range, pick a camera mode, accept the privacy notice.
+4. Hit **Preview** → **Create MP4**. Keep the tab open until the render finishes; then download or share the video.
+
+__Android (stand‑alone app)__
+1. Download the latest APK from the repository’s [release page](https://github.com/mahlernim/google-timeline-visualizer/releases/latest).
+2. Install (enable “install unknown apps” for the source if needed).
+3. Open the app, tap **Create video**, load your `Timeline.json`, configure dates, camera, duration, then **Create video**.
+4. The finished MP4 lands in `Movies/Timeline Visualizer` (Android 10+ auto‑saves).
+
+**Technical highlights**
+- __Rendering pipeline__: map tiles are pre‑fetched, GPS outlier filtering (conservative by default) cleans noisy points, long‑flight legs are interpolated on great‑circle arcs for smooth motion.
+- __Privacy‑first design__: the only network call is to CARTO for map tiles; the Timeline JSON never leaves the device.
+- __Supported export formats__: current Android/iOS direct‑array JSON, legacy “semanticSegments” JSON, raw location fallback with optional noise reduction, handling of E7, geo: and latLng strings, and routes crossing the International Date Line.
+- __Build & test__: Android Studio with JDK 17, SDK 36, Build‑Tools 36.0.0. Run ```./gradlew test lint assembleGithubDebug assemblePlayDebug``` to verify.
+- __Desktop fallback__: a Python 3.9+ script (`visualizer.py`) plus FFmpeg reproduces the same MP4 generation on any PC. Example command:
+
+```python -m pip install -r requirements.txt
+python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
+--long-trip-compression balanced --output my_trip_2025.mp4
+```
+
+**Who should care**
+- Travelers who want a quick visual recap of a trip without fiddling with video editors.
+- Developers looking for a clean, offline‑only example of map‑based animation on Android.
+- Privacy‑conscious users who refuse cloud services but still want to share a travel story.
+__(1/2)__
+
+- 🐙 **Source Code:** [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+- 👤 **Developer:** [mahlernim](https://github.com/mahlernim)
+
+
+---
+
+### 📦 Agentic Rag For Dummies
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Most RAG tutorials cover basic concepts but do not provide guidance on how to build modular agent systems.
+
+This project fills this gap by providing **both training materials and an extensible architecture**.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies)
+- 👤 **Developer:** [GiovanniPasq](https://github.com/GiovanniPasq)
+
+
+---
+
+### 📦 Substrate
+
+> **Categories:** `#GitHub` `#OpenSource` `#go`
+
+🔗 [https://github.com/agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+📝 Agent Substrate: the core system
+──────────────────────────────
+
+**Agent Substrate – a high‑density runtime for massive numbers of agents**
+
+__What it is__
+Agent Substrate is a control‑plane system that lets you run thousands of “actor” processes (think AI agents, micro‑services, sandboxed tools) on a tiny pool of Kubernetes pods.  By treating each actor as a lightweight sandbox that spends most of its time idle, Substrate can suspend, snapshot, and instantly resume them on any available worker, achieving sub‑second “teleport” between pods.
+
+**Key features**
+
+**Sub‑second suspend/resume** – actors are hibernated to RAM or disk and brought back in
+**State‑preserving snapshots** – full memory + filesystem state is saved, so an actor picks up exactly where it left off.
+**Heavy multiplexing** – >30× oversubscription (e.g., 250 stateful actors on 8 pods) by “juggling” actors across workers.
+**Sandbox‑agnostic** – supports gVisor, microVMs, or any OCI container; works with any AI framework (LangChain, Claude Code, MCP, etc.).
+**Kubernetes‑native** – builds on Pods, HPA, and autoscaling; the substrate control plane adds agent‑specific scheduling.
+**Request parking** – router holds inbound requests when workers are saturated instead of returning 503.
+**Observability & security** – built‑in logging, metrics, tracing, JWT auth, and a documented threat model.
+
+
+__How you use it__
+1. Install the required tools (`go`, `kubectl`, `docker`) – the scripts will pull `kind` or GKE resources for you.
+2. Deploy the substrate system with the provided `hack/install-ate-kind.sh` (local) or `hack/install-ate.sh` (GKE) scripts.
+3. Create an `atespace` (a namespace for actors) and launch an actor via the `kubectl ate` CLI.
+4. Optionally forward the router service to your workstation and talk to the actor with a normal HTTP call.
+
+```
+# quick local start
+hack/create-kind-cluster.sh
+hack/install-ate-kind.sh --deploy-ate-system
+hack/install-ate-kind.sh --deploy-demo-counter
+go install ./cmd/kubectl-ate
+
+kubectl ate create atespace demo
+kubectl ate create actor my-counter-1 -a demo --template=ate-demo-counter/counter
+kubectl port-forward -n ate-system svc/atenet-router 8000:80
+```
+
+Then in another terminal:
+
+```
+curl -X POST -H "Host: my-counter-1.demo.actors.resources.substrate.ate.dev" -i http://localhost:8000/
+```
+
+__Technical highlights__
+
+**Control‑plane API** – `cmd/ateapi` exposes gRPC endpoints for actor/worker lifecycle.
+**Node supervisor** – `cmd/atelet` runs as a DaemonSet, handling snapshot creation, state transfer, and worker health.
+**WorkerPool & ActorTemplate CRDs** – declarative resources let you describe how many workers to keep, what sandbox to use, and which binaries to run.
+**Persistent state** – snapshots are stored in a distributed KV store (Valkey) and can be restored on any worker.
+**Framework‑agnostic** – because Substrate deals only with OCI containers, you can drop in LangChain agents, custom ADK actors, or MCP servers without code changes.
+**Autoscaling integration** – WorkerPools can be scaled by a Horizontal Pod Autoscaler fed by Prometheus metrics.
+
+
+__Who should care__
+__(1/2)__
+
+- 🐙 **Source Code:** [https://github.com/agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+- 👤 **Developer:** [agent-substrate](http://localhost:8000/)
+
+
+---
+
 ### 📦 Neuronpedia
 
 > **Categories:** `#Website` `#AI` `#Learning`
@@ -373,607 +886,25 @@ Neuronpedia is an open-source AI interpretability platform for exploring and und
 
 ---
 
-### 📦 Early test
+### 📦 Engineers who already use AI assistants** and want reproducible, low‑risk workflows.
 
-Kindly test it and report bugs, recommendations, enhancements. Google login works. Log into your account, tap you icon, go to settings, select your profile and tap sync now.
+> **Categories:** `#GitHub` `#OpenSource` `#substrate`
 
-I know many things are broken (blame Deepseek V4 Flash) and I tried with my best but I couldn't solve them for now.
+* **Team leads** needing a shared language and ticket‑generation pipeline that the whole squad (human and AI) can follow.
+* **Solo developers** who want the safety net of TDD and design reviews without writing boilerplate scripts.
+* **Tool‑builders** looking for a ready‑made catalog of prompt‑driven capabilities to embed in their own agents.
 
-I've give respective credits to softwares/developers I grabbed codes from: https://github.com/omersusin/piTube
+**Bottom line**
 
-Thanks in advance.
+These skills turn a clever LLM into a disciplined teammate, letting you keep the creative speed of AI while preserving the rigor of real software engineering.
 
-- 🐙 **Source Code:** [https://github.com/omersusin/piTube](https://github.com/omersusin/piTube)
+__Takeaway: Give your AI a playbook, and it will stop guessing and start building.__
 
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+__(2/2)__
 
----
-
-### 📦 tg-logging-handler
-
-> **Categories:** `#library` `#python` `#logging` `#dev`
-
-tg-logging-handler is a logging.Handler that delivers Python log records to a Telegram chat through the Bot API. It ships the pieces that always end up hand-rolled in a throwing script: a worker thread that never blocks your code, batching, exponential-backoff retries, 429 rate-limit handling, oversized-message policies, parse_mode escaping, and a bounded queue with counted drops.
-
-- 🐙 **Source Code:** [https://github.com/0xarchit/tg-logging-handler](https://github.com/0xarchit/tg-logging-handler)
-- 👤 **Developer:** [0xarchit](https://github.com/0xarchit)
-
-
----
-
-### 📦 Clash Flac
-
-> **Categories:** `#Website` `#Stream` `#Flac` `#Lyrics`
-
-ClashFLAC is a Stream high-resolution audio previews, search across millions of tracks, and download bit-perfect 24-bit lossless FLAC files with embedded synced lyrics effortlessly!
-
-- 🐙 **Source Code:** [https://github.com/ajisth69/clashflac](https://github.com/ajisth69/clashflac)
-- 🌐 **Official Website:** [https://clashflac.pages.dev/](https://clashflac.pages.dev/)
-- 👤 **Developer:** @letmesolo_her
-
-
----
-
-### 📦 Switcher 5G
-
-> **Categories:** `#android` `#shizuku` `#5g` `#utilities`
-
-The fastest way to switch your Android network mode — no root required. A minimalist, open-source utility built with Kotlin & Jetpack Compose. Switch between 5G SA, 5G NSA, and 4G LTE in a single tap, with full Material You theming and Quick Settings tile support.
-
-- 🐙 **Source Code:** [https://t.me/popCLOUDS/13521](https://t.me/popCLOUDS/13521)
-- 👤 **Developer:** [shreyagarwal72](https://github.com/shreyagarwal72/)
-
-<details>
-<summary><b>✨ Key Features (5)</b> — <i>Click to expand</i></summary>
-
-- 1-tap mode switching (Shizuku, no root)
-- Manual fallback via system RadioInfo
-- Quick Settings tile + deep link/broadcast support
-- Full Material You theming, AMOLED black
-- Backup/restore settings, in-app update checker
-
-</details>
-
-<details>
-<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
-
-#### 📸 Cover / Preview
-<p align="center"><img src="assets/apps/switcher-5g/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
-
-</details>
-
-
----
-
-### 📦 AttendSmartly
-
-> **Categories:** `#Android` `#attendence` `#student` `#productivity`
-
-AttendSmartly is a clean, open-source Android app that helps students effortlessly manage attendance, class schedules, and academic progress. Track attendance subject-wise, calculate safe bunks, view detailed analytics, manage weekly timetables, and automatically import schedules using AI-powered OCR—all with a beautiful Material 3 interface designed for speed and simplicity.
-
-- 🐙 **Source Code:** [https://github.com/agupta07505/AttendSmartly](https://github.com/agupta07505/AttendSmartly)
-- 👤 **Developer:** [agupta07505](https://github.com/agupta07505)
-
-<details>
-<summary><b>✨ Key Features (21)</b> — <i>Click to expand</i></summary>
-
-- **Smart Weekly Timetable** — Manage recurring classes with subjects, rooms, instructors, and class types.
-- **Multi-Hour & Partial Unit Tracking** — Track lectures, labs, and multi-hour classes with custom unit values.
-- **Detailed Attendance Tracking** — Mark individual class units as Present, Absent, or Cancelled.
-- **Safe Bunk Calculator** — Know exactly how many classes you can skip while staying above your target attendance.
-- **Attendance Recovery Calculator** — Calculate how many consecutive classes you need to attend to recover your attendance percentage.
-- **Smart Timetable OCR Scanner** — Import your timetable from an image and automatically extract subjects, timings, and days using Google Gemini Vision.
-- **Google Gemini API Integration** — Optional Gemini API setup for AI-powered timetable recognition.
-- **Flexible Onboarding** — Choose between OCR timetable import, demo data, or completely manual setup.
-- **Class Reminders** — Get automatic pre-class notifications with subject, room, and instructor details.
-- **Quick Attendance Actions** — Mark classes as Present or Absent directly from notifications.
-- **Custom Notification Controls** — Configure reminders, timing, notification sound, and vibration.
-- **Attendance Analytics** — View attendance progress, status breakdowns, and visual statistics.
-- **Attendance History** — View and edit previous attendance records whenever needed.
-- **Offline-First** — Attendance, timetable, and settings remain available without requiring an online account.
-- **JSON Backup & Restore** — Export and import complete timetable data using JSON backups.
-- **CSV Attendance Reports** — Export attendance records for spreadsheets and academic record-keeping.
-- **Privacy-Focused** — Zero telemetry, zero analytics SDKs, and no hidden tracking.
-- **Local Data Storage** — Student data is stored locally on the device using Room Database.
-- **Modern Material 3 UI** — Clean Android interface built with Jetpack Compose and Material Design 3.
-- **Precise Attendance Calculations** — Accurate handling of safe bunks, recovery requirements, cancelled classes, and edge cases.
-- **Open Source & Free** — Completely free and open-source under the GPL-3.0 license.
-
-</details>
-
-
----
-
-### 📦 Just A Link
-
-> **Categories:** `#Website` `#Portfolio`
-
-Just A Link is a serverless, zero-database "Link-in-bio". User profiles (name, avatar, bio, theme, and links) are compressed and encoded entirely inside the URL fragment
-
-- 🐙 **Source Code:** [https://github.com/jaival-11/justalink](https://github.com/jaival-11/justalink)
-- 🌐 **Official Website:** [https://t.me/popCLOUDS/13468](https://t.me/popCLOUDS/13468)
-- 👤 **Developer:** @jaival_11
-
-<details>
-<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
-
-- ****Zero-Server Architecture** — ** Your entire profile payload lives directly inside the URL (#data=), with no backend required.
-- ****Privacy-First** — ** Your profile data is never stored on external servers or databases.
-- ****Multiple Themes** — ** Choose from six built-in themes — Slate Dark, Minimal Light, Cyber High-Contrast, Emerald Solid, Berry Violet, and Neo Punch — or create your own!
-- ****Fully Customisable** — ** Easily personalise every part of your page. It’s your page — make it truly yours.
-- ****Restore Profiles** — ** Restore profiles directly from a URL or hash, allowing you to edit them without rebuilding everything from scratch.
-- ****No Login Required** — ** Create and customise your profile without creating an account.
-- ****Lightweight & Fast** — ** Built with pure client-side technology, with no unnecessary framework bloat.
-- ****Professional-Ready** — ** Create polished profile pages suitable for professional use, portfolios, personal branding, and more.
-
-</details>
-
-
----
-
-### 📦 Smooth Optimizer
-
-> **Categories:** `#Android` `#Root` `#Modules`
-
-Optimizes your Android device for smoother scrolling and animations.
-
-- 🐙 **Source Code:** [https://github.com/NoneBaiano/SmoothOptimizer](https://github.com/NoneBaiano/SmoothOptimizer)
-- 👤 **Developer:** [NoneBaiano](https://github.com/NoneBaiano)
-
-<details>
-<summary><b>✨ Key Features (4)</b> — <i>Click to expand</i></summary>
-
-- Reduces system animation duration to 0.75x (faster animations)
-- Increases touch event rate for more responsive touch
-- Adjusts fling velocity for smoother scrolling
-- Enables high refresh rate support
-
-</details>
-
-
----
-
-### 📦 Clipsync
-
-> **Categories:** `#macos` `#android` `#clipboard`
-
-ClipSync is a fast, open-source clipboard synchronization app that lets you seamlessly copy and paste text between your Android device and Mac. Designed with privacy, speed, and simplicity in mind, ClipSync keeps your clipboard synchronized in real time, eliminating the need to email or message content to yourself.
-
-- 🐙 **Source Code:** [https://github.com/WinShell-Bhanu/Clipsync](https://github.com/WinShell-Bhanu/Clipsync)
-- 👤 **Developer:** [WinShell-Bhanu](https://github.com/WinShell-Bhanu)
-
-<details>
-<summary><b>✨ Key Features (5)</b> — <i>Click to expand</i></summary>
-
-- ****Instant Sync**** — Copy text on one device and it’s immediately available on the other. No extra buttons or annoying persistent notifications to click on Android to send the clipboard—just copy anything normally and paste it directly on the Mac OR the other way around.
-- ****End-to-End Encryption**** — Your data is encrypted with AES-256 (GCM) locally before it leaves your device and decrypted locally on each device before getting copied to the clipboard.
-- ****Cross-Platform**** — Seamlessly works between **macOS** and **Android**.
-- ****Efficient**** — Optimized for minimal battery drain and background usage.
-- ****Stunning UI**** — Beautiful, native designs for both platforms.
-
-</details>
-
-
----
-
-### 📦 Aerial
-
-> **Categories:** `#Android` `#Radio` `#Music` `#Material3Expressive`
-
-A simple, private, and open-source internet radio app that lets you explore curated radio stations without ads, tracking, analytics, or sign-ups. Just install, pick a station, and start listening.
-
-🔗  Links
-— [Download](https://github.com/shapeshed/aerial/releases)
-— [Screenshots](https://t.me/popCLOUDS/13451)
-— [Features](https://t.me/popCLOUDS/13456)
-— [Source code](https://github.com/shapeshed/aerial)
-
-- 🐙 **Source Code:** [https://github.com/shapeshed/aerial](https://github.com/shapeshed/aerial)
-- 👤 **Developer:** [shapeshed](https://github.com/shapeshed/)
-
-
----
-
-### 📦 Root My Galaxy
-
-> **Categories:** `#Samsung` `#Root` `#Tools`
-
-Root My Galaxy is a lightweight utility that enables temporary, exploit-based root access on supported Samsung Galaxy devices—without permanently unlocking the bootloader or tripping Knox. It provides elevated privileges while preserving core Samsung security features, making it ideal for advanced users, developers, and power users.
-
-- 🐙 **Source Code:** [https://github.com/BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
-- 👤 **Developer:** [BuSung-dev](https://github.com/BuSung-dev)
-
-
----
-
-### 📦 Omniget
-
-> **Categories:** `#Windows` `#Linux` `#Mac` `#DownloadManager` `#MediaDownloader` `#Study` `#GitHub` `#OpenSource`
-
-OmniGet is an open-source, all-in-one desktop application for downloading, organizing, and studying online content. It combines a powerful media downloader with a built-in course player, PDF/EPUB reader, music library, and productivity tools—allowing you to learn, watch, read, and manage everything from a single, privacy-focused interface.
-
-- 🐙 **Source Code:** [https://github.com/tonhowtf/omniget](https://github.com/tonhowtf/omniget)
-- 👤 **Developer:** [tonhowtf](https://github.com/tonhowtf)
-
-<details>
-<summary><b>✨ Key Features (12)</b> — <i>Click to expand</i></summary>
-
-- **Universal Downloader** — Download videos, audio, courses, books, and files from 1,000+ supported websites.
-- **Course Downloader & Player** — Download and watch Udemy, Hotmart, Kiwify, Teachable, Kajabi, Thinkific, Skool, Wondrium, and more with resume support.
-- **Timestamped Notes** — Create notes linked to exact video timestamps for faster revision.
-- **Built-in PDF & EPUB Reader** — Read books with highlights, bookmarks, focus mode, and annotations.
-- **Music Library** — Organize and play local music with synced lyrics, equalizer, playlists, and streaming service integration.
-- **Torrent Support** — Download .torrent files and magnet links with native support.
-- **FFmpeg Converter** — Convert audio and video files directly within the app.
-- **Telegram Media Browser** — Browse chats and save photos, videos, and files from Telegram.
-- **Pomodoro Focus Timer** — Stay productive with an integrated focus timer and study tools.
-- **Knowledge Management** — Daily journal, bidirectional notes, knowledge graph, flashcards, and study progress tracking.
-- **Browser Extension & Global Hotkey** — Send links to OmniGet instantly from Chrome, Firefox, or your clipboard.
-- **Cross-Platform & Privacy-First** — Available on Windows, macOS, and Linux, with all downloads and data stored locally.
-
-</details>
-
-
----
-
-### 📦 Vox Music
-
-> **Categories:** `#Android` `#Music` `#Player`
-
-Vox Music isn't just an offline music player—it's a nostalgic trip back to the golden era of music players, built with modern Flutter tech. It breaks away from boring, generic music apps by focusing heavily on a bold retro vibe, dynamic interactions, and absolute user control.
-
-- 🐙 **Source Code:** [https://github.com/SachinXpert/VoxMusic](https://github.com/SachinXpert/VoxMusic)
-- 👤 **Developer:** [Sachin Verma](https://github.com/SachinXpert)
-
-<details>
-<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
-
-- ****Ultimate Customization**** — Choose between gorgeous built-in themes like *Cyberpunk*, *AMOLED*, *Light Mode*, and *Dark Mode*.
-- ****Customizable Navigation Bar**** — Drag, drop, and hide tabs according to your preference! You have complete freedom to arrange your bottom navigation bar. Minimized distraction, maximum control.
-- ****Built-in Equalizer**** — Tune your tracks with our built-in EQ, Bass Boost, and Virtualizer settings to get the perfect sound.
-- ****Smart Organization**** — Browse your music the way you like: by **Songs, Albums, Artists, Folders, or Genres**.
-- ****High-Performance Caching**** — Experience zero lag when browsing massive music libraries thanks to optimized background caching for albums and folders.
-- ****Advanced Playlist Management**** — Create, edit, and organize custom playlists. Choose custom icons and accent colors for every playlist.
-- ****Sleep Timer**** — Fall asleep to your favorite tunes without draining your battery.
-- ****Bulk Actions**** — Select multiple songs at once to add them to playlists, share them with friends, or delete them in one tap.
-
-</details>
-
-
----
-
-### 📦 Revanced & Morphe Builder
-
-> **Categories:** `#apps` `#web` `#android` `#revanced` `#morphe`
-
-ReVanced & Morphe Builder is an automated build system for creating the latest patched Android apps and Magisk/KernelSU modules. By integrating multiple patch ecosystems and rebuilding releases 24/7, it delivers a fast, reliable, and hassle-free way to stay up to date with the newest enhancements.
-
-- 🐙 **Source Code:** [https://github.com/nullcpy/rvb](https://github.com/nullcpy/rvb)
-- 👤 **Developer:** [nullcpy](https://github.com/nullcpy)
-
-<details>
-<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
-
-- **Automated Builds** — Continuously generates the latest patched apps and modules.
-- **Multiple Patch Ecosystems** — Supports ReVanced, ReVanced Extended (RVX), Morphe, RVX Morphed, and ReVanced Advanced.
-- **Ready-to-Use Releases** — Download pre-built APKs and Magisk/KernelSU modules without manual patching.
-- **Always Up-to-Date** — Rebuilds automatically whenever new patches or app versions are available.
-- **Fast & Reliable** — CI-powered build pipeline for consistent, reproducible releases.
-- **Wide App Support** — Builds patched versions for a variety of supported Android applications.
-- Root & Non-Root Options Provides both standalone APKs and root module variants where available.
-- **Open Source** — Transparent development with publicly available source code.
-
-</details>
-
-
----
-
-### 📦 SpatialFlow
-
-> **Categories:** `#android` `#ytMusicClient` `#SpatialFlow`
-
-SpatialFlow delivers a next-generation music experience on Android, blending online streaming, high-fidelity local playback, intelligent audio processing, and Material 3 Expressive design into a fast, elegant, and immersive music ecosystem.
-
-- 🐙 **Source Code:** [https://github.com/MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow)
-- 👤 **Developer:** [MythicalSHUB](https://github.com/MythicalSHUB)
-
-<details>
-<summary><b>✨ Key Features (40)</b> — <i>Click to expand</i></summary>
-
-- Material Design 3 Expressive enhancements
-- Streaming platform improvements
-- Audio engine refinements
-- Performance optimization
-- Accessibility improvements
-- Modern Android API adoption
-- Automatic local media scanning
-- Support for MP3, FLAC, AAC, WAV, OGG, M4A and common audio formats
-- Fast search and filtering
-- Smart album and artist organization
-- Unified playback queue management
-- YouTube Music powered discovery
-- Search songs, albums, artists and playlists
-- Stream music without requiring an account
-- Unified local and online playback experience
-- Seamless media queue integration
-- LUFS-based loudness normalization
-- Automatic gain adjustment
-- Consistent listening volume across tracks
-- **Default target loudness** — -14 LUFS
-- Gapless playback
-- Custom crossfade transitions
-- Smart queue management
-- High-performance Media3 playback engine
-- Multi-band Equalizer
-- Bass Boost
-- Loudness Enhancer
-- Environmental Reverb
-- Audio balance controls
-- Device audio session integration
-- Fully Compose-based UI
-- Expressive layouts and animations
-- Spring physics interactions
-- Responsive adaptive components
-- Real-time album art color extraction
-- Dynamic Material You integration
-- Adaptive color generation
-- Personalized playback screens
-- AMOLED Pure Black Mode
-- Dynamic navigation labels
-
-</details>
-
-
----
-
-### 📦 DeepDoze-Enforcer
-
-> **Categories:** `#android` `#root` `#magisk` `#ksu` `#doze` `#BatterySaver`
-
-DeepDoze Enforcer is a lightweight Magisk/KernelSU module that instantly forces Android into deep Doze mode whenever the screen is locked, reducing background activity, lowering CPU usage, and minimizing battery drain.
-
-- 🐙 **Source Code:** [https://github.com/Azyrn/DeepDoze-Enforcer](https://github.com/Azyrn/DeepDoze-Enforcer)
-- 👤 **Developer:** [Azyrn](https://github.com/Azyrn)
-
-<details>
-<summary><b>✨ Key Features (18)</b> — <i>Click to expand</i></summary>
-
-- Android 8.0 (API 26) and newer
-- Magisk 24.0+, KernelSU 1.0+, APatch
-- **Works on most phones** — no kernel modifications, framework level only
-- Forces the device into deep Doze shortly after you lock the phone
-- Re-enforces during long locked periods via periodic maintenance
-- Moves non-whitelisted apps into the rare (gentle) or restricted (balanced / aggressive) standby bucket while the phone is locked
-- Denies the RUN_ANY_IN_BACKGROUND app-op for non-whitelisted apps in balanced and aggressive modes
-- In aggressive mode, also force-stops idle non-foreground apps
-- **The restricted bucket is what the OS uses to defer their jobs, alarms and network** — the module sets the bucket, it does not cancel jobs or alarms directly
-- Everything is reverted (buckets back to active, app-op re-allowed) the moment you unlock
-- No dedicated GMS / GSF throttling is currently implemented
-- **Google packages are handled like other apps** — protected when whitelisted, otherwise eligible for the same while-locked background restrictions
-- Does not change Wi-Fi, Bluetooth scanning, network scoring, location mode or sensor settings
-- Savings while locked come from Doze enforcement, CPU throttling and app standby / background-run restrictions for eligible third-party apps
-- Battery-saver / low-power mode
-- Location mode and toggles
-- Account sync preferences
-- Animation scales, screen-off timeout and always-on display
-
-</details>
-
-
----
-
-### 📦 Clash Dev Analyser
-
-> **Categories:** `#Website` `#GitHub` `#Analyser` `#DevProfileChecker`
-
-A deterministic engine to analyze GitHub developers and repositories in real time. Features profile metric scoring, head-to-head battle mode, AI roasts, intelligence breakdown reports, and downloadable card exports.
-
-- 🐙 **Source Code:** [https://github.com/ajisth69/dev-analyzer](https://github.com/ajisth69/dev-analyzer)
-- 🌐 **Official Website:** [https://clashdevanalyser.vercel.app/](https://clashdevanalyser.vercel.app/)
-- 👤 **Developer:** @letmesolo_her
-
-<details>
-<summary><b>✨ Key Features (7)</b> — <i>Click to expand</i></summary>
-
-- **Developer Analysis** — Evaluates GitHub user profiles across key performance metrics.
-- **Repository Analysis** — Provides technical depth and maintenance scores for any public repository.
-- **Battle Mode** — Head-to-head metrics comparison between developers or repositories.
-- **Roast Mode** — AI-generated technical feedback based on profile activity.
-- **Intelligence Reports** — Per-category metrics breakdown and deterministic scoring.
-- **Export Capabilities** — Generate downloadable visual summary cards.
-- **Stateless Architecture** — Zero database dependency, real-time GitHub API aggregation
-
-</details>
-
-<details>
-<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
-
-#### 📸 Cover / Preview
-<p align="center"><img src="assets/apps/clash-dev-analyser/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
-
-</details>
-
-
----
-
-### 📦 meron
-
-> **Categories:** `#android` `#windows` `#ios` `#linux` `#msStore` `#iosAppStore` `#SnapStore`
-
-Meron is a modern, open-source mail and RSS client that combines IMAP/SMTP email and RSS/Atom feeds in one elegant interface, featuring threaded conversations, OAuth sign-in, encrypted local storage, and a high-performance Rust-powered core.
-
-- 🐙 **Source Code:** [https://github.com/nonbili/meron](https://github.com/nonbili/meron)
-- 👤 **Developer:** [nonbili](https://github.com/nonbili)
-
-<details>
-<summary><b>✨ Key Features (7)</b> — <i>Click to expand</i></summary>
-
-- **Email** over IMAP/SMTP, with threaded conversations and a rich-text composer
-- **RSS / Atom feeds** alongside your mail
-- **OAuth** sign-in (e.g. Gmail) plus password auth with mailbox autodiscovery
-- **Encrypted local storage** (SQLite via SQLCipher), with credentials kept in
-- ****Native notifications**, system tray, and mailto** — handling on desktop
-- **Push notifications** on mobile via IMAP IDLE
-- **Localized** into 20+ languages (see [locales/](locales/))
-
-</details>
-
-
----
-
-### 📦 VaultExplorer
-
-> **Categories:** `#android` `#veracrypt` `#luks` `#decrypt` `#fuckyouMadarcod`
-
-VaultExplorer lets you mount, browse, and manage VeraCrypt and LUKS encrypted volumes directly on your Android device. Built with Flutter and a custom C++ crypto engine (mbedTLS + FatFs + NTFS-3G + libext2fs), it decrypts and re-encrypts data fully on-device with zero temporary plaintext files on device storage.
-
-- 🐙 **Source Code:** [https://github.com/R0b0To/VaultExplorer](https://github.com/R0b0To/VaultExplorer)
-- 👤 **Developer:** [R0b0To](https://github.com/R0b0To)
-
-<details>
-<summary><b>✨ Key Features (27)</b> — <i>Click to expand</i></summary>
-
-- VeraCrypt (.hc) & LUKS1/LUKS2 encrypted containers.
-- 15 encryption algorithms (AES, Serpent, Twofish, Camellia, Kuznyechik).
-- PBKDF2 & Argon2 key derivation.
-- Automatic encryption detection.
-- Keyfile & PIM support.
-- Hidden volume detection.
-- Mount up to 8 containers simultaneously.
-- **Read/Write** — FAT32, exFAT, NTFS, ext2/3/4.
-- Create new encrypted containers.
-- USB OTG encrypted drive support.
-- Auto partition detection.
-- Advanced file manager.
-- Batch copy, move, rename & delete.
-- Search, filter & multiple sorting.
-- Encrypted password manager.
-- Image, video & audio viewer.
-- Subtitle support (.srt/.vtt).
-- System Documents Provider integration.
-- Open files in external apps.
-- Secure proxy file streaming.
-- Master password protection.
-- Biometric & pattern unlock.
-- Keystore-backed key caching.
-- Auto-lock timers.
-- Configurable thumbnail caching.
-- Screenshot blocking.
-- Privacy-focused, offline operation.
-
-</details>
-
-
----
-
-### 📦 DekuSMS-Android
-
-> **Categories:** `#Android` `#SMS`
-
-Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
-
-- 🐙 **Source Code:** [https://github.com/dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android)
-- 👤 **Developer:** [dekusms](https://github.com/dekusms)
-
-<details>
-<summary><b>✨ Key Features (7)</b> — <i>Click to expand</i></summary>
-
-- End-to-End encryption
-- Ability to forward incoming messages to cloud server
-- Ability to use mobile phone as an SMS Gateway to send messages from the cloud
-- HTTP(s)
-- (S)FTP
-- SMTP
-- Status changes - sent, delivered, failed
-
-</details>
-
-
----
-
-### 📦 Pearpass
-
-> **Categories:** `#ios` `#android` `#PaaswordManager` `#pearpass` `#FuckNiggerisPaasword`
-
-PearPass is an open-source, privacy-first password and identity manager that gives you full control over your sensitive information. It makes storing and managing your credentials simple, secure, and private. PearPass encrypts and stores all data locally on your device.
-
-- 🐙 **Source Code:** [https://github.com/tetherto/pearpass-app-mobile](https://github.com/tetherto/pearpass-app-mobile)
-- 👤 **Developer:** [tetherto](https://github.com/tetherto)
-
-
----
-
-### 📦 Tsuzuku
-
-> **Categories:** `#Android` `#Productivity` `#Launcher` `#NiggaSax`
-
-A private, offline-first Android habit tracker, focus timer, and minimal launcher built with Kotlin, Jetpack Compose, Material 3, Room, and DataStore.
-
-- 🐙 **Source Code:** [https://github.com/agupta07505/Tsuzuku](https://github.com/agupta07505/Tsuzuku)
-- 👤 **Developer:** [agupta07505](https://github.com/agupta07505)
-
-<details>
-<summary><b>✨ Key Features (10)</b> — <i>Click to expand</i></summary>
-
-- Habit Tracking
-- Streak Engine
-- Insights
-- Focus Mode
-- Minimal Launcher
-- Smart Reminders
-- Motivation
-- Privacy First
-- Data Portability
-- Personalization
-
-</details>
-
-
----
-
-### 📦 Spotui
-
-> **Categories:** `#Android` `#Spotify` `#Client`
-
-Spotui is an Android Spotify clone built with Jetpack Compose that connects to your real Spotify account and mirrors the full Spotify experience.
-
-- 🐙 **Source Code:** [https://github.com/Spotui/Spotui](https://github.com/Spotui/Spotui)
-- 👤 **Developer:** [Spotui](https://github.com/Spotui)
-
-<details>
-<summary><b>✨ Key Features (4)</b> — <i>Click to expand</i></summary>
-
-- ****Playlists**** — browse, play, add/remove tracks, create new playlists, all synced with your Spotify account
-- ****Lyrics**** — Spotify's own synced lyrics, with a live preview on the player and a full-screen view
-- ****Spotify recommendations**** — the queue continues with Spotify's real track radio (autoplay), so "up next" matches what open.spotify.com would play
-- Liked songs, followed artists, listening history and downloads (including lossless FLAC)
-
-</details>
-
-
----
-
-### 📦 Spectre
-
-> **Categories:** `#Android` `#Foss` `#Tools` `#Utilities` `#Sensors` `#DeviceScanners` `#GitHub` `#OpenSource` `#python` `#csi` `#diy` `#esp_32` `#espectre` `#home_assistant` `#motion_detection` `#wifi` `#wifi_sensing`
-
-Spectre is an Android app for observing and interacting with the wireless environment around you. It monitors signals from Bluetooth devices, Wi-Fi access points, cellular towers, and GNSS satellites. Spectre also features a growing set of pentesting tools, constrained by Android's security model.
-
-- 🐙 **Source Code:** [https://t.me/popCLOUDS/13309](https://t.me/popCLOUDS/13309)
-- 👤 **Developer:** [Thomas](https://github.com/thomasbuilds)
-
-<details>
-<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
-
-- **Live RF exposure gauge** — A single dBm figure for the total received RF power across cellular, Wi-Fi, and Bluetooth.
-- **Cellular** — Serving and neighbor cells on 5G, 4G, 3G, and 2G with operator, identifiers, bands, reference measurements, and a timing-advance distance estimate where available.
-- **Wi-Fi** — Access points on the 2.4, 5, and 6 GHz bands with vendor, security, cipher, channel, width, and a distance estimate (true 802.11mc FTM ranging where the hardware supports it).
-- **Bluetooth LE** — Advertising devices with name, MAC, vendor, RSSI, address type, PHY, service UUIDs, and decoded manufacturer data including iBeacon.
-- **GNSS** — Multi-constellation tracking with dual-frequency support, carrier-to-noise, elevation, azimuth, used-in-fix status, and a computed sub-satellite ground point.
-- **Local-network scan** — Host discovery via TCP-connect probes and SSDP / UPnP, with banner grabbing, service fingerprinting, and reverse DNS, plus mDNS / DNS-SD service discovery.
-- **GATT inspector** — Connect to a BLE device, enumerate its services and characteristics, read and decode their values, and write to writable ones.
-- **iBeacon broadcast** — Broadcast as an iBeacon with configurable UUID, major, minor, and measured power.
-
-</details>
+- 🐙 **Source Code:** [https://t.me/GithubRe**](https://t.me/GithubRe**)
 
 
 ---

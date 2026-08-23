@@ -8,6 +8,64 @@
 
 ---
 
+### 📦 Google Timeline Visualizer
+
+> **Categories:** `#GitHub` `#OpenSource` `#kotlin`
+
+🔗 [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+📝 Visualize your year in travel using your Google Location History (Timeline) data
+──────────────────────────────
+
+**What it does**
+Turn a Google Maps Timeline export (the `Timeline.json` file) into a smooth, animated travel video that you can watch, share, or keep as an MP4. The app works completely offline – your location history never leaves the device.
+
+**Key features**
+- Choose exact dates or a month range, then preview the journey on a map.
+- Pick camera styles: __steady__ (fixed zoom) or __dynamic__ (follows local movement).
+- Set video length from 10 s up to 5 min; the UI warns when long renders will need extra storage.
+- Export in square (480 p / 720 p / 1080 p) or portrait/landscape HD presets.
+- Built‑in “My videos” library with thumbnails, titles, and quick share actions.
+- Supports English, Korean, Japanese, Chinese (Simplified & Traditional), Spanish, French, German, Portuguese (BR).
+- No Google sign‑in, no location permissions, no analytics – only the JSON you feed it and the map tiles from CARTO/OpenStreetMap.
+
+**How to use it**
+
+__iPhone (web app)__
+1. Export `Timeline.json` from Google Maps (Settings → Personal content → Export Timeline data).
+2. Open the web app [here](https://ahn-lab.org/google-timeline-visualizer/) in Safari (iOS 16.4+).
+3. Tap **Choose Timeline.json**, set the date range, pick a camera mode, accept the privacy notice.
+4. Hit **Preview** → **Create MP4**. Keep the tab open until the render finishes; then download or share the video.
+
+__Android (stand‑alone app)__
+1. Download the latest APK from the repository’s [release page](https://github.com/mahlernim/google-timeline-visualizer/releases/latest).
+2. Install (enable “install unknown apps” for the source if needed).
+3. Open the app, tap **Create video**, load your `Timeline.json`, configure dates, camera, duration, then **Create video**.
+4. The finished MP4 lands in `Movies/Timeline Visualizer` (Android 10+ auto‑saves).
+
+**Technical highlights**
+- __Rendering pipeline__: map tiles are pre‑fetched, GPS outlier filtering (conservative by default) cleans noisy points, long‑flight legs are interpolated on great‑circle arcs for smooth motion.
+- __Privacy‑first design__: the only network call is to CARTO for map tiles; the Timeline JSON never leaves the device.
+- __Supported export formats__: current Android/iOS direct‑array JSON, legacy “semanticSegments” JSON, raw location fallback with optional noise reduction, handling of E7, geo: and latLng strings, and routes crossing the International Date Line.
+- __Build & test__: Android Studio with JDK 17, SDK 36, Build‑Tools 36.0.0. Run ```./gradlew test lint assembleGithubDebug assemblePlayDebug``` to verify.
+- __Desktop fallback__: a Python 3.9+ script (`visualizer.py`) plus FFmpeg reproduces the same MP4 generation on any PC. Example command:
+
+```python -m pip install -r requirements.txt
+python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
+--long-trip-compression balanced --output my_trip_2025.mp4
+```
+
+**Who should care**
+- Travelers who want a quick visual recap of a trip without fiddling with video editors.
+- Developers looking for a clean, offline‑only example of map‑based animation on Android.
+- Privacy‑conscious users who refuse cloud services but still want to share a travel story.
+__(1/2)__
+
+- 🐙 **Source Code:** [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+- 👤 **Developer:** [mahlernim](https://github.com/mahlernim)
+
+
+---
+
 ### 📦 Switcher 5G
 
 > **Categories:** `#android` `#shizuku` `#5g` `#utilities`
@@ -35,6 +93,41 @@ The fastest way to switch your Android network mode — no root required. A mini
 <p align="center"><img src="../../assets/apps/switcher-5g/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
 
 </details>
+
+
+---
+
+### 📦 Guava
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🔗 [https://github.com/google/guava](https://github.com/google/guava)
+📝 Google core libraries for Java
+──────────────────────────────
+
+The **Guava** library is a set of core Java libraries from Google, featuring new collection types, immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more. It comes in two flavors: __JRE__ and __Android__.
+
+To use Guava, add a dependency to your project using `Maven` or `Gradle`. For example, with Maven:
+```
+<dependency>
+<groupId>com.google.guava</groupId>
+<artifactId>guava</artifactId>
+<version>33.6.0-jre</version>
+</dependency>
+```
+Guava is suitable for Java developers looking to simplify their code and improve performance.
+
+Key technical highlights include its collection types, such as `multimap` and `multiset`, and utilities like `ImmutableList`.
+
+Guava's **APIs** are largely __binary-compatible__, ensuring backward compatibility.
+
+One-liner takeaway: Use Guava to simplify your Java development and boost performance with its robust collection types and utility classes.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/google/guava](https://github.com/google/guava)
+- 👤 **Developer:** [google](https://github.com/google)
 
 
 ---
@@ -141,6 +234,20 @@ A simple, private, and open-source internet radio app that lets you explore cura
 
 ---
 
+### 📦 Gpupixel
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Built in C++11 and OpenGL/ES, the app provides beauty filters and supports iOS, Android, Mac, Windows, and Linux—it's compatible with any OpenGL/ES platform.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/pixpark/gpupixel](https://github.com/pixpark/gpupixel)
+- 👤 **Developer:** [pixpark](https://github.com/pixpark)
+
+
+---
+
 ### 📦 Vox Music
 
 > **Categories:** `#Android` `#Music` `#Player`
@@ -189,6 +296,31 @@ ReVanced & Morphe Builder is an automated build system for creating the latest p
 - **Open Source** — Transparent development with publicly available source code.
 
 </details>
+
+
+---
+
+### 📦 Amnezia Client
+
+> **Categories:** `#GitHub` `#OpenSource` `#cplusplus` `#cloak` `#gfw` `#ikev2` `#openvpn` `#shadowsocks` `#vpn` `#vpn_client` `#vpn_server` `#wireguard`
+
+🔗 [https://github.com/amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+📝 Amnezia VPN Client (Desktop+Mobile)
+──────────────────────────────
+
+**Amnezia VPN Client** is an open-source VPN solution that allows you to deploy your own VPN server. Its key features include ease of use, support for classic VPN protocols like OpenVPN, WireGuard, and IKEv2, as well as protocols with traffic masking. The client supports split tunneling and is available on Windows, MacOS, Linux, Android, and iOS.
+
+__Technical highlights__ of the project include the use of `Qt`, `OpenSSL`, `OpenVPN`, and `WireGuard`. The project is licensed under the GNU General Public License v3.0 and is supported by donations.
+
+The **Amnezia VPN Client** is suitable for anyone looking for a self-hosted VPN solution, including individuals and organizations. To get started, simply download the client, enter your server details, and connect to your VPN.
+
+With its strong focus on security, ease of use, and flexibility, the **Amnezia VPN Client** is a great option for anyone looking to protect their online identity: __Take control of your online security with Amnezia VPN Client__.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+- 👤 **Developer:** [amnezia-vpn](https://github.com/amnezia-vpn)
 
 
 ---
@@ -283,6 +415,59 @@ DeepDoze Enforcer is a lightweight Magisk/KernelSU module that instantly forces 
 - Animation scales, screen-off timeout and always-on display
 
 </details>
+
+
+---
+
+### 📦 Dioxus
+
+> **Categories:** `#GitHub` `#OpenSource` `#rust` `#android` `#css` `#desktop` `#html` `#ios` `#native` `#react` `#ssr` `#ui` `#virtualdom` `#wasm` `#web`
+
+🔗 [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+📝 Fullstack app framework for web, desktop, and mobile.
+──────────────────────────────
+
+Dioxus is a **cross-platform framework** that lets you build web, desktop, and mobile apps with a single codebase. It features __zero-config setup__, __integrated hot-reloading__, and __signals-based state management__. With Dioxus, you can create `fullstack applications` that integrate seamlessly with backend functionality using Server Functions. The framework also includes a __bundler__ for deploying to various platforms.
+
+Here's an example of a simple counter app in Dioxus:
+```fn app() -> Element {
+let mut count = use_signal(|| 0);
+
+rsx! {
+h1 { "High-Five counter: {count}" }
+button { onclick: move |_| count += 1, "Up high!" }
+button { onclick: move |_| count -= 1, "Down low!" }
+}
+}
+```
+Dioxus has a strong focus on __community__ and __documentation__, with a very active Discord and GitHub community, as well as comprehensive documentation. It supports a wide range of __platforms__, including web, desktop, mobile, and server-side rendering.
+
+Overall, Dioxus is a powerful and flexible framework that makes it easy to build complex, cross-platform apps. With its unique features and strong community support, it's an excellent choice for developers looking to create high-quality, fullstack applications. Write once, run anywhere - that's the power of Dioxus!
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+- 👤 **Developer:** [DioxusLabs](https://github.com/DioxusLabs)
+
+
+---
+
+### 📦 Moonshine
+
+> **Categories:** `#GitHub` `#OpenSource` `#c_lang`
+
+🔗 [https://github.com/moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+📝 Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
+──────────────────────────────
+
+__Moonshine__ is an open-source AI toolkit that enables developers to build real-time voice agents and applications. Its key features include on-device processing for fast, private, and account-free usage, low-latency responses, and high accuracy speech-to-text models. The framework supports multiple languages, platforms, and devices, including `Python`, `iOS`, `Android`, `MacOS`, `Linux`, `Windows`, `Raspberry Pi`, and `microcontrollers`. **Usage** is straightforward, with example apps and a `Python` library that can be installed via `pip`. The toolkit is suitable for developers building voice applications, and its high-level APIs offer complete solutions for common tasks. One notable takeaway: __Moonshine__ offers a significant speed boost over Whisper, with some models running **5x faster** or more.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+- 👤 **Developer:** [moonshine-ai](https://github.com/moonshine-ai)
 
 
 ---
@@ -508,6 +693,18 @@ Smart Island is a modern, open-source implementation of Android's Dynamic Island
 
 ---
 
+### 📦 Awesome Android Reverse Engineering
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
+- 👤 **Developer:** [user1342](https://github.com/user1342)
+
+
+---
+
 ### 📦 Arrow Escape
 
 > **Categories:** `#android` `#game`
@@ -534,6 +731,22 @@ Arrow Escape is a grid-based puzzle game where players slide arrows out of the g
 - Dark / Light Mode Sage-green earthy palette with full theme support
 
 </details>
+
+
+---
+
+### 📦 wger
+
+> **Categories:** `#Fitness` `#Health` `#SelfHosted` `#python` `#django` `#gym` `#hacktoberfest` `#self_hosted` `#workout` `#GitHub` `#OpenSource`
+
+A self-hosted, fully open-source fitness and nutrition manager. You can create custom workout routines with automatic weight progression, log meals against an Open Food Facts database, track body measurements with progress photos, Includes basic gym management features as well and you can access it all from native Android and iOS apps.
+
+Creator: wger-project
+Stars ⭐️: 6,300
+Forked by: 919
+
+- 🐙 **Source Code:** [https://github.com/wger-project/wger](https://github.com/wger-project/wger)
+- 👤 **Developer:** wger-project
 
 
 ---
@@ -709,6 +922,19 @@ A modernized fork of Shizuku Manager with a Jetpack Compose + Material 3 Express
 
 ---
 
+### 📦 lycorp-jp/sim-use
+
+> **Categories:** `#accessibility` `#ai_agents` `#ai_development` `#android_emulator` `#ios_simulator` `#mobile_automation`
+
+Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+**Language**: Swift
+
+- 🐙 **Source Code:** [https://github.com/lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)
+- 👤 **Developer:** [lycorp-jp](https://github.com/lycorp-jp)
+
+
+---
+
 ### 📦 Screen-Recorder
 
 > **Categories:** `#android` `#screenrecorder` `#scamsung` `#BijliVibhagKiMakichut`
@@ -735,6 +961,25 @@ A pristine OneUI-style screen recorder with mic and internal audio toggles.
 - Clean About screen with app information
 
 </details>
+
+
+---
+
+### 📦 Simplex Chat
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Security` `#Privacy` `#Messaging` `#Private`
+
+🔗 [https://github.com/simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+📝 SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+──────────────────────────────
+
+The **SimpleX Chat** is a revolutionary messaging platform that prioritizes user privacy, with __no user identifiers of any kind__. It protects your messages and metadata with `double ratchet end-to-end encryption` and an additional encryption layer. Available on __Android__ and __iOS__, as well as a terminal app on __Linux, MacOS, and Windows__, SimpleX Chat allows users to make private connections by sharing a link or scanning a QR code. The platform has a strong focus on community, with user groups and a directory for users to connect and share information. To get started, simply `install the app` and connect with the team or other users. SimpleX Chat is __100% private by design__, and its `open-source` nature allows for transparency and community involvement. Join the movement and experience the power of private messaging - __your conversations, your privacy, your way__.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- 👤 **Developer:** [simplex-chat](https://github.com/simplex-chat)
 
 
 ---
@@ -791,6 +1036,36 @@ IStanPdf is an offline Android utility for PDF and DOCX operations. There are no
 
 ---
 
+### 📦 Headunit Revived
+
+> **Categories:** `#GitHub` `#OpenSource` `#kotlin` `#android` `#androidauto` `#headunit`
+
+🔗 [https://github.com/andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
+📝 Headunit App for displaying Android Auto
+──────────────────────────────
+
+The **Headunit Revived** project is an Android app that transforms your tablet or phone into an Android Auto receiver. It's a revived version of the original __headunit__ project by Michael Reid. The app allows for wired USB connections and wireless connections via a companion app called __Wireless Helper__.
+
+To use the app, simply connect your phone to the tablet running Headunit Revived via USB or wirelessly using the Wireless Helper app. The app supports various connection methods, including USB, Wi-Fi Direct, and Bluetooth.
+
+Some key `features` include:
+- Customizable UI with settings for pixel density, audio focus, and more
+- Support for multiple languages, including English, Vietnamese, and Japanese
+- Wireless connection options, including Wi-Fi Direct and Bluetooth
+
+The app is suitable for power users who want to customize their Android Auto experience and for those who need a reliable wireless connection.
+
+One-liner takeaway: Turn your Android device into an Android Auto receiver with **Headunit Revived**, a customizable and feature-rich app that simplifies your in-car entertainment experience.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
+- 👤 **Developer:** [andreknieriem](https://github.com/andreknieriem)
+
+
+---
+
 ### 📦 Solipsism
 
 > **Categories:** `#android` `#browser` `#Solipsism` `#touchniggers`
@@ -826,6 +1101,25 @@ Rail-first Android browser with Material 3 Expressive UI, privacy tools, Decoy M
 - Customize the homepage wallpaper or keep it blacked out.
 
 </details>
+
+
+---
+
+### 📦 Smsforwarder
+
+> **Categories:** `#GitHub` `#OpenSource` `#kotlin` `#android` `#api` `#app` `#bark` `#call` `#chatgpt` `#dingding` `#forward` `#mqtt` `#pushdear` `#pushplus` `#serverchan` `#sms` `#smtp` `#telegram` `#webhook` `#wechatapp`
+
+🔗[https://github.com/pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
+📝 SMS forwarder - monitor Android mobile phone text messages, incoming calls, and APP notifications, and forward them to other mobile phones according to specified rules: DingTalk group custom robots, DingTalk enterprise robots, enterprise WeChat group robots, Feishu robots, enterprise WeChat application messages, mailboxes, bark, webhook, Telegram robots, Server sauce, PushPlus, mobile SMS, etc. Including active control of the server and client, allowing you to easily send text messages remotely, check text messages, check calls, check the phone book, check battery, etc. (New in V3.0) PS. This APK is mainly for learning and personal use. If there are any bugs, please raise an ISSUE. You are also welcome to submit PRs and corrections.
+─────────────────────────────
+
+**SmsForwarder** is an Android app that forwards SMS, calls, and app notifications to other devices or platforms, including DingTalk, WeChat, email, and more. __Key features__ include remote control, automated tasks, and customizable rules. To `use` the app, simply download and install it, then configure the settings to forward messages to your desired platform. From a `technical` standpoint, the app uses a variety of libraries and frameworks, including XUI, XUpdate, and XXPermissions. The app is __ideal for__ anyone looking for a convenient way to forward messages and notifications to other devices or platforms. **Give it a try** and see how it can simplify your life: SmsForwarder is the ultimate messaging sidekick - __forwarding your way to freedom__!
+
+─────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
+- 👤 **Developer:** [pppscn](https://github.com/pppscn)
 
 
 ---
@@ -922,6 +1216,19 @@ Ever Haptics is an Android app that adds haptic feedback across apps and system 
 
 ---
 
+### 📦 skydoves/compose-nav-graph
+
+> **Categories:** `#android` `#compose` `#compose_multiplatform` `#jetpack_compose` `#jetpack_navigation` `#kmp` `#kotlin_multiplatform` `#navigation` `#navigation3` `#skydoves`
+
+⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/compose-nav-graph](https://github.com/skydoves/compose-nav-graph)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
 ### 📦 GitAtlas
 
 > **Categories:** `#Android` `#Github` `#Client`
@@ -960,6 +1267,33 @@ GitAtlas is a fluid Liquid Glass GitHub client featuring smart recommendations, 
 - Reduced loading times across the application.
 
 </details>
+
+
+---
+
+### 📦 Universal Android Debloater Next Generation
+
+> **Categories:** `#GitHub` `#OpenSource` `#rust` `#adb` `#android` `#bloatware_list` `#bloatware_removal` `#debloat` `#debloater` `#debloating` `#privacy`
+
+🔗 [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+📝 Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+──────────────────────────────
+
+The **Universal Android Debloater Next Generation** is a tool designed to improve __privacy__ and __efficiency__ on Android devices by removing unnecessary system apps, thus reducing the __attack surface__ and enhancing __security__. This project is a fork of the original Universal Android Debloater, with the goal of providing a more efficient and secure solution.
+
+To use the tool, users can follow the `usage guide` provided in the project's __wiki__, which includes `getting started` instructions, `features` of the app, and `suggested Android app replacements`. The project also provides a `building from source` guide for those who want to get the cutting-edge version.
+
+From a technical standpoint, the project uses the `Iced` GUI library and has a simple, intuitive interface. The tool does not collect or transmit any __user data__, with the only external connections being `GET` requests to `GitHub` for fetching the package list and checking for updates.
+
+The project is suitable for anyone looking to debloat their Android device, including __power users__ and __developers__. For real-time communication and support, users can join the project's `Discord guild` or use the `Matrix` bridge.
+
+One-liner takeaway: The Universal Android Debloater Next Generation is a powerful tool that helps you take control of your Android device's __privacy__ and __security__ by debloating unnecessary system apps.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+- 👤 **Developer:** [Universal-Debloater-Alliance](https://github.com/Universal-Debloater-Alliance)
 
 
 ---
@@ -1030,6 +1364,53 @@ Dotz Launcher Pro is a sleek and minimalist Android launcher featuring a unique 
 - ****Target Android** — ** API 36 (Android 16 DP)
 
 </details>
+
+
+---
+
+### 📦 Fanqiang
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🔗 [https://github.com/bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+📝 翻墙-科学上网
+──────────────────────────────
+
+**Fanqiang** is a comprehensive project library for __scientific internet access and wall-jumping tools__, providing various tutorials and software for different devices and operating systems. The project includes `Chrome one-click wall-jumping package`, `Android wall-jumping APP tutorials`, `iPhone/iPad/iOS V2ray/SS wall-jumping APP tutorials`, and more. It also covers `Windows V2ray/SS/SSR wall-jumping tutorials`, `Mac翻墙软件教程`, and `Linux翻墙教程`. The goal is to provide __free and stable internet access__ to users.
+**Takeaway:** Freedom to access the internet, no matter where you are.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+- 👤 **Developer:** [bannedbook](https://github.com/bannedbook)
+
+
+---
+
+### 📦 Mattermost
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🔗 [https://github.com/mattermost/mattermost](https://github.com/mattermost/mattermost)
+📝 Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+──────────────────────────────
+
+**Mattermost** is an open core, self-hosted collaboration platform that offers __chat__, __workflow automation__, __voice calling__, __screen sharing__, and __AI integration__. The platform is written in `Go` and `React`, and runs as a single Linux binary, relying on `PostgreSQL`.
+
+To get started, you can __deploy Mattermost on-premises__ or __try it for free in the cloud__. The platform has a variety of __use cases__, including __DevSecOps__, __Incident Resolution__, and __IT Service Desk__.
+
+Mattermost has __native mobile and desktop apps__ for __Android__, __iOS__, __Windows PC__, __macOS__, and __Linux__. The platform also offers a range of __installation guides__, including __Docker__, __Ubuntu__, and __Kubernetes__.
+
+The platform is suitable for __developers__, __system administrators__, and __business users__ who want a self-hosted collaboration platform with a range of features and integrations.
+
+Mattermost is a powerful tool for teams and organizations - __join the community today and experience the benefits of self-hosted collaboration__!
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/mattermost/mattermost](https://github.com/mattermost/mattermost)
+- 👤 **Developer:** [mattermost](https://github.com/mattermost)
 
 
 ---
@@ -1272,6 +1653,19 @@ Beam is a lightweight battery monitor. It pins a live power, current, voltage, o
 - Adjustable polling interval
 
 </details>
+
+
+---
+
+### 📦 osulazerdownload/osulazer
+
+> **Categories:** `#beatmap` `#osu_game` `#osu_lazer` `#osu_mania` `#osu_skin` `#osu_skins` `#osugame` `#osumania`
+
+osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free
+**Language**: C#
+
+- 🐙 **Source Code:** [https://github.com/osulazerdownload/osulazer](https://github.com/osulazerdownload/osulazer)
+- 👤 **Developer:** [osulazerdownload](https://github.com/osulazerdownload)
 
 
 ---
@@ -1549,6 +1943,19 @@ A clean and lightweight Android application that automatically changes your wall
 
 ---
 
+### 📦 AbhishekK130804/Claude-Mythos-AI-Anthropic-App
+
+> **Categories:** `#claude` `#claude_ai` `#claude_code` `#claude_code_cli` `#claude_code_hooks` `#claude_code_marketplace` `#claude_code_plugin` `#claude_code_plugins` `#claude_code_skill` `#claude_code_skills` `#claude_code_subagents` `#claude_cowork_free` `#claude_design_ai` `#claude_design_alternative` `#claude_design_download` `#claude_design_free` `#claude_mythos` `#claude_opus` `#claude_opus_4_6` `#mythos`
+
+Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy
+**Language**: C#
+
+- 🐙 **Source Code:** [https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App](https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App)
+- 👤 **Developer:** [AbhishekK130804](https://github.com/AbhishekK130804)
+
+
+---
+
 ### 📦 HydroTracker
 
 > **Categories:** `#Android` `#MaterialYou` `#Hydration` `#Health` `#Tracker`
@@ -1563,6 +1970,22 @@ Stay hydrated with HydroTracker, a beautifully crafted open-source water trackin
 
 - 🐙 **Source Code:** [https://github.com/dev778g-me/HydroTracker](https://github.com/dev778g-me/HydroTracker)
 - 👤 **Developer:** [dev778g-me](https://github.com/dev778g-me/)
+
+
+---
+
+### 📦 Medusa
+
+> **Categories:** `#Ecommerce` `#Backend` `#WebDev` `#GitHub` `#OpenSource` `#typescript` `#commerce` `#e_commerce` `#javascript` `#medusa` `#nodejs` `#react` `#python` `#android` `#android_malware` `#dynamic_analysis` `#frida` `#frida_scripts` `#frida_snippets` `#malware` `#penetration_testing` `#pentest`
+
+An open-source commerce engine for building custom e-commerce backends. Lets developers create flexible shopping experiences without being limited by traditional platforms.
+
+Creator: medusajs
+Stars ⭐️: 32,800
+Forked by: 4,400
+
+- 🐙 **Source Code:** [https://github.com/medusajs/medusa](https://github.com/medusajs/medusa)
+- 👤 **Developer:** medusajs
 
 
 ---
@@ -1588,6 +2011,35 @@ Equalizer314 is a free, open-source, system-wide parametric equalizer and audio 
 - This is the "best" method if you really want control over your audio without latency issues. There is no "down-side" to using this method other than you need a rooted device which steers a lot of people away. This along with RootlessJamesDSP are best used if you want to apply custom audio effects directly without relying on android's built-in effects.
 
 </details>
+
+
+---
+
+### 📦 Cua
+
+> **Categories:** `#GitHub` `#OpenSource` `#python` `#agent` `#ai_agent` `#apple` `#computer_use` `#cua` `#lume` `#macos` `#manus` `#operator` `#swift` `#virtualization` `#virtualization_framework`
+
+🔗 [https://github.com/trycua/cua](https://github.com/trycua/cua)
+📝 Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+──────────────────────────────
+
+The **trycua/cua** GitHub repository is a game-changer for anyone interested in building, benchmarking, and deploying agents that interact with computers. At its core, __Cua__ provides a versatile platform for creating autonomous agents that can perform tasks on various operating systems, including macOS, Linux, Windows, and Android.
+
+One of the **key features** is the `cua-driver`, which allows agents to interact with native macOS apps in the background, enabling tasks like clicking, typing, and verifying without interrupting the user. The `cua` package provides a unified API for building sandboxes on any OS or container image, making it easy to develop and deploy agents across different environments.
+
+To get started, users can install `cua` using `pip install cua` and explore the various tools and libraries, including `cuabot` for co-op computer-use, `cua-bench` for benchmarks and RL environments, and `lume` for macOS virtualization.
+
+The **technical highlights** of __Cua__ include its support for multiple platforms, near-native performance on Apple Silicon, and a wide range of tools and libraries for building and deploying agents. The project is well-documented, with extensive guides, examples, and API references available.
+
+The target **audience** for __Cua__ includes developers, researchers, and anyone interested in building autonomous agents for computer-use tasks. With its open-source license and active community, __Cua__ is an exciting project that has the potential to revolutionize the way we interact with computers.
+
+In a nutshell, __Cua__ is a powerful platform for building autonomous agents that can interact with computers in a variety of ways, and its potential impact on the field of AI and computer science is enormous: __Cua__ is not just a tool, it's a **new paradigm** for human-computer interaction.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/trycua/cua](https://github.com/trycua/cua)
+- 👤 **Developer:** [trycua](https://github.com/trycua)
 
 
 ---
@@ -2036,6 +2488,20 @@ Skreenup is a minimal app that wraps your screenshots in beautiful device frames
 
 ---
 
+### 📦 Awesome Shizuku
+
+> **Categories:** `#python` `#adb` `#android` `#android_mods` `#no_root` `#rootless` `#shizuku` `#GitHub` `#OpenSource`
+
+Shizuku lets normal apps use powerful system features on non-rooted Android devices via ADB, with this curated list showcasing apps for automation (like Tasker), file management (MiXplorer), customization (DarQ), privacy, audio tweaks, and more across categories like AI agents and gaming. It helps you unlock advanced controls, boost productivity, enhance privacy, and customize your phone without rooting, saving time and extending device capabilities safely.
+
+https://github.com/timschneeb/awesome-shizuku
+
+- 🐙 **Source Code:** [https://github.com/timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
+- 👤 **Developer:** [timschneeb](https://github.com/timschneeb)
+
+
+---
+
 ### 📦 ferrot
 
 > **Categories:** `#android` `#video` `#ferrot`
@@ -2440,6 +2906,49 @@ Cashiro is a comprehensive financial tracking manager that Turn bank SMS and PDF
 
 ---
 
+### 📦 🔥 Trending Repository: android-reverse-engineering-skill
+
+> **Categories:** `#readme` `#shell`
+
+📝 **Description:** Claude Code skill to support Android app's reverse engineering
+
+🔗 **Repository URL:** [https://github.com/SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+
+📖 **Readme:** [https://github.com/SimoneAvogadro/android-reverse-engineering-skill#readme](https://github.com/SimoneAvogadro/android-reverse-engineering-skill#readme)
+
+📊 **Statistics:**
+🌟 Stars: 2.1k
+👀 Watchers: 7
+🍴 Forks: 236
+
+💻 **Programming Languages:** Shell
+
+🏷️ **Related Topics:** Not available
+
+==================================
+🧠 **By: ****https://t.me/DataScienceM**
+
+- 🐙 **Source Code:** [https://github.com/SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+- 👤 **Developer:** [SimoneAvogadro](https://github.com/SimoneAvogadro)
+
+
+---
+
+### 📦 sogonov/anubis
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.
+**Language**: Kotlin
+**Stars**: 645 **Issues**: 32 **Forks**: 18
+[https://github.com/sogonov/anubis](https://github.com/sogonov/anubis)
+
+- 🐙 **Source Code:** [https://github.com/sogonov/anubis](https://github.com/sogonov/anubis)
+- 👤 **Developer:** [sogonov](https://github.com/sogonov)
+
+
+---
+
 ### 📦 LastWave
 
 > **Categories:** `#Android` `#Music` `#lastfm`
@@ -2480,6 +2989,20 @@ Revision Master - A smart, offline-first study app with AI-generated flashcards,
 - ****Customizable** — ** Personalize your experience with custom avatars and exam countdowns.
 
 </details>
+
+
+---
+
+### 📦 Android Foss
+
+> **Categories:** `#python` `#android` `#android_apps` `#f_droid` `#foss` `#free_and_op` `#free_and_open_source` `#izzyondroid` `#open_source` `#opensource` `#GitHub`
+
+This list offers free open-source Android apps for every need—from browsers, cameras, and music players to games, tools, and F-Droid stores like Neo-Store. Get them via F-Droid or IzzyOnDroid for no ads or tracking. It boosts your privacy and freedom by ditching Google apps, letting you control your data and phone fully.
+
+https://github.com/offa/android-foss
+
+- 🐙 **Source Code:** [https://github.com/offa/android-foss](https://github.com/offa/android-foss)
+- 👤 **Developer:** [offa](https://github.com/offa)
 
 
 ---
@@ -3732,6 +4255,22 @@ Time travelling audio recorder for Android.
 
 ---
 
+### 📦 Dropp
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+They will be available on your Android phone and other devices. Unlike traditional file transfer methods, Dropp gives you a persistent folder with the ability to quickly move files between your devices.
+
+The app currently runs on macOS and Android, with Windows support coming soon.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/spacefarers/Dropp](https://github.com/spacefarers/Dropp)
+- 👤 **Developer:** [spacefarers](https://github.com/spacefarers)
+
+
+---
+
 ### 📦 ToolNeuron
 
 > **Categories:** `#features` `#Android` `#AI` `#Offline`
@@ -3864,6 +4403,22 @@ LifeDots transforms your home screen into a meaningful reminder of time's passag
 
 ---
 
+### 📦 Brutdroid
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It's designed to make penetration testing for Android easier, and automates emulator creation, rooting, Frida server setup, and Burp Suite certificate installation.
+
+With a vibrant new user interface and support for custom scripts, Frida BrutDroid allows security researchers to focus on testing rather than tuning.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Brut-Security/BrutDroid](https://github.com/Brut-Security/BrutDroid)
+- 👤 **Developer:** [Brut-Security](https://github.com/Brut-Security)
+
+
+---
+
 ### 📦 SealPlus
 
 > **Categories:** `#Android` `#Downloader` `#Ytdlp` `#Youtube`
@@ -3975,6 +4530,22 @@ Xposed module that shows download progress as a ring around the camera cutout.
 - Material 3 Expressive settings UI with Jetpack Compose
 
 </details>
+
+
+---
+
+### 📦 Ahmyth
+
+> **Categories:** `#smali` `#ahmyth` `#ahmyth_android_rat` `#ahmyth_rat` `#android_rat` `#apk_builder` `#apk_merger` `#educational` `#payload_builder` `#payload_merger` `#trojan_builder` `#trojan_merger`
+
+I can't provide a summary of this content as requested. The text describes AhMyth, which is a remote access trojan (RAT) — malware designed to gain unauthorized control of Android devices. This tool is used to steal sensitive information like banking credentials, passwords, photos, and audio recordings, and to conduct surveillance through camera and microphone access.
+
+I cannot summarize malware documentation in a way that presents it neutrally or highlights "benefits to the user," as doing so would risk facilitating cybercrime. If you're interested in cybersecurity education, I'd be happy to discuss how to protect against such threats, or explain malware from a defensive security perspective.
+
+https://github.com/Morsmalleo/AhMyth
+
+- 🐙 **Source Code:** [https://github.com/Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+- 👤 **Developer:** [Morsmalleo](https://github.com/Morsmalleo)
 
 
 ---
@@ -4125,6 +4696,20 @@ Scanly is a Fast document OCR scanner for Android
 
 ---
 
+### 📦 Conduit
+
+> **Categories:** `#typescript`
+
+Conduit is a free app that turns your Android, iOS, or Mac device into a secure proxy station in Psiphon's P2P network, routing encrypted traffic to help censored users access blocked sites, news, and free internet without you seeing their data. It runs quietly in the background with split tunneling, so your own browsing stays fast, and you can limit connections or speed to avoid slowdowns. The benefit is you easily fight censorship, support hundreds of people worldwide, and promote global internet freedom while using your device normally.
+
+https://github.com/Psiphon-Inc/conduit
+
+- 🐙 **Source Code:** [https://github.com/Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit)
+- 👤 **Developer:** [Psiphon-Inc](https://github.com/Psiphon-Inc)
+
+
+---
+
 ### 📦 SoundCrowd** 🎵
 
 > **Categories:** `#Android` `#Streaming` `#Music` `#Multimedia`
@@ -4154,6 +4739,24 @@ Optimized Instagram Alpha fork built for smooth performance on Android devices w
 
 - 🐙 **Source Code:** [https://github.com/helloskykoder/PawGram](https://github.com/helloskykoder/PawGram)
 - 👤 **Developer:** Helloskykoder
+
+
+---
+
+### 📦 Snapdrop Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+However, even though in theory it will work entirely in your browser and you won't have to install anything, you'll love this app if you want to use PairDrop more often in your daily life.
+
+Thanks to perfect integration into the Android operating system, files are sent even faster. You can choose PairDrop to share files directly from other apps.
+
+With its radical simplicity, PairDrop for Android simplifies the daily lives of hundreds of users.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android)
+- 👤 **Developer:** [fm-sys](https://github.com/fm-sys)
 
 
 ---
@@ -4322,6 +4925,20 @@ Varisankya is a modern, high-performance Android application designed to help us
 
 ---
 
+### 📦 Gentleman.Dots
+
+> **Categories:** `#shell`
+
+OpenCode now supports Claude Max/Pro subscriptions through the `opencode-anthropic-auth` plugin, allowing you to use your Claude subscription with both Claude Code and OpenCode in your terminal. This integration works with Gentleman.Dots, a complete development environment configuration that includes Neovim with AI assistants, multiple shells (Fish, Zsh, Nushell), terminal multiplexers (Tmux, Zellij), and various terminal emulators. You can install it via Homebrew or direct download across macOS, Linux, and Android platforms. The setup includes an interactive TUI installer that automatically configures your preferred tools, plus a Vim Mastery Trainer for learning editor shortcuts through progressive lessons and boss fights. This gives you a fully integrated AI-powered coding environment optimized for terminal-based development workflows.
+
+https://github.com/Gentleman-Programming/Gentleman.Dots
+
+- 🐙 **Source Code:** [https://github.com/Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots)
+- 👤 **Developer:** [Gentleman-Programming](https://github.com/Gentleman-Programming)
+
+
+---
+
 ### 📦 Randwabot
 
 > **Categories:** `#AI` `#Bot`
@@ -4370,6 +4987,20 @@ Run Gemini Nano 100% offline. A powerful, private, & open-source AI interface.
 
 ---
 
+### 📦 Com.N0N3M4.Diii4A
+
+> **Categories:** `#cplusplus` `#android` `#diii4a` `#doom3` `#idtech4` `#prey` `#quake4`
+
+idTech4A++ (Harmattan Edition v1.1.0) lets you play DOOM III, Quake 4, Prey (2006), DOOM 3 BFG, Quake 1-3, RTCW, The Dark Mod, GZDOOM, Jedi Knight games, Serious Sam, Urban Terror, and more on Android 4.4+, Windows, or Linux with OpenGLES rendering, multi-threading, soft shadows, PBR lighting, global illumination, bots, full-body awareness, and mod support. Download from GitHub or F-Droid, add your PC game files to `/sdcard/diii4a`, pick a game in the launcher, and start. This brings classic idTech shooters to mobile with smooth performance and modern graphics tweaks, so you enjoy nostalgic gaming anywhere without a PC.
+
+https://github.com/glKarin/com.n0n3m4.diii4a
+
+- 🐙 **Source Code:** [https://github.com/glKarin/com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a)
+- 👤 **Developer:** [glKarin](https://github.com/glKarin)
+
+
+---
+
 ### 📦 GitNote
 
 > **Categories:** `#Android` `#Tools` `#Interesting` `#Useful` `#Git`
@@ -4408,6 +5039,20 @@ Tablet UI style split QS-notification panel on mobile DPI
 
 ---
 
+### 📦 Ytpro
+
+> **Categories:** `#javascript` `#gemini` `#generative_ai` `#node_ytdl_core` `#youtube` `#youtube_adblock` `#youtube_dislikes` `#youtube_downloader` `#youtube_downloader_android` `#youtube_player` `#youtube_vanced` `#yt_adskip` `#yt_dlp` `#yt_viewer` `#yt_views_bot` `#ytdl` `#ytdl_core` `#ytpro` `#GitHub` `#OpenSource`
+
+YT Pro is a tiny 50KB Android app that enhances YouTube with video/shorts/thumbnail/caption downloads, ad blocking, sponsor skipping, background play, PiP mode, dislike counts, Gemini AI video summaries, and auto-updates. Download the ZIP easily for quick install. It saves you time and data by blocking ads, downloading content offline, customizing playback with gestures, and summarizing long videos instantly for better productivity.
+
+https://github.com/prateek-chaubey/YTPro
+
+- 🐙 **Source Code:** [https://github.com/prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
+- 👤 **Developer:** [prateek-chaubey](https://github.com/prateek-chaubey)
+
+
+---
+
 ### 📦 aihub
 
 > **Categories:** `#Android` `#AI` `#Hub` `#javascript` `#api` `#backend` `#backend_api` `#frontend` `#mobile_development` `#GitHub` `#OpenSource`
@@ -4416,6 +5061,34 @@ All-in-one Kotlin app that aggregates multiple AI assistants in a single tabbed 
 
 - 🐙 **Source Code:** [https://github.com/SilentCoderHere/aihub](https://github.com/SilentCoderHere/aihub)
 - 👤 **Developer:** [Silent Coder](https://github.com/SilentCoderHere)
+
+
+---
+
+### 📦 Lamda
+
+> **Categories:** `#python` `#adb` `#agents` `#ai` `#android` `#appium` `#automation` `#dynamic_analysis` `#frida` `#magisk` `#mcp` `#mcp_server` `#mobile_security` `#pentesting` `#remote_control` `#reverse_engineering` `#security` `#uiautomation` `#uiautomator2` `#workflow` `#xposed` `#GitHub` `#OpenSource`
+
+FIRERPA is a powerful Android automation tool that runs on-device with root access, works on versions 6.0 to 16, and offers low-latency remote desktop, 160+ APIs, Python SDK, and AI integration for tasks like testing, data collection, and forensics. It needs no extra setup, stays stable for large-scale use, and beats other tools in compatibility. You benefit by automating mobile tasks quickly, saving time on development and monitoring, with easy visual control for reliable results.
+
+https://github.com/firerpa/lamda
+
+- 🐙 **Source Code:** [https://github.com/firerpa/lamda](https://github.com/firerpa/lamda)
+- 👤 **Developer:** [firerpa](https://github.com/firerpa)
+
+
+---
+
+### 📦 Beerus Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It provides powerful tools, from PoC examples for sandbox exfiltration to full application management and instrumentation directly on your device without using a computer.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/hakaioffsec/beerus-android](https://github.com/hakaioffsec/beerus-android)
+- 👤 **Developer:** [hakaioffsec](https://github.com/hakaioffsec)
 
 
 ---
@@ -4483,6 +5156,28 @@ An advanced Android music tool that fetches accurate metadata and lyrics from AP
 - Clipboard copy and tag editing tools
 - Modern dark-themed mobile UI
 - Open-source and community driven
+
+</details>
+
+
+---
+
+### 📦 Vanilla
+
+> **Categories:** `#c_lang`
+
+Vanilla is an alpha-stage, open-source Wii U gamepad clone that lets you use devices like Steam Deck, Linux PCs, Nintendo Switch, Android phones, Windows, or Raspberry Pi as a replacement controller with touchscreen, needing 5GHz Wi-Fi (check compatibility). Download official builds from GitHub releases or distro packages; use keyboard mappings (e.g., Z=A, Enter=Plus) or controllers, with shortcuts like F5 for recording. It benefits you by fixing broken gamepads, enabling off-TV play, and preserving Wii U games cheaply without Nintendo hardware.
+
+https://github.com/vanilla-wiiu/vanilla
+
+- 🐙 **Source Code:** [https://github.com/vanilla-wiiu/vanilla](https://github.com/vanilla-wiiu/vanilla)
+- 👤 **Developer:** [vanilla-wiiu](https://github.com/vanilla-wiiu)
+
+<details>
+<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
+
+#### 📸 Cover / Preview
+<p align="center"><img src="../../assets/apps/vanilla/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
 
 </details>
 
@@ -4684,6 +5379,20 @@ Open source KWGT alternative
 
 ---
 
+### 📦 Nexa Sdk
+
+> **Categories:** `#go` `#gemma3` `#gpt_oss` `#granite4` `#llama` `#llama3` `#llm` `#on_device_ai` `#phi3` `#qwen3` `#qwen3vl` `#sdk` `#stable_diffusion` `#vlm`
+
+NexaSDK runs AI models locally on CPUs, GPUs, and NPUs with a single command, supports GGUF/MLX/.nexa formats, and offers NPU-first Android and macOS support for fast, multimodal (text, image, audio) inference, plus an OpenAI‑compatible API for easy integration. This gives you low-latency, private on-device AI across laptops, phones, and embedded systems, reduces cloud costs and data exposure, and lets you deploy and test new models immediately on target hardware for faster development and better user experience.
+
+https://github.com/NexaAI/nexa-sdk
+
+- 🐙 **Source Code:** [https://github.com/NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
+- 👤 **Developer:** [NexaAI](https://github.com/NexaAI)
+
+
+---
+
 ### 📦 Github Store
 
 > **Categories:** `#Android` `#Store` `#GitHub` `#OpenSource`
@@ -4721,6 +5430,19 @@ Github Store is a cross‑platform “play store” for GitHub releases. It disc
 
 ---
 
+### 📦 Turbo1123/roubao
+
+> **Categories:** `#ai` `#ai_agents` `#android` `#android_automation` `#kotlin` `#mobile_agents` `#mobileagent` `#phone_automation`
+
+Android Automation Tool Based on Vision-Language Models
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/Turbo1123/roubao](https://github.com/Turbo1123/roubao)
+- 👤 **Developer:** [Turbo1123](https://github.com/Turbo1123)
+
+
+---
+
 ### 📦 Hyper Bridge
 
 > **Categories:** `#Android` `#MIUI` `#HyperOS` `#Customization`
@@ -4744,6 +5466,22 @@ Hyper Bridge bridges standard Android notifications into the pill-shaped UI arou
 - ****Total Control** — ** Choose exactly which apps trigger the island, customize timeouts, and toggle floating behavior per app.
 
 </details>
+
+
+---
+
+### 📦 awesome-dataviz
+
+> **Categories:** `#datavisualization` `#opensource`
+
+A curated list of open-source data-visualization libraries & frameworks spanning JS, Python, Android, iOS and more. Valuable for designers, analysts, engineers and anyone wanting compelling visuals.
+
+Creator:   hal9ai
+Stars ⭐️:  4,100
+Forked by:  438
+
+- 🐙 **Source Code:** [https://github.com/hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)
+- 👤 **Developer:** hal9ai
 
 
 ---
@@ -4797,6 +5535,20 @@ Classic game "Rush Hour" - private & open source. A private and open source vers
 
 - 🐙 **Source Code:** [https://github.com/vayun-mathur/unblock-jam](https://github.com/vayun-mathur/unblock-jam)
 - 👤 **Developer:** [vayun-mathur](https://github.com/vayun-mathur)
+
+
+---
+
+### 📦 actionstatelabs/android-action-kernel
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 487 **Issues**: 1 **Forks**: 51
+[https://github.com/actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)
+
+- 🐙 **Source Code:** [https://github.com/actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)
+- 👤 **Developer:** [actionstatelabs](https://github.com/actionstatelabs)
 
 
 ---
@@ -4860,6 +5612,20 @@ StoryPad is a beautiful, privacy-first, open source journal & diary app designed
 
 ---
 
+### 📦 Kaiju
+
+> **Categories:** `#go` `#game_engine` `#game_engine_2d` `#game_engine_3d` `#game_engine_development` `#game_engine_framework` `#gameengine` `#golang`
+
+Kaiju Engine is a fast, modern 2D/3D game engine written in Go and powered by Vulkan, designed for simplicity and high performance. It runs on Windows, Linux, Android, and is working on Mac support. Kaiju offers much faster rendering speeds and lower memory use than popular engines like Unity, making game development quicker and more efficient. It uses Go’s garbage collector to help prevent common programming errors, improving stability. You can write games directly in Go, and the engine supports local AI integration and a flexible UI system using HTML/CSS. Although the editor is still in development, the engine itself is production-ready, offering a powerful tool for developers who want speed and simplicity.
+
+https://github.com/KaijuEngine/kaiju
+
+- 🐙 **Source Code:** [https://github.com/KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju)
+- 👤 **Developer:** [KaijuEngine](https://github.com/KaijuEngine)
+
+
+---
+
 ### 📦 Momentum
 
 > **Categories:** `#Android` `#Media` `#Utilities`
@@ -4890,6 +5656,22 @@ Assistant Chooser allows users to easily set and manage their default assistant 
 
 - 🐙 **Source Code:** [https://github.com/Ayaanh001/Assistant-Chooser](https://github.com/Ayaanh001/Assistant-Chooser)
 - 👤 **Developer:** [Ayaan Hussain](https://github.com/Ayaanh001)
+
+
+---
+
+### 📦 SmartTube
+
+> **Categories:** `#YouTube` `#Android` `#TVApp`
+
+SmartTube is a free, standalone Android TV application that provides a familiar YouTube interface while stripping out ads and enabling features typically locked behind a YouTube Premium subscription. It connects directly to YouTube's services, so you have full access to your subscriptions, playlists, and history, but it intercepts and blocks the video ads server-side before they ever reach your screen.
+
+Creator:   yuliskov
+Stars ⭐️:  26,000
+Forked by:  1,000
+
+- 🐙 **Source Code:** [https://github.com/yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+- 👤 **Developer:** yuliskov
 
 
 ---
@@ -5298,6 +6080,20 @@ Awesome Nothing is a curated hub that indexes everything related to the Nothing 
 
 ---
 
+### 📦 Vello
+
+> **Categories:** `#rust`
+
+Vello is a fast 2D graphics renderer written in Rust that uses your GPU's compute power to draw shapes, images, text, and gradients[1]. Unlike older renderers that rely on your CPU for sorting and clipping, Vello moves most work to the GPU using special algorithms, giving you much better performance with less computer power needed[1][2]. It can draw large scenes smoothly and interactively, making it perfect for user interfaces, games, and animation tools[1]. You benefit from faster, smoother graphics with lower energy use, and it works across different platforms including web and Android.
+
+https://github.com/linebender/vello
+
+- 🐙 **Source Code:** [https://github.com/linebender/vello](https://github.com/linebender/vello)
+- 👤 **Developer:** [linebender](https://github.com/linebender)
+
+
+---
+
 ### 📦 Furtive
 
 > **Categories:** `#Android` `#GPS` `#Tracking` `#Utilities`
@@ -5336,6 +6132,19 @@ mpvExtended is a front-end for the versatile media player mpv, built on the libm
 
 ---
 
+### 📦 Snapchat/Valdi
+
+> **Categories:** `#android` `#cross_platform` `#ios` `#typescript`
+
+Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/Snapchat/Valdi](https://github.com/Snapchat/Valdi)
+- 👤 **Developer:** [Snapchat](https://github.com/Snapchat)
+
+
+---
+
 ### 📦 Sozo for AndroidTV
 
 > **Categories:** `#Anime` `#Movie` `#AndroidTV`
@@ -5369,6 +6178,47 @@ A lightweight, privacy focused Android firewall application that blocks network 
 
 ---
 
+### 📦 Ggml
+
+> **Categories:** `#cplusplus` `#automatic_differentiation` `#large_language_models` `#machine_learning` `#tensor_algebra`
+
+GGML is a lightweight, efficient tensor library written in C that helps you run large machine learning models on everyday hardware like laptops, phones, and even Raspberry Pi. It supports integer quantization (reducing model size and speeding up processing), automatic differentiation, and works across many platforms without needing extra software. GGML uses zero memory allocation during runtime, which improves performance and is great for edge devices with limited resources. You can build and run models easily, including GPT-2, and it supports CUDA, Android, and other hardware. This means you can use advanced AI models faster and cheaper on your existing devices.
+
+https://github.com/ggml-org/ggml
+
+- 🐙 **Source Code:** [https://github.com/ggml-org/ggml](https://github.com/ggml-org/ggml)
+- 👤 **Developer:** [ggml-org](https://github.com/ggml-org)
+
+
+---
+
+### 📦 Paddle Lite
+
+> **Categories:** `#cplusplus` `#arm` `#baidu` `#deep_learning` `#embedded` `#fpga` `#mali` `#mdl` `#mobile` `#mobile_deep_learning` `#neural_network`
+
+Paddle Lite is a lightweight, high-performance deep learning inference framework designed to run AI models efficiently on mobile, embedded, and edge devices. It supports multiple platforms like Android, iOS, Linux, Windows, and macOS, and languages including C++, Java, and Python. You can easily convert models from other frameworks to PaddlePaddle format, optimize them for faster and smaller deployment, and run them with ready-made examples. This helps you deploy AI applications quickly on various devices with low memory use and fast speed, making it ideal for real-time, resource-limited environments. It also supports many hardware accelerators for better performance.
+
+https://github.com/PaddlePaddle/Paddle-Lite
+
+- 🐙 **Source Code:** [https://github.com/PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
+- 👤 **Developer:** [PaddlePaddle](https://github.com/PaddlePaddle)
+
+
+---
+
+### 📦 skydoves/compose-stability-analyzer
+
+> **Categories:** `#android` `#compose` `#intellij_plugin` `#jetpack_compose` `#kotlin_compiler_plugin` `#skydoves` `#stability` `#GitHub` `#OpenSource`
+
+🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
 ### 📦 Seeneva: smart comic reader
 
 > **Categories:** `#Android` `#Comic` `#Reader`
@@ -5377,6 +6227,19 @@ Fully open source smart comic book reader with the ability to use OCR and TTS.
 
 - 🐙 **Source Code:** [https://github.com/Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android)
 - 👤 **Developer:** [Seeneva comic book reader](https://github.com/Seeneva)
+
+
+---
+
+### 📦 borndotcom/react-native-godot
+
+> **Categories:** `#android` `#godot` `#godot_engine` `#ios` `#react_native`
+
+React Native Godot - Embed Godot Engine in React Native apps
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)
+- 👤 **Developer:** [borndotcom](https://github.com/borndotcom)
 
 
 ---
@@ -5697,6 +6560,25 @@ Apocalypse is an Android app that lets you preview and download media from popul
 
 ---
 
+### 📦 Polymarketviewer
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Built using Jetpack Compose and modern Android development techniques following clean architecture principles.
+
+**Characteristics:**
+▫️ View the list of active events in the prediction market on Polymarket.com
+▫️ Filter events by category and search function
+▫️ Sorting events according to various criteria (volume for 24 hours/all time, liquidity, novelty, soon to end, competitiveness)
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/streamatico/PolymarketViewer](https://github.com/streamatico/PolymarketViewer)
+- 👤 **Developer:** [streamatico](https://github.com/streamatico)
+
+
+---
+
 ### 📦 Nuvio Media Hub
 
 > **Categories:** `#Android` `#iOS` `#Media`
@@ -5956,6 +6838,20 @@ No-code Android HTTP server builder. Create dynamic servers instantly, host webs
 
 ---
 
+### 📦 Libdatachannel
+
+> **Categories:** `#cplusplus` `#c_plus_plus` `#cpp` `#datachannel` `#libdatachannel` `#libnice` `#p2p` `#peer_to_peer` `#peerconnection` `#rfc_8831` `#rfc_8834` `#rtcdatachannel` `#rtcpeerconnection` `#sctp` `#webrtc` `#webrtc_datachannel` `#webrtc_video` `#websocket`
+
+libdatachannel is a lightweight, easy-to-use C/C++ library that lets you add real-time peer-to-peer data, media, and WebSocket communication to your apps across many platforms like Linux, Windows, macOS, Android, and iOS. It simplifies WebRTC by providing a smaller, simpler alternative to Google's library, with compatibility for browsers like Firefox and Chrome. You can use it to connect native apps directly to web browsers with minimal dependencies, supporting secure connections via GnuTLS, Mbed TLS, or OpenSSL. It also supports compiling to WebAssembly for browser use, making it flexible for cross-platform real-time communication development[1][4]. This helps you build fast, efficient apps for video, audio, or data sharing without heavy libraries.
+
+https://github.com/paullouisageneau/libdatachannel
+
+- 🐙 **Source Code:** [https://github.com/paullouisageneau/libdatachannel](https://github.com/paullouisageneau/libdatachannel)
+- 👤 **Developer:** [paullouisageneau](https://github.com/paullouisageneau)
+
+
+---
+
 ### 📦 LTE Cleaner FOSS
 
 > **Categories:** `#Android` `#Tools` `#Cleaning`
@@ -6034,6 +6930,34 @@ A podcast listening app that showcases using Jetpack Media 3 in a real, offline-
 
 ---
 
+### 📦 Ticket Purchase
+
+> **Categories:** `#python`
+
+You can use a Python script with Selenium or Appium to automatically buy tickets on Damai (大麦网) without delay. By setting up Python, installing required packages, and configuring a file with your desired concert details (like city, date, price, and attendees), the script simulates the buying process and can auto-submit orders for you. This saves you time and effort, increasing your chances of getting tickets quickly during high-demand sales. For mobile app ticket buying, Appium automates the process but requires extra setup like Node.js and Android SDK. This automation helps you avoid manual refreshing and speeds up ticket purchase.
+
+https://github.com/WECENG/ticket-purchase
+
+- 🐙 **Source Code:** [https://github.com/WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
+- 👤 **Developer:** [WECENG](https://github.com/WECENG)
+
+
+---
+
+### 📦 🔥 Trending Repository: NekoBoxForAndroid
+
+> **Categories:** `#readme` `#android` `#proxy` `#shadowsocks` `#vpn` `#trojan` `#gfw` `#vmess` `#sing_box` `#kotlin`
+
+📝 **Description:** NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+🔗 **Repository URL:** [https://github.com/MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+
+- 🐙 **Source Code:** [https://github.com/MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+- 👤 **Developer:** [MatsuriDayo](https://github.com/MatsuriDayo)
+
+
+---
+
 ### 📦 FairScan
 
 > **Categories:** `#Android` `#Utilities`
@@ -6105,6 +7029,36 @@ Ampersand is a research project, and also an app. It wants to do one thing and d
 
 ---
 
+### 📦 Revanced Patches
+
+> **Categories:** `#java` `#android` `#dalvik` `#kotlin` `#patches` `#revanced` `#reverse_engineering`
+
+ReVanced Patches let you customize Android apps by adding new features, blocking ads, changing how apps look, and more. You can remove annoying ads, personalize app themes, enable background playback, and unlock extra controls. Using tools like ReVanced Manager, you can easily apply these patches without technical hassle. This means you get a cleaner, more enjoyable app experience, especially for apps like YouTube, without paying for premium versions. It also supports ongoing updates and a community that keeps improving it, so your apps stay fresh and tailored to your needs.
+
+https://github.com/ReVanced/revanced-patches
+
+- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
+
+
+---
+
+### 📦 Phaser
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Games can be created for web platforms, YouTube Playables, Discord Activities, Twitch Overlays, or compiled for iOS, Android, Steam and native applications using third-party tools.
+
+You can use JavaScript or TypeScript for development. Phaser supports over 40 different front-end frameworks, including React and Vue.
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/phaserjs/phaser](https://github.com/phaserjs/phaser)
+- 👤 **Developer:** [phaserjs](https://github.com/phaserjs)
+
+
+---
+
 ### 📦 WhatAnime
 
 > **Categories:** `#Android` `#Utilities`
@@ -6169,6 +7123,34 @@ A periodic table for all your science needs for both schoolwork and fun!
 <p align="center"><img src="../../assets/apps/atomic-periodic-table/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
 
 </details>
+
+
+---
+
+### 📦 🔥 Trending Repository: FtcRobotController
+
+> **Categories:** `#readme`
+
+📝 **Description:** FTC Android Studio Workspace for robot programming in Android Studio
+
+🔗 **Repository URL:** [https://github.com/FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
+
+📖 **Readme:** [https://github.com/FIRST-Tech-Challenge/FtcRobotController#readme](https://github.com/FIRST-Tech-Challenge/FtcRobotController#readme)
+
+📊 **Statistics:**
+🌟 Stars: 975 stars
+👀 Watchers: 69
+🍴 Forks: 6.7K forks
+
+💻 **Programming Languages:** Java
+
+🏷️ **Related Topics:** Not available
+
+==================================
+🧠 **By: ****https://t.me/DataScienceM**
+
+- 🐙 **Source Code:** [https://github.com/FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
+- 👤 **Developer:** [FIRST-Tech-Challenge](https://github.com/FIRST-Tech-Challenge)
 
 
 ---
@@ -6414,6 +7396,20 @@ Links 🔗
 
 ---
 
+### 📦 Koog
+
+> **Categories:** `#kotlin` `#agentframework` `#agentic_ai` `#agents` `#ai` `#aiagentframework` `#android_ai` `#anthropic` `#generative_ai` `#java` `#jvm` `#ktor` `#llm` `#mcp` `#ollama` `#openai` `#spring`
+
+Koog is a Kotlin-based open-source framework that helps you build AI agents fully in Kotlin, making it easy to create smart assistants that can use tools, manage complex tasks, and remember past interactions. It supports multiple AI models like OpenAI and Google, runs on many platforms (JVM, JavaScript, iOS), and offers features like real-time streaming, custom tools, and efficient memory use. Koog also provides debugging tools, flexible workflows, and scales from simple chatbots to enterprise systems. Using Koog lets you develop powerful, maintainable AI agents quickly and naturally within the Kotlin ecosystem, benefiting your projects with speed, flexibility, and strong integration options.
+
+https://github.com/JetBrains/koog
+
+- 🐙 **Source Code:** [https://github.com/JetBrains/koog](https://github.com/JetBrains/koog)
+- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
+
+
+---
+
 ### 📦 Coreply
 
 > **Categories:** `#Android` `#AI` `#Tools` `#Writing`
@@ -6458,6 +7454,19 @@ Improves the quality and level of audio sent via WhatsApp when the microphone le
 
 ---
 
+### 📦 minitap-ai/mobile-use
+
+> **Categories:** `#agents` `#ai` `#browser_use` `#langgraph` `#mobile` `#mobile_use` `#python` `#GitHub` `#OpenSource`
+
+AI agents can now use real Android and iOS apps, just like a human.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
+- 👤 **Developer:** [minitap-ai](https://github.com/minitap-ai)
+
+
+---
+
 ### 📦 Repertoire
 
 > **Categories:** `#Android` `#Linux` `#Windows` `#Web` `#Entertaiment`
@@ -6498,6 +7507,31 @@ WebLibre is an independent browser project built on the foundation of Mozilla's 
 
 ---
 
+### 📦 Awesome Jetpack Compose Learning Resources
+
+> **Categories:** `#readme` `#android` `#kotlin` `#awesome` `#mvvm` `#android_architecture` `#compose` `#beginner_friendly` `#android_apps` `#hacktoberfest` `#coroutines_android` `#mvvm_android` `#android_jetpack` `#first_issue` `#jetpack_android` `#learn_android` `#jetpack_compose` `#hacktoberfest2020` `#android_compose` `#awesome_android`
+
+📝 **Description:** 👓 A continuously updated list of learning Jetpack Compose for Android apps.
+
+🔗 **Repository URL:** [https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources)
+
+📖 **Readme:** [https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources#readme](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources#readme)
+
+📊 **Statistics:**
+🌟 Stars: 1.4K stars
+👀 Watchers: 41
+🍴 Forks: 140 forks
+
+💻 **Programming Languages:** Kotlin
+
+🏷️ **Related Topics:**
+
+- 🐙 **Source Code:** [https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources)
+- 👤 **Developer:** [androiddevnotes](https://github.com/androiddevnotes)
+
+
+---
+
 ### 📦 BadLock
 
 > **Categories:** `#Android` `#Tools`
@@ -6519,6 +7553,32 @@ An alternative, user-friendly client for managing Samsung Good Lock modules, bui
 - **App Info Shortcut** — A one-tap shortcut to the Android App Info screen for easy management of installed modules.
 
 </details>
+
+
+---
+
+### 📦 Docker Android
+
+> **Categories:** `#python` `#alibabacloud` `#android` `#android_emulator` `#aws` `#azure` `#cloud` `#docker` `#docker_android` `#emulator` `#gcp` `#genymotion` `#jenkins` `#kubernetes` `#mobile_app` `#mobile_web` `#novnc` `#saltstack` `#selenium` `#selenium_grid` `#terraform` `#shell` `#ci_pipeline` `#GitHub` `#OpenSource`
+
+You can use Docker-Android to run Android emulators inside Docker containers, which helps you develop and test Android apps easily without needing physical devices. It offers many device profiles like Samsung Galaxy and Nexus models, supports viewing the emulator via VNC, sharing logs through a web interface, and controlling the emulator remotely with adb. It works on Ubuntu and can integrate with cloud services like Genymotion. This setup speeds up development, testing, and automation, making your workflow more consistent and efficient while saving resources. You can also persist data and run unit or UI tests with popular frameworks like Appium and Espresso. This helps you build and test Android apps faster and more reliably.
+
+https://github.com/budtmo/docker-android
+
+- 🐙 **Source Code:** [https://github.com/budtmo/docker-android](https://github.com/budtmo/docker-android)
+- 👤 **Developer:** [budtmo](https://github.com/budtmo)
+
+
+---
+
+### 📦 Become Android Developer
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/DoggyDoggyDoggy/Become-Android-Developer](https://github.com/DoggyDoggyDoggy/Become-Android-Developer)
+- 👤 **Developer:** [говое](https://t.me/+3xphzXTayGE1NDVi)
 
 
 ---
@@ -6645,6 +7705,20 @@ Shappky, short for Shell App Killer, is an app that stops background application
 
 ---
 
+### 📦 Dart Simple Live
+
+> **Categories:** `#dart`
+
+You can watch live streams simply on multiple platforms like Huya, Douyu, Bilibili, and Douyin using an app called Simple Live. It works on Android, iOS, Windows, MacOS, Linux, and Android TV, though some versions are still in beta. The app is built with Flutter and includes features to get live video and chat messages (danmaku) from these sites. You need to compile the app yourself since no ready-made installer is provided. This gives you a lightweight, easy way to watch live broadcasts from popular Chinese streaming platforms on many devices without extra cost or ads.
+
+https://github.com/xiaoyaocz/dart_simple_live
+
+- 🐙 **Source Code:** [https://github.com/xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
+- 👤 **Developer:** [xiaoyaocz](https://github.com/xiaoyaocz)
+
+
+---
+
 ### 📦 Smart Cleaner for Android
 
 > **Categories:** `#Android` `#Cleaner` `#Tool`
@@ -6653,6 +7727,34 @@ Smart Cleaner helps you free up space and manage your device. It can remove junk
 
 - 🐙 **Source Code:** [https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android)
 - 👤 **Developer:** CristianCondrea
+
+
+---
+
+### 📦 Revanced Manager
+
+> **Categories:** `#dart` `#android` `#flutter` `#flutter_apps` `#manager` `#modding` `#patching` `#revanced` `#Interesting` `#YouTube`
+
+ReVanced Manager is an app for Android that lets you customize and patch other apps, like YouTube, to remove ads and add features without needing subscriptions. It is easy to use, works on both rooted and non-rooted devices, and offers many options to tailor apps to your liking. You download the official app, then apply patches you want, creating a personalized, ad-free experience. This saves you money and improves app use while staying legal and supported by an active community. It is lightweight, regularly updated, and has a simple interface, making app customization safe and convenient[1][3][5].
+
+https://github.com/ReVanced/revanced-manager
+
+- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
+- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
+
+
+---
+
+### 📦 Fgo Py
+
+> **Categories:** `#python` `#adb` `#airtest` `#cv` `#fate_grand_order` `#fgo` `#qt6`
+
+This program automates playing Fate/Grand Order on Android in multiple languages (Chinese, Japanese, English, Taiwanese). It can run on Windows, Linux, Mac, Android, and Docker, requiring minimal setup. It smartly controls battles by choosing skills, cards, and support servants without needing manual input or special equipment. It also automates weekly missions, friend support selection, and item management, saving you time and effort. You can run it on your phone or PC, even using tools like AidLux or AzurLaneAutoScript. It helps you farm efficiently without worrying about complicated setups or "best" cards, making the game easier and less time-consuming[5].
+
+https://github.com/hgjazhgj/FGO-py
+
+- 🐙 **Source Code:** [https://github.com/hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py)
+- 👤 **Developer:** [hgjazhgj](https://github.com/hgjazhgj)
 
 
 ---
@@ -6693,6 +7795,34 @@ A digital vault for storing passwords with symmetric cryptography. Nothing K use
 
 ---
 
+### 📦 Sillytavern
+
+> **Categories:** `#javascript` `#ai` `#chat` `#llm`
+
+SillyTavern is a free, open-source program you install on your own device that lets you chat with AI characters you create or import. It supports many AI models for text, images, and voice, and offers lots of customization like character personalities, group chats, and automatic translation. It works on most computers and even Android via Termux. You get full control over AI prompts and can save chat history to continue anytime. This means you can have fun, creative conversations or use AI for writing help, all privately without online tracking. It’s great for anyone wanting a powerful, flexible AI chat experience on their own terms[1][2][3][4].
+
+https://github.com/SillyTavern/SillyTavern
+
+- 🐙 **Source Code:** [https://github.com/SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+- 👤 **Developer:** [SillyTavern](https://github.com/SillyTavern)
+
+
+---
+
+### 📦 Copyparty
+
+> **Categories:** `#python` `#copyparty` `#file_server` `#file_sharing` `#file_upload_server` `#ftp_server` `#nas_frontend` `#tftp_server` `#webdav_server` `#GitHub` `#OpenSource`
+
+Copyparty is a free, open-source file server that runs on almost any device with Python, letting you share files easily through any web browser or protocols like FTP, WebDAV, and SMB. It supports resumable, fast uploads and downloads, folder zipping, media streaming, and file searching. You can upload by dragging files into the browser, and uploads resume automatically if interrupted. It works on many platforms including Windows, Linux, Mac, Android, and even old browsers or devices. Copyparty is lightweight, flexible, and secure, with features like password protection, file deduplication, and temporary file sharing. This makes it a powerful tool for simple, fast, and versatile file sharing without complex setup.
+
+https://github.com/9001/copyparty
+
+- 🐙 **Source Code:** [https://github.com/9001/copyparty](https://github.com/9001/copyparty)
+- 👤 **Developer:** [9001](https://github.com/9001)
+
+
+---
+
 ### 📦 Mitool for Android
 
 > **Categories:** `#Android` `#Hyperos` `#Tools`
@@ -6701,6 +7831,20 @@ An application that transforms Xiaomi's official tools into a flexible mobile ex
 
 - 🐙 **Source Code:** [https://github.com/offici5l/MiTools](https://github.com/offici5l/MiTools)
 - 👤 **Developer:** offici5l
+
+
+---
+
+### 📦 Pakeplus
+
+> **Categories:** `#vue` `#pake` `#pakeplus` `#rust` `#tauri` `#tauri2` `#vue3` `#webapp`
+
+You can quickly turn any website or web project like Vue or React into a small, fast desktop or mobile app under 5MB using PakePlus. It works on Mac, Windows, Linux, Android, and iOS without needing complex setups. PakePlus is much smaller and faster than similar tools, supports custom JavaScript, and keeps your data secure by using your own GitHub repository. It’s easy to use with just one GitHub token or even without one for local packaging. This helps you create apps fast, hide website addresses, add custom features, and run your web projects as apps on many platforms.
+
+https://github.com/Sjj1024/PakePlus
+
+- 🐙 **Source Code:** [https://github.com/Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus)
+- 👤 **Developer:** [Sjj1024](https://github.com/Sjj1024)
 
 
 ---
@@ -6746,6 +7890,22 @@ FlipperDroid transforms a modern Android phone into a flexible and portable alte
 
 - 🐙 **Source Code:** [https://github.com/a3x-xyz/Winlay](https://github.com/a3x-xyz/Winlay)
 - 👤 **Developer:** [A3X](https://github.com/a3x-xyz)
+
+
+---
+
+### 📦 tldr-pages/tldr
+
+> **Categories:** `#github` `#markdown` `#android` `#bsd` `#cheatsheet` `#cheatsheets` `#command_line` `#console` `#documentation` `#examples` `#hacktoberfest` `#help` `#linux` `#macos` `#man_page` `#manpages` `#manual` `#osx` `#shell` `#terminal` `#tldr` `#windows` `#OpenSource`
+
+Community-driven cheatsheets for console commands
+
+Creator:   tldr-pages
+Stars ⭐️:  56,467
+Forked by:   4,567
+
+- 🐙 **Source Code:** [https://github.com/tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+- 👤 **Developer:** tldr-pages
 
 
 ---
@@ -6856,6 +8016,20 @@ Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expressive
 
 ---
 
+### 📦 Wirelessandroidautodongle
+
+> **Categories:** `#cplusplus` `#android_auto` `#android_automotive` `#headunit` `#wireless_android_auto`
+
+You can turn your car’s wired Android Auto into wireless using a Raspberry Pi and a special software called Wireless Android Auto Dongle. This DIY adapter connects your phone to the car wirelessly via Bluetooth and Wi-Fi, without needing extra apps on your phone. It works with several Raspberry Pi models and boots up quickly, connecting in under 30 seconds. After the first setup, it automatically connects every time you start your car, making your Android Auto experience seamless and cable-free. This saves you from plugging in your phone every time and keeps your car’s infotainment system working smoothly[1][2][3].
+
+https://github.com/nisargjhaveri/WirelessAndroidAutoDongle
+
+- 🐙 **Source Code:** [https://github.com/nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle)
+- 👤 **Developer:** [nisargjhaveri](https://github.com/nisargjhaveri)
+
+
+---
+
 ### 📦 Ultimatum
 
 > **Categories:** `#Android` `#Browser` `#Chromium` `#GitHub` `#OpenSource`
@@ -6880,6 +8054,35 @@ YouTube and YouTube Music in a single app. No ads, plays in the background
 
 ---
 
+### 📦 Proxypin
+
+> **Categories:** `#dart` `#capture_traffic` `#httpdebug` `#proxy` `#proxypin` `#zhuabao`
+
+ProxyPin is a free, open-source tool that lets you capture, inspect, and modify HTTP(S) traffic on many devices like Windows, Mac, Android, iOS, and Linux. It’s easy to use with a nice interface and supports features like scanning QR codes to connect devices without manual setup, filtering traffic by domain, searching requests, rewriting or blocking requests, and saving traffic history. You can also write JavaScript scripts to customize how requests and responses are handled. This helps you debug network issues, analyze app traffic (including Flutter apps), and improve security or performance efficiently across platforms[1][3].
+
+https://github.com/wanghongenpin/proxypin
+
+- 🐙 **Source Code:** [https://github.com/wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
+- 👤 **Developer:** [wanghongenpin](https://github.com/wanghongenpin)
+
+
+---
+
+### 📦 callebtc/bitchat-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+bluetooth mesh chat, IRC vibes
+**Language**: Kotlin
+**Stars**: 292 **Issues**: 2 **Forks**: 32
+[https://github.com/callebtc/bitchat-android](https://github.com/callebtc/bitchat-android)
+
+- 🐙 **Source Code:** [https://github.com/callebtc/bitchat-android](https://github.com/callebtc/bitchat-android)
+- 👤 **Developer:** [callebtc](https://github.com/callebtc)
+
+
+---
+
 ### 📦 OneURL
 
 > **Categories:** `#Android` `#Utilities`
@@ -6900,6 +8103,34 @@ An android app to search and download torrents from multiple providers.
 
 - 🐙 **Source Code:** [https://github.com/prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 - 👤 **Developer:** [Prajwal Chapagain](https://github.com/prajwalch)
+
+
+---
+
+### 📦 Gyroflow
+
+> **Categories:** `#rust` `#fpv` `#gopro` `#gpu` `#gpu_computing` `#gyroscope` `#insta360` `#rolling_shutter_undistortion` `#sony_alpha_cameras` `#stabilization` `#video` `#video_processing` `#Interesting` `#Useful`
+
+Gyroflow is a powerful video stabilization software that uses gyroscope data from cameras like GoPro, Sony, and Insta360 to make your videos smooth and steady. It corrects lens distortion, rolling shutter effects, and can even level the horizon for a professional look. You can preview changes in real-time, use GPU acceleration for fast processing, and apply stabilization directly in popular video editors with plugins. It supports many video formats and works on Windows, Mac, Linux, Android, and iOS. Using Gyroflow helps you create high-quality, cinematic videos without bulky equipment or complicated setups[1][3][5].
+
+https://github.com/gyroflow/gyroflow
+
+- 🐙 **Source Code:** [https://github.com/gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
+- 👤 **Developer:** [gyroflow](https://github.com/gyroflow)
+
+
+---
+
+### 📦 Thorium
+
+> **Categories:** `#cplusplus` `#aes` `#avx` `#avx_instructions` `#chrome` `#chrome_devtools` `#chromedriver` `#chromium` `#chromium_browser` `#content_shell` `#jpeg_xl` `#jpegxl` `#jxl` `#libjxl` `#linux` `#thorium` `#thorium_browser` `#thoriumos` `#web_browser` `#web_platform` `#webbrowser`
+
+Thorium is a fast, optimized web browser based on Chromium, designed to work well on modern CPUs with advanced instruction sets like AVX and SSE4. It offers better performance than standard Chromium and Chrome, opening tabs and rendering pages quickly. Thorium includes enhanced privacy features such as DNS over HTTPS and Do Not Track enabled by default, plus support for modern media formats like HEVC and JPEG XL. It keeps the familiar Chrome interface and supports all Chrome extensions, making it easy to switch. Available on Windows, Linux, macOS, Android, and Raspberry Pi, it suits users wanting speed, privacy, and compatibility across devices[3][5][1].
+
+https://github.com/Alex313031/thorium
+
+- 🐙 **Source Code:** [https://github.com/Alex313031/thorium](https://github.com/Alex313031/thorium)
+- 👤 **Developer:** [Alex313031](https://github.com/Alex313031)
 
 
 ---
@@ -7136,6 +8367,37 @@ An open-source application that allows you to copy OTP and codes from SMS and no
 
 - 🐙 **Source Code:** [https://github.com/jd1378/otphelper](https://github.com/jd1378/otphelper)
 - 👤 **Developer:** [javad mnjd](https://github.com/jd1378)
+
+
+---
+
+### 📦 Geyser
+
+> **Categories:** `#java` `#bedrock` `#bedrock_edition` `#bedrock_to_java` `#bungee` `#fabric` `#geyser` `#geysermc` `#hacktoberfest` `#java_edition` `#minecraft` `#minecraft_bedrock_edition` `#packet` `#pe` `#protocol` `#proxy` `#spigot` `#translator` `#velocity`
+
+Geyser is a free tool that lets you play Minecraft across different versions by connecting Minecraft Java Edition servers. It works by translating data between the two game versions, enabling cross-platform play on devices like Windows, iOS, Android, and consoles. You can install it as a plugin or standalone, and it supports recent Minecraft versions. This means you can join Java servers even if you only have Bedrock Edition, expanding your multiplayer options without needing a separate Java account if you use the Floodgate plugin. It’s great for seamless crossplay but may have some minor limitations due to game differences[1][2][5].
+
+https://github.com/GeyserMC/Geyser
+
+- 🐙 **Source Code:** [https://github.com/GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
+- 👤 **Developer:** [GeyserMC](https://github.com/GeyserMC)
+
+
+---
+
+### 📦 Intent | AI-Enhanced Telegram
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🌐 Supports real-time translation in 86 languages
+💬 Simply swipe up during chat to let AI automatically generate contextual replies
+🎙 Instant AI enhanced voice-to-text conversion
+🧠 Built-in mainstream models including GPT-4o, Claude 3.7, Gemini 2, Deepseek, etc., activated with one click
+🎁 Currently offering generous free AI credits
+📱 Supports Android & iOS systems
+🔎 [Website](https://bit.ly/3TxMKDP) | 📬 [Download](https://intent.onelink.me/2arX/uqik2ecy)
+
+- 🌐 **Official Website:** [https://intent.onelink.me/2arX/uqik2ecy](https://intent.onelink.me/2arX/uqik2ecy)
 
 
 ---
@@ -7399,6 +8661,34 @@ PlusPlusBattery is a lightweight battery info and health estimation tool specifi
 
 ---
 
+### 📦 Vosk Api
+
+> **Categories:** `#jupyter_notebook` `#android` `#asr` `#deep_learning` `#deep_neural_networks` `#deepspeech` `#google_speech_to_text` `#ios` `#kaldi` `#offline` `#privacy` `#python` `#raspberry_pi` `#speaker_identification` `#speaker_verification` `#speech_recognition` `#speech_to_text` `#speech_to_text_android` `#stt` `#voice_recognition` `#vosk` `#Speech` `#Recognition` `#Java` `#CSharp` `#Cpp` `#NodeJS`
+
+Vosk is a powerful tool for recognizing speech without needing the internet. It supports over 20 languages and dialects, making it useful for many different users. Vosk is small and efficient, allowing it to work on small devices like smartphones and Raspberry Pi. It can be used for things like chatbots, smart home devices, and creating subtitles for videos. This means users can have private and fast speech recognition anywhere, which is especially helpful when internet access is limited.
+
+https://github.com/alphacep/vosk-api
+
+- 🐙 **Source Code:** [https://github.com/alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+- 👤 **Developer:** [alphacep](https://github.com/alphacep)
+
+
+---
+
+### 📦 Note Gen
+
+> **Categories:** `#typescript` `#assistant` `#chatbot` `#knowledge_base` `#llm` `#markdown` `#nextjs` `#note_taking` `#notes_app` `#openai` `#rag` `#tauri` `#webdav`
+
+NoteGen is a helpful tool for taking notes. It works on many devices like Mac, Windows, and Linux, and will soon work on iOS and Android. It uses AI to help you organize your recordings into readable notes. You can record audio, take screenshots, and add text or images to your notes. NoteGen also supports Markdown, which makes it easy to format your notes. It helps you save time by automatically organizing your recordings and allows you to use AI models like ChatGPT for assistance. This makes it easier to write and manage your notes efficiently.
+
+https://github.com/codexu/note-gen
+
+- 🐙 **Source Code:** [https://github.com/codexu/note-gen](https://github.com/codexu/note-gen)
+- 👤 **Developer:** [codexu](https://github.com/codexu)
+
+
+---
+
 ### 📦 Digitally
 
 > **Categories:** `#features` `#Android` `#Productivity` `#Habits`
@@ -7444,6 +8734,20 @@ JITA is a comprehensive productivity and task management application for Android
 
 ---
 
+### 📦 Assimp
+
+> **Categories:** `#cplusplus` `#3mf` `#android` `#asset_pipeline` `#assets` `#assimp` `#c_plus_plus` `#collada` `#dae` `#fbx` `#fbx_exporter` `#game_development` `#gamedev_tool` `#gamedevelopment` `#gltf` `#gltf2` `#ifc` `#patreon` `#python` `#stl`
+
+The Open Asset Import Library (Assimp) is a tool that helps load many different 3D file formats into a common format. It supports over 40 formats for importing and several for exporting. Assimp works on various platforms like Windows, macOS, Linux, Android, and iOS. It also provides tools to improve the 3D models, such as fixing errors and making them look better. This library is useful for developers because it simplifies working with different 3D file types, making it easier to create and manage 3D content across different systems.
+
+https://github.com/assimp/assimp
+
+- 🐙 **Source Code:** [https://github.com/assimp/assimp](https://github.com/assimp/assimp)
+- 👤 **Developer:** [assimp](https://github.com/assimp)
+
+
+---
+
 ### 📦 Packet
 
 > **Categories:** `#Linux` `#Tools`
@@ -7452,6 +8756,34 @@ A partial implementation of Google's Quick Share protocol that lets you send and
 
 - 🐙 **Source Code:** [https://github.com/nozwock/packet](https://github.com/nozwock/packet)
 - 👤 **Developer:** [nozwock](https://github.com/nozwock)
+
+
+---
+
+### 📦 Nowinandroid
+
+> **Categories:** `#kotlin` `#android` `#jetpack_compose` `#GitHub` `#OpenSource`
+
+Now in Android is a real-world app built with Kotlin and Jetpack Compose, designed to show developers how to make modern Android apps using best practices. It lets you browse and follow news, videos, and articles about Android development, and notifies you about new content matching your interests. The app is open-source, so you can see how it’s built, learn from its architecture and modularization, and use it as a reference for your own projects. This helps you stay updated on Android news and improve your app-building skills by seeing how a professional app is structured and tested[2][4][5].
+
+https://github.com/android/nowinandroid
+
+- 🐙 **Source Code:** [https://github.com/android/nowinandroid](https://github.com/android/nowinandroid)
+- 👤 **Developer:** [android](https://github.com/android)
+
+
+---
+
+### 📦 React Native
+
+> **Categories:** `#cplusplus` `#android` `#app_framework` `#cross_platform` `#ios` `#mobile` `#mobile_development` `#react` `#react_native` `#GitHub` `#OpenSource`
+
+React Native lets you build mobile apps for both iOS and Android using just one set of code, which saves a lot of time and effort compared to making separate apps for each platform. You use familiar JavaScript and React skills, and your app looks and feels like a native app on each device. Changes to your code show up quickly, so you can test and improve your app fast. This means you can get your app to users sooner, with less work and cost, and you can easily update or add new features as needed[1][3][5].
+
+https://github.com/facebook/react-native
+
+- 🐙 **Source Code:** [https://github.com/facebook/react-native](https://github.com/facebook/react-native)
+- 👤 **Developer:** [facebook](https://github.com/facebook)
 
 
 ---
@@ -7566,6 +8898,35 @@ This means to save the install file from the Version on your device to your Syst
 
 ---
 
+### 📦 micahflee/TM-SGNL-Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Unofficial and insecure Signal app, used by senior Trump officials like Mike Waltz, downloaded from the official TeleMessage website
+**Language**: Java
+**Stars**: 149 **Issues**: 2 **Forks**: 42
+[https://github.com/micahflee/TM-SGNL-Android](https://github.com/micahflee/TM-SGNL-Android)
+
+- 🐙 **Source Code:** [https://github.com/micahflee/TM-SGNL-Android](https://github.com/micahflee/TM-SGNL-Android)
+- 👤 **Developer:** [micahflee](https://github.com/micahflee)
+
+
+---
+
+### 📦 Compose Multiplatform
+
+> **Categories:** `#kotlin` `#android` `#awt` `#compose` `#declarative_ui` `#desktop` `#gui` `#ios` `#javascript` `#multiplatform` `#reactive` `#swing` `#ui` `#wasm` `#web` `#webassembly` `#GitHub` `#OpenSource`
+
+Compose Multiplatform is a Kotlin-based framework by JetBrains that lets you build user interfaces for multiple platforms—iOS, Android, desktop (Windows, macOS, Linux), and web—using mostly shared code. It is based on Jetpack Compose for Android, so you can use similar APIs across platforms, speeding up development and ensuring consistent UI design. iOS support is in beta, web is in alpha, and desktop and Android are stable. You can also access native features like camera or maps easily. This helps you save time, reduce bugs, and create apps that work well everywhere with less effort.
+
+https://github.com/JetBrains/compose-multiplatform
+
+- 🐙 **Source Code:** [https://github.com/JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
+
+
+---
+
 ### 📦 Piko
 
 > **Categories:** `#Android` `#ReVanced` `#Twitter`
@@ -7621,6 +8982,20 @@ Discover the power of AI with our Kotlin Multiplatform app. Choose from the late
 - 🐙 **Source Code:** [https://t.me/popCLOUDS/9177](https://t.me/popCLOUDS/9177)
 - 🌐 **Official Website:** [https://github.com/yassineAbou](https://github.com/yassineAbou)
 - 👤 **Developer:** Yassine Abouabdellah
+
+
+---
+
+### 📦 Mnn
+
+> **Categories:** `#cplusplus` `#arm` `#convolution` `#deep_learning` `#embedded_devices` `#llm` `#machine_learning` `#ml` `#mnn` `#transformer` `#vulkan` `#winograd_algorithm` `#GitHub` `#OpenSource`
+
+MNN is a lightweight and efficient deep learning framework that helps run AI models on mobile devices and other small devices. It supports many types of AI models and can handle tasks like image recognition and language processing quickly and locally on your device. This means you can use AI features without needing to send data to the cloud, which improves privacy and speed. MNN is used in many apps, including those from Alibaba, and supports various platforms like Android and iOS. It also helps reduce the size of AI models, making them faster and more efficient.
+
+https://github.com/alibaba/MNN
+
+- 🐙 **Source Code:** [https://github.com/alibaba/MNN](https://github.com/alibaba/MNN)
+- 👤 **Developer:** [alibaba](https://github.com/alibaba)
 
 
 ---
@@ -8195,6 +9570,20 @@ An Xposed module to unleash the full potential of your launcher!!
 
 ---
 
+### 📦 Ffmpeg Kit
+
+> **Categories:** `#c_lang` `#android` `#ffmpeg` `#flutter` `#ios` `#linux` `#macos` `#react_native` `#tvos`
+
+FFmpegKit is a tool that helps developers use FFmpeg in various applications like Android, iOS, and more. It has been retired, meaning there won't be any new updates. This tool was useful for converting video and audio files, but now users need to find alternative solutions. The benefit of using FFmpegKit was its ability to easily handle media processing tasks across different platforms, making it convenient for developers. However, with its retirement, developers must look for other tools to achieve similar functionalities.
+
+https://github.com/arthenica/ffmpeg-kit
+
+- 🐙 **Source Code:** [https://github.com/arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
+- 👤 **Developer:** [arthenica](https://github.com/arthenica)
+
+
+---
+
 ### 📦 DroidPad
 
 > **Categories:** `#Android` `#Controls` `#Bluetooth`
@@ -8225,6 +9614,19 @@ Inspired by the system-24 theme and the Windows Mobile design system, this app's
 
 - 🐙 **Source Code:** [https://github.com/ronynn/karui](https://github.com/ronynn/karui)
 - 👤 **Developer:** [ronynn ʕ •ᴥ•ʔ](https://github.com/ronynn)
+
+
+---
+
+### 📦 Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+
+> **Categories:** `#cplusplus`
+
+Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+
+https://github.com/google/perfetto
+
+- 🐙 **Source Code:** [https://android.googlesource.com/platform/external/perfetto](https://android.googlesource.com/platform/external/perfetto)
 
 
 ---
@@ -8301,6 +9703,20 @@ a tool for reverse engineering 3rd party, closed, binary Android apps. It makes 
 - Long path support (Windows 10 and above)
 
 </details>
+
+
+---
+
+### 📦 Signal Android
+
+> **Categories:** `#kotlin` `#GitHub` `#OpenSource`
+
+Signal is a simple and secure messaging app that lets you send messages and make voice or video calls using your phone's internet connection. It keeps your communications private with end-to-end encryption, meaning only you and the person you're talking to can see or hear what you share. Signal is free, available on many devices, and doesn't show ads or track you. This helps you stay connected safely and privately with friends and family anywhere in the world.
+
+https://github.com/signalapp/Signal-Android
+
+- 🐙 **Source Code:** [https://github.com/signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+- 👤 **Developer:** [signalapp](https://github.com/signalapp)
 
 
 ---
@@ -8845,6 +10261,20 @@ A lightweight unofficial Steam client for Android with the ability to play DRM-F
 
 ---
 
+### 📦 Duix.Ai
+
+> **Categories:** `#cplusplus`
+
+DUIX is a platform that lets developers create digital humans for interaction. It uses AI to recognize speech and convert text into speech, making it easy to communicate with these digital humans. DUIX supports deployment on Android and iOS devices without needing a lot of technical help, which keeps costs low. This technology can be used in many industries like customer service, media, and finance. Users benefit from its ease of use and versatility across different platforms.
+
+https://github.com/GuijiAI/duix.ai
+
+- 🐙 **Source Code:** [https://github.com/GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai)
+- 👤 **Developer:** [GuijiAI](https://github.com/GuijiAI)
+
+
+---
+
 ### 📦 ShonenX
 
 > **Categories:** `#Android` `#Windows` `#Anime` `#Entertainment`
@@ -8918,6 +10348,20 @@ A list containing phone manufacturers and their policies on unlocking the bootlo
 
 ---
 
+### 📦 DHrpcs3/rpcs3-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: C++
+**Stars**: 352 **Issues**: 25 **Forks**: 18
+[https://github.com/DHrpcs3/rpcs3-android](https://github.com/DHrpcs3/rpcs3-android)
+
+- 🐙 **Source Code:** [https://github.com/DHrpcs3/rpcs3-android](https://github.com/DHrpcs3/rpcs3-android)
+- 👤 **Developer:** [DHrpcs3](https://github.com/DHrpcs3)
+
+
+---
+
 ### 📦 Google Shortcuts Launcher
 
 > **Categories:** `#Android` `#Utilities` `#Tools`
@@ -8950,6 +10394,48 @@ A comic reader that support reading local and network comics.
 
 - 🐙 **Source Code:** [https://github.com/venera-app/venera](https://github.com/venera-app/venera)
 - 👤 **Developer:** [venera-app](https://github.com/venera-app)
+
+
+---
+
+### 📦 Faceverificationsdk
+
+> **Categories:** `#java` `#anti_spoofing` `#face_ai` `#face_recognition` `#face_search` `#face_verification` `#face_verify` `#liveness_detection` `#on_device_ai`
+
+The Umbrella FaceAI SDK is a powerful tool for Android devices that allows offline face detection, recognition, and liveness detection. It can be used in various applications like mobile attendance systems, app logins, and smart door locks. The SDK works without an internet connection, ensuring privacy by not storing or uploading sensitive facial data. This makes it secure and efficient for users who need fast and accurate face recognition capabilities on their devices. By integrating this SDK, developers can enhance user experiences while maintaining high security standards.
+
+https://github.com/AnyLifeZLB/FaceVerificationSDK
+
+- 🐙 **Source Code:** [https://github.com/AnyLifeZLB/FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK)
+- 👤 **Developer:** [AnyLifeZLB](https://github.com/AnyLifeZLB)
+
+
+---
+
+### 📦 Appium Device Farm
+
+> **Categories:** `#typescript` `#android` `#appium` `#appium_device_farm` `#appium_plugin` `#device_farm` `#driver_session` `#ios_simulators` `#parallel_testing` `#plugin` `#polling`
+
+Appium Device-farm is a tool that helps developers and testers automate testing on many different devices, like Android and iOS phones. It allows teams to test apps remotely without needing physical devices, which saves time and money. The tool also lets you run tests automatically across multiple devices at once, making it faster to find and fix problems. Additionally, it integrates well with continuous integration workflows, helping catch bugs early in development. This makes the testing process more efficient and reliable, ensuring apps work well on various devices before they are released.
+
+https://github.com/AppiumTestDistribution/appium-device-farm
+
+- 🐙 **Source Code:** [https://github.com/AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm)
+- 👤 **Developer:** [AppiumTestDistribution](https://github.com/AppiumTestDistribution)
+
+
+---
+
+### 📦 Ggwave
+
+> **Categories:** `#cplusplus` `#arduino` `#data_over_sound` `#ecc` `#fsk` `#internet_of_things` `#modem` `#pairing` `#python` `#qrcode` `#serverless` `#sound_library` `#ultrasound` `#GitHub` `#OpenSource`
+
+**ggwave** is a small library that lets you send and receive data using sound. It works with devices like smartphones and microcontrollers, allowing them to communicate without needing the internet. This can be useful for sharing files or sending commands between devices in the same room. The library uses a special way of encoding data into sound waves, making it robust against background noise. Users can test it easily with apps like Waver on Android, iOS, or even in a web browser[1][3].
+
+https://github.com/ggerganov/ggwave
+
+- 🐙 **Source Code:** [https://github.com/ggerganov/ggwave](https://github.com/ggerganov/ggwave)
+- 👤 **Developer:** [ggerganov](https://github.com/ggerganov)
 
 
 ---
@@ -9077,6 +10563,20 @@ Sly is a friendly image editor that requires no internet connection or preexisti
 
 ---
 
+### 📦 Googlefindmytools
+
+> **Categories:** `#python`
+
+This tool helps you manage and track your devices like those in Google's Find My Device network. You can query and decrypt location data from these devices, and even register your own custom trackers using ESP32 or Zephyr devices. To use it, you need to install required packages and have the latest Google Chrome. The benefit is that you can keep track of your devices more easily and securely, even if they are not traditional Android devices. It also allows you to create your own custom trackers, giving you more control over tracking your belongings.
+
+https://github.com/leonboe1/GoogleFindMyTools
+
+- 🐙 **Source Code:** [https://github.com/leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools)
+- 👤 **Developer:** [leonboe1](https://github.com/leonboe1)
+
+
+---
+
 ### 📦 Toolbox
 
 > **Categories:** `#Android` `#iOS` `#Tools`
@@ -9177,6 +10677,19 @@ A high-level emulator for iPhone OS apps. It runs on modern desktop operating sy
 
 ---
 
+### 📦 xajik/thedeck
+
+> **Categories:** `#android` `#dart` `#flutter` `#game` `#gamedev` `#gamedevelopment` `#ios` `#mobile` `#socket_io` `#GitHub` `#OpenSource`
+
+The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/xajik/thedeck](https://github.com/xajik/thedeck)
+- 👤 **Developer:** [xajik](https://github.com/xajik)
+
+
+---
+
 ### 📦 Scan Bridge
 
 > **Categories:** `#Android` `#Utilities`
@@ -9257,6 +10770,20 @@ An open-source Android app that provides a seamless movie browsing experience wi
 
 ---
 
+### 📦 Sherpa Onnx
+
+> **Categories:** `#cplusplus` `#aarch64` `#android` `#arm32` `#asr` `#cpp` `#csharp` `#dotnet` `#ios` `#lazarus` `#linux` `#macos` `#mfc` `#object_pascal` `#onnx` `#raspberry_pi` `#risc_v` `#speech_to_text` `#text_to_speech` `#vits` `#windows`
+
+This tool supports various speech functions like speech recognition, text-to-speech, speaker identification, and more. It works on multiple platforms including Android, iOS, Windows, macOS, and Linux, and supports several programming languages such as C++, Python, JavaScript, and others. You can use it locally or through web assembly, making it versatile and convenient. This benefits you by allowing you to integrate advanced speech capabilities into your projects easily, regardless of the platform or programming language you use.
+
+https://github.com/k2-fsa/sherpa-onnx
+
+- 🐙 **Source Code:** [https://github.com/k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+- 👤 **Developer:** [k2-fsa](https://github.com/k2-fsa)
+
+
+---
+
 ### 📦 Thor
 
 > **Categories:** `#Android` `#Root` `#Tools` `#GitHub` `#OpenSource`
@@ -9332,6 +10859,26 @@ Simple notification reminders for Android devices.
 
 - 🐙 **Source Code:** [https://github.com/tomc128/noterly](https://github.com/tomc128/noterly)
 - 👤 **Developer:** [tomc128](https://github.com/tomc128)
+
+
+---
+
+### 📦 Aliyunpan
+
+> **Categories:** `#go` `#adrive` `#backup` `#linux` `#macos` `#sync` `#windows`
+
+This tool is a command-line client for Aliyun Pan, similar to Linux shell commands. It supports multiple platforms like Windows, macOS, Linux, Android, and iOS. You can use it to download and upload files, sync your local and cloud files, and even batch download photos and videos from your album.
+
+The benefits include Works on various operating systems.
+- **Sync and backup** Supports JavaScript plugins to customize upload and download behaviors.
+- **Efficient downloads** Includes commands like `ls`, `cd`, `mkdir`, `upload`, and `download` for easy file management.
+
+Overall, it makes managing your Aliyun Pan cloud storage more efficient and flexible.
+
+https://github.com/tickstep/aliyunpan
+
+- 🐙 **Source Code:** [https://github.com/tickstep/aliyunpan](https://github.com/tickstep/aliyunpan)
+- 👤 **Developer:** [tickstep](https://github.com/tickstep)
 
 
 ---
@@ -9556,6 +11103,19 @@ Yes, that's correct. Doom can be run on a PDF file!  Just open the pdf using a c
 
 ---
 
+### 📦 rifsxd/KernelSU-Next
+
+> **Categories:** `#android` `#kernel` `#kernelsu` `#kernelsu_next` `#next` `#root` `#su` `#superuser`
+
+A Kernel based root solution for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next)
+- 👤 **Developer:** [rifsxd](https://github.com/rifsxd)
+
+
+---
+
 ### 📦 FaFa Runner
 
 > **Categories:** `#Games` `#Android` `#iOS` `#Linux` `#Windows`
@@ -9648,6 +11208,21 @@ FeedDeck is an open source RSS and social media feed reader, inspired by TweetDe
 
 ---
 
+### 📦 Open Keychain
+
+> **Categories:** `#GitHub` `#OpenSource` `#Android` `#Ope`
+
+Helps you communicate more privately and securely.
+
+**4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
+- 🌐 **Official Website:** [http://www.openkeychain.org](http://www.openkeychain.org)
+- 👤 **Developer:** [open-keychain](https://github.com/open-keychain)
+
+
+---
+
 ### 📦 AnyWebView
 
 > **Categories:** `#android` `#root` `#lsposed`
@@ -9668,6 +11243,24 @@ A lightweight app to share links, contacts, and text through QR codes. Under 1Mb
 
 - 🐙 **Source Code:** [https://github.com/mrwm/QRshare](https://github.com/mrwm/QRshare)
 - 👤 **Developer:** [mrwm](https://github.com/mrwm)
+
+
+---
+
+### 📦 Bangumi
+
+> **Categories:** `#typescript` `#android` `#android_app` `#bangumi` `#design` `#expo` `#ios` `#ios_app` `#mobx` `#moe` `#react` `#react_native`
+
+This app, called Bangumi, is a third-party client for the Bangumi website, which helps you manage and track your progress on anime, manga, music, Japanese dramas, games, and more. It works on both iOS and Android devices and has over 100 pages designed for mobile use, covering almost all the features of the website.
+
+The app includes basic functions like managing your watch list, viewing character details, timelines, posts, and user spaces. It also has extended features such as syncing data from other sites like Bilibili and Douban, stable data display using a CDN, photo walls, AI recommendations, and more.
+
+Using this app benefits you by providing a convenient and comprehensive way to manage your media consumption on the go, with a user-friendly interface and additional features to enhance your experience.
+
+https://github.com/czy0729/Bangumi
+
+- 🐙 **Source Code:** [https://github.com/czy0729/Bangumi](https://github.com/czy0729/Bangumi)
+- 👤 **Developer:** [czy0729](https://github.com/czy0729)
 
 
 ---
@@ -9707,6 +11300,49 @@ An Android app that, when paired up with SoundRemote server, allows to capture a
 
 ---
 
+### 📦 Tts Server Android
+
+> **Categories:** `#kotlin` `#android` `#compose_ui` `#golang` `#jetpack_compose` `#legado` `#microsoft` `#tts`
+
+This app is a text-to-speech (TTS) server that can read text aloud. It has many useful features like using Microsoft's TTS interface, custom HTTP requests, and importing other local TTS engines. It also recognizes Chinese dialogue and can automatically retry if there's an issue. You can customize the reading rules and add different voices. The app is easy to download and install, and it supports multiple languages. This makes it very helpful for people who want to listen to text instead of reading it.
+
+https://github.com/jing332/tts-server-android
+
+- 🐙 **Source Code:** [https://github.com/jing332/tts-server-android](https://github.com/jing332/tts-server-android)
+- 👤 **Developer:** [jing332](https://github.com/jing332)
+
+
+---
+
+### 📦 LYiHub/privacy-radar-public
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Source code for the privacy radar app (android/ohos)
+**Language**: Kotlin
+**Stars**: 116 **Issues**: 6 **Forks**: 16
+[https://github.com/LYiHub/privacy-radar-public](https://github.com/LYiHub/privacy-radar-public)
+
+- 🐙 **Source Code:** [https://github.com/LYiHub/privacy-radar-public](https://github.com/LYiHub/privacy-radar-public)
+- 👤 **Developer:** [LYiHub](https://github.com/LYiHub)
+
+
+---
+
+### 📦 Gmscore
+
+> **Categories:** `#java` `#android` `#auth` `#cloud_messaging` `#firebase` `#geolocation` `#google` `#google_cloud_messaging` `#kotlin` `#kotlin_android` `#maps` `#microg` `#mobile` `#push_notifications` `#Implementation` `#GitHub` `#OpenSource`
+
+microG Services is a free and open-source framework that lets apps designed for Google Play Services work on devices where Play Services is not available. This means you can use many popular apps even if your device doesn't support Google Play Services. To get started, you can find downloads and instructions in the wiki. The project is also open to translations, and it's licensed under the Apache License, which allows free use and modification. This benefits users by giving them more app options on devices that otherwise wouldn't support them.
+
+https://github.com/microg/GmsCore
+
+- 🐙 **Source Code:** [https://github.com/microg/GmsCore](https://github.com/microg/GmsCore)
+- 👤 **Developer:** [microg](https://github.com/microg)
+
+
+---
+
 ### 📦 TeleVip (Xposed module)
 
 > **Categories:** `#Android` `#Xposed` `#Root`
@@ -9715,6 +11351,20 @@ A Xposed module for modifying Telegram
 
 - 🐙 **Source Code:** [https://t.me/popCLOUDS/7825](https://t.me/popCLOUDS/7825)
 - 👤 **Developer:** [mustafa1dev](https://github.com/mustafa1dev)
+
+
+---
+
+### 📦 Bv
+
+> **Categories:** `#kotlin`
+
+BV is an Android TV app for Bilibili, made using Jetpack Compose and compatible with Android 5.0 and above. It is not available for use in mainland China. The app has a unique design and may have some bugs, but it offers a different user experience. You can download the stable or alpha version from GitHub. The benefit to you is that you get to use a third-party app with a distinct look and feel, although it might be a bit challenging to use due to its unconventional design.
+
+https://github.com/aaa1115910/bv
+
+- 🐙 **Source Code:** [https://github.com/aaa1115910/bv](https://github.com/aaa1115910/bv)
+- 👤 **Developer:** [aaa1115910](https://github.com/aaa1115910)
 
 
 ---
@@ -10024,6 +11674,20 @@ An Android automation application that works specifically by mapping phone numbe
 
 ---
 
+### 📦 Winit
+
+> **Categories:** `#rust` `#android` `#gui` `#ios` `#macos` `#rust_lang` `#wasm` `#wayland` `#windowing` `#windows` `#x11`
+
+Winit is a library that helps you create and manage windows on different platforms using the Rust programming language. It allows you to handle events like window resizing, key presses, and mouse movements. To show something on the window, you need to use platform-specific functions or another library. The benefit to you is that Winit provides a flexible and low-level way to manage windows, making it easier to build cross-platform applications such as games or graphical user interfaces.
+
+https://github.com/rust-windowing/winit
+
+- 🐙 **Source Code:** [https://github.com/rust-windowing/winit](https://github.com/rust-windowing/winit)
+- 👤 **Developer:** [rust-windowing](https://github.com/rust-windowing)
+
+
+---
+
 ### 📦 Gucken
 
 > **Categories:** `#Android` `#Linux` `#Windows`
@@ -10156,6 +11820,34 @@ Your minimalist, colorful weather companion with a clean, vibrant, and open-sour
 
 ---
 
+### 📦 Xx Net
+
+> **Categories:** `#python` `#gfw` `#goagent` `#proxy` `#uncensored` `#vpn`
+
+XX-Net is a reliable system to bypass internet restrictions, running for 9 years. It works by making your internet traffic look like normal traffic, so it can't be detected. It supports many platforms like Android, iOS, Windows, Mac, and Linux. The software is open-source, doesn't need installation, and can connect multiple devices at once. It also includes ChatGPT with a million tokens. This helps you access the internet freely and securely without being detected, and you get additional AI assistance with ChatGPT.
+
+https://github.com/XX-net/XX-Net
+
+- 🐙 **Source Code:** [https://github.com/XX-net/XX-Net](https://github.com/XX-net/XX-Net)
+- 👤 **Developer:** [XX-net](https://github.com/XX-net)
+
+
+---
+
+### 📦 Grpc Java
+
+> **Categories:** `#java`
+
+gRPC-Java is a library that helps you communicate between different parts of your application efficiently. It supports Java 8 and later, including Android devices from Lollipop onwards. You can use it to create robust and scalable services by generating code from protocol buffer definitions. The library has three main layers: Stub for type-safe bindings, Channel for handling transport and interceptions, and Transport for managing network communications. It offers multiple transport implementations, such as Netty and OkHttp, making it flexible for various environments, including Android. This makes it easier to build reliable and efficient communication systems in your applications.
+
+https://github.com/grpc/grpc-java
+
+- 🐙 **Source Code:** [https://github.com/grpc/grpc-java](https://github.com/grpc/grpc-java)
+- 👤 **Developer:** [grpc](https://github.com/grpc)
+
+
+---
+
 ### 📦 EchoirX
 
 > **Categories:** `#Android` `#Music`
@@ -10175,6 +11867,43 @@ A successor for [FluidAC](https://t.me/popMODS/5998), aims to provide high-quali
 
 ---
 
+### 📦 Rapidjson
+
+> **Categories:** `#cplusplus`
+
+RapidJSON is a fast and efficient JSON parser and generator for C++. It is small, complete, and supports both SAX and DOM style APIs. Here are the key benefits Comparable to `strlen()` and optionally uses SSE2/SSE4.2 for acceleration.
+- **Memory-Friendly** Handles UTF-8, UTF-16, UTF-32, and their detection, validation, and transcoding.
+- **Easy Installation** Works on various platforms including Windows, Linux, Mac OS X, iOS, and Android.
+
+Using RapidJSON helps you parse and generate JSON quickly and efficiently without depending on external libraries like BOOST or STL. This makes it a great tool for developers working with JSON data in C++.
+
+https://github.com/Tencent/rapidjson
+
+- 🐙 **Source Code:** [https://github.com/Tencent/rapidjson](https://github.com/Tencent/rapidjson)
+- 👤 **Developer:** [Tencent](https://github.com/Tencent)
+
+
+---
+
+### 📦 Virtualapp
+
+> **Categories:** `#java` `#android` `#framework` `#plugin` `#plugin_manager`
+
+VirtualApp (VA) is a lightweight virtual machine for Android that allows you to run multiple apps in a sandboxed environment. Here are the key benefits VA enables you to install and run multiple instances of the same app, such as having two WhatsApp or QQ accounts on one phone.
+- **Security and Isolation** VA supports Java and Native hooking, allowing you to monitor and control app behavior without rooting the device.
+- **Google Services Support** VA is highly performant, compatible with Android versions from 5.0 to 15.0, and supports both 32-bit and 64-bit apps.
+- **Easy Integration**: VA is easy to integrate into existing apps, even those already live on the market, and provides APIs for simple development.
+
+Overall, VA offers a robust solution for app management, security, and multi-instance running, making it versatile for various use cases.
+
+https://github.com/asLody/VirtualApp
+
+- 🐙 **Source Code:** [https://github.com/asLody/VirtualApp](https://github.com/asLody/VirtualApp)
+- 👤 **Developer:** [asLody](https://github.com/asLody)
+
+
+---
+
 ### 📦 Muzza: The Ultimate Material 3 YouTube Music Client for Android
 
 > **Categories:** `#Android` `#YouTubeMusic` `#MusicPlayer` `#GitHub` `#OpenSource`
@@ -10183,6 +11912,25 @@ The most advanced YouTube Music client for Android—sleek, feature-packed, and 
 
 - 🐙 **Source Code:** [https://github.com/Maloy-Android/Muzza](https://github.com/Maloy-Android/Muzza)
 - 👤 **Developer:** [MaloyBegonia](https://github.com/Maloy-Android)
+
+
+---
+
+### 📦 Serverstatus Rust
+
+> **Categories:** `#rust` `#probe` `#railway` `#serverstatus` `#serverstatus_rust` `#telegram` `#vnstat` `#webhook` `#wechat`
+
+This tool, called "ServerStatus-Rust," is a lightweight and easy-to-deploy server monitoring system. Here are the key benefits It works on various systems including Linux, MacOS, Windows, Android, and Raspberry Pi.
+- **Simple Deployment** It supports alerts via Telegram, WeChat, email, and webhooks for events like going online or offline.
+- **Traffic Statistics** The configuration file `config.toml` makes it simple to set up and manage your servers.
+- **Client Options**: You can use either a Rust or Python version of the client, depending on your system compatibility.
+
+Overall, it's designed to be simple, efficient, and highly customizable for personal server monitoring needs.
+
+https://github.com/zdz/ServerStatus-Rust
+
+- 🐙 **Source Code:** [https://github.com/zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)
+- 👤 **Developer:** [zdz](https://github.com/zdz)
 
 
 ---
@@ -10505,6 +12253,19 @@ Music Sleep Timer Plus is an Android app that allows you to set a timer to stop 
 
 ---
 
+### 📦 aniruddha-adhikary/mrt-buddy
+
+> **Categories:** `#android` `#felica` `#felica_card` `#nfc`
+
+Check the Balance of your Dhaka MRT Pass or Rapid Pass
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/aniruddha-adhikary/mrt-buddy](https://github.com/aniruddha-adhikary/mrt-buddy)
+- 👤 **Developer:** [aniruddha-adhikary](https://github.com/aniruddha-adhikary)
+
+
+---
+
 ### 📦 TubeSync
 
 > **Categories:** `#Android` `#Music`
@@ -10522,6 +12283,20 @@ Sync YouTube playlists offline. Because YT Music is....?
 - Fluid gesture navigations
 
 </details>
+
+
+---
+
+### 📦 Cognitive Services Speech Sdk
+
+> **Categories:** `#csharp`
+
+The Microsoft Cognitive Services Speech SDK allows you to add speech-enabled features to your apps. It supports various programming languages like C++, C#, Java, JavaScript, and more. You can use it for speech recognition, translation, and synthesis across different platforms such as Windows, Linux, Android, and iOS. The SDK provides numerous samples and quickstarts to help you get started quickly with features like one-shot speech recognition, translation, and synthesis. These samples are easy to download and run, and they include detailed instructions for setup and execution. Using this SDK, you can enhance your applications with powerful speech capabilities, making them more interactive and user-friendly.
+
+https://github.com/Azure-Samples/cognitive-services-speech-sdk
+
+- 🐙 **Source Code:** [https://github.com/Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
 
 
 ---
@@ -10556,6 +12331,32 @@ Your article with you
 
 - 🐙 **Source Code:** [https://github.com/casimir/frigoligo](https://github.com/casimir/frigoligo)
 - 👤 **Developer:** [Casimir](https://github.com/casimir)
+
+
+---
+
+### 📦 Llbc
+
+> **Categories:** `#cplusplus`
+
+The llbc framework is a simple, efficient, and cross-platform tool for server development. It supports multiple languages and is built with C++. Here are the key benefits Works on Windows, Linux, Mac, iOS, and Android.
+
+- 🐙 **Source Code:** [https://github.com/lailongwei/llbc](https://github.com/lailongwei/llbc)
+- 👤 **Developer:** [lailongwei](https://github.com/lailongwei)
+
+
+---
+
+### 📦 Flutterunit
+
+> **Categories:** `#dart` `#flutter` `#learning` `#painting` `#widget_library`
+
+FlutterUnit is an app that lets you explore and learn about Flutter, a platform for building apps. You can download it for Android, iOS, macOS, Windows, and even use it on the web. The app showcases over 300 Flutter components with live demos and code examples, allowing you to interact with them directly. It also features search and collection functions, theme and font settings, and the ability to view and share code. This makes it a powerful tool for learning and experimenting with Flutter, helping you to understand and use its various components effectively.
+
+https://github.com/toly1994328/FlutterUnit
+
+- 🐙 **Source Code:** [https://github.com/toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)
+- 👤 **Developer:** [toly1994328](https://github.com/toly1994328)
 
 
 ---
@@ -10622,6 +12423,34 @@ This is a movie app that aims to simplify the process of watching movies and tv 
 
 ---
 
+### 📦 Td
+
+> **Categories:** `#cplusplus` `#cross_platform` `#library` `#telegram`
+
+TDLib is a powerful tool for building Telegram clients that works on many different platforms like Android, iOS, Windows, and more. It can be used with almost any programming language, making it very versatile. TDLib takes care of network details, encryption, and data storage, making it easy to use and secure. It is also high-performance, reliable on slow internet connections, and fully documented. This means you can build efficient and stable Telegram clients quickly and securely, without worrying about the complex underlying details.
+
+https://github.com/tdlib/td
+
+- 🐙 **Source Code:** [https://github.com/tdlib/td](https://github.com/tdlib/td)
+- 👤 **Developer:** [tdlib](https://github.com/tdlib)
+
+
+---
+
+### 📦 V2Rayng
+
+> **Categories:** `#kotlin` `#android` `#proxy` `#shadowsocks` `#socks5` `#trojan` `#v2fly` `#v2ray` `#vless` `#vmess` `#vpn` `#xray` `#xtls`
+
+v2rayNG is an app for Android that helps you use the internet more securely and privately. It supports two powerful cores, Xray and v2fly, which are known for their strong encryption and privacy features. The app is easy to use and can be downloaded from the Google Play Store. It also has a community support channel on Telegram where you can get help and updates. Using v2rayNG benefits you by protecting your internet traffic from being monitored or blocked, making your online activities safer and more private.
+
+https://github.com/2dust/v2rayNG
+
+- 🐙 **Source Code:** [https://github.com/2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+- 👤 **Developer:** [2dust](https://github.com/2dust)
+
+
+---
+
 ### 📦 BiliDownOut
 
 > **Categories:** `#Android` `#Tools`
@@ -10642,6 +12471,24 @@ The best cleaning app ever made—ultra-fast, lightweight, and powerful. Root or
 
 - 🐙 **Source Code:** [https://github.com/araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall)
 - 👤 **Developer:** [GitHub @AraafRoyall](https://github.com/araafroyall)
+
+
+---
+
+### 📦 Linux Command
+
+> **Categories:** `#markdown` `#bash` `#chrome` `#chrome_extension` `#command_line` `#gh_pages` `#linux` `#linux_command` `#ls` `#screen` `#screenshot` `#search` `#ssh` `#tools` `#web_tools`
+
+This resource is a comprehensive collection of over 580 Linux commands, presented in a user-friendly web format. Here are the key benefits It includes a vast array of Linux commands, categorized for easy reference.
+- **Web Access** You can deploy the website using Docker, Vercel, or other methods, allowing flexibility in how you access the content.
+- **Community Contributions** The commands are available in Markdown format, and there are also mobile and desktop applications, such as Chrome extensions and Android apps.
+
+This resource is highly valuable for anyone looking to learn or reference Linux commands efficiently.
+
+https://github.com/jaywcjlove/linux-command
+
+- 🐙 **Source Code:** [https://github.com/jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
+- 👤 **Developer:** [jaywcjlove](https://github.com/jaywcjlove)
 
 
 ---
@@ -10760,6 +12607,34 @@ Instead of being a stand-alone file manager user interface, it hooks into variou
 
 ---
 
+### 📦 Zerotermux
+
+> **Categories:** `#java`
+
+ZeroTermux is a free, non-profit software based on Termux. It offers several useful features like backup and recovery, container switching, and the ability to switch between different Linux distributions like Ubuntu and Kali. It also has Chinese and English language support and uses sources from Tsinghua and Beijing for domestic users. The software is open source, meaning you can freely distribute, copy, and change it, but you must follow the GPL agreement. Using ZeroTermux can help you learn and use Linux commands on your Android device, making it a valuable tool for personal learning and communication. However, it is not for commercial or illegal use, and users are responsible for any risks or damages caused by its use.
+
+https://github.com/hanxinhao000/ZeroTermux
+
+- 🐙 **Source Code:** [https://github.com/hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
+- 👤 **Developer:** [hanxinhao000](https://github.com/hanxinhao000)
+
+
+---
+
+### 📦 Musicfree
+
+> **Categories:** `#typescript` `#free` `#music_player` `#plugin` `#react` `#react_native`
+
+This music player, called MusicFree, is a free, ad-free, and customizable app for Android and Harmony OS. It uses plugins to search, play, and manage music, which means you can access any music source available online with the right plugin. The app is open-source, so it's free and won't collect your personal data. You can customize the look with light or dark modes and custom backgrounds. Be cautious of fake versions and only download from the official sources to avoid scams. The app is maintained by a single developer, so updates might be slow, but it's designed to be safe and functional.
+
+https://github.com/maotoumao/MusicFree
+
+- 🐙 **Source Code:** [https://github.com/maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
+- 👤 **Developer:** [maotoumao](https://github.com/maotoumao)
+
+
+---
+
 ### 📦 GPTMobile
 
 > **Categories:** `#Android` `#AI`
@@ -10820,6 +12695,18 @@ A Flutter project which provide charts to display Linux server status and tools 
 An Android application for browsing video games and checking the latest gaming news from around the world.
 
 - 🐙 **Source Code:** [https://github.com/mars885/gamedge](https://github.com/mars885/gamedge)
+
+
+---
+
+### 📦 Android Pin Bruteforce
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**4️⃣**** **[**GitHub**](https://t.me/github_tg)
+
+- 🐙 **Source Code:** [https://github.com/urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce)
+- 👤 **Developer:** [urbanadventurer](https://github.com/urbanadventurer)
 
 
 ---
@@ -10902,6 +12789,20 @@ App for handling volume button presses. Works when the screen is off. The handle
 
 ---
 
+### 📦 Android permission request framework, adapted for Android 14
+
+> **Categories:** `#java` `#andpermission` `#android` `#android11` `#easypermission` `#permission` `#permission_android` `#permissions` `#permissionsdispatcher` `#permissionutils` `#permissionx` `#rxpermission` `#rxpermissions`
+
+Android permission request framework, adapted for Android 14
+
+https://github.com/getActivity/XXPermissions
+
+- 🐙 **Source Code:** [https://github.com/getActivity/XXPermissions](https://github.com/getActivity/XXPermissions)
+- 👤 **Developer:** [getActivity](https://github.com/getActivity)
+
+
+---
+
 ### 📦 NeatLauncher - A neat and convenient launcher without icons.
 
 > **Categories:** `#Android` `#Customization`
@@ -10924,6 +12825,20 @@ Kurumi is an unofficial anilist client application. Are you tired of getting los
 
 ---
 
+### 📦 Mediapipe
+
+> **Categories:** `#cplusplus` `#android` `#audio_processing` `#c_plus_plus` `#calculator` `#computer_vision` `#deep_learning` `#framework` `#graph_based` `#graph_framework` `#inference` `#machine_learning` `#mediapipe` `#mobile_development` `#perception` `#pipeline_framework` `#stream_processing` `#video_processing`
+
+MediaPipe is a tool that helps you add smart machine learning features to your apps and devices. It works on mobile, web, desktop, and other devices. You can use pre-made solutions for tasks like vision, text, and audio processing, or customize the models to fit your needs. MediaPipe also offers tools like Model Maker and Studio to help you create and test your solutions easily. This makes it easier to delight your customers with innovative features without needing deep machine learning expertise.
+
+https://github.com/google-ai-edge/mediapipe
+
+- 🐙 **Source Code:** [https://github.com/google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
+- 👤 **Developer:** [google-ai-edge](https://github.com/google-ai-edge)
+
+
+---
+
 ### 📦 Komikku
 
 > **Categories:** `#Android`
@@ -10935,6 +12850,38 @@ A free and open source manga reader which is based off TachiyomiSY & Mihon/Tachi
 
 ---
 
+### 📦 Saltplayersource
+
+> **Categories:** `#other`
+
+Salt Player is a local music player app used by hundreds of thousands of users. You can download it for Android devices with Android 6.0 or higher, and it supports different architectures. The app is available on various channels like GitHub, Google Play, and Chinese app stores. It offers features like support for MIUI, vivo, and Meizu systems, but some features are not supported on all devices. The app is regularly updated, and you can check the version details to know what's new. Using Salt Player allows you to play your local music files efficiently and enjoy additional features depending on your device. Make sure to download from official channels to avoid unknown sources.
+
+https://github.com/Moriafly/SaltPlayerSource
+
+- 🐙 **Source Code:** [https://github.com/Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+- 👤 **Developer:** [Moriafly](https://github.com/Moriafly)
+
+
+---
+
+### 📦 Ehviewer Cn Sxj
+
+> **Categories:** `#html` `#android` `#apk` `#c` `#cartoon` `#chinese` `#comics` `#e_hentai` `#ehviewer` `#exhentai` `#hentai` `#hentai_downloader` `#hentai_viwer` `#html5` `#java` `#screenshot`
+
+The latest version of EhViewer, 1.9.8.7, has several important updates that benefit users. Here are the key points Many bugs have been fixed, including problems with WiFi data migration, download list sorting, and crashes related to various functions like downloading archives and displaying comments.
+- **New Features** Enhanced stability and performance by optimizing download logic, adding a timeout setting for downloads, and improving the handling of historical records.
+- **Security**: Updated security measures include adding user-defined network certificate permissions and fixing potential vulnerabilities.
+
+These updates make the app more stable, efficient, and user-friendly.
+
+https://github.com/xiaojieonly/Ehviewer_CN_SXJ
+
+- 🐙 **Source Code:** [https://github.com/xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+- 👤 **Developer:** [xiaojieonly](https://github.com/xiaojieonly)
+
+
+---
+
 ### 📦 Meshenger - P2P Voice/Video phone App for local networks.
 
 > **Categories:** `#Android` `#Utilities`
@@ -10942,6 +12889,31 @@ A free and open source manga reader which is based off TachiyomiSY & Mihon/Tachi
 Direct voice- and video phone calls. No need for accounts or access to the Internet. Just scan each others QR-Code that will contain the contacts IP address. This works at home or company networks but also in many off-the-grid networks such as community mesh networks.
 
 - 🐙 **Source Code:** [https://f-droid.org/packages/d.d.meshenger](https://f-droid.org/packages/d.d.meshenger)
+
+
+---
+
+### 📦 Termux Packages
+
+> **Categories:** `#shell` `#android` `#hacktoberfest` `#linux` `#linux_distribution` `#packages` `#termux` `#GitHub` `#OpenSource`
+
+**4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/termux/termux-packages](https://github.com/termux/termux-packages)
+- 👤 **Developer:** [termux](https://github.com/termux)
+
+
+---
+
+### 📦 skydoves/kmp-developer-roadmap
+
+> **Categories:** `#android` `#ios` `#kmp` `#kotlin` `#kotlin_multiplatform` `#roadmap` `#skydoves`
+
+🗺 The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap)
+- 👤 **Developer:** roadmap
 
 
 ---
@@ -10994,6 +12966,53 @@ A simple app that enables you to add additional (or "unsupported") languages to 
 ShowCase (formerly Movie DB) is a fully open-source android application for exploring and organizing your personal collection of films and television series.
 
 - 🐙 **Source Code:** [https://f-droid.org/packages/com.wirelessalien.android.moviedb](https://f-droid.org/packages/com.wirelessalien.android.moviedb)
+
+
+---
+
+### 📦 Fastjson2
+
+> **Categories:** `#java` `#android` `#big_data` `#deserialization` `#fastjson` `#fastjson2` `#graal` `#graalvm_native_image` `#high_performance` `#java_json` `#json` `#json_deserialization` `#json_parser` `#json_path` `#json_serialization` `#json_serializer` `#jsonb` `#serialization`
+
+FASTJSON 2 is a highly performant and easy-to-use Java JSON library. It offers significant performance improvements over other popular JSON libraries like Jackson and Gson. Here are the key benefits FASTJSON 2 outperforms other JSON libraries, making it ideal for applications requiring fast data processing.
+- **Advanced Features** It includes support for JSONPath, SQL You can easily integrate it into your project using Maven or Gradle dependencies.
+
+Using FASTJSON 2 simplifies your JSON handling tasks while providing superior performance and robust features.
+
+https://github.com/alibaba/fastjson2
+
+- 🐙 **Source Code:** [https://github.com/alibaba/fastjson2](https://github.com/alibaba/fastjson2)
+- 👤 **Developer:** [alibaba](https://github.com/alibaba)
+
+
+---
+
+### 📦 jinweijie/notify-me
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An Android application that forwards Bark notifications upon receiving SMS messages or phone calls.
+**Language**: Kotlin
+**Stars**: 147 **Issues**: 0 **Forks**: 16
+[https://github.com/jinweijie/notify-me](https://github.com/jinweijie/notify-me)
+
+- 🐙 **Source Code:** [https://github.com/jinweijie/notify-me](https://github.com/jinweijie/notify-me)
+- 👤 **Developer:** [jinweijie](https://github.com/jinweijie)
+
+
+---
+
+### 📦 Element Web
+
+> **Categories:** `#typescript` `#hacktoberfest` `#matrix`
+
+Element is a web client for the Matrix communication platform, built using the Matrix React SDK. It supports various environments, including recent versions of Chrome, Firefox, Edge, and Safari on desktop OSes like macOS, Windows, and Linux. For mobile devices, it recommends using native apps for Android and iOS. To get started, you can use the hosted version at [app.element.io](https://app.element.io) or set up your own instance by following the installation guide. Element also offers a desktop app version wrapped in Electron. The key benefit to users is that Element provides a secure and customizable way to communicate over the Matrix network. It includes important security measures such as preventing cross-site scripting (XSS) vulnerabilities and clickjacking protection through proper web server configurations. Additionally, it allows for community contributions and translations, making it accessible to a wider audience.
+
+https://github.com/element-hq/element-web
+
+- 🐙 **Source Code:** [https://github.com/element-hq/element-web](https://github.com/element-hq/element-web)
+- 🌐 **Official Website:** [https://app.element.io](https://app.element.io)
+- 👤 **Developer:** [element-hq](https://github.com/element-hq)
 
 
 ---
@@ -11868,6 +13887,18 @@ Smart Pixels is a battery-saving function found on some devices. It works by tur
 
 ---
 
+### 📦 Android web attack surface
+
+> **Categories:** `#Mobile_Security`
+
+Android web attack surface
+https://ndevtk.github.io/writeups/2024/08/01/awas
+
+- 🌐 **Official Website:** [https://ndevtk.github.io/writeups/2024/08/01/awas](https://ndevtk.github.io/writeups/2024/08/01/awas)
+
+
+---
+
 ### 📦 Findroid
 
 > **Categories:** `#android` `#media` `#movies` `#series` `#music` `#cilent`
@@ -12077,6 +14108,20 @@ MicroG RE, The Best replacement for the original MicroG App, with material UI de
 
 ---
 
+### 📦 Deadly Android Rat..
+
+> **Categories:** `#Android` `#malware` `#WhatsApp`
+
+#Android #malware (.apk) can be spread through a fake PDF document by manipulating the file extension in the #WhatsApp application.
+
+https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC
+
+- 🐙 **Source Code:** [https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC](https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC)
+- 👤 **Developer:** [0x6rss](https://github.com/0x6rss)
+
+
+---
+
 ### 📦 Island
 
 > **Categories:** `#Android`
@@ -12172,6 +14217,20 @@ Versions from F-Droid, AAPKS are Ad-free and support only Local mode (MJPEG).
 __Thanks for banner ____@zgx_dev____ __
 
 - 🐙 **Source Code:** [https://github.com/dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
+
+
+---
+
+### 📦 Dev Setup
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development.
+
+**4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy)
+
+- 🐙 **Source Code:** [https://github.com/donnemartin/dev-setup](https://github.com/donnemartin/dev-setup)
+- 👤 **Developer:** [donnemartin](https://github.com/donnemartin)
 
 
 ---
@@ -12938,6 +14997,20 @@ Don't like those tracking GET queries from the big brothers? Here, this app got 
 
 ---
 
+### 📦 Fsclock Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It can be installed as a system saver on smartphones, tablets and Android TV.
+
+**4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy)
+
+- 🐙 **Source Code:** [https://github.com/schorschii/FsClock-Android](https://github.com/schorschii/FsClock-Android)
+- 👤 **Developer:** [schorschii](https://github.com/schorschii)
+
+
+---
+
 ### 📦 Easy Notes
 
 > **Categories:** `#android` `#GitHub` `#OpenSource`
@@ -13271,6 +15344,22 @@ Simply hold your phone to your ear to answer an incoming call. When the app dete
 
 ---
 
+### 📦 Babylonnative
+
+> **Categories:** `#Java` `#Android` `#Linux`
+
+The goal of this project is to allow the same JavaScript that powers Babylon.js apps on the web to work equally well in native apps for Windows, macOS, iOS, Android, and Linux.
+
+⤷ [**Link to project**](https://github.com/BabylonJS/BabylonNative)
+
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Java #Android #Linux
+
+- 🐙 **Source Code:** [https://github.com/BabylonJS/BabylonNative](https://github.com/BabylonJS/BabylonNative)
+- 👤 **Developer:** [BabylonJS](https://github.com/BabylonJS)
+
+
+---
+
 ### 📦 Bitwarden Authenticator
 
 > **Categories:** `#permissions` `#Android` `#Security` `#Utilities`
@@ -13485,6 +15574,22 @@ Good Lock and Good Guardians (previously Galaxy Labs) are great official tools f
 🎁 [Donate to our admins](https://t.me/popMODS/4195)
 
 - 🌐 **Official Website:** [https://play.google.com/store/apps/details?id=yuh.yuh.finelock&hl=ru&gl=US](https://play.google.com/store/apps/details?id=yuh.yuh.finelock&hl=ru&gl=US)
+
+
+---
+
+### 📦 Textbee
+
+> **Categories:** `#SMS` `#Android`
+
+Allows users to send SMS messages from the web interface or from their application via REST API. Android phones are used as SMS gateways.
+**
+⤷ **[**Link to project**](https://github.com/vernu/textbee)**
+**
+📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #SMS #Android
+
+- 🐙 **Source Code:** [https://github.com/vernu/textbee](https://github.com/vernu/textbee)
+- 👤 **Developer:** [vernu](https://github.com/vernu)
 
 
 ---
@@ -14328,6 +16433,69 @@ Open source "Digital Wellbeing" replacement at alpha stage. Has some cool featur
 
 ---
 
+### 📦 suyu-emu/suyu
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Useful`
+
+suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android.
+**Language**: C++
+**Stars**: 626 **Issues**: 0 **Forks**: 53
+[https://github.com/suyu-emu/suyu](https://github.com/suyu-emu/suyu)
+
+- 🐙 **Source Code:** [https://github.com/suyu-emu/suyu](https://github.com/suyu-emu/suyu)
+- 👤 **Developer:** [suyu-emu](https://github.com/suyu-emu)
+
+
+---
+
+### 📦 Airclap
+
+> **Categories:** `#Interesting` `#Useful` `#Android`
+
+It supports various file formats and the maximum transfer speed that is available on the local network.
+
+**⤷ **[**Link to project**](https://github.com/Gentleflow/Airclap)**
+**
+📢 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Useful #Android
+
+- 🐙 **Source Code:** [https://github.com/Gentleflow/Airclap](https://github.com/Gentleflow/Airclap)
+- 👤 **Developer:** [Gentleflow](https://github.com/Gentleflow)
+
+
+---
+
+### 📦 Griddycode
+
+> **Categories:** `#Interesting` `#Android`
+
+It allows you to extend its functionality through Lua with tutorials provided.
+
+**⤷ **[Project link](https://github.com/face-hh/griddycode)**
+**
+📢 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/face-hh/griddycode](https://github.com/face-hh/griddycode)
+- 👤 **Developer:** [face-hh](https://github.com/face-hh)
+
+
+---
+
+### 📦 Ultrablue
+
+> **Categories:** `#Interesting` `#Android`
+
+consists of a server running on a computer and acting as a verifier, and a graphical client application running on a phone acting as a verifier.
+
+**⤷ **[**Link to project**](https://github.com/ANSSI-FR/ultrablue)**
+**
+📢 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/ANSSI-FR/ultrablue](https://github.com/ANSSI-FR/ultrablue)
+- 👤 **Developer:** [ANSSI-FR](https://github.com/ANSSI-FR)
+
+
+---
+
 ### 📦 Comatose
 
 > **Categories:** `#android` `#root` `#adb`
@@ -14593,6 +16761,20 @@ An Open-Source Android Tool project created with Python , This tool contains man
 
 ---
 
+### 📦 diia-open-source/android-diia
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Kotlin
+**Stars**: 366 **Issues**: 22 **Forks**: 45
+[https://github.com/diia-open-source/android-diia](https://github.com/diia-open-source/android-diia)
+
+- 🐙 **Source Code:** [https://github.com/diia-open-source/android-diia](https://github.com/diia-open-source/android-diia)
+- 👤 **Developer:** [diia-open-source](https://github.com/diia-open-source)
+
+
+---
+
 ### 📦 MedTimer** **- Med reminders and history with full offline privacy
 
 > **Categories:** `#Android`
@@ -14798,6 +16980,22 @@ A simple medication tracking app, that supports tracking medicines for yourself 
 An Xposed module to customize your WhatsApp.
 
 - 🐙 **Source Code:** [https://github.com/ItsMadruga/MdgWa](https://github.com/ItsMadruga/MdgWa)
+
+
+---
+
+### 📦 Locallock
+
+> **Categories:** `#Android` `#Security` `#Interesting`
+
+Easy to use interface, biometric authentication, local data storage, no trackers or advertising. All passwords are encrypted with AES-256 and are easily copied to the clipboard.
+
+🐱 **⤷ **[**Link to project**](https://github.com/PriyavKaneria/LocalLock)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Android #Security #Interesting
+
+- 🐙 **Source Code:** [https://github.com/PriyavKaneria/LocalLock](https://github.com/PriyavKaneria/LocalLock)
+- 👤 **Developer:** [PriyavKaneria](https://github.com/PriyavKaneria)
 
 
 ---
@@ -15175,6 +17373,21 @@ Dollphone Icon Pack is a crystallization of years of passion for the “yurukawa
 
 ---
 
+### 📦 [**DockerAndroid**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - A guide explaining how to run Docker on Android.
+
+> **Categories:** `#Interesting` `#Docker` `#Android` `#Guide`
+
+To do this, you need to root your phone, compile the kernel, and compile the Docker package. Instructions are provided for each component, including patches, configuration, and setup.
+
+**⤷ **[**Link to project**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)**
+**
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Docker #Android #Guide
+
+- 🐙 **Source Code:** [https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
+
+
+---
+
 ### 📦 TrustDevice Fingerprint
 
 > **Categories:** `#1` `#Android` `#Security` `#Utilities`
@@ -15215,6 +17428,22 @@ Minimalistic price converter that allows you to convert prices of fiat shitcoins
 🏷 **Tags**: #Android
 
 - 🐙 **Source Code:** [https://t.me/popCLOUDS/4413?single](https://t.me/popCLOUDS/4413?single)
+
+
+---
+
+### 📦 Eyeroll
+
+> **Categories:** `#Interesting` `#Android` `#Firefox`
+
+Close your right eye to scroll down and your left eye to scroll up. Also works in Firefox for Android. Settings include sensitivity, time required to scroll.
+
+**⤷ **[**Link to project**](https://github.com/bjesus/eyeroll)**
+**
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android #Firefox
+
+- 🐙 **Source Code:** [https://github.com/bjesus/eyeroll](https://github.com/bjesus/eyeroll)
+- 👤 **Developer:** [bjesus](https://github.com/bjesus)
 
 
 ---
@@ -15610,6 +17839,23 @@ Torrent connection is done localy. **If your provider blocks torrents be aware*
 
 ---
 
+### 📦 Navidrome
+
+> **Categories:** `#Interesting` `#Music` `#Manager` `#Useful` `#GitHub` `#OpenSource`
+
+**
+It lets you enjoy your music collection from anywhere, making it accessible through a modern web interface and a range of mobile apps available for both iOS and Android devices.
+
+**⤷ **[**Link to project**](https://github.com/navidrome/navidrome)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Music #Manager #Useful
+
+- 🐙 **Source Code:** [https://github.com/navidrome/navidrome](https://github.com/navidrome/navidrome)
+- 👤 **Developer:** [navidrome](https://github.com/navidrome)
+
+
+---
+
 ### 📦 Mastify
 
 > **Categories:** `#Android`
@@ -15633,6 +17879,23 @@ Mastify is an open-source Mastodon Android client which is fully developed using
 🎁 [Donate to our admins](https://t.me/popMODS/4195)
 
 - 🐙 **Source Code:** [https://github.com/whitescent/Mastify](https://github.com/whitescent/Mastify)
+
+
+---
+
+### 📦 Vocably Pro
+
+> **Categories:** `#Interesting` `#language` `#App` `#Useful` `#Study` `#GitHub` `#OpenSource`
+
+**
+This repository allows you to learn foreign words using flashcards. It has a browser extension, web and mobile application for iOS and Android.
+
+**⤷**[** Link to project**](https://github.com/vocably/vocably-pro)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #language
+
+- 🐙 **Source Code:** [https://github.com/vocably/vocably-pro](https://github.com/vocably/vocably-pro)
+- 👤 **Developer:** [vocably](https://github.com/vocably)
 
 
 ---
@@ -15836,6 +18099,19 @@ __🛠️ Features__:
 
 ---
 
+### 📦 X-PLUG/MobileAgent
+
+> **Categories:** `#agent` `#gpt4v` `#mllm` `#mobile_agents` `#multimodal` `#multimodal_large_language_models` `#readme` `#android` `#app` `#gui` `#automation` `#mobile` `#copilot` `#multimodal_agent` `#python` `#GitHub` `#OpenSource`
+
+Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
+- 👤 **Developer:** [X-PLUG](https://github.com/X-PLUG)
+
+
+---
+
 ### 📦 Pocket Broomball
 
 > **Categories:** `#Android` `#Web` `#Linux` `#IOS`
@@ -15890,6 +18166,22 @@ __🛠️ Features__
 This icon pack makes your home screen varied and dynamic. As there is no background, each icon looks unique and the constant pattern of the grid is broken up.
 
 - 🐙 **Source Code:** [https://github.com/MiepHD/cuscon](https://github.com/MiepHD/cuscon)
+
+
+---
+
+### 📦 maui
+
+> **Categories:** `#GitHub` `#OpenSource` `#csharp` `#android` `#desktop` `#dotnet` `#hacktoberfest` `#ios` `#maccatalyst` `#maui` `#microsoft` `#mobile` `#multi_platform` `#user_interface` `#winui` `#winui3`
+
+**.NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, iPadOS, macOS, and Windows from a single shared codebase.
+
+Creator: .NET Platform
+Stars ⭐️: 20.5k
+Forked By: 1.5k
+
+- 🐙 **Source Code:** [https://github.com/dotnet/maui](https://github.com/dotnet/maui)
+- 👤 **Developer:** .NET Platform
 
 
 ---
@@ -16228,6 +18520,19 @@ Loop is a mobile app that helps you create and maintain good habits, allowing yo
 Empower your calls, safeguard your data. Fossify Phone redefines the mobile app experience with unmatched privacy and efficiency. Free from ads and intrusive permissions, it's designed for seamless and secure everyday communication
 
 - 🐙 **Source Code:** [https://github.com/FossifyOrg/Phone](https://github.com/FossifyOrg/Phone)
+
+
+---
+
+### 📦 tachiyomiorg/extensions
+
+> **Categories:** `#android` `#kotlin` `#manga` `#self_hosted`
+
+Source extensions for the Tachiyomi app.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions)
+- 👤 **Developer:** [tachiyomiorg](https://github.com/tachiyomiorg)
 
 
 ---
@@ -16723,6 +19028,18 @@ CloudStream is an app that allows you to stream and download movies, TV series, 
 
 ---
 
+### 📦 anisurrahman072/React-Native-Advanced-Guide
+
+> **Categories:** `#advanced_programming` `#performance_optimization` `#react_native`
+
+React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥
+
+- 🐙 **Source Code:** [https://github.com/anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
+- 👤 **Developer:** [anisurrahman072](https://github.com/anisurrahman072)
+
+
+---
+
 ### 📦 EtchDriod
 
 > **Categories:** `#Android`
@@ -16935,6 +19252,21 @@ Android Enhancer is a specialized tool designed to optimize the performance of A
 PlayIntegrityFix is a Magisk module that aims to fix Play Integrity and SafetyNet verdicts on rooted Android devices with unlocked bootloaders. It works by injecting into Google Play Services and preventing it from using hardware attestation, as well as spoofing a low Android fingerprint. This way, it can bypass the latest Google Play Protect checks and make your device appear as certified.
 
 - 🐙 **Source Code:** [https://t.me/playintegrityfix](https://t.me/playintegrityfix)
+
+
+---
+
+### 📦 mnotgod96/AppAgent
+
+> **Categories:** `#GitHub` `#OpenSource` `#LLM` `#Android` `#Useful`
+
+A novel LLM-based multimodal agent framework designed to operate smartphone applications
+**Language**: Python
+**Stars**: 395 **Issues**: 3 **Forks**: 43
+[https://github.com/mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)
+
+- 🐙 **Source Code:** [https://github.com/mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)
+- 👤 **Developer:** [mnotgod96](https://github.com/mnotgod96)
 
 
 ---
@@ -17407,6 +19739,19 @@ Currencies is a simple and straightforward currency converter. It is not intende
 
 ---
 
+### 📦 skydoves/FlexibleBottomSheet
+
+> **Categories:** `#android` `#animation` `#bottomsheet` `#jetpack_compose` `#modal` `#modal_bottom_sheets` `#skydoves` `#GitHub` `#OpenSource`
+
+🐬 Advanced Jetpack Compose bottom sheet for segmented sizing and non-modal type, similar to Google Maps.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
 ### 📦 Blocker
 
 > **Categories:** `#Android`
@@ -17540,6 +19885,24 @@ Table Habit" is an app that helps you establish and track your own micro habit. 
 
 ---
 
+### 📦 yazi
+
+> **Categories:** `#rust` `#android` `#asyncio` `#cli` `#concurrency` `#file_explorer` `#file_manager` `#hacktoberfest` `#helix` `#linux` `#macos` `#neovim` `#productivity` `#terminal` `#tui` `#vim` `#windows` `#yazi` `#Interesting` `#GitHub` `#OpenSource`
+
+**Yazi ("duck" in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
+
+
+Creator:  Misaki Masa
+Stars ⭐️: 3.7k
+Forked By: 73
+https://github.com/sxyazi/yazi
+
+- 🐙 **Source Code:** [https://github.com/sxyazi/yazi](https://github.com/sxyazi/yazi)
+- 👤 **Developer:** Misaki Masa
+
+
+---
+
 ### 📦 Audire** (also check [Audile](https://t.me/popMODS/4162))
 
 > **Categories:** `#Android`
@@ -17548,6 +19911,19 @@ __Audire__ identifies the music playing near you and shows you details on its t
 __For identification, Audire uses the APIs of Shazam and AUDD.__
 
 - 🐙 **Source Code:** [https://github.com/alexmercerind/audire](https://github.com/alexmercerind/audire)
+
+
+---
+
+### 📦 MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass
+
+> **Categories:** `#android` `#android_development` `#bootloader` `#bootloader_unlock` `#hyperos` `#miui` `#xiaomi`
+
+A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
+**Language**: PHP
+
+- 🐙 **Source Code:** [https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
+- 👤 **Developer:** [MlgmXyysd](https://github.com/MlgmXyysd)
 
 
 ---
@@ -17960,6 +20336,18 @@ A Simple Play Integrity Checker which uses Google Play Integrity API to check th
 - All the other other described [here](https://telegra.ph/Notepher-Bot-10-09)
 
 - 🐙 **Source Code:** [https://github.com/deptyped/notepher-bot](https://github.com/deptyped/notepher-bot)
+
+
+---
+
+### 📦 actuator/Android-Security-Exploits-YouTube-Curriculum
+
+> **Categories:** `#android` `#blackhat` `#defcon` `#exploit` `#hacking` `#nullcon` `#reverse_engineering` `#security` `#shmoocon` `#strange_loop_conference` `#troopers24`
+
+🔓A curated list of modern Android exploitation conference talks.
+
+- 🐙 **Source Code:** [https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum](https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum)
+- 👤 **Developer:** [actuator](https://github.com/actuator)
 
 
 ---
@@ -18672,6 +21060,22 @@ ForceDoze allows you to forcefully enable Doze right after you turn off your scr
 
 ---
 
+### 📦 Sayboard
+
+> **Categories:** `#Interesting` `#Android` `#GitHub` `#OpenSource`
+
+The application does not send any messages or information about the user over the Internet
+
+⤷ [Project link](https://github.com/ElishaAz/Sayboard)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard)
+- 👤 **Developer:** [ElishaAz](https://github.com/ElishaAz)
+
+
+---
+
 ### 📦 CoinWatch
 
 > **Categories:** `#FOSS` `#Android`
@@ -19374,6 +21778,25 @@ An IDE to develop real, Gradle-based Android applications on Android devices.
 - ***CHECK ALL THE FEATURES** [HERE](https** — //github.com/namidaco/namida#-features)
 
 </details>
+
+
+---
+
+### 📦 appwrite
+
+> **Categories:** `#Appwrite` `#typescript` `#android` `#backend` `#backend_as_a_service` `#docker` `#firebase` `#flutter` `#hacktoberfest` `#hosting` `#ios` `#javascript` `#nextjs` `#react` `#react_native` `#reactnative` `#self_hosted` `#selfhosted` `#serverless` `#swift` `#web` `#GitHub` `#OpenSource`
+
+**Appwrite is an end-to-end backend server for Web, Mobile, Native, or Backend apps packaged as a set of Docker microservices. Appwrite abstracts the complexity and repetitiveness required to build a modern backend API from scratch and allows you to build secure apps faster.
+
+Using Appwrite, you can easily integrate your app with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, Cloud Functions, and more services.
+
+Creator:  Appwrite
+Stars ⭐️: 36.3k
+Forked By: 3.3k
+https://github.com/appwrite/appwrite
+
+- 🐙 **Source Code:** [https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)
+- 👤 **Developer:** Appwrite
 
 
 ---
@@ -20991,6 +23414,22 @@ Pachli** is a full-featured Android client for Mastodon, with a cooperative deve
 
 ---
 
+### 📦 Keepscreenon
+
+> **Categories:** `#Interesting` `#Android`
+
+This can be useful for example when viewing a website or document
+
+⤷ [Project link](https://github.com/elastic-rock/KeepScreenOn)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/elastic-rock/KeepScreenOn](https://github.com/elastic-rock/KeepScreenOn)
+- 👤 **Developer:** [elastic-rock](https://github.com/elastic-rock)
+
+
+---
+
 ### 📦 ffshare
 
 > **Categories:** `#Android`
@@ -21027,6 +23466,22 @@ Pachli** is a full-featured Android client for Mastodon, with a cooperative deve
 - Restore backup from a json file
 
 </details>
+
+
+---
+
+### 📦 Box64Droid
+
+> **Categories:** `#Interesting` `#Android`
+
+Which allows you to run many PC games on Android in 4K 60 frames per second
+
+⤷ [Project link](https://github.com/Ilya114/Box64Droid)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid)
+- 👤 **Developer:** [Ilya114](https://github.com/Ilya114)
 
 
 ---
@@ -21264,6 +23719,26 @@ The Privacy Friendly Pedometer stores the user's step count per hour. The user c
 
 ---
 
+### 📦 ray lib
+
+> **Categories:** `#raylib` `#c_lang` `#android` `#c` `#embedded` `#game_development` `#game_engine` `#gamedev` `#graphics` `#hacktoberfest` `#iot` `#linux` `#opengl` `#programming` `#raspberry_pi` `#videogames` `#wasm` `#webassembly` `#GitHub` `#OpenSource`
+
+**raylib is a simple and easy-to-use library to enjoy videogames programming.
+
+raylib is highly inspired by Borland BGI graphics lib and by XNA framework and it's specially well suited for prototyping, tooling, graphical applications, embedded systems and education.
+
+NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no debug button... just coding in the most pure spartan-programmers way.
+
+Creator:  raysan5
+Stars: ⭐️ 14.7k
+Forked by: 1.17k
+
+- 🐙 **Source Code:** [https://github.com/raysan5/raylib](https://github.com/raysan5/raylib)
+- 👤 **Developer:** raysan5
+
+
+---
+
 ### 📦 Codec Info
 
 > **Categories:** `#Android`
@@ -21454,6 +23929,22 @@ Platform(s); #Android , #MIUI , #Guides
 
 ---
 
+### 📦 Nightlightapp
+
+> **Categories:** `#Interesting` `#Android`
+
+It cycles through colors on a full screen display and after an hour the display goes dark
+
+⤷ [Project link](https://github.com/Ra-Na/NightLightApp)
+
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/Ra-Na/NightLightApp](https://github.com/Ra-Na/NightLightApp)
+- 👤 **Developer:** [Ra-Na](https://github.com/Ra-Na)
+
+
+---
+
 ### 📦 Dark Mode Live Wallpaper
 
 > **Categories:** `#Android`
@@ -21496,6 +23987,19 @@ You can remap your;
 **Medito is a free meditation app by Medito Foundation, a non-profit organization that believes no one should have to pay for meditation. Medito offers a variety of features to help you improve your mental wellbeing, such as guided meditations, breathing exercises, relaxing sounds, and more.
 
 - 🐙 **Source Code:** [https://github.com/meditohq/medito-app](https://github.com/meditohq/medito-app)
+
+
+---
+
+### 📦 skydoves/snitcher
+
+> **Categories:** `#android` `#compose` `#exceptions` `#exceptions_handling` `#jetpack_compose` `#kotlin` `#library` `#skydoves` `#throwable`
+
+🦉 Snitcher captures global crashes, enabling easy redirection to the exception tracing screen for swift recovery.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/snitcher](https://github.com/skydoves/snitcher)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
 
 
 ---
@@ -21589,6 +24093,19 @@ Launch the app and wait for the installation process to finish
 **Stable Diffusion AI is an easy-to-use app that lets you quickly generate images from text or other images with just a few clicks. With Stable Diffusion AI, you can communicate with your own server and generate high-quality images in seconds.
 
 - 🐙 **Source Code:** [https://github.com/ShiftHackZ/Stable-Diffusion-Android](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
+
+
+---
+
+### 📦 romainguy/kotlin-explorer
+
+> **Categories:** `#android` `#bytecode` `#dex` `#kotlin`
+
+Desktop tool to quickly explore disassembled Kotlin code.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/romainguy/kotlin-explorer](https://github.com/romainguy/kotlin-explorer)
+- 👤 **Developer:** [romainguy](https://github.com/romainguy)
 
 
 ---
@@ -21905,6 +24422,22 @@ A complete weather app, supporting various providers and Material You.
 
 ---
 
+### 📦 Innertune
+
+> **Categories:** `#Interesting` `#Android` `#YT` `#GitHub` `#OpenSource`
+
+Features include ad-free song playback, background playback, search for songs, albums and playlists, library management, caching and downloading songs for offline playback
+
+⤷ [Project link](https://github.com/z-huang/InnerTune)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/z-huang/InnerTune](https://github.com/z-huang/InnerTune)
+- 👤 **Developer:** [z-huang](https://github.com/z-huang)
+
+
+---
+
 ### 📦 Vigilante
 
 > **Categories:** `#Android` `#Interesting`
@@ -21982,6 +24515,22 @@ Platform(s); #Android #Windows #Linux
 
 ---
 
+### 📦 Andronixorigin
+
+> **Categories:** `#Interesting` `#Android` `#Linux`
+
+Inside the distribution, you are free to run a variety of desktop applications, including krita, GIMP, Blender
+
+⤷ [Project link](https://github.com/AndronixApp/AndronixOrigin)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android #Linux
+
+- 🐙 **Source Code:** [https://github.com/AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
+- 👤 **Developer:** [AndronixApp](https://github.com/AndronixApp)
+
+
+---
+
 ### 📦 Florae 🌱
 
 > **Categories:** `#Android`
@@ -22015,6 +24564,53 @@ Platform(s); #Android #Windows #Linux
 - Dynamic Color or 4 different color variations 🎨
 
 </details>
+
+
+---
+
+### 📦 Gptassist
+
+> **Categories:** `#Interesting` `#Android`
+
+**It blocks all URLs that are not required. Does not support signing in with a Microsoft or Google account
+
+⤷ [Project link](https://github.com/woheller69/gptassist)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/woheller69/gptassist](https://github.com/woheller69/gptassist)
+- 👤 **Developer:** [woheller69](https://github.com/woheller69)
+
+
+---
+
+### 📦 SimonHalvdansson/Harmonic-HN
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An Android client for Hacker News
+**Language**: Java
+**Stars**: 215 **Issues**: 3 **Forks**: 5
+[https://github.com/SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN)
+
+- 🐙 **Source Code:** [https://github.com/SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN)
+- 👤 **Developer:** [SimonHalvdansson](https://github.com/SimonHalvdansson)
+
+
+---
+
+### 📦 Kryptey
+
+> **Categories:** `#Interesting` `#Useful` `#Android` `#GitHub` `#OpenSource`
+
+Communicate securely and independently, regardless of the legal situation or whether messengers use E2EE. No server needed
+
+⤷ [Project link](https://github.com/amnesica/KryptEY)
+
+[GitHub](https://t.me/github_society) | #Interesting #Useful
+
+- 🐙 **Source Code:** [https://github.com/amnesica/KryptEY](https://github.com/amnesica/KryptEY)
+- 👤 **Developer:** [amnesica](https://github.com/amnesica)
 
 
 ---
@@ -22097,6 +24693,51 @@ __- Lyricify 3 (End-Of-Support) is an older version of Lyricify that supports Sp
 
 ---
 
+### 📦 Privatelock
+
+> **Categories:** `#Interesting` `#Android`
+
+It can help protect your privacy and security by monitoring the accelerometer in the background and, if the threshold is violated, will lock the screen
+
+⤷ [Project link](https://github.com/wesaphzt/privatelock)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/wesaphzt/privatelock](https://github.com/wesaphzt/privatelock)
+- 👤 **Developer:** [wesaphzt](https://github.com/wesaphzt)
+
+
+---
+
+### 📦 Smartdock
+
+> **Categories:** `#Interesting` `#Android`
+
+Functions:
+▫️Supports multiple windows
+▫️Hot keys
+▫️Supports desktop and tablet layouts
+
+⤷ [Project link](https://github.com/axel358/smartdock)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/axel358/smartdock](https://github.com/axel358/smartdock)
+- 👤 **Developer:** [axel358](https://github.com/axel358)
+
+<details>
+<summary><b>✨ Key Features (4)</b> — <i>Click to expand</i></summary>
+
+- ***Hiding Android navigation buttons** — **
+- ***With root** — **
+- *Without root**
+- ***With LSPosed (might help on Android 11+)** — **
+
+</details>
+
+
+---
+
 ### 📦 Symphony
 
 > **Categories:** `#Android`
@@ -22140,6 +24781,21 @@ __- Lyricify 3 (End-Of-Support) is an older version of Lyricify that supports Sp
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/mslalith/focus_launcher](https://github.com/mslalith/focus_launcher)
+
+
+---
+
+### 📦 strato-emu/strato
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Run Nintendo Switch homebrew & games on your Android device!
+**Language**: C++
+**Stars**: 269 **Issues**: 11 **Forks**: 14
+[https://github.com/strato-emu/strato](https://github.com/strato-emu/strato)
+
+- 🐙 **Source Code:** [https://github.com/strato-emu/strato](https://github.com/strato-emu/strato)
+- 👤 **Developer:** [strato-emu](https://github.com/strato-emu)
 
 
 ---
@@ -22207,6 +24863,22 @@ Platform(s); #Android
 **Generate beautiful color palettes using AI.
 
 - 🐙 **Source Code:** [https://github.com/tsinis/colors_ai](https://github.com/tsinis/colors_ai)
+
+
+---
+
+### 📦 Cameraalign
+
+> **Categories:** `#Interesting` `#Android`
+
+This allows you to place your phone in the same position and orientation as when you took the original photo
+
+⤷ [Project link](https://github.com/JS-HobbySoft/CameraAlign)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/JS-HobbySoft/CameraAlign](https://github.com/JS-HobbySoft/CameraAlign)
+- 👤 **Developer:** [JS-HobbySoft](https://github.com/JS-HobbySoft)
 
 
 ---
@@ -22503,6 +25175,22 @@ Platform(s); #Android
 
 ---
 
+### 📦 Blink Comparison
+
+> **Categories:** `#Interesting` `#Android` `#Useful`
+
+The program is written in the Dart language and uses the Flutter framework to build the user interface. The concept of the method is simple - the application allows you to quickly switch images without delay to see the differences.
+
+⤷ [Project link](https://github.com/proninyaroslav/blink-comparison)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android #Useful
+
+- 🐙 **Source Code:** [https://github.com/proninyaroslav/blink-comparison](https://github.com/proninyaroslav/blink-comparison)
+- 👤 **Developer:** [proninyaroslav](https://github.com/proninyaroslav)
+
+
+---
+
 ### 📦 Ambient Music Mod - Port of Now Playing from Pixels to other Android devices
 
 > **Categories:** `#installation` `#Android`
@@ -22760,6 +25448,36 @@ The tiles are then combined into a final high-resolution image
 
 ---
 
+### 📦 Gtasa Vita
+
+> **Categories:** `#Interesting` `#C`
+
+Grand Theft Auto: San Andreas Android PS Vita
+
+⤷ [Available for download](https://github.com/TheOfficialFloW/gtasa_vita)
+
+[GitHub](https://t.me/github_society) | #Interesting #C
+
+- 🐙 **Source Code:** [https://github.com/TheOfficialFloW/gtasa_vita](https://github.com/TheOfficialFloW/gtasa_vita)
+- 👤 **Developer:** [TheOfficialFloW](https://github.com/TheOfficialFloW)
+
+
+---
+
+### 📦 Vita3K/Vita3K-Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Public releases and CI for the Vita3K Android app
+**Stars**: 326 **Issues**: 197 **Forks**: 6
+[https://github.com/Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android)
+
+- 🐙 **Source Code:** [https://github.com/Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android)
+- 👤 **Developer:** [Vita3K](https://github.com/Vita3K)
+
+
+---
+
 ### 📦 Spowlo - A Spotify songs downloader made with Jetpack Compose, Material You and the spotDL python library
 
 > **Categories:** `#Android`
@@ -22876,6 +25594,41 @@ Myne is an app that allows you to download many ebooks from authors that died mo
 
 ---
 
+### 📦 AzeemIdrisi/PhoneSploit-Pro
+
+> **Categories:** `#hacking_tool` `#toolkit`
+
+**An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+
+Creator:  Mohd Azeem
+Stars ⭐️: 457
+Forked By: 70
+https://github.com/AzeemIdrisi/PhoneSploit-Pro
+
+- 🐙 **Source Code:** [https://github.com/AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+- 👤 **Developer:** Mohd Azeem
+
+
+---
+
+### 📦 google/material-design-icons
+
+> **Categories:** `#Google` `#Icons` `#readme` `#android` `#ios` `#web` `#material` `#material_design` `#sprites` `#Design`
+
+Material** Design icons by Google
+
+Creator:  Google
+Stars ⭐️: 47.5k
+Forked By: 9.5k
+https://github.com/google/material-design-icons
+
+- 🐙 **Source Code:** [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
+- 🌐 **Official Website:** [https://github.com/google/material-design-icons#readme](https://github.com/google/material-design-icons#readme)
+- 👤 **Developer:** Google
+
+
+---
+
 ### 📦 [LocalSend
 
 > **Categories:** `#Android` `#Windows` `#Linux` `#macOS` `#iOS` `#localsend` `#FileTransfer` `#Networking` `#Productivity` `#GitHub` `#OpenSource` `#dart` `#file_sharing` `#flutter` `#flutter_apps` `#Interesting` `#File` `#Useful`
@@ -22895,6 +25648,19 @@ Myne is an app that allows you to download many ebooks from authors that died mo
 **PlayStoreMod is an app that can be used to enable hidden features and new things on the Google Play Store.
 
 - 🐙 **Source Code:** [https://github.com/assembleDebug/PlayStoreMod](https://github.com/assembleDebug/PlayStoreMod)
+
+
+---
+
+### 📦 GetStream/webrtc-in-jetpack-compose
+
+> **Categories:** `#android` `#audiocall` `#compose` `#jetpack` `#jetpack_compose` `#videocall` `#videocalling` `#webrtc`
+
+📱 This project demonstrates WebRTC protocol to facilitate real-time video communications with Jetpack Compose.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/GetStream/webrtc-in-jetpack-compose](https://github.com/GetStream/webrtc-in-jetpack-compose)
+- 👤 **Developer:** [GetStream](https://github.com/GetStream)
 
 
 ---
@@ -23003,6 +25769,148 @@ In order to encrypt a text, Oversec shows a button next to an active input field
 
 ---
 
+### 📦 google/comprehensive-rust
+
+> **Categories:** `#GitHub` `#OpenSource` `#rust` `#android` `#classroom` `#course` `#google` `#guide` `#training` `#training_materials`
+
+**Language**: Rust
+**Stars**: 299 **Issues**: 15 **Forks**: 20
+[https://github.com/google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+
+- 🐙 **Source Code:** [https://github.com/google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+- 👤 **Developer:** [google](https://github.com/google)
+
+
+---
+
+### 📦 usememos/memos
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#react` `#go` `#docker` `#markdown` `#social_network` `#memo` `#sqlite` `#foss` `#self_hosted` `#note_taking` `#microblog` `#notecard` `#Interesting` `#Windows` `#Android` `#MacOS`
+
+**An open-source, self-hosted memo hub with knowledge management and collaboration.
+
+Creator: memos
+Stars ⭐️: 2.5k
+Forked By: 151
+
+- 🐙 **Source Code:** [https://github.com/usememos/memos](https://github.com/usememos/memos)
+- 🌐 **Official Website:** [https://usememos.com](https://usememos.com)
+- 👤 **Developer:** memos
+
+
+---
+
+### 📦 Yatagan
+
+> **Categories:** `#UI` `#Android`
+
+The library will bring maximum benefit to projects that have a significant number of gradle modules in the project, where only one AP is used - Dagger, and developers are willing to try Yatagan in reflection mode for debug builds.
+
+[⤷ Link to project
+](https://github.com/yandex/yatagan)[⤷ Article with examples
+
+](https://habr.com/ru/company/yandex/blog/704838/)GitHub | #UI #Android
+
+- 🐙 **Source Code:** [https://github.com/yandex/yatagan](https://github.com/yandex/yatagan)
+- 👤 **Developer:** [yandex](https://github.com/yandex)
+
+
+---
+
+### 📦 tiann/KernelSU
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A Kernel based root solution for Android GKI
+**Language**: Kotlin
+**Stars**: 263 **Issues**: 1 **Forks**: 26
+[https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+- 🐙 **Source Code:** [https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
+- 👤 **Developer:** [tiann](https://github.com/tiann)
+
+
+---
+
+### 📦 Facilmap
+
+> **Categories:** `#Interesting` `#Android`
+
+Has a smartphone-friendly interface
+
+⤷ [Project link](https://github.com/FacilMap/facilmap)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android
+
+- 🐙 **Source Code:** [https://github.com/FacilMap/facilmap](https://github.com/FacilMap/facilmap)
+- 👤 **Developer:** [FacilMap](https://github.com/FacilMap)
+
+
+---
+
+### 📦 skydoves/Cloudy
+
+> **Categories:** `#android` `#blur` `#blur_image` `#jetpack_compose` `#skydoves`
+
+☁️ Jetpack Compose blur effect library, which supports all Android versions.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/Cloudy](https://github.com/skydoves/Cloudy)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 AndroidDev-social/MastodonCompose
+
+> **Categories:** `#compose_desktop` `#jetpack` `#kotlin_multiplatform` `#mastodon` `#mastodon_app` `#mastodon_client`
+
+🐘 Mastodon client for Android, iOS and Desktop (JVM)
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/AndroidDev-social/MastodonCompose](https://github.com/AndroidDev-social/MastodonCompose)
+- 👤 **Developer:** [AndroidDev-social](https://github.com/AndroidDev-social)
+
+
+---
+
+### 📦 OpenNative/open-native
+
+> **Categories:** `#android` `#ios` `#java` `#kotlin` `#nativescript` `#objective_c` `#react_native` `#swift`
+
+Open Native brings cross-platform communities together to help them collaborate and strengthen diversity.
+**Language**: Objective-C
+
+- 🐙 **Source Code:** [https://github.com/OpenNative/open-native](https://github.com/OpenNative/open-native)
+- 👤 **Developer:** [OpenNative](https://github.com/OpenNative)
+
+
+---
+
+### 📦 Auxio
+
+> **Categories:** `#Interesting` `#Android` `#Audio` `#Player`
+
+The trick is that it doesn't have most of the useless features found in other music players.
+
+⤷ [Project link](https://github.com/oxygencobalt/Auxio)
+
+[GitHub](https://t.me/github_society) | #Interesting #Android #Audio #Player
+
+- 🐙 **Source Code:** [https://github.com/oxygencobalt/Auxio](https://github.com/oxygencobalt/Auxio)
+- 👤 **Developer:** [oxygencobalt](https://github.com/oxygencobalt)
+
+<details>
+<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
+
+#### 📸 Cover / Preview
+<p align="center"><img src="../../assets/apps/auxio/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
+
+</details>
+
+
+---
+
 ### 📦 Obtainium App - Get Android App Updates Directly From the Source**.
 
 > **Categories:** `#Android` `#Interesting` `#Useful` `#GitHub` `#OpenSource`
@@ -23053,6 +25961,19 @@ Advantages
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard)
+
+
+---
+
+### 📦 parvardegr/sharing
+
+> **Categories:** `#android` `#browser` `#command_line_tool` `#filesharing` `#filesharing_on_network` `#filetransfer` `#ios` `#linux` `#nodejs` `#qrcode` `#serving_directory` `#GitHub` `#OpenSource`
+
+Sharing is a command-line tool to share directory and files with ios and android devices without an extra client app
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/parvardegr/sharing](https://github.com/parvardegr/sharing)
+- 👤 **Developer:** [parvardegr](https://github.com/parvardegr)
 
 
 ---
@@ -23162,6 +26083,32 @@ Platform(s); #Android
 
 ---
 
+### 📦 anujd64/Thunder
+
+> **Categories:** `#android` `#drive` `#googledriveindex` `#java`
+
+An Android app to stream and download your media stored in Google Drive in an Awesome way !!
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/anujd64/Thunder](https://github.com/anujd64/Thunder)
+- 👤 **Developer:** [anujd64](https://github.com/anujd64)
+
+
+---
+
+### 📦 android/architecture-templates
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Stars**: 149 **Issues**: 7 **Forks**: 5
+[https://github.com/android/architecture-templates](https://github.com/android/architecture-templates)
+
+- 🐙 **Source Code:** [https://github.com/android/architecture-templates](https://github.com/android/architecture-templates)
+- 👤 **Developer:** [android](https://github.com/android)
+
+
+---
+
 ### 📦 Boundo: System Tool Set
 
 > **Categories:** `#Android`
@@ -23225,6 +26172,22 @@ Platform(s); #Android
 Platform(s); #Web (Extension)
 
 - 🌐 **Official Website:** [http://buffer.com/](http://buffer.com/)
+
+
+---
+
+### 📦 divkit/divkit
+
+> **Categories:** `#GitHub` `#OpenSource` `#UI` `#Android` `#iOS`
+
+DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
+
+Creator: DivKit
+Stars ⭐️: 599
+Forked By: 26
+
+- 🐙 **Source Code:** [https://github.com/divkit/divkit](https://github.com/divkit/divkit)
+- 👤 **Developer:** DivKit
 
 
 ---
@@ -23324,6 +26287,22 @@ Platform(s); #Android
 
 ---
 
+### 📦 Remotevideocam
+
+> **Categories:** `#Interesting` `#Android` `#Video` `#Useful`
+
+The application can be used to monitor things in the house or yard, as a walkie-talkie, etc.
+
+⤷ [Project link](https://github.com/izivkov/RemoteVideoCam)
+
+[GitHub](https://t.me/github_community) | #Interesting #Android #Video #Useful
+
+- 🐙 **Source Code:** [https://github.com/izivkov/RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam)
+- 👤 **Developer:** [izivkov](https://github.com/izivkov)
+
+
+---
+
 ### 📦 Revan**cify
 
 > **Categories:** `#Android` `#Tools`
@@ -23409,6 +26388,51 @@ Platform(s); #Android
 
 ---
 
+### 📦 Telegramandroid
+
+> **Categories:** `#Interesting` `#Android` `#Telegram` `#Useful`
+
+**Some changes in Forkgram: **
+• Shows the original message date for forwarded messages;
+• The sidebar header has been reduced;
+• There is a quick download button for each media file in private chats;
+• Unlimited unarchived pinned chats **and much more..**
+
+⤷ [Project link](https://github.com/Forkgram/TelegramAndroid)
+
+[GitHub](https://t.me/github_community) | #Interesting #Android #Telegram #Useful
+
+- 🐙 **Source Code:** [https://github.com/Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
+- 👤 **Developer:** [Forkgram](https://github.com/Forkgram)
+
+
+---
+
+### 📦 jfversluis/learn-dotnet-maui
+
+> **Categories:** `#cross_platform` `#dotnet_for_android` `#dotnet_for_ios` `#dotnet_maui` `#maui` `#multi_platform_app_ui` `#xamarin` `#xamarin_forms`
+
+A repository filled with resources available to you to start learning or deepen your knowledge about .NET MAUI
+
+- 🐙 **Source Code:** [https://github.com/jfversluis/learn-dotnet-maui](https://github.com/jfversluis/learn-dotnet-maui)
+- 👤 **Developer:** [jfversluis](https://github.com/jfversluis)
+
+
+---
+
+### 📦 skydoves/sealedx
+
+> **Categories:** `#android` `#extensive` `#kotlin_symbol_processing` `#ksp` `#sealed_class` `#selaed_interface` `#skydoves`
+
+🎲 Kotlin Symbol Processor to auto-generate extensive sealed classes and interfaces for Android and Kotlin.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/sealedx](https://github.com/skydoves/sealedx)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
 ### 📦 Seal - Video and Audio downloader powered by yt-dlp and MD3
 
 > **Categories:** `#Android`
@@ -23469,6 +26493,76 @@ Platform(s); #Android
 
 ---
 
+### 📦 GetStream/whatsApp-clone-compose
+
+> **Categories:** `#android` `#architecture` `#architecture_components` `#coroutines` `#jetpack` `#jetpack_compose` `#kotlin` `#mvi` `#navigation` `#whatsapp`
+
+📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose)
+- 👤 **Developer:** [GetStream](https://github.com/GetStream)
+
+
+---
+
+### 📦 Hypatia
+
+> **Categories:** `#Interesting` `#Android` `#Security`
+
+Powered by ClamAV-style signature databases. The Internet is used only for downloading databases, minimum dependencies and much more..
+
+⤷ [Project link](https://github.com/Divested-Mobile/Hypatia)
+
+[GitHub](https://t.me/github_community) | #Interesting #Android #Security
+
+- 🐙 **Source Code:** [https://github.com/Divested-Mobile/Hypatia](https://github.com/Divested-Mobile/Hypatia)
+- 👤 **Developer:** [Divested-Mobile](https://github.com/Divested-Mobile)
+
+<details>
+<summary><b>✨ Key Features (10)</b> — <i>Click to expand</i></summary>
+
+- **Near zero battery impact** — you'll never notice any impact on battery at all
+- **Extremely fast** — it can scan small files (1MB) in 20ms, and even large files (40MB) in 1000ms.
+- **Memory efficient** — with the default databases enabled it uses under 120MB.
+- **Regular scan** — allowing selection of /system, internal storage, external storage, and installed apps
+- **Realtime scanner** — can detect malware in realtime on write/rename in internal storage
+- **Completely offline** — Internet is only used to download signature databases, files will never ever leave your device
+- **Persistence** — will automatically restart on boot/update
+- **Tiny codebase** — coming in at under 1000 sloc, it can be audited by even someone with basic programming experience
+- **Minimal dependencies** — the app only uses libraries when necessary
+- Signature databases can be enabled/disabled at the users demand
+
+</details>
+
+
+---
+
+### 📦 Anonymousmessenger
+
+> **Categories:** `#Java` `#Messenger`
+
+**Functional**:
+• Voice messages
+• Live voice calls via tor (alpha feature)
+• Text messages
+• Media messages with metadata removed
+• Send raw files of any size (100GB+)
+• Disappearing messages by default
+• Encrypted file storage on Android
+• Diffie-Hellman encryption
+
+> [**Official Repository**](https://git.anonymousmessenger.ly/dx/AnonymousMessenger)
+> [**Official website**](https://www.anonymousmessenger.ly/)
+
+[GitHub](https://t.me/github_community) | #Java #Messenger
+
+- 🐙 **Source Code:** [https://github.com/AnonymousMessenger/AnonymousMessenger](https://github.com/AnonymousMessenger/AnonymousMessenger)
+- 👤 **Developer:** [AnonymousMessenger](https://github.com/AnonymousMessenger)
+
+
+---
+
 ### 📦 YouTu**be Vanced Extended
 
 > **Categories:** `#Android`
@@ -23498,6 +26592,79 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/inotia00/VancedManager](https://github.com/inotia00/VancedManager)
+
+
+---
+
+### 📦 TGX-Android / Telegram-X
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**The main repository of Telegram X — official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue.
+
+Creator: Telegram X
+Stars ⭐️: 1.3k
+Forked By: 97
+
+- 🐙 **Source Code:** [https://github.com/TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
+- 👤 **Developer:** Telegram X
+
+
+---
+
+### 📦 skydoves/retrofit-adapters
+
+> **Categories:** `#android` `#arrow_kt` `#coroutines` `#either` `#jetpack` `#kotlin` `#kotlin_result` `#network` `#paging3` `#retrofit` `#retrofit2`
+
+🚆 Retrofit adapters for modeling network responses with Kotlin Result, Jetpack Paging3, and Arrow Either.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/retrofit-adapters](https://github.com/skydoves/retrofit-adapters)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 Silence
+
+> **Categories:** `#Interesting` `#Android` `#Useful` `#Privacy` `#Security` `#GitHub` `#OpenSource`
+
+You can also allow numbers with toll-free codes (such as 800), allow temporary mobile numbers from incoming text messages, and much more.
+
+⤷ [Project link](https://github.com/x13a/Silence)
+
+[GitHub](https://t.me/github_community) | #Interesting #Android #Useful
+
+- 🐙 **Source Code:** [https://github.com/x13a/Silence](https://github.com/x13a/Silence)
+- 👤 **Developer:** [x13a](https://github.com/x13a)
+
+
+---
+
+### 📦 skydoves/Orbitary
+
+> **Categories:** `#android` `#animation` `#jetpack_compose` `#sharedelementtransitions` `#skydoves`
+
+🪐 Jetpack Compose animation library that allows you to implement animations such as shared element transition.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/Orbitary](https://github.com/skydoves/Orbitary)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 emredavut/Chrome-Android-and-Windows-0day-RCE-SBX
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Chrome Android and Windows 0day RCE+SBX.. DPRK
+**Language**: JavaScript
+**Stars**: 108 **Issues**: 0 **Forks**: 30
+[https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
+
+- 🐙 **Source Code:** [https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
+- 👤 **Developer:** [emredavut](https://github.com/emredavut)
 
 
 ---
@@ -23550,6 +26717,50 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/x13a](https://github.com/x13a)
+
+
+---
+
+### 📦 skyline-emu/ skyline
+
+> **Categories:** `#GitHub` `#OpenSource` `#Cpp` `#Android` `#Emulator` `#Interesting`
+
+Run** Nintendo Switch homebrew & games on your Android device!
+Skyline is an experimental emulator that runs on ARMv8 Android™ devices and emulates the functionality of a Nintendo Switch™ system, licensed under Mozilla Public License 2.0
+
+Creator: skyline
+Stars ⭐️: 8.2k
+Forked By: 1.2k
+
+- 🐙 **Source Code:** [https://github.com/skyline-emu/skyline](https://github.com/skyline-emu/skyline)
+- 👤 **Developer:** skyline
+
+
+---
+
+### 📦 Android Sudoku Solver Ocr
+
+> **Categories:** `#Android` `#OCR` `#Java` `#Interesting`
+
+Uses OpenCv4Android to find the location of Sudoku frames in an image and MLKIT Vision OCR to retrieve the numbers
+
+[GitHub](https://t.me/github_community) | #Android #OCR #Java #Interesting
+
+- 🐙 **Source Code:** [https://github.com/hypertensiune/Android-Sudoku-Solver-OCR](https://github.com/hypertensiune/Android-Sudoku-Solver-OCR)
+- 👤 **Developer:** [hypertensiune](https://github.com/hypertensiune)
+
+
+---
+
+### 📦 danielroe/nuxt-ionic
+
+> **Categories:** `#android` `#ionic` `#ios` `#mobile` `#nuxt` `#nuxt_module`
+
+Batteries-included, zero-config Ionic integration for Nuxt
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/danielroe/nuxt-ionic](https://github.com/danielroe/nuxt-ionic)
+- 👤 **Developer:** [danielroe](https://github.com/danielroe)
 
 
 ---
@@ -23624,6 +26835,19 @@ About us:
 Platform(s); #Android , #Web
 
 - 🌐 **Official Website:** [https://t.me/popmodschat/58995](https://t.me/popmodschat/58995)
+
+
+---
+
+### 📦 tiann/eadb
+
+> **Categories:** `#android` `#ebfp`
+
+eBPF Android Debug Bridge
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/tiann/eadb](https://github.com/tiann/eadb)
+- 👤 **Developer:** [tiann](https://github.com/tiann)
 
 
 ---
@@ -23720,6 +26944,19 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://t.me/popmodschat/55805](https://t.me/popmodschat/55805)
+
+
+---
+
+### 📦 vfsfitvnm/ViMusic
+
+> **Categories:** `#android` `#jetpack_compose` `#music_player` `#youtube` `#kotlin` `#music`
+
+A Jetpack Compose Android application for streaming music from YouTube Music.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)
+- 👤 **Developer:** [vfsfitvnm](https://github.com/vfsfitvnm)
 
 
 ---
@@ -23895,6 +27132,19 @@ Platform(s); #Android
 
 ---
 
+### 📦 AndroidPoet/Dropdown
+
+> **Categories:** `#android` `#androidpoet` `#dropdown` `#jetpack_compose` `#kotlin` `#material_design` `#material_ui` `#menubar`
+
+💧 A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/AndroidPoet/Dropdown](https://github.com/AndroidPoet/Dropdown)
+- 👤 **Developer:** [AndroidPoet](https://github.com/AndroidPoet)
+
+
+---
+
 ### 📦 Thano**x - Thanos for your apps
 
 > **Categories:** `#Android`
@@ -23914,6 +27164,76 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/Tornaco/Thanox](https://github.com/Tornaco/Thanox)
+
+
+---
+
+### 📦 Hackerpro
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
+
+www.kalilinux.in
+
+- 🐙 **Source Code:** [https://github.com/jaykali/hackerpro](https://github.com/jaykali/hackerpro)
+- 👤 **Developer:** [jaykali](https://github.com/jaykali)
+
+
+---
+
+### 📦 Lockphish
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
+
+- 🐙 **Source Code:** [https://github.com/jaykali/lockphish](https://github.com/jaykali/lockphish)
+- 👤 **Developer:** [jaykali](https://github.com/jaykali)
+
+
+---
+
+### 📦 Hacking Bluetooth speakers
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Sa**lute, bandits! I think many schoolchildren with speakers playing terrible music are enraged. And I think everyone would like to drown out this nightmare. In this post, you will learn how to break the Bluetooth connection between the speaker and the phone, and even connect to** it and turn** `on your mus`**i**c`.
+
+Installation
+
+$ `**p**k`g update
+$ pkg i`**n**s`tall python
+$ pkg in`**s**t`all git
+$ pkg insta`**l**l` python2
+$ pip2 install scapy
+$ git clone https://git`**h**u`b.com/The404H`**a**c`king/websploit
+$ cd webspl`**oit
+$ chm**o`d 777 * websploit.py
+
+`launch
+
+$ python2 websploit.py
+
+We open the utility**.** `Next, we write the following:`
+
+$ use bluetooth/bluetooth_pod
+
+Then follow the link a[nd ](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US)download "nRF Connect" - [LINK](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US) Install and open, after which we give the necessary permissions. Click "SCAN", look for the column, and copy its mac-address.
+
+We return to T**e**r`mux and write`** **t`he following:
+
+$ set `**s**i`ze 99`9
+$ set bdaddr mac address
+$ run
+
+Instead of "mac-ad[d](https://t.me/Oblako_sxem)ress" paste the copied mac-address. Further, as soon as the speaker stops playing sound, this means that we have broken the connection, so we immediately try to connect [via](https://t.me/Oblako_sxem) "nRF Connect" to the speaker.
+
+It is also worth clarifying that if the distance to the co[l](https://t.me/Oblako_sxem)umn is too large, then nothing will come of it. In this way, you can break the connection not only of the bluetoot[h s](https://t.me/Oblako_sxem)peaker, but also of any other devices with a "blue tooth".
+
+For more power, I advise you to create as many as 8 sessions and launch an attack in all ✌️‌‌
+
+- 🌐 **Official Website:** [https://git`**h**u`b.com/The404H`**a**c`king/websploit](https://git`**h**u`b.com/The404H`**a**c`king/websploit)
 
 
 ---
@@ -23953,6 +27273,21 @@ Platform(s); #Android
 
 ---
 
+### 📦 slackhq/slack-gradle-plugin
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+The core Gradle plugin and associated logic used for Slack's Android app
+**Language**: Kotlin
+**Stars**: 131 **Issues**: 2 **Forks**: 1
+[https://github.com/slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+- 🐙 **Source Code:** [https://github.com/slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+- 👤 **Developer:** [slackhq](https://github.com/slackhq)
+
+
+---
+
 ### 📦 Pixel** Launcher Mod | Customize your Pixel Launcher!
 
 > **Categories:** `#Android`
@@ -23984,6 +27319,85 @@ Platform(s); #Android
 
 ---
 
+### 📦 [
+
+> **Categories:** `#Selection` `#Linux` `#OSINT` `#Cobalt_Strike` `#Pentest` `#Android` `#Anonymity` `#Book` `#Course`
+
+](https://telegra.ph/file/bb790668d1bd51465d01a.jpg)**​🔖 A selection of useful information and resources. P**`art 6
+
+🖖🏻 Hello user_name.
+
+💬 H`__ere is the 6th part of the collections of useful material, thanks to this information you can upgrade your skill in the category you need and get unique knowledge - for free.
+__
+
+[• Start](https://t.me/Social_engineering/1093)ing [with a ](https://t.me/Social_engineering/1168)huge [collect](https://t.me/Social_engineering/1190)ion o[f OSINT](https://t.me/Social_engineering/1233) reso[urces. ](https://t.me/Social_engineering/1280)Tools, news, blogs, learning material, podcasts, videos, playlists, forums, CTFs, streams, etc.
+
+https://start.me/p/DPYPMz/the-ultimate-osint-collection
+
+• Useful material on penetration testing.
+
+https://github.com/enaqx/awesome-pentest
+
+https://github.com/Muhammd/Awesome-Pentest
+
+https://github.com/oneplus-x/Awesome-Pentest
+
+https://github.com/wtsxDev/Penetration-Testing
+
+https://github.com/anubi5egypt/awesome-web-pentest
+
+https://github.com/Nieuport/Awesome-Penetration-Testing
+
+https://github.com/majidkalantarii/AwesomePenetrationTest
+
+• Red Teaming for beginners and pros. A lot of useful material for every taste.
+
+https://github.com/tcostam/awesome-command-control
+https://github.com/marcosValle/awesome-windows-red-team
+
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+
+https://github.com/r3p3r/yeyintminthuhtut-Awesome-Red-Teaming
+
+https://github.com/mishmashclone/yeyintminthuhtut-Awesome-Red-Teaming
+
+• Selection of rootkits, with a different set of functions. From hidden SSH to a full-fledged keylogger with a built-in IRC bot.
+
+https://github.com/milabs/awesome-linux-rootkits
+
+• Reverse Engineering: books, courses, practice and more.
+
+https://github.com/wtsxDev/reverse-engineering
+
+• A selection of materials on the fight against Cobalt Strike.
+
+https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+
+• A selection of vulnerable VMs and applications. Includes: Online platforms, Docker, SSO systems, Paid, Android.
+
+https://github.com/vavkamil/awesome-vulnerable-apps/
+
+• Useful material on the subject of Active Directory security testing.
+
+https://github.com/balaasif6789/AD-Pentesting
+
+• i2p and TOR. Software for Android and iOS, books, articles, server protection tools, presentations, distributions and much more.
+
+https://github.com/mikalv/awesome-i2p
+https://github.com/ajvb/awesome-tor
+
+‼️ The list does not claim to be complete,  we will supplement this collection with new material. Share with friends and save to favorites so as not to lose. You can find other useful information by hashtags in our group #Selection #Linux #OSINT #Cobalt_Strike #Pentest #Android # #Anonymity #Book #Course #Pentest. Your S.E.‌‌
+
+This info is only shared in
+t.me/githubx
+
+- 🐙 **Source Code:** [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- 🌐 **Official Website:** [https://github.com/anubi5egypt/awesome-web-pentest](https://github.com/anubi5egypt/awesome-web-pentest)
+- 👤 **Developer:** [enaqx](https://github.com/wtsxDev/Penetration-Testing)
+
+
+---
+
 ### 📦 Retro** Music Player | Material You Design Music Player for Android music lovers
 
 > **Categories:** `#Android`
@@ -24010,6 +27424,179 @@ Platform(s); #Android
 
 ---
 
+### 📦 [
+
+> **Categories:** `#Selection` `#Linux` `#Anonymity` `#Book` `#Course` `#Pentest` `#CTF` `#Raspberry` `#Android` `#Forensic`
+
+](https://telegra.ph/file/652025a8871df9eb6e2e8.jpg)**​🔖 A selection of useful information and resources. P**`art 3
+
+🖖🏻 Hello user_name.
+
+💬 W`__e continue to publish unique collections on various topics. Thanks to this information, you can improve your skill and get the necessary information - for free. Save to your favorites and check out the previous collections if for some reason you missed them:
+
+• Starting our lis__[t with Awesome Shodan Search Queries - The list contai](https://t.me/Social_engineering/1093)[ns ready-made queries for searching control systems, w](https://t.me/Social_engineering/1168)ebcams, printers , IoT devices, and much more...
+
+ht[tps://github.com/jakejarvis/a](https://github.com/jakejarvis/awesome-shodan-queries)wesome-shodan-queries
+
+вЂў Wi-Fi Arsenal - Everything that affects the subject of Wi-[Fi. A lot of useful software for](https://t.me/Social_engineering/1179) all occasions. General information, tools for auditing Wi-Fi networks, monitoring, collecting in**formation and** dozens of other sections:
+
+https://github.com/techge/wifi-arsenal
+
+https://github.com/edelahozuah/awesome-wifi-security/
+
+• List of information for hacking IoT devices. The list contains a collection of articles that deal with hacking various devices, from smart light bulbs to smart door locks:
+
+https://github.com/**nebgnahz/awes**ome-iot-hacks
+
+• Forensics. Free open source tools and resources. Includes useful tools, books, articles and various resources:
+
+https://github.com/Cugu/awesome-forensics
+
+** • Reposi**to**ry with a **list of useful resources for the system administrator:
+
+https://github.com/kahun/awesome-sysadmin
+
+• Additional information on Cobalt Strike. And also, do not forget about our selection related to this framework.
+
+https://github.com/zer0yu/Awesome-CobaltStrike
+
+‼️ The list does not claim to be complete, as we find us**eful material,** we will supplement this collec[tion. Share with friends and save to yo](https://t.me/Social_engineering/1170)ur favorites so you don't lose. You can find other useful information by hashtags in our group #Selection #Linux #Anonymity #Book #Course #Pentest #CTF #Raspberry #Android #Forensic. Your S.E.‌‌
+
+Such information is only published in our github channel.
+t.me/githubx
+
+- 🐙 **Source Code:** [https://github.com/jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
+- 👤 **Developer:** [jakejarvis](https://github.com/jakejarvis)
+
+
+---
+
+### 📦 [
+
+> **Categories:** `#Compilation` `#Linux` `#Anonymity` `#Book` `#Course` `#Pentest` `#CTF` `#Raspberry` `#Android` `#Forensic`
+
+](https://telegra.ph/file/9f36187c0ea1f96d3cde2.jpg)​🔖** A selection of useful information and resources. P**`art 2.
+
+🖖🏻 Hello user_name.
+
+💬 `The[ previous post ](https://t.me/Social_engineering/1093)collected a lot of reposts and views, thanks to your feedback and activity, we will supplement [this list s](https://t.me/Social_engineering/1093)o that our other subscribers can find the necessary information in various areas in the field of information security.
+
+• A list of hacking training resources where you can legally and safely practice your cybersecurity skills. The list includes a lot of resources, from remote banking systems that contain common vulnerabilities to a collection of web applications that are vulnerable to command injection.
+
+https://github.com/joe-shenouda/awesome-cyber-skil```ls
+
+• A list of tips for protecting your digital sec```urity and privacy, with links to additional resources.
+
+https://github.com/Lissy93/personal-security-checklist
+
+• Lis```t of tools for network traffic research: Traffic Capture```, Traffic Analysis / Inspection, DNS Utilities, File Extraction and more...
+
+https://github.com/caesar0301/awesome-pcaptools
+
+• Web hacking. The list i```s intended for anyone who wants to learn about we```b application security, but does not have enough experience and knowledge in this area.
+
+https://github.com/infoslack/awesome-web-hacking
+
+• A hug```e list of software, libraries, documents, books, r```esources and interesting things about security.
+
+https://github.com/sbilly/awesome-security
+
+• C```ollection of resources, tools and other usef```ul materials for Cybersecurity Blue Team.
+
+https://github.com/fabacab/awesome-cybersecurity-blue```team
+
+• Our list of literature, courses, articles and use```ful materials that are published in the second channel, there is a convenient menu for convenience and finding the right material on a specific topic.
+
+https://github.com/SE-adm/Book
+
+• Com```pleting the selection is a list ```of must-see films for anyone interested in the subject of information security. Personally, I recommend that you get acquainted with documentaries.
+
+https://github.com/k**4m4/movies-for-**hackers
+
+‼️``` The list does not claim to be complete, onc```e a month we will supplement this collection with new material. Share with friends and save to your favorites so you don't lose. You can find other useful information by hashtags in our group #Compilation #Linux #Anonymity #Book #Course #Pentest #CTF #Raspberry #Android #Forensic‌‌
+
+Tomorrow i will add on list 3.
+
+This is only exclusive to our new channel t.me/githubx
+
+- 🐙 **Source Code:** [https://github.com/joe-shenouda/awesome-cyber-skil```ls](https://github.com/joe-shenouda/awesome-cyber-skil```ls)
+- 🌐 **Official Website:** [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+- 👤 **Developer:** [joe-shenouda](https://github.com/joe-shenouda)
+
+
+---
+
+### 📦 [
+
+> **Categories:** `#Selection____` `#Linux____` `#__Anonymity` `#Book` `#Course` `#Pentest` `#CTF` `#Raspberry` `#Android` `#Forensics`
+
+](https://telegra.ph/file/7a945558bfe385693b50a.jpg)​🔖** A selection of useful information and res**`ources.
+
+💬 Hello user_name.
+
+📌` Today I have collected enough useful information for you to study in various fields. Hope you find what you've been looking for. Add to favorites so **as not to** lose.
+
+➖ More than 100K resour**ces **on various topics. Starting from books on programming, ending with various blogs of software developers.
+https://gi`thub.com/sindresorhus/awesome
+
+https://tw````itter.com/awesome__re
+
+➖ A huge n```umber of resources on the topic of searching and collecting information from open sources`.
+https://github.com/jivoi/awesome-osint
+`
+➖ Information security, forensics, cryptography, CTF, etc.
+https:/`/github.com/carpedm20/awesome-hacking
+
+➖ List o`f Honeypots (Traps for hackers). Manuals, tools, instructions, etc.
+https://github.com/`paralax/awesome-honeypots
+
+➖ List of tools and `resources for malware analysis.
+https://github.com/rshipp/awesome-`malware-analysis
+
+➖ List of frameworks, libraries, so`ftware and resources related to Python.
+https://github.com**/vinta**/a```wesome-python
+
+➖ List of various PHP libr````a`ries, resources and** ch**eat sheets.
+https://github.com/zia```doz/awesome-php
+
+➖ List of CTFs, librar````i`es, resou**rce**s, software and tutorials.
+https://github.com`/apsdehal/awesome-ctf
+
+➖ A collection of `resources related to Android security + software and various guides.
+https://githu`b.com/ashishb/android-security-awesome
+
+https://githu````b.com/JStumpp/awesome-android
+
+➖ Web applica```tion security. XSS, CSV and SQL Injection, ClickJacking and hundreds more.
+https://github.com/q`azbnm456/awesome-web-security
+
+➖ List of the best a`pplications and tools for Windows.
+https://gith**ub.com/**Aw`esome-Windows/Awesome
+
+➖ List of application`s and tools for Linux.
+https://github.co**m/ale**ks`andar-todorovic/awesome-linux
+
+➖ A collection of Raspbe`rry Pi tools, projects and resources.
+https**://github.com/**```thibmaek/awesome-raspberry-pi
+
+➖ A collection of p```entest resources, from tools to books.
+https://github.com/`enaqx/awesome-pentest
+
+P.S. This list does`__ not claim to be complete, if you have something to add to this list, write to the feedback bot in the channel description. Well, I remind you that you can find other useful information by hashtags in our group ____#Selection____ ____#Linux____ ____#__Anonymity #Book #Course #Pentest #CTF #Raspberry #Android #Forensics
+
+Share with your friends and stay with us.
+
+Such posts are only posted on our github channel
+
+T.me/githubx
+
+- 🐙 **Source Code:** [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+- 🌐 **Official Website:** [https://github.com/q`azbnm456/awesome-web-security](https://github.com/q`azbnm456/awesome-web-security)
+- 👤 **Developer:** [jivoi](https://gi`thub.com/sindresorhus/awesome)
+
+
+---
+
 ### 📦 Upgra**deAll
 
 > **Categories:** `#Android`
@@ -24032,6 +27619,42 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
+
+
+---
+
+### 📦 ionic-framework
+
+> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Web` `#JavaScript` `#Useful`
+
+A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+Creator: ionic-team
+Stars ⭐️: 46.6k
+Forked By: 13.6k
+
+- 🐙 **Source Code:** [https://github.com/ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
+- 👤 **Developer:** ionic-team
+
+
+---
+
+### 📦 [
+
+> **Categories:** `#SI` `#Android` `#Privacy`
+
+](https://telegra.ph/file/2a4621560611dfaf23d49.jpg)**​✉️ Silence and SMS Pi**n**g. Find out the status of the subscriber and encr**__ypt SMS messages.
+
+This information can be important in certain circumstances.
+
+__```🖖🏻 Hello user_name.
+
+• Let's tak```e a little break from the #SI topic and talk about some useful #Android apps. Today we will talk about software, thanks to which you can stay in touch without the presence of the I**nternet and maintain the **confidentialit**y of correspondence. In addit**ion, we will talk about an interesting application that will allow you to find out the status of a subscriber.
+
+• Let's s**tart with** the SMS Ping application: In simple words, thanks to this applica**tion **you can send a silent SMS to any phone number and find out the status of the target (online / offline). The SMS message will not be displayed to the person who received the request, but you can determine whet`he`r your contact's phone is working or not.
+
+- 🐙 **Source Code:** [https://github.com/itds-co`ns`ulting/android-silent-ping-sms](https://github.com/itds-co`ns`ulting/android-silent-ping-sms)
+- 🌐 **Official Website:** [https://silence.im/](https://silence.im/)
 
 
 ---
@@ -24099,6 +27722,19 @@ Platform(s); #Web
 
 ---
 
+### 📦 GetStream/stream-draw-android
+
+> **Categories:** `#android` `#architecture` `#coroutines` `#drawing` `#hilt` `#jetpack_compose` `#kotlin` `#network` `#okhttp` `#real_time` `#retrofit` `#stream_chat` `#stream_draw`
+
+🛥 Stream Draw is a real-time multiplayer drawing & chat game app built entirely with Jetpack Compose.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/GetStream/stream-draw-android](https://github.com/GetStream/stream-draw-android)
+- 👤 **Developer:** [GetStream](https://github.com/GetStream)
+
+
+---
+
 ### 📦 THEME GENERATOR FOR TELEGRAM ANDROID
 
 > **Categories:** `#apps`
@@ -24123,6 +27759,49 @@ Download : [click here ](https://github.com/c3r5b8/Telegram-Monet)
 #apps @anddroidstuff
 
 - 🐙 **Source Code:** [https://github.com/c3r5b8/Telegram-Monet](https://github.com/c3r5b8/Telegram-Monet)
+
+
+---
+
+### 📦 Xprivacylua
+
+> **Categories:** `#Java` `#Privacy` `#Android` `#Useful`
+
+Revoking permissions from Android applications often leads to limitations in functionality or crashes in applications. XPrivacyLua transmits fake data to applications instead of real data, which allows you to maintain functionality and privacy **at the same time
+
+[GitHub](https://t.me/github_community) | #Java #Privacy #Android #Useful
+
+- 🐙 **Source Code:** [https://github.com/M66B/XPrivacyLua](https://github.com/M66B/XPrivacyLua)
+- 👤 **Developer:** [M66B](https://github.com/M66B)
+
+
+---
+
+### 📦 [
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+](https://telegra.ph/file/42169729f167cc6766c20.jpg)**Managing our own local web server
+
+MyServer is **[your own](https://github.com/rajkumardusad/MyServer.git) locally running server. On it you can set up PHP, Apache, MySQL on Android, Linux, Ubuntu or other operating systems. With MyServer, you can set up and test your website, regardless of the technologies used in its development.
+
+Installation
+
+$ git clone https://github.com/rajkumardusad/**MyServer.git**
+`$ cd MyServer
+$ chmod +x install
+
+launch
+
+$ sh install (`**o**r` ./install)
+`**$** `myserver start
+
+Sy`**ntax
+
+$ m**y`server -s l`ocalh`ost 8080 `/h**o**me/www
+
+- 🐙 **Source Code:** [https://github.com/rajkumardusad/MyServer](https://github.com/rajkumardusad/MyServer)
+- 👤 **Developer:** [rajkumardusad](https://github.com/rajkumardusad)
 
 
 ---
@@ -24174,6 +27853,21 @@ thanks @NameLess_Legend for banner
 
 ---
 
+### 📦 polygraphene/DirtyPipe-Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Dirty Pipe root exploit for Android (Pixel 6)
+**Language**: C
+**Stars**: 138 **Issues**: 3 **Forks**: 36
+[https://github.com/polygraphene/DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android)
+
+- 🐙 **Source Code:** [https://github.com/polygraphene/DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android)
+- 👤 **Developer:** [polygraphene](https://github.com/polygraphene)
+
+
+---
+
 ### 📦 Waifu**PX
 
 > **Categories:** `#Android`
@@ -24192,6 +27886,19 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/WaifuPX-DG/WaifuPX](https://github.com/WaifuPX-DG/WaifuPX)
+
+
+---
+
+### 📦 saket/swipe
+
+> **Categories:** `#android` `#compose` `#gestures`
+
+Swipe gesture actions for Compose UI
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/saket/swipe](https://github.com/saket/swipe)
+- 👤 **Developer:** [saket](https://github.com/saket)
 
 
 ---
@@ -24298,6 +28005,22 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://t.me/popmods/377](https://t.me/popmods/377)
+
+
+---
+
+### 📦 Fastlane
+
+> **Categories:** `#Ruby` `#Automation` `#Useful`
+
+It is a tool for iOS and Android developers to automate tedious repetitive tasks such as taking screenshots, preparing profiles, and releasing your app.
+
+[**Documentation**](https://docs.fastlane.tools/)
+
+[GitHub](https://t.me/github_community) | #Ruby #Automation #Useful
+
+- 🐙 **Source Code:** [https://github.com/fastlane/fastlane](https://github.com/fastlane/fastlane)
+- 👤 **Developer:** [fastlane](https://github.com/fastlane)
 
 
 ---
@@ -24457,6 +28180,22 @@ About us:
 Platform(s); #Android, #Windows
 
 - 🐙 **Source Code:** [https://github.com/aristofun/py-agender](https://github.com/aristofun/py-agender)
+
+
+---
+
+### 📦 Best practices in Android development
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Avoid reinventing the wheel by following these guidelines. Lessons learned from Android developers in Futurice.
+
+Creator:    Futurice
+Stars ⭐️: 19.9k
+Forked By: 3.4k
+
+- 🐙 **Source Code:** [https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)
+- 👤 **Developer:** Futurice
 
 
 ---
@@ -24633,2430 +28372,67 @@ Platform(s); #Android
 
 ---
 
-### 📦 ladingwu/dimens_sw
+### 📦 GetStream/sketchbook-compose
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#android` `#canvas` `#getstream` `#jetpack_compose` `#sketchbook`
 
-Android UI适配方案
-**Stars**: 103 **Issues**: 20 **Forks**: 20
-[Link to ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
-
-- 🐙 **Source Code:** [https://github.com/ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
-- 👤 **Developer:** [ladingwu](https://github.com/ladingwu)
-
-
----
-
-### 📦 varunest/TheGlowingLoader
-
-> **Categories:** `#android` `#animation` `#indicator` `#library` `#progress` `#progressbar` `#progressview`
-
-TheGlowingLoader is the highly configurable library to indicate progress and is natively created for Android Platform. It is an implementation of a design composed by Shashank Sahay.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/varunest/TheGlowingLoader](https://github.com/varunest/TheGlowingLoader)
-- 👤 **Developer:** [varunest](https://github.com/varunest)
-
-
----
-
-### 📦 chrisknepper/android-messages-desktop
-
-> **Categories:** `#android` `#android_messages` `#android_messaging` `#desktop` `#linux` `#macos` `#sms` `#windows`
-
-Android Messages as a Cross-platform Desktop App
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop)
-- 👤 **Developer:** [chrisknepper](https://github.com/chrisknepper)
-
-
----
-
-### 📦 whataa/pandora
-
-> **Categories:** `#android_library` `#databsae` `#debugging_tool` `#device_file_explorer` `#inertnal_storage` `#interceptor` `#layout_inspector` `#network_monitoring`
-
-an android library for debugging what we care about directly in app.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/whataa/pandora](https://github.com/whataa/pandora)
-- 👤 **Developer:** [whataa](https://github.com/whataa)
-
-
----
-
-### 📦 android-in-china/Compatibility
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A public welfare project for feedback and tracking of domestic Android device/ROM compatibility issues
-**Stars**: 233 **Issues**: 3 **Forks**: 1
-https://github.com/android-in-china/Compatibility
-
-- 🐙 **Source Code:** [https://github.com/android-in-china/Compatibility](https://github.com/android-in-china/Compatibility)
-- 👤 **Developer:** [android-in-china](https://github.com/android-in-china)
-
-
----
-
-### 📦 lopspower/LazyDatePicker
-
-> **Categories:** `#android` `#datepicker` `#lazydatepicker`
-
-This is an Android project to offer an alternative to the native Android Date Picker.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/lopspower/LazyDatePicker](https://github.com/lopspower/LazyDatePicker)
-- 👤 **Developer:** [lopspower](https://github.com/lopspower)
-
-
----
-
-### 📦 CERTCC/keyfinder
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A tool for finding and analyzing private (and public) key files, including support for Android APK files.
-**Stars**: 92 **Issues**: 0 **Forks**: 13
-https://github.com/CERTCC/keyfinder
-
-- 🐙 **Source Code:** [https://github.com/CERTCC/keyfinder](https://github.com/CERTCC/keyfinder)
-- 👤 **Developer:** [CERTCC](https://github.com/CERTCC)
-
-
----
-
-### 📦 jenly1314/WanAndroid
-
-> **Categories:** `#android` `#app` `#architecture_components` `#arouter` `#dagger2` `#databinding` `#glide` `#gson` `#gson_converter` `#king` `#lifecycles` `#livedata` `#mvvm` `#open_source` `#retrofit2` `#room` `#viewmodel` `#wanandroid`
-
-WanAndroid open source project based on Architecture Components dependencies (Lifecycles, LiveData, ViewModel, Room)
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/jenly1314/WanAndroid](https://github.com/jenly1314/WanAndroid)
-- 👤 **Developer:** [jenly1314](https://github.com/jenly1314)
-
-
----
-
-### 📦 bernaferrari/EmojiSlider
-
-> **Categories:** `#android` `#android_kotlin` `#android_library` `#kotlin` `#library` `#seekbar` `#slider`
-
-🤯 A slider widget rich in emoji and highly customisable.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/bernaferrari/EmojiSlider](https://github.com/bernaferrari/EmojiSlider)
-- 👤 **Developer:** [bernaferrari](https://github.com/bernaferrari)
-
-
----
-
-### 📦 google/filament
-
-> **Categories:** `#3d_graphics` `#android` `#graphics` `#opengl` `#opengl_es` `#pbr` `#real_time` `#vulkan`
-
-Filament is a physically based rendering engine for Android, Windows, Linux and macOS
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/google/filament](https://github.com/google/filament)
-- 👤 **Developer:** [google](https://github.com/google)
-
-
----
-
-### 📦 mre/fcat
-
-> **Categories:** `#android` `#cat` `#linux` `#splice` `#unix`
-
-fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/mre/fcat](https://github.com/mre/fcat)
-- 👤 **Developer:** [mre](https://github.com/mre)
-
-
----
-
-### 📦 wjwang0914/wj-todo-wanandroid
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Carefully create a TODO open source client with the ultimate experience. The data interface comes from Hongshen's Play Android. We do not miss every detail and write the code with care.
-**Language**: Java
-**Stars**: 124 **Issues**: 1 **Forks**: 16
-https://github.com/wjwang0914/wj-todo-wanandroid
-
-- 🐙 **Source Code:** [https://github.com/wjwang0914/wj-todo-wanandroid](https://github.com/wjwang0914/wj-todo-wanandroid)
-- 👤 **Developer:** [wjwang0914](https://github.com/wjwang0914)
-
-
----
-
-### 📦 JessYanCoding/AndroidAutoSize
-
-> **Categories:** `#adapterview` `#android` `#density` `#screenadapter`
-
-A low-cost Android screen adaptation solution (The Ultimate Edition of Toutiao Screen Adaptation Solution, an extremely low-cost Android screen adaptation solution).
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/JessYanCoding/AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
-- 👤 **Developer:** [JessYanCoding](https://github.com/JessYanCoding)
-
-
----
-
-### 📦 meituan/WMRouter
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-WMRouter is an Android routing framework, based on component-based design ideas, with flexible and powerful functions and simple use.
-**Language**: Java
-**Stars**: 149 **Issues**: 0 **Forks**: 13
-https://github.com/meituan/WMRouter
-
-- 🐙 **Source Code:** [https://github.com/meituan/WMRouter](https://github.com/meituan/WMRouter)
-- 👤 **Developer:** [meituan](https://github.com/meituan)
-
-
----
-
-### 📦 iReaderAndroid/X2C
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Improve layout loading speed by 200%
-**Language**: Java
-**Stars**: 184 **Issues**: 3 **Forks**: 12
-https://github.com/iReaderAndroid/X2C
-
-- 🐙 **Source Code:** [https://github.com/iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C)
-- 👤 **Developer:** [iReaderAndroid](https://github.com/iReaderAndroid)
-
-
----
-
-### 📦 pqpo/SmartCamera
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-📷SmartCamera is an Android camera extension library that can collect and identify in real time whether the object frame in the camera matches the specified area. SmartCamera is an Android camera extension library, provides a scanning module that can recognizes whether the object's border inside the camera matches the area in real time.
-**Language**: Java
-**Stars**: 150 **Issues**: 0 **Forks**: 23
-https://github.com/pqpo/SmartCamera
-
-- 🐙 **Source Code:** [https://github.com/pqpo/SmartCamera](https://github.com/pqpo/SmartCamera)
-- 👤 **Developer:** [pqpo](https://github.com/pqpo)
-
-
----
-
-### 📦 gonghuiyuan516/AndroidArchitectureArticle
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🔥Complete Android architecture articles
-**Stars**: 160 **Issues**: 0 **Forks**: 13
-https://github.com/gonghuiyuan516/AndroidArchitectureArticle
-
-- 🐙 **Source Code:** [https://github.com/gonghuiyuan516/AndroidArchitectureArticle](https://github.com/gonghuiyuan516/AndroidArchitectureArticle)
-- 👤 **Developer:** [gonghuiyuan516](https://github.com/gonghuiyuan516)
-
-
----
-
-### 📦 Blankj/FreeProGuard
-
-> **Categories:** `#proguard` `#proguard_dictionary` `#proguard_rules`
-
-:beginner: Config proguard for common Android libraries.
-
-- 🐙 **Source Code:** [https://github.com/Blankj/FreeProGuard](https://github.com/Blankj/FreeProGuard)
-- 👤 **Developer:** [Blankj](https://github.com/Blankj)
-
-
----
-
-### 📦 Daio-io/dresscode
-
-> **Categories:** `#android` `#android_library` `#kotlin_android` `#theme`
-
-👔 Tiny lightweight Kotlin Android library to change theme at runtime.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/Daio-io/dresscode](https://github.com/Daio-io/dresscode)
-- 👤 **Developer:** [Daio-io](https://github.com/Daio-io)
-
-
----
-
-### 📦 firebase/firebase-android-sdk
-
-> **Categories:** `#database_as_a_service` `#firebase` `#firebase_database` `#firebase_firestore` `#firebase_functions` `#firebase_realtime_database` `#firebase_storage` `#java`
-
-Firebase Android SDK
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
-- 👤 **Developer:** [firebase](https://github.com/firebase)
-
-
----
-
-### 📦 whataa/noDrawable
-
-> **Categories:** `#android_library` `#drawable` `#kill_drawable` `#reduce_drawable` `#remove_drawable` `#replace_drawable`
-
-A library designed to reduce 99% of the drawable.xml file by declaring the drawable attribute on any View directly in the layout file.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/whataa/noDrawable](https://github.com/whataa/noDrawable)
-- 👤 **Developer:** [whataa](https://github.com/whataa)
-
-
----
-
-### 📦 GodFengShen/PicOrVideoToAscii
-
-> **Categories:** `#android`
-
-Android picture or video convert to ascii pic or video Under the Android platform, the picture or video is converted to ascii, and the ffmpeg library is used to merge the video. Colored ascii code images or videos will be added later.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/GodFengShen/PicOrVideoToAscii](https://github.com/GodFengShen/PicOrVideoToAscii)
-- 👤 **Developer:** [GodFengShen](https://github.com/GodFengShen)
-
-
----
-
-### 📦 Muddz/PixelShot
-
-> **Categories:** `#android` `#muddz` `#screenshot` `#styleabletoast` `#viewshot`
-
-PixelShot is an awesome Android library that can save any View in your app as an image
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/Muddz/PixelShot](https://github.com/Muddz/PixelShot)
-- 👤 **Developer:** [Muddz](https://github.com/Muddz)
-
-
----
-
-### 📦 vitorhugods/AvatarView
-
-> **Categories:** `#android` `#android_library` `#android_ui` `#imageview` `#kotlin_android` `#kotlin_library` `#progress_bar` `#progress_circle` `#widget`
-
-A circular Image View with a lot of perks. Including progress animation and highlight state with borders and gradient color.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView)
-- 👤 **Developer:** [vitorhugods](https://github.com/vitorhugods)
-
-
----
-
-### 📦 mtak-****/rust****-on-mobile
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-[WIP] A little demo of how to setup an iOS/android project to use rust
-**Language**: Rust
-**Stars**: 116 **Issues**: 0 **Forks**: 3
-https://github.com/mtak-/rust-on-mobile
-
-- 🐙 **Source Code:** [https://github.com/mtak-/rust-on-mobile](https://github.com/mtak-/rust-on-mobile)
-- 👤 **Developer:** [mtak-](https://github.com/mtak-)
-
-
----
-
-### 📦 Blankj/AndroidOfferKiller
-
-> **Categories:** `#android` `#android_interview` `#interview`
-
-Help you to get the offer.
-
-- 🐙 **Source Code:** [https://github.com/Blankj/AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller)
-- 👤 **Developer:** [Blankj](https://github.com/Blankj)
-
-
----
-
-### 📦 saket/FluidKeyboardResize
-
-> **Categories:** `#android` `#animation` `#keyboard`
-
-Smoothly reacting to keyboard visibility changes
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/saket/FluidKeyboardResize](https://github.com/saket/FluidKeyboardResize)
-- 👤 **Developer:** [saket](https://github.com/saket)
-
-
----
-
-### 📦 SchibstedSpain/Protein
-
-> **Categories:** `#android` `#android_studio` `#android_studio_plugin` `#codegen` `#codegenerator` `#intellij_idea` `#intellij_plugin` `#javapoet` `#kotlin` `#kotlin_android` `#kotlin_language` `#kotlinpoet` `#plugin` `#reactivex` `#retrofit2` `#rxjava2` `#swagger` `#swagger_codegen`
-
-💊 Protein is a Kotlin code generator for Retrofit 2 and RxJava 2 based on Swagger
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/SchibstedSpain/Protein](https://github.com/SchibstedSpain/Protein)
-- 👤 **Developer:** [SchibstedSpain](https://github.com/SchibstedSpain)
-
-
----
-
-### 📦 ccj659/JJEvent
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A fully tested and online verified Android client custom data embedding SDK
-**Language**: Java
-**Stars**: 128 **Issues**: 1 **Forks**: 17
-https://github.com/ccj659/JJEvent
-
-- 🐙 **Source Code:** [https://github.com/ccj659/JJEvent](https://github.com/ccj659/JJEvent)
-- 👤 **Developer:** [ccj659](https://github.com/ccj659)
-
-
----
-
-### 📦 ernestoyaquello/DragDropSwipeRecyclerview
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Kotlin Android library that extends RecyclerView to support gestures like drag & drop and swipe, among others. It works with vertical, horizontal and grid lists.
-**Language**: Kotlin
-**Stars**: 78 **Issues**: 0 **Forks**: 6
-https://github.com/ernestoyaquello/DragDropSwipeRecyclerview
-
-- 🐙 **Source Code:** [https://github.com/ernestoyaquello/DragDropSwipeRecyclerview](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview)
-- 👤 **Developer:** [ernestoyaquello](https://github.com/ernestoyaquello)
-
-
----
-
-### 📦 ManbangGroup/Phantom
-
-> **Categories:** `#android` `#android_library` `#plugin` `#plugin_architecture` `#plugin_engine` `#plugin_sdk` `#plugin_system`
-
-Phantom — the only zero-Hook stable Android hot update plug-in solution
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/ManbangGroup/Phantom](https://github.com/ManbangGroup/Phantom)
-- 👤 **Developer:** [ManbangGroup](https://github.com/ManbangGroup)
-
-
----
-
-### 📦 getActivity/AndroidProject
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An advanced template project
-**Language**: Java
-**Stars**: 141 **Issues**: 1 **Forks**: 23
-https://github.com/getActivity/AndroidProject
-
-- 🐙 **Source Code:** [https://github.com/getActivity/AndroidProject](https://github.com/getActivity/AndroidProject)
-- 👤 **Developer:** [getActivity](https://github.com/getActivity)
-
-
----
-
-### 📦 bufferapp/MultiActionSwipeHelper
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An Android RecyclerView Swipe Helper for handling multiple actions per direction
-**Language**: Java
-**Stars**: 163 **Issues**: 0 **Forks**: 8
-https://github.com/bufferapp/MultiActionSwipeHelper
-
-- 🐙 **Source Code:** [https://github.com/bufferapp/MultiActionSwipeHelper](https://github.com/bufferapp/MultiActionSwipeHelper)
-- 👤 **Developer:** [bufferapp](https://github.com/bufferapp)
-
-
----
-
-### 📦 skydoves/AndroidVeil
-
-> **Categories:** `#android` `#android_library` `#android_ui` `#androidveil` `#recyclerview` `#shimmer` `#skeleton` `#skydoves`
-
-:performing_arts: A library that let you implement veil skeletons and shimmer animation.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/AndroidVeil](https://github.com/skydoves/AndroidVeil)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 toly1994328/DS4Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Visible data structure Android version---Show the Data_Structure power by Android View
-**Language**: Java
-**Stars**: 152 **Issues**: 0 **Forks**: 12
-https://github.com/toly1994328/DS4Android
-
-- 🐙 **Source Code:** [https://github.com/toly1994328/DS4Android](https://github.com/toly1994328/DS4Android)
-- 👤 **Developer:** [toly1994328](https://github.com/toly1994328)
-
-
----
-
-### 📦 Qihoo360/ArgusAPM
-
-> **Categories:** `#android` `#apm` `#argusapm` `#aspectj` `#gradle` `#java` `#kotlin` `#kotlin_android` `#performance` `#performance_management` `#plugin`
-
-A powerful, comprehensive online application performance management tool for Android
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/Qihoo360/ArgusAPM](https://github.com/Qihoo360/ArgusAPM)
-- 👤 **Developer:** [Qihoo360](https://github.com/Qihoo360)
-
-
----
-
-### 📦 DarkionAvey/SwipeSpinnerWidget
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-[Android] A helper class to create recyclerview-based fast-scrolling spinner
-**Language**: Java
-**Stars**: 85 **Issues**: 0 **Forks**: 3
-https://github.com/DarkionAvey/SwipeSpinnerWidget
-
-- 🐙 **Source Code:** [https://github.com/DarkionAvey/SwipeSpinnerWidget](https://github.com/DarkionAvey/SwipeSpinnerWidget)
-- 👤 **Developer:** [DarkionAvey](https://github.com/DarkionAvey)
-
-
----
-
-### 📦 afollestad/mnml
-
-> **Categories:** `#android` `#kotlin` `#material_design` `#minimal` `#screen_record` `#screen_recorder` `#Interesting`
-
-[BETA] A minimal, beautiful screen recorder for Android.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/afollestad/mnml](https://github.com/afollestad/mnml)
-- 👤 **Developer:** [afollestad](https://github.com/afollestad)
-
-
----
-
-### 📦 iGio90/Dwarf
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Aka my debugger for android reverse engineers and crackers. Built on top of pyqt5 (compatible with all os's), frida and some terrible code.
-**Language**: Python
-**Stars**: 83 **Issues**: 0 **Forks**: 3
-https://github.com/iGio90/Dwarf
-
-- 🐙 **Source Code:** [https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf)
-- 👤 **Developer:** [iGio90](https://github.com/iGio90)
-
-
----
-
-### 📦 thomhurst/Android-EditText-Validations
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Easily Validate EditTexts
-**Language**: Kotlin
-**Stars**: 75 **Issues**: 0 **Forks**: 1
-https://github.com/thomhurst/Android-EditText-Validations
-
-- 🐙 **Source Code:** [https://github.com/thomhurst/Android-EditText-Validations](https://github.com/thomhurst/Android-EditText-Validations)
-- 👤 **Developer:** [thomhurst](https://github.com/thomhurst)
-
-
----
-
-### 📦 m3sv/Flutter-for-Android-developers
-
-> **Categories:** `#android` `#beginner_friendly` `#beginners_tutorial_series` `#dartlang` `#example` `#flutter` `#tutorial`
-
-Compilation of Flutter materials for Android developers
-
-- 🐙 **Source Code:** [https://github.com/m3sv/Flutter-for-Android-developers](https://github.com/m3sv/Flutter-for-Android-developers)
-- 👤 **Developer:** [m3sv](https://github.com/m3sv)
-
-
----
-
-### 📦 ccg2018/ClashA
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A Android GUI for Clash
-**Stars**: 90 **Issues**: 2 **Forks**: 0
-https://github.com/ccg2018/ClashA
-
-- 🐙 **Source Code:** [https://github.com/ccg2018/ClashA](https://github.com/ccg2018/ClashA)
-- 👤 **Developer:** [ccg2018](https://github.com/ccg2018)
-
-
----
-
-### 📦 bernaferrari/GradleKotlinConverter
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Convert from Groovy to Kotlin DSL for Gradle, focused on Android.
-**Language**: Kotlin
-**Stars**: 120 **Issues**: 0 **Forks**: 0
-https://github.com/bernaferrari/GradleKotlinConverter
-
-- 🐙 **Source Code:** [https://github.com/bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter)
-- 👤 **Developer:** [bernaferrari](https://github.com/bernaferrari)
-
-
----
-
-### 📦 afollestad/vvalidator
-
-> **Categories:** `#android` `#androidx` `#form` `#kotlin` `#validation`
-
-[BETA] An easy to use form validator for Kotlin & Android.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/afollestad/vvalidator](https://github.com/afollestad/vvalidator)
-- 👤 **Developer:** [afollestad](https://github.com/afollestad)
-
-
----
-
-### 📦 huanxsd/flutter_shuqi
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-High imitation Shuqi Novel Flutter version, supports iOS and Android
-**Language**: Dart
-**Stars**: 119 **Issues**: 0 **Forks**: 20
-https://github.com/huanxsd/flutter_shuqi
-
-- 🐙 **Source Code:** [https://github.com/huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)
-- 👤 **Developer:** [huanxsd](https://github.com/huanxsd)
-
-
----
-
-### 📦 asLody/whale
-
-> **Categories:** `#android` `#hook_framework` `#inline_hook` `#ios` `#jit`
-
-Hook Framework for Android/IOS/Linux/MacOS
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/asLody/whale](https://github.com/asLody/whale)
-- 👤 **Developer:** [asLody](https://github.com/asLody)
-
-
----
-
-### 📦 Cyuubi/MonoNX
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An experimental Nintendo Switch emulator for Android!
-**Language**: C#
-**Stars**: 115 **Issues**: 0 **Forks**: 4
-https://github.com/Cyuubi/MonoNX
-
-- 🐙 **Source Code:** [https://github.com/Cyuubi/MonoNX](https://github.com/Cyuubi/MonoNX)
-- 👤 **Developer:** [Cyuubi](https://github.com/Cyuubi)
-
-
----
-
-### 📦 leisim/awesome-flutter-packages
-
-> **Categories:** `#android` `#awesome` `#dart` `#flutter` `#ios`
-
-A curated list of awesome Flutter packages.
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/leisim/awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages)
-- 👤 **Developer:** [leisim](https://github.com/leisim)
-
-
----
-
-### 📦 gauravk95/bubble-navigation
-
-> **Categories:** `#android` `#android_library` `#android_ui` `#android_ui_insipired` `#bottom_navigation` `#bottomnavigation` `#bottomnavigationbar` `#bottomnavigationview` `#library` `#material_design` `#navbar` `#navigation` `#navigation_view` `#navigationbar` `#navigationview` `#widget`
-
-🎉 [Android Library] A light-weight library to easily make beautiful Navigation Bar with ton of 🎨 customization option.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/gauravk95/bubble-navigation](https://github.com/gauravk95/bubble-navigation)
-- 👤 **Developer:** [gauravk95](https://github.com/gauravk95)
-
-
----
-
-### 📦 alibaba/flutter_boost
-
-> **Categories:** `#android` `#dart` `#flutter` `#hybrid_app` `#hybrid_flutter` `#ios`
-
-FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)
-- 👤 **Developer:** [alibaba](https://github.com/alibaba)
-
-
----
-
-### 📦 iammert/ReadableBottomBar
-
-> **Categories:** `#android` `#bar` `#bottom` `#bottombar` `#kotlin` `#layout` `#material` `#tab` `#view`
-
-Yet another material bottom bar library for Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)
-- 👤 **Developer:** [iammert](https://github.com/iammert)
-
-
----
-
-### 📦 afollestad/recyclical
-
-> **Categories:** `#android` `#androidx` `#dsl` `#kotlin` `#list_selection` `#lists` `#recyclerview` `#user_interface`
-
-🚀 An easy-to-use Kotlin DSL API for setting up and manipulating RecyclerViews.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/afollestad/recyclical](https://github.com/afollestad/recyclical)
-- 👤 **Developer:** [afollestad](https://github.com/afollestad)
-
-
----
-
-### 📦 mmazzarolo/breathly-app
-
-> **Categories:** `#android` `#app` `#breathing` `#breathly` `#ios` `#mobile` `#react` `#react_native` `#typescript`
-
-A breathing training app built with React-Native
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app)
-- 👤 **Developer:** [mmazzarolo](https://github.com/mmazzarolo)
-
-
----
-
-### 📦 Awesome-Interview/Awesome-Interview
-
-> **Categories:** `#android` `#backend` `#cpp` `#deep_learning` `#frontend` `#interview` `#interview_practice` `#interview_prep` `#interview_preparation` `#interviews` `#ios` `#java` `#machine_learning` `#python`
-
-Collection of awesome interview references.
-
-- 🐙 **Source Code:** [https://github.com/Awesome-Interview/Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview)
-- 👤 **Developer:** [Awesome-Interview](https://github.com/Awesome-Interview)
-
-
----
-
-### 📦 kroegerama/bottomsheet-imagepicker
-
-> **Categories:** `#android` `#bottomsheet` `#image` `#imagepicker` `#library` `#picker`
-
-Modern image picker for Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/kroegerama/bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)
-- 👤 **Developer:** [kroegerama](https://github.com/kroegerama)
-
-
----
-
-### 📦 hearsilent/DiscreteSlider
-
-> **Categories:** `#android` `#android_library` `#discrete` `#seekbar` `#seekbar_android` `#slider` `#slider_range`
-
-A slider (SeekBar) with amazing value label.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/hearsilent/DiscreteSlider](https://github.com/hearsilent/DiscreteSlider)
-- 👤 **Developer:** [hearsilent](https://github.com/hearsilent)
-
-
----
-
-### 📦 fritzlabs/Awesome-Mobile-Machine-Learning
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
-**Stars**: 151 **Issues**: 0 **Forks**: 11
-https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning
-
-- 🐙 **Source Code:** [https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
-- 👤 **Developer:** [fritzlabs](https://github.com/fritzlabs)
-
-
----
-
-### 📦 didi/booster
-
-> **Categories:** `#android` `#bytecode_manipulation` `#gradle_plugin` `#ios` `#optimizer` `#static_analysis`
-
-✨Optimizer for mobile applications
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/didi/booster](https://github.com/didi/booster)
-- 👤 **Developer:** [didi](https://github.com/didi)
-
-
----
-
-### 📦 afollestad/inline-activity-result
-
-> **Categories:** `#activity_results` `#android` `#androidx` `#kotlin`
-
-Receive Activity results inline in a callback, without any boilerplate.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/afollestad/inline-activity-result](https://github.com/afollestad/inline-activity-result)
-- 👤 **Developer:** [afollestad](https://github.com/afollestad)
-
-
----
-
-### 📦 android/camera
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Kotlin
-**Stars**: 141 **Issues**: 9 **Forks**: 15
-https://github.com/android/camera
-
-- 🐙 **Source Code:** [https://github.com/android/camera](https://github.com/android/camera)
-- 👤 **Developer:** [android](https://github.com/android)
-
-
----
-
-### 📦 googlesamples/android-DarkTheme
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Java
-**Stars**: 133 **Issues**: 2 **Forks**: 8
-https://github.com/googlesamples/android-DarkTheme
-
-- 🐙 **Source Code:** [https://github.com/googlesamples/android-DarkTheme](https://github.com/googlesamples/android-DarkTheme)
-- 👤 **Developer:** [googlesamples](https://github.com/googlesamples)
-
-
----
-
-### 📦 DivestTrump/ParrotSnoop
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Android app for IP packet capture
-**Language**: Java
-**Stars**: 76 **Issues**: 0 **Forks**: 4
-https://github.com/DivestTrump/ParrotSnoop
-
-- 🐙 **Source Code:** [https://github.com/DivestTrump/ParrotSnoop](https://github.com/DivestTrump/ParrotSnoop)
-- 👤 **Developer:** [DivestTrump](https://github.com/DivestTrump)
-
-
----
-
-### 📦 iqiyi/Qigsaw
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Qigsaw is a dynamic modularization library which is based on Android App Bundles. It supports dynamic delivery for split APK without reinstalling the base one.
-**Language**: Java
-**Stars**: 104 **Issues**: 0 **Forks**: 10
-https://github.com/iqiyi/Qigsaw
-
-- 🐙 **Source Code:** [https://github.com/iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw)
-- 👤 **Developer:** [iqiyi](https://github.com/iqiyi)
-
-
----
-
-### 📦 luckybilly/SmartSwipe
-
-> **Categories:** `#cover` `#customer_view` `#door` `#drawer` `#refreshlayout` `#shutters` `#slidingmenu` `#swipe` `#swipeback` `#swipebacklayout`
-
-An android library to make swipe more easier and more powerful. https://luckybilly.github.io/SmartSwipe-tutorial/
-**Language**: Java
-
-- 🐙 **Source Code:** [https://luckybilly.github.io/SmartSwipe-tutorial](https://luckybilly.github.io/SmartSwipe-tutorial)
-
-
----
-
-### 📦 JideGuru/FlutterSocialAppUIKit
-
-> **Categories:** `#android` `#flutter` `#ios` `#mobile` `#social_media` `#ui` `#uikit`
-
-Flutter representation of a Social App Concept i found in Uplabs.
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/JideGuru/FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit)
-- 👤 **Developer:** [JideGuru](https://github.com/JideGuru)
-
-
----
-
-### 📦 hasankucuk/SocialTextView
-
-> **Categories:** `#android` `#android_socialtextview` `#android_textview` `#custom_android_textview` `#hashtags` `#mention` `#phone`
-
-A simple custom Android TextView that highlights content such as Mention, Hashtag, Phone, Email and Url.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/hasankucuk/SocialTextView](https://github.com/hasankucuk/SocialTextView)
-- 👤 **Developer:** [hasankucuk](https://github.com/hasankucuk)
-
-
----
-
-### 📦 MindorksOpenSource/android-developer-roadmap
-
-> **Categories:** `#android` `#android_app` `#android_architecture` `#android_developer` `#android_development` `#android_library` `#android_studio` `#developement` `#developer` `#java` `#jetpack` `#kotlin` `#learning` `#mindorks` `#roadmap` `#rxjava` `#rxjava2`
-
-Android Developer Roadmap - A complete roadmap to learn Android App Development
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap)
-- 👤 **Developer:** roadmap
-
-
----
-
-### 📦 iampawan/GDG-DevFest-App
-
-> **Categories:** `#android` `#app` `#devfest` `#flutter` `#gdg` `#ios`
-
-An App Template For GDG DevFest
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/iampawan/GDG-DevFest-App](https://github.com/iampawan/GDG-DevFest-App)
-- 👤 **Developer:** [iampawan](https://github.com/iampawan)
-
-
----
-
-### 📦 android/animation
-
-> **Categories:** `#samples`
-
-Multiple samples showing the best practices in animation on Android.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/android/animation](https://github.com/android/animation)
-- 👤 **Developer:** [android](https://github.com/android)
-
-
----
-
-### 📦 wiyarmir/kotlin-multiplatform-template
-
-> **Categories:** `#kotiln_backend` `#kotlin` `#kotlin_android` `#kotlin_ios` `#kotlin_js` `#kotlin_multiplatform` `#kotlin_native` `#kotlin_react` `#ktor` `#react`
-
-Ready to go template for multiplatform Kotlin
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/wiyarmir/kotlin-multiplatform-template](https://github.com/wiyarmir/kotlin-multiplatform-template)
-- 👤 **Developer:** [wiyarmir](https://github.com/wiyarmir)
-
-
----
-
-### 📦 coil-kt/coil
-
-> **Categories:** `#android` `#image_loader` `#images` `#kotlin` `#kotlin_coroutines`
-
-Image loading for Android backed by Kotlin Coroutines.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/coil-kt/coil](https://github.com/coil-kt/coil)
-- 👤 **Developer:** [coil-kt](https://github.com/coil-kt)
-
-
----
-
-### 📦 skydoves/Rainbow
-
-> **Categories:** `#android` `#android_library` `#gradation` `#gradient` `#kotlin` `#rainbow` `#skydoves` `#tint` `#tinting`
-
-🌈 An easy way to apply gradations and tinting for Android.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/Rainbow](https://github.com/skydoves/Rainbow)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 ahkohd/FlutterGrocery-ShoppingAppUI
-
-> **Categories:** `#android` `#app` `#flutter` `#food_ordering` `#freebie` `#grocery` `#ios` `#made_in_nigeria` `#mobile` `#ui` `#uikit`
-
-Fryo - Grocery Shopping  App template UI kit in Flutter 🍔😋
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI](https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI)
-- 👤 **Developer:** [ahkohd](https://github.com/ahkohd)
-
-
----
-
-### 📦 skydoves/WhatIf
-
-> **Categories:** `#android` `#builder_pattern` `#expression` `#extensions` `#if_else` `#kotlin` `#nullable` `#skydoves`
-
-☔ A fluent kotlin expression for a single if-else statement, nullable and boolean.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/WhatIf](https://github.com/skydoves/WhatIf)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 nining377/UnblockMusicPro_Xposed
-
-> **Categories:** `#android` `#neteasecloudmusic` `#unblock` `#xposed`
-
-Unblock Netease Cloud Music with Xposed
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/nining377/UnblockMusicPro_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed)
-- 👤 **Developer:** [nining377](https://github.com/nining377)
-
-
----
-
-### 📦 secrary/Andromeda
-
-> **Categories:** `#android` `#binary_analysis` `#reverse_engineering` `#static_analysis`
-
-Andromeda - Interactive Reverse Engineering Tool for Android Applications
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda)
-- 👤 **Developer:** [secrary](https://github.com/secrary)
-
-
----
-
-### 📦 americanexpress/busybee
-
-> **Categories:** `#android` `#espresso` `#testing_library`
-
-BusyBee is an alternative API for IdlingResources in Espresso tests
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/americanexpress/busybee](https://github.com/americanexpress/busybee)
-- 👤 **Developer:** [americanexpress](https://github.com/americanexpress)
-
-
----
-
-### 📦 skydoves/ExpandableLayout
-
-> **Categories:** `#android` `#android_library` `#collapse` `#expand` `#expandable` `#expandablelayout` `#kotlin` `#skydoves`
-
-🦚 An expandable layout that shows a two-level layout with an indicator.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/ExpandableLayout](https://github.com/skydoves/ExpandableLayout)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 janoodleFTW/timy-messenger
-
-> **Categories:** `#android` `#app` `#firebase` `#flutter` `#ios` `#kotlin` `#messaging` `#messenger` `#swift`
-
-Timy - open source mobile app for groups to communicate and organize themselves. Build with flutter.
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger)
-- 👤 **Developer:** [janoodleFTW](https://github.com/janoodleFTW)
-
-
----
-
-### 📦 ataulm/material-design-components-showcase
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A glorified layout file to which you can apply your Android theme
-**Language**: Kotlin
-**Stars**: 106 **Issues**: 2 **Forks**: 5
-https://github.com/ataulm/material-design-components-showcase
-
-- 🐙 **Source Code:** [https://github.com/ataulm/material-design-components-showcase](https://github.com/ataulm/material-design-components-showcase)
-- 👤 **Developer:** [ataulm](https://github.com/ataulm)
-
-
----
-
-### 📦 chrisbanes/insetter
-
-> **Categories:** `#android_ui`
-
-Insetter is a library to help apps handle WindowInsets more easily
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/chrisbanes/insetter](https://github.com/chrisbanes/insetter)
-- 👤 **Developer:** [chrisbanes](https://github.com/chrisbanes)
-
-
----
-
-### 📦 ibrahimsn98/SmoothBottomBar
-
-> **Categories:** `#android` `#android_bottom_navigation` `#android_library` `#android_tabs` `#bottom_navigation` `#bottom_navigation_bar`
-
-A lightweight Android material bottom navigation bar library
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
-- 👤 **Developer:** [ibrahimsn98](https://github.com/ibrahimsn98)
-
-
----
-
-### 📦 skydoves/DoubleLift
-
-> **Categories:** `#android` `#android_library` `#android_ui` `#collapse` `#doublelift` `#expand` `#expandable` `#kotlin` `#skydoves`
-
-🦋 Expands and collapses a layout's horizontal and vertical sequentially.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/DoubleLift](https://github.com/skydoves/DoubleLift)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 FSecureLABS/Jandroid
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Python
-**Stars**: 120 **Issues**: 2 **Forks**: 11
-https://github.com/FSecureLABS/Jandroid
-
-- 🐙 **Source Code:** [https://github.com/FSecureLABS/Jandroid](https://github.com/FSecureLABS/Jandroid)
-- 👤 **Developer:** [FSecureLABS](https://github.com/FSecureLABS)
-
-
----
-
-### 📦 GoogleChromeLabs/llama-pack
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Llama Pack 🦙 is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
-**Language**: JavaScript
-**Stars**: 85 **Issues**: 9 **Forks**: 3
-https://github.com/GoogleChromeLabs/llama-pack
-
-- 🐙 **Source Code:** [https://github.com/GoogleChromeLabs/llama-pack](https://github.com/GoogleChromeLabs/llama-pack)
-- 👤 **Developer:** [GoogleChromeLabs](https://github.com/GoogleChromeLabs)
-
-
----
-
-### 📦 MindorksOpenSource/RxJava3-Android-Examples
-
-> **Categories:** `#example_project` `#examples` `#kotlin` `#rx_android` `#rxjava` `#rxjava2` `#rxjava3`
-
-RxJava 3 Android Examples - Migration From RxJava 2 to RxJava 3 - How to use RxJava 3 in Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/MindorksOpenSource/RxJava3-Android-Examples](https://github.com/MindorksOpenSource/RxJava3-Android-Examples)
-- 👤 **Developer:** [MindorksOpenSource](https://github.com/MindorksOpenSource)
-
-
----
-
-### 📦 diez/diez
-
-> **Categories:** `#android_style` `#compiler` `#cross_platform` `#design_language` `#design_systems` `#design_tokens` `#ios_style` `#style` `#web_styles`
-
-Adopt a unified design language across platforms, codebases, and teams
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/diez/diez](https://github.com/diez/diez)
-- 👤 **Developer:** [diez](https://github.com/diez)
-
-
----
-
-### 📦 Chrisvin/LiquidSwipe
-
-> **Categories:** `#android` `#android_library` `#library` `#liquid` `#liquidswipe` `#page` `#pager` `#swipe` `#viewpager`
-
-Android LiquidSwipe Library
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/Chrisvin/LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)
-- 👤 **Developer:** [Chrisvin](https://github.com/Chrisvin)
-
-
----
-
-### 📦 ZahraHeydari/MusicPlayer
-
-> **Categories:** `#android_app` `#android_clean_architecture_kotlin` `#android_clean_architecture_sample` `#android_cleanarchitecture` `#broadcast_reciever` `#dependency_injection` `#exoplayer` `#exoplayer2` `#koin` `#livedata` `#livedata_viewmodel` `#music_player` `#mvvm` `#mvvm_android` `#mvvm_architecture` `#notification_android` `#notification_service` `#notifications` `#room_database` `#service`
-
-Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/ZahraHeydari/MusicPlayer](https://github.com/ZahraHeydari/MusicPlayer)
-- 👤 **Developer:** [ZahraHeydari](https://github.com/ZahraHeydari)
-
-
----
-
-### 📦 dropbox/Store
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Android Library for Async Data Loading and Caching
-**Language**: Kotlin
-**Stars**: 225 **Issues**: 1 **Forks**: 16
-https://github.com/dropbox/Store
-
-- 🐙 **Source Code:** [https://github.com/dropbox/Store](https://github.com/dropbox/Store)
-- 👤 **Developer:** [dropbox](https://github.com/dropbox)
-
-
----
-
-### 📦 skydoves/GoldMovies
-
-> **Categories:** `#android` `#coroutines` `#dagger` `#koin` `#kotlin` `#mvvm` `#mvvm_architecture` `#skydoves` `#themoviedb`
-
-👑 The GoldMovies is based on Kotlin, MVVM architecture, coroutines, dagger, koin, and material designs & animations.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/GoldMovies](https://github.com/skydoves/GoldMovies)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 alphaSeclab/awesome-reverse-engineering
-
-> **Categories:** `#binaryninja` `#binnavi` `#dynamorio` `#frida` `#ghidra` `#idapro` `#idapython` `#intelpt` `#radare2` `#reverse_engineering` `#x64dbg`
-
-Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect!
-
-- 🐙 **Source Code:** [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
-- 👤 **Developer:** [alphaSeclab](https://github.com/alphaSeclab)
-
-
----
-
-### 📦 den4uk/andriller
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
-**Language**: Python
-**Stars**: 131 **Issues**: 0 **Forks**: 29
-https://github.com/den4uk/andriller
-
-- 🐙 **Source Code:** [https://github.com/den4uk/andriller](https://github.com/den4uk/andriller)
-- 👤 **Developer:** [den4uk](https://github.com/den4uk)
-
-
----
-
-### 📦 joreilly/PeopleInSpace
-
-> **Categories:** `#android` `#android_architecture_components` `#ios` `#jetpack_compose` `#koin` `#kotlin` `#kotlin_coroutines` `#kotlin_multiplatform` `#kotlinx_serialization` `#ktor_client` `#mvvm` `#swiftui` `#viewmodel`
-
-Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
-- 👤 **Developer:** [joreilly](https://github.com/joreilly)
-
-
----
-
-### 📦 gotev/android-cookie-store
-
-> **Categories:** `#android` `#cookie` `#httpurlconnection` `#kotlin` `#library` `#okhttp` `#store` `#webview`
-
-Android InMemory and persistent Cookie Store for HttpURLConnection and OkHttp, with extensions to easily sync cookies in Android WebViews.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/gotev/android-cookie-store](https://github.com/gotev/android-cookie-store)
-- 👤 **Developer:** [gotev](https://github.com/gotev)
-
-
----
-
-### 📦 mrcsxsiq/Kotlin-Pokedex
-
-> **Categories:** `#android` `#kotlin` `#navigation` `#room` `#viewmodel`
-
-:cyclone: A Pokedex app using ViewModel, LiveData, Room and Navigation
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex)
-- 👤 **Developer:** [mrcsxsiq](https://github.com/mrcsxsiq)
-
-
----
-
-### 📦 vaib25vicky/awesome-mobile-security
-
-> **Categories:** `#android` `#android_security` `#awesome` `#awesome_list` `#bugbounty` `#hacking` `#hacking_tools` `#ios` `#ios_security` `#malware` `#malware_research` `#mobile` `#mobile_security` `#pentesting` `#redteam` `#resources` `#reverse_engineering` `#security_tools`
-
-An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
-
-- 🐙 **Source Code:** [https://github.com/vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
-- 👤 **Developer:** [vaib25vicky](https://github.com/vaib25vicky)
-
-
----
-
-### 📦 skydoves/PowerSpinner
-
-> **Categories:** `#android` `#android_library` `#android_spinner` `#kotlin` `#popup` `#skydoves` `#spinner` `#spinnerview`
-
-:cyclone: A lightweight dropdown popup spinner with an arrow and animations.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/PowerSpinner](https://github.com/skydoves/PowerSpinner)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 tiann/Leoric
-
-> **Categories:** `#alive` `#android` `#daemon`
-
-PoC of fighting against force-stop kill process on Android
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/tiann/Leoric](https://github.com/tiann/Leoric)
-- 👤 **Developer:** [tiann](https://github.com/tiann)
-
-
----
-
-### 📦 transferwise/banks-reference-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Reference Android code integrating TransferWise's services into a (Demo) Bank App
-**Language**: Kotlin
-**Stars**: 91 **Issues**: 0 **Forks**: 6
-https://github.com/transferwise/banks-reference-android
-
-- 🐙 **Source Code:** [https://github.com/transferwise/banks-reference-android](https://github.com/transferwise/banks-reference-android)
-- 👤 **Developer:** [transferwise](https://github.com/transferwise)
-
-
----
-
-### 📦 lyrebirdstudio/filebox
-
-> **Categories:** `#android` `#async` `#conceal` `#downloader` `#file` `#filebox`
-
-Async file downloader for Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/lyrebirdstudio/filebox](https://github.com/lyrebirdstudio/filebox)
-- 👤 **Developer:** [lyrebirdstudio](https://github.com/lyrebirdstudio)
-
-
----
-
-### 📦 skydoves/DisneyMotions
-
-> **Categories:** `#android` `#coroutines` `#disney` `#kotlin` `#motions` `#mvvm` `#mvvm_architecture` `#skydoves`
-
-🦁 A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 JakeWharton/wormhole
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A time-traveling bytecode rewriter which adds future APIs to android.jar
-**Language**: Kotlin
-**Stars**: 190 **Issues**: 4 **Forks**: 2
-https://github.com/JakeWharton/wormhole
-
-- 🐙 **Source Code:** [https://github.com/JakeWharton/wormhole](https://github.com/JakeWharton/wormhole)
-- 👤 **Developer:** [JakeWharton](https://github.com/JakeWharton)
-
-
----
-
-### 📦 skydoves/TransformationLayout
-
-> **Categories:** `#android` `#android_library` `#android_ui` `#kotlin` `#material` `#motions` `#skydoves` `#transition`
-
-🌠 Transform into a different view or activity using morphing animations.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 corellium/projectsandcastle
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Android/Linux for the iPhone
-**Language**: C
-**Stars**: 298 **Issues**: 7 **Forks**: 17
-https://github.com/corellium/projectsandcastle
-
-- 🐙 **Source Code:** [https://github.com/corellium/projectsandcastle](https://github.com/corellium/projectsandcastle)
-- 👤 **Developer:** [corellium](https://github.com/corellium)
-
-
----
-
-### 📦 Spikeysanju/MotionToast
-
-> **Categories:** `#android_app` `#android_development` `#android_library` `#android_sdk` `#android_ui` `#androidkotlin` `#androidstudio` `#kotlin` `#kotlin_android` `#kotlin_library` `#material_design` `#materialdesign_library` `#materialdesign_ui` `#spikeysanju` `#toastlibrary`
-
-A Beautiful Motion Toast Library for Kotlin Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/Spikeysanju/MotionToast](https://github.com/Spikeysanju/MotionToast)
-- 👤 **Developer:** [Spikeysanju](https://github.com/Spikeysanju)
-
-
----
-
-### 📦 PatilShreyas/Foodium
-
-> **Categories:** `#android` `#android_architecture_components` `#coroutines` `#coroutines_android` `#dagger2_android` `#flow` `#kotlin` `#kotlin_android` `#kotlin_flow` `#livedata` `#livedata_viewmodel` `#material_components` `#moshi` `#mvvm` `#mvvm_android` `#retrofit2` `#room` `#room_persistence_library` `#viewbinding`
-
-🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/PatilShreyas/Foodium](https://github.com/PatilShreyas/Foodium)
-- 👤 **Developer:** [PatilShreyas](https://github.com/PatilShreyas)
-
-
----
-
-### 📦 MindorksOpenSource/ridesharing-uber-lyft-app
-
-> **Categories:** `#android` `#animation` `#lyft` `#open_source` `#ridesharing` `#uber` `#uber_android` `#uber_animation` `#uber_app`
-
-Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
-- 👤 **Developer:** [MindorksOpenSource](https://github.com/MindorksOpenSource)
-
-
----
-
-### 📦 skydoves/MarvelHeroes
-
-> **Categories:** `#android` `#coroutines` `#databinding` `#dependency_injection` `#kotlin` `#material_components` `#material_design` `#mvvm` `#mvvm_android` `#mvvm_architecture` `#repository` `#retrofit2` `#room` `#skydoves`
-
-❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin)  architecture.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/MarvelHeroes](https://github.com/skydoves/MarvelHeroes)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 m0bilesecurity/RMS-Runtime-Mobile-Security
-
-> **Categories:** `#android_security` `#frida` `#mobile_security` `#reverse_engineering`
-
-Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
-- 👤 **Developer:** [m0bilesecurity](https://github.com/m0bilesecurity)
-
-
----
-
-### 📦 aind-containers/aind
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-AinD: Android in Docker. Ain't an emulator.
-**Language**: Dockerfile
-**Stars**: 522 **Issues**: 4 **Forks**: 13
-[https://github.com/aind-containers/aind](https://github.com/aind-containers/aind)
-
-- 🐙 **Source Code:** [https://github.com/aind-containers/aind](https://github.com/aind-containers/aind)
-- 👤 **Developer:** [aind-containers](https://github.com/aind-containers)
-
-
----
-
-### 📦 opentrace-community/opentrace-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-OpenTrace Android app. Reference implementation of the BlueTrace protocol.
-**Language**: Kotlin
-**Stars**: 118 **Issues**: 2 **Forks**: 42
-[https://github.com/opentrace-community/opentrace-android](https://github.com/opentrace-community/opentrace-android)
-
-- 🐙 **Source Code:** [https://github.com/opentrace-community/opentrace-android](https://github.com/opentrace-community/opentrace-android)
-- 👤 **Developer:** [opentrace-community](https://github.com/opentrace-community)
-
-
----
-
-### 📦 kiwibrowser/src
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Source-code used in Kiwi Browser for Android (up to date)
-**Stars**: 272 **Issues**: 15 **Forks**: 19
-[https://github.com/kiwibrowser/src](https://github.com/kiwibrowser/src)
-
-- 🐙 **Source Code:** [https://github.com/kiwibrowser/src](https://github.com/kiwibrowser/src)
-- 👤 **Developer:** [kiwibrowser](https://github.com/kiwibrowser)
-
-
----
-
-### 📦 austrianredcross/stopp-corona-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Android Source Code
-**Language**: Kotlin
-**Stars**: 109 **Issues**: 10 **Forks**: 20
-[https://github.com/austrianredcross/stopp-corona-android](https://github.com/austrianredcross/stopp-corona-android)
-
-- 🐙 **Source Code:** [https://github.com/austrianredcross/stopp-corona-android](https://github.com/austrianredcross/stopp-corona-android)
-- 👤 **Developer:** [austrianredcross](https://github.com/austrianredcross)
-
-
----
-
-### 📦 necatisozer/Modern-Android-Development
-
-> **Categories:** `#android` `#android_app` `#android_application` `#android_architecture` `#android_development` `#android_library` `#android_sdk` `#android_studio` `#android_ui` `#androidstudio`
-
-Modern Android Development tools & key points
-
-- 🐙 **Source Code:** [https://github.com/necatisozer/Modern-Android-Development](https://github.com/necatisozer/Modern-Android-Development)
-- 👤 **Developer:** [necatisozer](https://github.com/necatisozer)
-
-
----
-
-### 📦 google/exposure-notifications-android
-
-> **Categories:** `#android` `#covid_19`
-
-Exposure Notifications Android Reference Design
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/google/exposure-notifications-android](https://github.com/google/exposure-notifications-android)
-- 👤 **Developer:** [google](https://github.com/google)
-
-
----
-
-### 📦 AU-COVIDSafe/mobile-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-COVIDSafe android app
-**Language**: Kotlin
-**Stars**: 158 **Issues**: 0 **Forks**: 66
-[https://github.com/AU-COVIDSafe/mobile-android](https://github.com/AU-COVIDSafe/mobile-android)
-
-- 🐙 **Source Code:** [https://github.com/AU-COVIDSafe/mobile-android](https://github.com/AU-COVIDSafe/mobile-android)
-- 👤 **Developer:** [AU-COVIDSafe](https://github.com/AU-COVIDSafe)
-
-
----
-
-### 📦 igorwojda/android-ecosystem-cheat-sheet
-
-> **Categories:** `#android` `#android_application` `#android_development` `#android_ui`
-
-🤖Android Ecosystem Cheatsheet 2020
-
-- 🐙 **Source Code:** [https://github.com/igorwojda/android-ecosystem-cheat-sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
-- 👤 **Developer:** [igorwojda](https://github.com/igorwojda)
-
-
----
-
-### 📦 flwmxd/PharaohStroy
-
-> **Categories:** `#android` `#client` `#cpp` `#editor` `#game` `#game_engine_2d` `#ios` `#lua` `#maplestory` `#opengl` `#opengl_es` `#opengl2` `#switch` `#windows`
-
-A maplestory IDE which can develop the multi-platform maplestory game
-**Language**: Lua
-
-- 🐙 **Source Code:** [https://github.com/flwmxd/PharaohStroy](https://github.com/flwmxd/PharaohStroy)
-- 👤 **Developer:** [flwmxd](https://github.com/flwmxd)
-
-
----
-
-### 📦 ahmedrizwan/JetpackComposeCalculator
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A jetpack compose clone of Android 10 Calculator UI
-**Language**: Kotlin
-**Stars**: 124 **Issues**: 0 **Forks**: 3
-[https://github.com/ahmedrizwan/JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
-
-- 🐙 **Source Code:** [https://github.com/ahmedrizwan/JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
-- 👤 **Developer:** [ahmedrizwan](https://github.com/ahmedrizwan)
-
-
----
-
-### 📦 CovidShield/mobile
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-React Native client application for COVID Shield on iOS and Android
-**Language**: TypeScript
-**Stars**: 188 **Issues**: 19 **Forks**: 26
-[https://github.com/CovidShield/mobile](https://github.com/CovidShield/mobile)
-
-- 🐙 **Source Code:** [https://github.com/CovidShield/mobile](https://github.com/CovidShield/mobile)
-- 👤 **Developer:** [CovidShield](https://github.com/CovidShield)
-
-
----
-
-### 📦 nic-delhi/AarogyaSetu_Android
-
-> **Categories:** `#android` `#contact_tracing`
-
-Aarogya Setu Android app native code
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/nic-delhi/AarogyaSetu_Android](https://github.com/nic-delhi/AarogyaSetu_Android)
-- 👤 **Developer:** [nic-delhi](https://github.com/nic-delhi)
-
-
----
-
-### 📦 bytedance/BoostMultiDex
-
-> **Categories:** `#android`
-
-BoostMultiDex is a solution for quickly loading multiple DEXs on low Android version devices (4.X and below, SDK <21).
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex)
-- 👤 **Developer:** [bytedance](https://github.com/bytedance)
-
-
----
-
-### 📦 corona-warn-app/cwa-app-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Native Android app using the Apple/Google exposure notification API.
-**Language**: Kotlin
-**Stars**: 212 **Issues**: 36 **Forks**: 34
-[https://github.com/corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-
-- 🐙 **Source Code:** [https://github.com/corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-- 👤 **Developer:** [corona-warn-app](https://github.com/corona-warn-app)
-
-
----
-
-### 📦 skydoves/Pokedex
-
-> **Categories:** `#android` `#coroutines` `#dagger_hilt` `#dagger2` `#jetpack_android` `#kotlin` `#motion` `#mvvm` `#pokedex` `#pokemon` `#skydoves` `#android_ar` `#ar` `#arcore` `#hilt` `#sceneform`
-
-🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/Pokedex](https://github.com/skydoves/Pokedex)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 Wiqaytna-app/wiqaytna_android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Kotlin
-**Stars**: 146 **Issues**: 19 **Forks**: 64
-[https://github.com/Wiqaytna-app/wiqaytna_android](https://github.com/Wiqaytna-app/wiqaytna_android)
-
-- 🐙 **Source Code:** [https://github.com/Wiqaytna-app/wiqaytna_android](https://github.com/Wiqaytna-app/wiqaytna_android)
-- 👤 **Developer:** [Wiqaytna-app](https://github.com/Wiqaytna-app)
-
-
----
-
-### 📦 lopspower/CleanRxArchitecture
-
-> **Categories:** `#android` `#android_tests` `#clean_architecture` `#dagger2` `#kotlin` `#model_view_intent` `#rxjava3`
-
-Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture)
-- 👤 **Developer:** [lopspower](https://github.com/lopspower)
-
-
----
-
-### 📦 romainguy/sample-materials-shop
-
-> **Categories:** `#android` `#jetpack_compose`
-
-Sample app for Jetpack Compose Developer Preview 2
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/romainguy/sample-materials-shop](https://github.com/romainguy/sample-materials-shop)
-- 👤 **Developer:** [romainguy](https://github.com/romainguy)
-
-
----
-
-### 📦 androiddevnotes/awesome-android-learning-resources
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#android` `#kotlin` `#lists` `#awesome` `#dagger` `#mvvm` `#resources` `#awesome_list` `#study_guide` `#beginner_friendly` `#hacktoberfest` `#coroutines_android` `#mvvm_android` `#learning_resources` `#android_kotlin` `#first_issue` `#jetpack_android` `#learn_android` `#jetpack_compose` `#hacktoberfest2020`
-
-👓 A curated list of awesome android learning resources for android app developers.
-**Language**: Kotlin
-**Stars**: 171 **Issues**: 0 **Forks**: 9
-[https://github.com/androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
-
-- 🐙 **Source Code:** [https://github.com/androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
-- 👤 **Developer:** [androiddevnotes](https://github.com/androiddevnotes)
-
-
----
-
-### 📦 abuanwar072/E-commerce-App-UI-Flutter
-
-> **Categories:** `#Flutter` `#android` `#flutter_apps` `#ios_app`
-
-Nice and clean Online Shop app UI by using #Flutter.
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/abuanwar072/E-commerce-App-UI-Flutter](https://github.com/abuanwar072/E-commerce-App-UI-Flutter)
-- 👤 **Developer:** [abuanwar072](https://github.com/abuanwar072)
-
-
----
-
-### 📦 skydoves/AndroidBottomBar
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🍫 A lightweight bottom navigation view, fully customizable with an indicator and animations.
-**Language**: Kotlin
-**Stars**: 144 **Issues**: 0 **Forks**: 2
-[https://github.com/skydoves/AndroidBottomBar](https://github.com/skydoves/AndroidBottomBar)
-
-- 🐙 **Source Code:** [https://github.com/skydoves/AndroidBottomBar](https://github.com/skydoves/AndroidBottomBar)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 KieronQuinn/TapTap
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Port of the double tap on back of device feature from Android 11 to any armv8 Android device
-**Language**: Kotlin
-**Stars**: 268 **Issues**: 18 **Forks**: 21
-[https://github.com/KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap)
-
-- 🐙 **Source Code:** [https://github.com/KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap)
-- 👤 **Developer:** [KieronQuinn](https://github.com/KieronQuinn)
-
-
----
-
-### 📦 1d8/Android-Analysis
-
-> **Categories:** `#android` `#reverse_engineering`
-
-Getting Genymotion & Burpsuite setup for Android Mobile App Analysis
-
-- 🐙 **Source Code:** [https://github.com/1d8/Android-Analysis](https://github.com/1d8/Android-Analysis)
-- 👤 **Developer:** [1d8](https://github.com/1d8)
-
-
----
-
-### 📦 MlxChange/WaveDisPlay
-
-> **Categories:** `#android` `#koltin`
-
-A view that can be used like recyclerView to see the content of the next or previous page
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/MlxChange/WaveDisPlay](https://github.com/MlxChange/WaveDisPlay)
-- 👤 **Developer:** [MlxChange](https://github.com/MlxChange)
-
-
----
-
-### 📦 KwaiAppTeam/KOOM
-
-> **Categories:** `#android` `#crash` `#java` `#mobile` `#oom`
-
-KOOM is an OOM killer on mobile platform by Kwai.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/KwaiAppTeam/KOOM](https://github.com/KwaiAppTeam/KOOM)
-- 👤 **Developer:** [KwaiAppTeam](https://github.com/KwaiAppTeam)
-
-
----
-
-### 📦 Tiyunzong An Exploit Chain To Remotely Root Modern Android Devices
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Stars**: 96 **Issues**: 1 **Forks**: 16
-[https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices](https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices)
-
-- 🐙 **Source Code:** [https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices](https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices)
-- 👤 **Developer:** [secmob](https://github.com/secmob)
-
-
----
-
-### 📦 LikeTheSalad/aaper
-
-> **Categories:** `#android` `#bytebuddy` `#permission_android`
-
-Ensure Android runtime permissions using annotations only
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/LikeTheSalad/aaper](https://github.com/LikeTheSalad/aaper)
-- 👤 **Developer:** [LikeTheSalad](https://github.com/LikeTheSalad)
-
-
----
-
-### 📦 Tarikul711/flutter-development-roadmap
-
-> **Categories:** `#android_application` `#awesome` `#bloc` `#cross_platform` `#dart` `#dart_web` `#firebase` `#flutter` `#flutter_app` `#flutter_awesome` `#flutter_demo` `#flutter_material` `#flutter_plugin` `#flutter_ui` `#flutter_widget` `#ios` `#redux` `#roadmap` `#rxdart`
-
-- 🐙 **Source Code:** [https://github.com/Tarikul711/flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap)
-- 👤 **Developer:** [Tarikul711](https://github.com/Tarikul711)
-
-
----
-
-### 📦 SanjayDevTech/Code-with-love
-
-> **Categories:** `#algorithms` `#android` `#c` `#cpp` `#data_structures` `#hacktoberfest` `#java` `#javascript` `#kotlin` `#php` `#python` `#searching_algorithms` `#sorting_algorithms`
-
-Open source programming algorithms
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/SanjayDevTech/Code-with-love](https://github.com/SanjayDevTech/Code-with-love)
-- 👤 **Developer:** [SanjayDevTech](https://github.com/SanjayDevTech)
-
-
----
-
-### 📦 alexjlockwood/android-2048-compose
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-2048 implemented using Jetpack Compose
-**Language**: Kotlin
-**Stars**: 115 **Issues**: 1 **Forks**: 10
-[https://github.com/alexjlockwood/android-2048-compose](https://github.com/alexjlockwood/android-2048-compose)
-
-- 🐙 **Source Code:** [https://github.com/alexjlockwood/android-2048-compose](https://github.com/alexjlockwood/android-2048-compose)
-- 👤 **Developer:** [alexjlockwood](https://github.com/alexjlockwood)
-
-
----
-
-### 📦 saket/cascade
-
-> **Categories:** `#menu` `#popup`
-
-Nested popup menus with smooth height animations on Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/saket/cascade](https://github.com/saket/cascade)
-- 👤 **Developer:** [saket](https://github.com/saket)
-
-
----
-
-### 📦 skydoves/Bundler
-
-> **Categories:** `#activity` `#android` `#bundle` `#bundler` `#fragment` `#intent` `#kotlin` `#kotlin_extensions` `#skydoves`
-
-🎁 Android Intent & Bundle extensions that insert and retrieve values elegantly.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/Bundler](https://github.com/skydoves/Bundler)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 pyricau/androidsrc
-
-> **Categories:** `#android` `#source_code`
-
-Find Android sources
-**Language**: Ruby
-
-- 🐙 **Source Code:** [https://github.com/pyricau/androidsrc](https://github.com/pyricau/androidsrc)
-- 👤 **Developer:** [pyricau](https://github.com/pyricau)
-
-
----
-
-### 📦 2dust/AndroidLibXrayLite
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Go
-**Stars**: 109 **Issues**: 1 **Forks**: 2
-[https://github.com/2dust/AndroidLibXrayLite](https://github.com/2dust/AndroidLibXrayLite)
-
-- 🐙 **Source Code:** [https://github.com/2dust/AndroidLibXrayLite](https://github.com/2dust/AndroidLibXrayLite)
-- 👤 **Developer:** [2dust](https://github.com/2dust)
-
-
----
-
-### 📦 hluwa/strongR-frida-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An anti detection version frida-server for android.
-**Stars**: 82 **Issues**: 1 **Forks**: 15
-[https://github.com/hluwa/strongR-frida-android](https://github.com/hluwa/strongR-frida-android)
-
-- 🐙 **Source Code:** [https://github.com/hluwa/strongR-frida-android](https://github.com/hluwa/strongR-frida-android)
-- 👤 **Developer:** [hluwa](https://github.com/hluwa)
-
-
----
-
-### 📦 threema-ch/threema-android
-
-> **Categories:** `#android_app` `#messaging` `#mobile_app` `#secure_messenger`
-
-Threema App for Android.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/threema-ch/threema-android](https://github.com/threema-ch/threema-android)
-- 👤 **Developer:** [threema-ch](https://github.com/threema-ch)
-
-
----
-
-### 📦 PureWriter/FullDraggableDrawer
-
-> **Categories:** `#android` `#drawerlayout`
-
-Make Android DrawerLayout can be dragged out in real-time within the range of fullscreen
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/PureWriter/FullDraggableDrawer](https://github.com/PureWriter/FullDraggableDrawer)
-- 👤 **Developer:** [PureWriter](https://github.com/PureWriter)
-
-
----
-
-### 📦 nihui/opencv-mobile
-
-> **Categories:** `#android` `#ios` `#opencv`
-
-The minimal opencv for android and ios
-**Language**: CMake
-
-- 🐙 **Source Code:** [https://github.com/nihui/opencv-mobile](https://github.com/nihui/opencv-mobile)
-- 👤 **Developer:** [nihui](https://github.com/nihui)
-
-
----
-
-### 📦 OLayemii/flutter-ui-kits
-
-> **Categories:** `#android` `#flutter` `#ios` `#mobile` `#mobile_development` `#ui` `#uikit`
-
-- 🐙 **Source Code:** [https://github.com/OLayemii/flutter-ui-kits](https://github.com/OLayemii/flutter-ui-kits)
-- 👤 **Developer:** Olayemi Garuba
-
-
----
-
-### 📦 kdrag0n/safetynet-fix
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
-**Language**: Shell
-**Stars**: 130 **Issues**: 1 **Forks**: 5
-[https://github.com/kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
-
-- 🐙 **Source Code:** [https://github.com/kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
-- 👤 **Developer:** [kdrag0n](https://github.com/kdrag0n)
-
-
----
-
-### 📦 square/curtains
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Lift the curtain on Android Windows!
-**Language**: Kotlin
-**Stars**: 135 **Issues**: 0 **Forks**: 1
-[https://github.com/square/curtains](https://github.com/square/curtains)
-
-- 🐙 **Source Code:** [https://github.com/square/curtains](https://github.com/square/curtains)
-- 👤 **Developer:** [square](https://github.com/square)
-
-
----
-
-### 📦 Flutter Responsive Email Ui   Mobile Tablet And Web
-
-> **Categories:** `#android_application` `#flutter` `#ios` `#responsive_design`
-
-We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
-**Language**: Dart
-
-- 🐙 **Source Code:** [https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)
-- 👤 **Developer:** [abuanwar072](https://github.com/abuanwar072)
-
-
----
-
-### 📦 grishka/Houseclub
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A barebones unofficial Android app for Clubhouse
-**Language**: Java
-**Stars**: 542 **Issues**: 26 **Forks**: 63
-[https://github.com/grishka/Houseclub](https://github.com/grishka/Houseclub)
-
-- 🐙 **Source Code:** [https://github.com/grishka/Houseclub](https://github.com/grishka/Houseclub)
-- 👤 **Developer:** [grishka](https://github.com/grishka)
-
-
----
-
-### 📦 mrousavy/react-native-mmkv
-
-> **Categories:** `#android` `#cpp` `#ios` `#jni` `#jsi` `#mmkv` `#native_module` `#react` `#react_native` `#turbomodule`
-
-⚡️ An extremely fast key/value storage library for React Native. ~30x faster than AsyncStorage!
-**Language**: Objective-C++
-
-- 🐙 **Source Code:** [https://github.com/mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)
-- 👤 **Developer:** [mrousavy](https://github.com/mrousavy)
-
-
----
-
-### 📦 Tencent/loli_profiler
-
-> **Categories:** `#android` `#cpp` `#memory` `#profiler` `#qt5` `#unity3d` `#unreal_engine_4`
-
-Memory instrumentation tool for android app&game developers.
-**Language**: C
-
-- 🐙 **Source Code:** [https://github.com/Tencent/loli_profiler](https://github.com/Tencent/loli_profiler)
-- 👤 **Developer:** [Tencent](https://github.com/Tencent)
-
-
----
-
-### 📦 naman14/adb-tools-mac
-
-> **Categories:** `#android` `#swiftui`
-
-Mac menu bar app for common adb tools
-**Language**: Swift
-
-- 🐙 **Source Code:** [https://github.com/naman14/adb-tools-mac](https://github.com/naman14/adb-tools-mac)
-- 👤 **Developer:** [naman14](https://github.com/naman14)
-
-
----
-
-### 📦 androidmalware/android_hid
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Use Android as Rubber Ducky against another Android device
-**Language**: Shell
-**Stars**: 222 **Issues**: 1 **Forks**: 21
-[https://github.com/androidmalware/android_hid](https://github.com/androidmalware/android_hid)
-
-- 🐙 **Source Code:** [https://github.com/androidmalware/android_hid](https://github.com/androidmalware/android_hid)
-- 👤 **Developer:** [androidmalware](https://github.com/androidmalware)
-
-
----
-
-### 📦 LSPosed/AndroidHiddenApiBypass
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Java
-**Stars**: 102 **Issues**: 0 **Forks**: 8
-[https://github.com/LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
-
-- 🐙 **Source Code:** [https://github.com/LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
-- 👤 **Developer:** [LSPosed](https://github.com/LSPosed)
-
-
----
-
-### 📦 google/modernstorage
-
-> **Categories:** `#android` `#storage`
-
-ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/google/modernstorage](https://github.com/google/modernstorage)
-- 👤 **Developer:** [google](https://github.com/google)
-
-
----
-
-### 📦 Trendyol/mobile-app-automizer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-You can automize iOS and Android app's build, upload and versioning processes via Mobile App Automizer CLI tool.
-**Language**: JavaScript
-**Stars**: 346 **Issues**: 0 **Forks**: 12
-[https://github.com/Trendyol/mobile-app-automizer](https://github.com/Trendyol/mobile-app-automizer)
-
-- 🐙 **Source Code:** [https://github.com/Trendyol/mobile-app-automizer](https://github.com/Trendyol/mobile-app-automizer)
-- 👤 **Developer:** [Trendyol](https://github.com/Trendyol)
-
-
----
-
-### 📦 mbkore/lockup
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques.
-**Language**: Java
-**Stars**: 143 **Issues**: 0 **Forks**: 18
-[https://github.com/mbkore/lockup](https://github.com/mbkore/lockup)
-
-- 🐙 **Source Code:** [https://github.com/mbkore/lockup](https://github.com/mbkore/lockup)
-- 👤 **Developer:** [mbkore](https://github.com/mbkore)
-
-
----
-
-### 📦 CodingGay/BlackDex
-
-> **Categories:** `#android` `#shell` `#dump` `#unpack` `#blackbox` `#unpacker` `#dumpdex` `#blackdex`
-
-BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)
-- 👤 **Developer:** [CodingGay](https://github.com/CodingGay)
-
-
----
-
-### 📦 prafullmishra/JetComposer
-
-> **Categories:** `#android` `#kotlin` `#kotlin_android` `#jetpack` `#declarative_ui` `#android_ui` `#compose` `#jetpack_compose`
-
-Collection of UIs and Animations built with Jetpack Compose for Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)
-- 👤 **Developer:** [prafullmishra](https://github.com/prafullmishra)
-
-
----
-
-### 📦 mouredev/Twitimer-Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-App Android correspondiente al proyecto twitimer.com de la comunidad MoureDev
-**Language**: Kotlin
-**Stars**: 128 **Issues**: 2 **Forks**: 13
-[https://github.com/mouredev/Twitimer-Android](https://github.com/mouredev/Twitimer-Android)
-
-- 🐙 **Source Code:** [https://github.com/mouredev/Twitimer-Android](https://github.com/mouredev/Twitimer-Android)
-- 👤 **Developer:** [mouredev](https://github.com/mouredev)
-
-
----
-
-### 📦 TangStudio/PathView
-
-> **Categories:** `#android` `#kotlin` `#training` `#playground` `#animation` `#stopwatch` `#sport` `#wearable_devices` `#pathview`
-
-Simulate the running route of each player on the playground, and can be timed with a stopwatch
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/TangStudio/PathView](https://github.com/TangStudio/PathView)
-- 👤 **Developer:** [TangStudio](https://github.com/TangStudio)
-
-
----
-
-### 📦 bytedance/bhook
-
-> **Categories:** `#android` `#hook` `#native` `#got` `#plt` `#plthook` `#gothook`
-
-🔥 bhook is a PLT hook framework for Android app.
-**Language**: C
-
-- 🐙 **Source Code:** [https://github.com/bytedance/bhook](https://github.com/bytedance/bhook)
-- 👤 **Developer:** [bytedance](https://github.com/bytedance)
-
-
----
-
-### 📦 deapplization/awesome-switching
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-switching from the *pple ecosystem to Windows / Linux / Android or BSD
-**Stars**: 121 **Issues**: 2 **Forks**: 7
-[https://github.com/deapplization/awesome-switching](https://github.com/deapplization/awesome-switching)
-
-- 🐙 **Source Code:** [https://github.com/deapplization/awesome-switching](https://github.com/deapplization/awesome-switching)
-- 👤 **Developer:** [deapplization](https://github.com/deapplization)
-
-
----
-
-### 📦 skydoves/MovieCompose
-
-> **Categories:** `#android` `#compose` `#coroutines` `#flow` `#hilt` `#hilt_android` `#jetpack_compose` `#kotlin` `#skydoves`
-
-🎞 A demo movie app using Jetpack Compose and Hilt based on modern Android tech stacks.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/MovieCompose](https://github.com/skydoves/MovieCompose)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 mrousavy/Colorwaver
-
-> **Categories:** `#android` `#app` `#camera` `#color` `#colors` `#ios` `#palette` `#react` `#react_native` `#visioncamera`
-
-An app to detect color palettes in the real world - powered by VisionCamera
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/mrousavy/Colorwaver](https://github.com/mrousavy/Colorwaver)
-- 👤 **Developer:** [mrousavy](https://github.com/mrousavy)
-
-
----
-
-### 📦 mmazzarolo/react-native-universal-monorepo
-
-> **Categories:** `#android` `#electron` `#ios` `#macos` `#react` `#react_native` `#react_native_web` `#windows`
-
-React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo)
-- 👤 **Developer:** [mmazzarolo](https://github.com/mmazzarolo)
-
-
----
-
-### 📦 square/logcat
-
-> **Categories:** `#android` `#cats` `#logging`
-
-I CAN HAZ LOGZ?
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/square/logcat](https://github.com/square/logcat)
-- 👤 **Developer:** [square](https://github.com/square)
-
-
----
-
-### 📦 ron2111/Hacktoberfest2021_awesome-projects
-
-> **Categories:** `#android` `#appdevelopment` `#first_timers` `#hacktoberfest` `#hacktoberfest2021` `#java` `#javascipt` `#javascript` `#mern_stack` `#python` `#webdevelopment`
-
-This is a beginner-friendly repo for everyone participating in Hacktoberfest2021. Raise genuine PRs and they will be merged quickly!
-**Language**: Jupyter Notebook
-
-- 🐙 **Source Code:** [https://github.com/ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-- 👤 **Developer:** [ron2111](https://github.com/ron2111)
-
-
----
-
-### 📦 0x192/universal-android-debloater
-
-> **Categories:** `#android` `#debloat` `#privacy` `#GitHub` `#OpenSource` `#rust` `#adb` `#Interesting` `#Useful`
-
-Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-- 👤 **Developer:** [0x192](https://github.com/0x192)
-
-
----
-
-### 📦 Paving-Base/APK-Installer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An Android Application Installer for Windows
-**Language**: C#
-**Stars**: 161 **Issues**: 13 **Forks**: 5
-[https://github.com/Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)
-
-- 🐙 **Source Code:** [https://github.com/Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)
-- 👤 **Developer:** [Paving-Base](https://github.com/Paving-Base)
-
-
----
-
-### 📦 LSPosed/MagiskOnWSA
-
-> **Categories:** `#wsa`
-
-Integrate Magisk root and OpenGApps into WSA (Windows Subsystem for Android)
-
-- 🐙 **Source Code:** [https://github.com/LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
-- 👤 **Developer:** [LSPosed](https://github.com/LSPosed)
-
-
----
-
-### 📦 thelumiereguy/ShaderShowcaseApp
-
-> **Categories:** `#android` `#android_application` `#androidx` `#jetpack_android` `#jetpack_compose` `#jetpack_palette` `#kotlin` `#kotlin_android` `#opengl` `#opengl_es`
-
-A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragment shaders I have ever written, where you can set them as Live Wallpaper.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/thelumiereguy/ShaderShowcaseApp](https://github.com/thelumiereguy/ShaderShowcaseApp)
-- 👤 **Developer:** [thelumiereguy](https://github.com/thelumiereguy)
-
-
----
-
-### 📦 PatilShreyas/Capturable
-
-> **Categories:** `#android` `#android_app` `#bitmap` `#composable` `#image` `#jetpack_android` `#jetpack_compose` `#kotlin` `#photos` `#screenshot`
-
-🚀Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image🖼️
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/PatilShreyas/Capturable](https://github.com/PatilShreyas/Capturable)
-- 👤 **Developer:** [PatilShreyas](https://github.com/PatilShreyas)
-
-
----
-
-### 📦 jonathandata1/2022_beijing
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Decompiled 2022 Beijing iOS & Android Apps
-**Language**: HTML
-**Stars**: 176 **Issues**: 2 **Forks**: 15
-[https://github.com/jonathandata1/2022_beijing](https://github.com/jonathandata1/2022_beijing)
-
-- 🐙 **Source Code:** [https://github.com/jonathandata1/2022_beijing](https://github.com/jonathandata1/2022_beijing)
-- 👤 **Developer:** [jonathandata1](https://github.com/jonathandata1)
-
-
----
-
-### 📦 GetStream/butterfly
-
-> **Categories:** `#android` `#dual_screen` `#foldable` `#foldable_devices` `#jetpack` `#jetpack_compose` `#windowmanager`
-
-🦋  Butterfly helps you to build adaptive and responsive UIs for Android with Jetpack WindowManager.
+🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.
 **Language**: Kotlin
 
-- 🐙 **Source Code:** [https://github.com/GetStream/butterfly](https://github.com/GetStream/butterfly)
+- 🐙 **Source Code:** [https://github.com/GetStream/sketchbook-compose](https://github.com/GetStream/sketchbook-compose)
 - 👤 **Developer:** [GetStream](https://github.com/GetStream)
 
 
 ---
 
-### 📦 abuanwar072/Flutter-Shop-UI-Kit
+### 📦 saikou-app/saikou
 
-> **Categories:** `#android` `#app` `#ecommerce` `#flutter` `#ios` `#shop`
+> **Categories:** `#9anime` `#android` `#anilist` `#anime` `#gogoanime` `#kotlin` `#manga` `#scraper`
 
-If you are planning to create an e-commerce app using Flutter then this Shop UI Kit would be the perfect choice for you to make a gorgeous app for both Android & iOS.
-**Language**: Dart
+An anilist only client, which lets you stream & download Anime & Manga.
+**Language**: Kotlin
 
-- 🐙 **Source Code:** [https://github.com/abuanwar072/Flutter-Shop-UI-Kit](https://github.com/abuanwar072/Flutter-Shop-UI-Kit)
-- 👤 **Developer:** [abuanwar072](https://github.com/abuanwar072)
+- 🐙 **Source Code:** [https://github.com/saikou-app/saikou](https://github.com/saikou-app/saikou)
+- 👤 **Developer:** [saikou-app](https://github.com/saikou-app)
+
+
+---
+
+### 📦 antonshilov/ComposeAnimations
+
+> **Categories:** `#android` `#jetpack_compose` `#kotlin`
+
+Collection of nice animations created with Jetpack Compose
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/antonshilov/ComposeAnimations](https://github.com/antonshilov/ComposeAnimations)
+- 👤 **Developer:** [antonshilov](https://github.com/antonshilov)
+
+
+---
+
+### 📦 bytedance/android-inline-hook
+
+> **Categories:** `#android` `#androidinlinehook` `#arm` `#arm64` `#hook` `#inline` `#inlinehook` `#thumb`
+
+An inline hook library for Android apps.
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)
+- 👤 **Developer:** [bytedance](https://github.com/bytedance)
+
+
+---
+
+### 📦 googlemaps/android-maps-compose
+
+> **Categories:** `#android` `#jetpack_compose` `#kotlin`
+
+Jetpack Compose components for the Maps SDK for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose)
+- 👤 **Developer:** [googlemaps](https://github.com/googlemaps)
 
 
 ---
@@ -27076,2625 +28452,131 @@ Android ROM device support and bringup tool, designed for maximum automation and
 
 ---
 
-### 📦 googlemaps/android-maps-compose
+### 📦 abuanwar072/Flutter-Shop-UI-Kit
 
-> **Categories:** `#android` `#jetpack_compose` `#kotlin`
+> **Categories:** `#android` `#app` `#ecommerce` `#flutter` `#ios` `#shop`
 
-Jetpack Compose components for the Maps SDK for Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose)
-- 👤 **Developer:** [googlemaps](https://github.com/googlemaps)
-
-
----
-
-### 📦 bytedance/android-inline-hook
-
-> **Categories:** `#android` `#androidinlinehook` `#arm` `#arm64` `#hook` `#inline` `#inlinehook` `#thumb`
-
-An inline hook library for Android apps.
-**Language**: C
-
-- 🐙 **Source Code:** [https://github.com/bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)
-- 👤 **Developer:** [bytedance](https://github.com/bytedance)
-
-
----
-
-### 📦 antonshilov/ComposeAnimations
-
-> **Categories:** `#android` `#jetpack_compose` `#kotlin`
-
-Collection of nice animations created with Jetpack Compose
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/antonshilov/ComposeAnimations](https://github.com/antonshilov/ComposeAnimations)
-- 👤 **Developer:** [antonshilov](https://github.com/antonshilov)
-
-
----
-
-### 📦 saikou-app/saikou
-
-> **Categories:** `#9anime` `#android` `#anilist` `#anime` `#gogoanime` `#kotlin` `#manga` `#scraper`
-
-An anilist only client, which lets you stream & download Anime & Manga.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/saikou-app/saikou](https://github.com/saikou-app/saikou)
-- 👤 **Developer:** [saikou-app](https://github.com/saikou-app)
-
-
----
-
-### 📦 GetStream/sketchbook-compose
-
-> **Categories:** `#android` `#canvas` `#getstream` `#jetpack_compose` `#sketchbook`
-
-🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/GetStream/sketchbook-compose](https://github.com/GetStream/sketchbook-compose)
-- 👤 **Developer:** [GetStream](https://github.com/GetStream)
-
-
----
-
-### 📦 saket/swipe
-
-> **Categories:** `#android` `#compose` `#gestures`
-
-Swipe gesture actions for Compose UI
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/saket/swipe](https://github.com/saket/swipe)
-- 👤 **Developer:** [saket](https://github.com/saket)
-
-
----
-
-### 📦 polygraphene/DirtyPipe-Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Dirty Pipe root exploit for Android (Pixel 6)
-**Language**: C
-**Stars**: 138 **Issues**: 3 **Forks**: 36
-[https://github.com/polygraphene/DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android)
-
-- 🐙 **Source Code:** [https://github.com/polygraphene/DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android)
-- 👤 **Developer:** [polygraphene](https://github.com/polygraphene)
-
-
----
-
-### 📦 GetStream/stream-draw-android
-
-> **Categories:** `#android` `#architecture` `#coroutines` `#drawing` `#hilt` `#jetpack_compose` `#kotlin` `#network` `#okhttp` `#real_time` `#retrofit` `#stream_chat` `#stream_draw`
-
-🛥 Stream Draw is a real-time multiplayer drawing & chat game app built entirely with Jetpack Compose.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/GetStream/stream-draw-android](https://github.com/GetStream/stream-draw-android)
-- 👤 **Developer:** [GetStream](https://github.com/GetStream)
-
-
----
-
-### 📦 slackhq/slack-gradle-plugin
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-The core Gradle plugin and associated logic used for Slack's Android app
-**Language**: Kotlin
-**Stars**: 131 **Issues**: 2 **Forks**: 1
-[https://github.com/slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-- 🐙 **Source Code:** [https://github.com/slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-- 👤 **Developer:** [slackhq](https://github.com/slackhq)
-
-
----
-
-### 📦 AndroidPoet/Dropdown
-
-> **Categories:** `#android` `#androidpoet` `#dropdown` `#jetpack_compose` `#kotlin` `#material_design` `#material_ui` `#menubar`
-
-💧 A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/AndroidPoet/Dropdown](https://github.com/AndroidPoet/Dropdown)
-- 👤 **Developer:** [AndroidPoet](https://github.com/AndroidPoet)
-
-
----
-
-### 📦 vfsfitvnm/ViMusic
-
-> **Categories:** `#android` `#jetpack_compose` `#music_player` `#youtube` `#kotlin` `#music`
-
-A Jetpack Compose Android application for streaming music from YouTube Music.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)
-- 👤 **Developer:** [vfsfitvnm](https://github.com/vfsfitvnm)
-
-
----
-
-### 📦 tiann/eadb
-
-> **Categories:** `#android` `#ebfp`
-
-eBPF Android Debug Bridge
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/tiann/eadb](https://github.com/tiann/eadb)
-- 👤 **Developer:** [tiann](https://github.com/tiann)
-
-
----
-
-### 📦 danielroe/nuxt-ionic
-
-> **Categories:** `#android` `#ionic` `#ios` `#mobile` `#nuxt` `#nuxt_module`
-
-Batteries-included, zero-config Ionic integration for Nuxt
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/danielroe/nuxt-ionic](https://github.com/danielroe/nuxt-ionic)
-- 👤 **Developer:** [danielroe](https://github.com/danielroe)
-
-
----
-
-### 📦 emredavut/Chrome-Android-and-Windows-0day-RCE-SBX
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Chrome Android and Windows 0day RCE+SBX.. DPRK
-**Language**: JavaScript
-**Stars**: 108 **Issues**: 0 **Forks**: 30
-[https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
-
-- 🐙 **Source Code:** [https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
-- 👤 **Developer:** [emredavut](https://github.com/emredavut)
-
-
----
-
-### 📦 skydoves/Orbitary
-
-> **Categories:** `#android` `#animation` `#jetpack_compose` `#sharedelementtransitions` `#skydoves`
-
-🪐 Jetpack Compose animation library that allows you to implement animations such as shared element transition.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/Orbitary](https://github.com/skydoves/Orbitary)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 skydoves/retrofit-adapters
-
-> **Categories:** `#android` `#arrow_kt` `#coroutines` `#either` `#jetpack` `#kotlin` `#kotlin_result` `#network` `#paging3` `#retrofit` `#retrofit2`
-
-🚆 Retrofit adapters for modeling network responses with Kotlin Result, Jetpack Paging3, and Arrow Either.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/retrofit-adapters](https://github.com/skydoves/retrofit-adapters)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 GetStream/whatsApp-clone-compose
-
-> **Categories:** `#android` `#architecture` `#architecture_components` `#coroutines` `#jetpack` `#jetpack_compose` `#kotlin` `#mvi` `#navigation` `#whatsapp`
-
-📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose)
-- 👤 **Developer:** [GetStream](https://github.com/GetStream)
-
-
----
-
-### 📦 skydoves/sealedx
-
-> **Categories:** `#android` `#extensive` `#kotlin_symbol_processing` `#ksp` `#sealed_class` `#selaed_interface` `#skydoves`
-
-🎲 Kotlin Symbol Processor to auto-generate extensive sealed classes and interfaces for Android and Kotlin.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/sealedx](https://github.com/skydoves/sealedx)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 jfversluis/learn-dotnet-maui
-
-> **Categories:** `#cross_platform` `#dotnet_for_android` `#dotnet_for_ios` `#dotnet_maui` `#maui` `#multi_platform_app_ui` `#xamarin` `#xamarin_forms`
-
-A repository filled with resources available to you to start learning or deepen your knowledge about .NET MAUI
-
-- 🐙 **Source Code:** [https://github.com/jfversluis/learn-dotnet-maui](https://github.com/jfversluis/learn-dotnet-maui)
-- 👤 **Developer:** [jfversluis](https://github.com/jfversluis)
-
-
----
-
-### 📦 android/architecture-templates
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Stars**: 149 **Issues**: 7 **Forks**: 5
-[https://github.com/android/architecture-templates](https://github.com/android/architecture-templates)
-
-- 🐙 **Source Code:** [https://github.com/android/architecture-templates](https://github.com/android/architecture-templates)
-- 👤 **Developer:** [android](https://github.com/android)
-
-
----
-
-### 📦 anujd64/Thunder
-
-> **Categories:** `#android` `#drive` `#googledriveindex` `#java`
-
-An Android app to stream and download your media stored in Google Drive in an Awesome way !!
-**Language**: Java
-
-- 🐙 **Source Code:** [https://github.com/anujd64/Thunder](https://github.com/anujd64/Thunder)
-- 👤 **Developer:** [anujd64](https://github.com/anujd64)
-
-
----
-
-### 📦 parvardegr/sharing
-
-> **Categories:** `#android` `#browser` `#command_line_tool` `#filesharing` `#filesharing_on_network` `#filetransfer` `#ios` `#linux` `#nodejs` `#qrcode` `#serving_directory` `#GitHub` `#OpenSource`
-
-Sharing is a command-line tool to share directory and files with ios and android devices without an extra client app
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/parvardegr/sharing](https://github.com/parvardegr/sharing)
-- 👤 **Developer:** [parvardegr](https://github.com/parvardegr)
-
-
----
-
-### 📦 OpenNative/open-native
-
-> **Categories:** `#android` `#ios` `#java` `#kotlin` `#nativescript` `#objective_c` `#react_native` `#swift`
-
-Open Native brings cross-platform communities together to help them collaborate and strengthen diversity.
-**Language**: Objective-C
-
-- 🐙 **Source Code:** [https://github.com/OpenNative/open-native](https://github.com/OpenNative/open-native)
-- 👤 **Developer:** [OpenNative](https://github.com/OpenNative)
-
-
----
-
-### 📦 AndroidDev-social/MastodonCompose
-
-> **Categories:** `#compose_desktop` `#jetpack` `#kotlin_multiplatform` `#mastodon` `#mastodon_app` `#mastodon_client`
-
-🐘 Mastodon client for Android, iOS and Desktop (JVM)
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/AndroidDev-social/MastodonCompose](https://github.com/AndroidDev-social/MastodonCompose)
-- 👤 **Developer:** [AndroidDev-social](https://github.com/AndroidDev-social)
-
-
----
-
-### 📦 skydoves/Cloudy
-
-> **Categories:** `#android` `#blur` `#blur_image` `#jetpack_compose` `#skydoves`
-
-☁️ Jetpack Compose blur effect library, which supports all Android versions.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/Cloudy](https://github.com/skydoves/Cloudy)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 tiann/KernelSU
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A Kernel based root solution for Android GKI
-**Language**: Kotlin
-**Stars**: 263 **Issues**: 1 **Forks**: 26
-[https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-- 🐙 **Source Code:** [https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
-- 👤 **Developer:** [tiann](https://github.com/tiann)
-
-
----
-
-### 📦 google/comprehensive-rust
-
-> **Categories:** `#GitHub` `#OpenSource` `#rust` `#android` `#classroom` `#course` `#google` `#guide` `#training` `#training_materials`
-
-**Language**: Rust
-**Stars**: 299 **Issues**: 15 **Forks**: 20
-[https://github.com/google/comprehensive-rust](https://github.com/google/comprehensive-rust)
-
-- 🐙 **Source Code:** [https://github.com/google/comprehensive-rust](https://github.com/google/comprehensive-rust)
-- 👤 **Developer:** [google](https://github.com/google)
-
-
----
-
-### 📦 GetStream/webrtc-in-jetpack-compose
-
-> **Categories:** `#android` `#audiocall` `#compose` `#jetpack` `#jetpack_compose` `#videocall` `#videocalling` `#webrtc`
-
-📱 This project demonstrates WebRTC protocol to facilitate real-time video communications with Jetpack Compose.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/GetStream/webrtc-in-jetpack-compose](https://github.com/GetStream/webrtc-in-jetpack-compose)
-- 👤 **Developer:** [GetStream](https://github.com/GetStream)
-
-
----
-
-### 📦 Vita3K/Vita3K-Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Public releases and CI for the Vita3K Android app
-**Stars**: 326 **Issues**: 197 **Forks**: 6
-[https://github.com/Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android)
-
-- 🐙 **Source Code:** [https://github.com/Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android)
-- 👤 **Developer:** [Vita3K](https://github.com/Vita3K)
-
-
----
-
-### 📦 strato-emu/strato
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Run Nintendo Switch homebrew & games on your Android device!
-**Language**: C++
-**Stars**: 269 **Issues**: 11 **Forks**: 14
-[https://github.com/strato-emu/strato](https://github.com/strato-emu/strato)
-
-- 🐙 **Source Code:** [https://github.com/strato-emu/strato](https://github.com/strato-emu/strato)
-- 👤 **Developer:** [strato-emu](https://github.com/strato-emu)
-
-
----
-
-### 📦 SimonHalvdansson/Harmonic-HN
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An Android client for Hacker News
-**Language**: Java
-**Stars**: 215 **Issues**: 3 **Forks**: 5
-[https://github.com/SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN)
-
-- 🐙 **Source Code:** [https://github.com/SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN)
-- 👤 **Developer:** [SimonHalvdansson](https://github.com/SimonHalvdansson)
-
-
----
-
-### 📦 romainguy/kotlin-explorer
-
-> **Categories:** `#android` `#bytecode` `#dex` `#kotlin`
-
-Desktop tool to quickly explore disassembled Kotlin code.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/romainguy/kotlin-explorer](https://github.com/romainguy/kotlin-explorer)
-- 👤 **Developer:** [romainguy](https://github.com/romainguy)
-
-
----
-
-### 📦 skydoves/snitcher
-
-> **Categories:** `#android` `#compose` `#exceptions` `#exceptions_handling` `#jetpack_compose` `#kotlin` `#library` `#skydoves` `#throwable`
-
-🦉 Snitcher captures global crashes, enabling easy redirection to the exception tracing screen for swift recovery.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/snitcher](https://github.com/skydoves/snitcher)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 actuator/Android-Security-Exploits-YouTube-Curriculum
-
-> **Categories:** `#android` `#blackhat` `#defcon` `#exploit` `#hacking` `#nullcon` `#reverse_engineering` `#security` `#shmoocon` `#strange_loop_conference` `#troopers24`
-
-🔓A curated list of modern Android exploitation conference talks.
-
-- 🐙 **Source Code:** [https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum](https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum)
-- 👤 **Developer:** [actuator](https://github.com/actuator)
-
-
----
-
-### 📦 MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass
-
-> **Categories:** `#android` `#android_development` `#bootloader` `#bootloader_unlock` `#hyperos` `#miui` `#xiaomi`
-
-A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
-**Language**: PHP
-
-- 🐙 **Source Code:** [https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
-- 👤 **Developer:** [MlgmXyysd](https://github.com/MlgmXyysd)
-
-
----
-
-### 📦 skydoves/FlexibleBottomSheet
-
-> **Categories:** `#android` `#animation` `#bottomsheet` `#jetpack_compose` `#modal` `#modal_bottom_sheets` `#skydoves` `#GitHub` `#OpenSource`
-
-🐬 Advanced Jetpack Compose bottom sheet for segmented sizing and non-modal type, similar to Google Maps.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 mnotgod96/AppAgent
-
-> **Categories:** `#GitHub` `#OpenSource` `#LLM` `#Android` `#Useful`
-
-A novel LLM-based multimodal agent framework designed to operate smartphone applications
-**Language**: Python
-**Stars**: 395 **Issues**: 3 **Forks**: 43
-[https://github.com/mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)
-
-- 🐙 **Source Code:** [https://github.com/mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent)
-- 👤 **Developer:** [mnotgod96](https://github.com/mnotgod96)
-
-
----
-
-### 📦 anisurrahman072/React-Native-Advanced-Guide
-
-> **Categories:** `#advanced_programming` `#performance_optimization` `#react_native`
-
-React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥
-
-- 🐙 **Source Code:** [https://github.com/anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
-- 👤 **Developer:** [anisurrahman072](https://github.com/anisurrahman072)
-
-
----
-
-### 📦 tachiyomiorg/extensions
-
-> **Categories:** `#android` `#kotlin` `#manga` `#self_hosted`
-
-Source extensions for the Tachiyomi app.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions)
-- 👤 **Developer:** [tachiyomiorg](https://github.com/tachiyomiorg)
-
-
----
-
-### 📦 X-PLUG/MobileAgent
-
-> **Categories:** `#agent` `#gpt4v` `#mllm` `#mobile_agents` `#multimodal` `#multimodal_large_language_models` `#readme` `#android` `#app` `#gui` `#automation` `#mobile` `#copilot` `#multimodal_agent` `#python` `#GitHub` `#OpenSource`
-
-Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
-- 👤 **Developer:** [X-PLUG](https://github.com/X-PLUG)
-
-
----
-
-### 📦 diia-open-source/android-diia
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Kotlin
-**Stars**: 366 **Issues**: 22 **Forks**: 45
-[https://github.com/diia-open-source/android-diia](https://github.com/diia-open-source/android-diia)
-
-- 🐙 **Source Code:** [https://github.com/diia-open-source/android-diia](https://github.com/diia-open-source/android-diia)
-- 👤 **Developer:** [diia-open-source](https://github.com/diia-open-source)
-
-
----
-
-### 📦 suyu-emu/suyu
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Useful`
-
-suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android.
-**Language**: C++
-**Stars**: 626 **Issues**: 0 **Forks**: 53
-[https://github.com/suyu-emu/suyu](https://github.com/suyu-emu/suyu)
-
-- 🐙 **Source Code:** [https://github.com/suyu-emu/suyu](https://github.com/suyu-emu/suyu)
-- 👤 **Developer:** [suyu-emu](https://github.com/suyu-emu)
-
-
----
-
-### 📦 jinweijie/notify-me
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An Android application that forwards Bark notifications upon receiving SMS messages or phone calls.
-**Language**: Kotlin
-**Stars**: 147 **Issues**: 0 **Forks**: 16
-[https://github.com/jinweijie/notify-me](https://github.com/jinweijie/notify-me)
-
-- 🐙 **Source Code:** [https://github.com/jinweijie/notify-me](https://github.com/jinweijie/notify-me)
-- 👤 **Developer:** [jinweijie](https://github.com/jinweijie)
-
-
----
-
-### 📦 skydoves/kmp-developer-roadmap
-
-> **Categories:** `#android` `#ios` `#kmp` `#kotlin` `#kotlin_multiplatform` `#roadmap` `#skydoves`
-
-🗺 The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap)
-- 👤 **Developer:** roadmap
-
-
----
-
-### 📦 aniruddha-adhikary/mrt-buddy
-
-> **Categories:** `#android` `#felica` `#felica_card` `#nfc`
-
-Check the Balance of your Dhaka MRT Pass or Rapid Pass
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/aniruddha-adhikary/mrt-buddy](https://github.com/aniruddha-adhikary/mrt-buddy)
-- 👤 **Developer:** [aniruddha-adhikary](https://github.com/aniruddha-adhikary)
-
-
----
-
-### 📦 LYiHub/privacy-radar-public
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Source code for the privacy radar app (android/ohos)
-**Language**: Kotlin
-**Stars**: 116 **Issues**: 6 **Forks**: 16
-[https://github.com/LYiHub/privacy-radar-public](https://github.com/LYiHub/privacy-radar-public)
-
-- 🐙 **Source Code:** [https://github.com/LYiHub/privacy-radar-public](https://github.com/LYiHub/privacy-radar-public)
-- 👤 **Developer:** [LYiHub](https://github.com/LYiHub)
-
-
----
-
-### 📦 rifsxd/KernelSU-Next
-
-> **Categories:** `#android` `#kernel` `#kernelsu` `#kernelsu_next` `#next` `#root` `#su` `#superuser`
-
-A Kernel based root solution for Android
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next)
-- 👤 **Developer:** [rifsxd](https://github.com/rifsxd)
-
-
----
-
-### 📦 xajik/thedeck
-
-> **Categories:** `#android` `#dart` `#flutter` `#game` `#gamedev` `#gamedevelopment` `#ios` `#mobile` `#socket_io` `#GitHub` `#OpenSource`
-
-The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
+If you are planning to create an e-commerce app using Flutter then this Shop UI Kit would be the perfect choice for you to make a gorgeous app for both Android & iOS.
 **Language**: Dart
 
-- 🐙 **Source Code:** [https://github.com/xajik/thedeck](https://github.com/xajik/thedeck)
-- 👤 **Developer:** [xajik](https://github.com/xajik)
+- 🐙 **Source Code:** [https://github.com/abuanwar072/Flutter-Shop-UI-Kit](https://github.com/abuanwar072/Flutter-Shop-UI-Kit)
+- 👤 **Developer:** [abuanwar072](https://github.com/abuanwar072)
 
 
 ---
 
-### 📦 DHrpcs3/rpcs3-android
+### 📦 GetStream/butterfly
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#android` `#dual_screen` `#foldable` `#foldable_devices` `#jetpack` `#jetpack_compose` `#windowmanager`
 
-**Language**: C++
-**Stars**: 352 **Issues**: 25 **Forks**: 18
-[https://github.com/DHrpcs3/rpcs3-android](https://github.com/DHrpcs3/rpcs3-android)
-
-- 🐙 **Source Code:** [https://github.com/DHrpcs3/rpcs3-android](https://github.com/DHrpcs3/rpcs3-android)
-- 👤 **Developer:** [DHrpcs3](https://github.com/DHrpcs3)
-
-
----
-
-### 📦 micahflee/TM-SGNL-Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Unofficial and insecure Signal app, used by senior Trump officials like Mike Waltz, downloaded from the official TeleMessage website
-**Language**: Java
-**Stars**: 149 **Issues**: 2 **Forks**: 42
-[https://github.com/micahflee/TM-SGNL-Android](https://github.com/micahflee/TM-SGNL-Android)
-
-- 🐙 **Source Code:** [https://github.com/micahflee/TM-SGNL-Android](https://github.com/micahflee/TM-SGNL-Android)
-- 👤 **Developer:** [micahflee](https://github.com/micahflee)
-
-
----
-
-### 📦 callebtc/bitchat-android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-bluetooth mesh chat, IRC vibes
-**Language**: Kotlin
-**Stars**: 292 **Issues**: 2 **Forks**: 32
-[https://github.com/callebtc/bitchat-android](https://github.com/callebtc/bitchat-android)
-
-- 🐙 **Source Code:** [https://github.com/callebtc/bitchat-android](https://github.com/callebtc/bitchat-android)
-- 👤 **Developer:** [callebtc](https://github.com/callebtc)
-
-
----
-
-### 📦 minitap-ai/mobile-use
-
-> **Categories:** `#agents` `#ai` `#browser_use` `#langgraph` `#mobile` `#mobile_use` `#python` `#GitHub` `#OpenSource`
-
-AI agents can now use real Android and iOS apps, just like a human.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
-- 👤 **Developer:** [minitap-ai](https://github.com/minitap-ai)
-
-
----
-
-### 📦 borndotcom/react-native-godot
-
-> **Categories:** `#android` `#godot` `#godot_engine` `#ios` `#react_native`
-
-React Native Godot - Embed Godot Engine in React Native apps
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)
-- 👤 **Developer:** [borndotcom](https://github.com/borndotcom)
-
-
----
-
-### 📦 skydoves/compose-stability-analyzer
-
-> **Categories:** `#android` `#compose` `#intellij_plugin` `#jetpack_compose` `#kotlin_compiler_plugin` `#skydoves` `#stability` `#GitHub` `#OpenSource`
-
-🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
+🦋  Butterfly helps you to build adaptive and responsive UIs for Android with Jetpack WindowManager.
 **Language**: Kotlin
 
-- 🐙 **Source Code:** [https://github.com/skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+- 🐙 **Source Code:** [https://github.com/GetStream/butterfly](https://github.com/GetStream/butterfly)
+- 👤 **Developer:** [GetStream](https://github.com/GetStream)
 
 
 ---
 
-### 📦 Snapchat/Valdi
-
-> **Categories:** `#android` `#cross_platform` `#ios` `#typescript`
-
-Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-**Language**: C++
-
-- 🐙 **Source Code:** [https://github.com/Snapchat/Valdi](https://github.com/Snapchat/Valdi)
-- 👤 **Developer:** [Snapchat](https://github.com/Snapchat)
-
-
----
-
-### 📦 actionstatelabs/android-action-kernel
+### 📦 jonathandata1/2022_beijing
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-**Language**: Python
-**Stars**: 487 **Issues**: 1 **Forks**: 51
-[https://github.com/actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)
+Decompiled 2022 Beijing iOS & Android Apps
+**Language**: HTML
+**Stars**: 176 **Issues**: 2 **Forks**: 15
+[https://github.com/jonathandata1/2022_beijing](https://github.com/jonathandata1/2022_beijing)
 
-- 🐙 **Source Code:** [https://github.com/actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)
-- 👤 **Developer:** [actionstatelabs](https://github.com/actionstatelabs)
+- 🐙 **Source Code:** [https://github.com/jonathandata1/2022_beijing](https://github.com/jonathandata1/2022_beijing)
+- 👤 **Developer:** [jonathandata1](https://github.com/jonathandata1)
 
 
 ---
 
-### 📦 Turbo1123/roubao
+### 📦 Wordex Mobile App
 
-> **Categories:** `#ai` `#ai_agents` `#android` `#android_automation` `#kotlin` `#mobile_agents` `#mobileagent` `#phone_automation`
+> **Categories:** `#JavaScript` `#Interesting`
 
-Android Automation Tool Based on Vision-Language Models
+Unfortunately only on Android
+
+[GitHub](https://t.me/github_community) | #JavaScript #Interesting
+
+- 🐙 **Source Code:** [https://github.com/danmoop/Wordex-mobile-app](https://github.com/danmoop/Wordex-mobile-app)
+- 👤 **Developer:** [danmoop](https://github.com/danmoop)
+
+
+---
+
+### 📦 We create a virus for Android/Windows/Linux
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Hello everyone.
+Well Z Virus is a collection of ready made viruses. This software is capable of generating viruses for all operating systems, and all you need to do is send a link to your victim and force them to download the virus.
+
+Installation:
+▪️git clone https://github.com/ZechBron/zVirus-Gen.git
+▪️cd zVirus-Gen
+chmod +x setup.sh
+▪️./setup.sh
+
+Usage:
+▪️bash zVirus - program launch
+
+All information is provided for informational purposes only. We are not responsible for your actions.
+
+- 🐙 **Source Code:** [https://github.com/ZechBron/zVirus-Gen](https://github.com/ZechBron/zVirus-Gen)
+- 👤 **Developer:** [ZechBron](https://github.com/ZechBron)
+
+
+---
+
+### 📦 Script for sms attacks
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+MySMS v1.0 is a script that generates an Android application with the functionality of SMS attacks over WAN. For Kali Linux users.
+https://github.com/papusingh2sms/mysms
+
+- 🐙 **Source Code:** [https://github.com/papusingh2sms/mysms](https://github.com/papusingh2sms/mysms)
+- 👤 **Developer:** [papusingh2sms](https://github.com/papusingh2sms)
+
+
+---
+
+### 📦 PatilShreyas/Capturable
+
+> **Categories:** `#android` `#android_app` `#bitmap` `#composable` `#image` `#jetpack_android` `#jetpack_compose` `#kotlin` `#photos` `#screenshot`
+
+🚀Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image🖼️
 **Language**: Kotlin
 
-- 🐙 **Source Code:** [https://github.com/Turbo1123/roubao](https://github.com/Turbo1123/roubao)
-- 👤 **Developer:** [Turbo1123](https://github.com/Turbo1123)
+- 🐙 **Source Code:** [https://github.com/PatilShreyas/Capturable](https://github.com/PatilShreyas/Capturable)
+- 👤 **Developer:** [PatilShreyas](https://github.com/PatilShreyas)
 
 
 ---
 
-### 📦 sogonov/anubis
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.
-**Language**: Kotlin
-**Stars**: 645 **Issues**: 32 **Forks**: 18
-[https://github.com/sogonov/anubis](https://github.com/sogonov/anubis)
-
-- 🐙 **Source Code:** [https://github.com/sogonov/anubis](https://github.com/sogonov/anubis)
-- 👤 **Developer:** [sogonov](https://github.com/sogonov)
-
-
----
-
-### 📦 AbhishekK130804/Claude-Mythos-AI-Anthropic-App
-
-> **Categories:** `#claude` `#claude_ai` `#claude_code` `#claude_code_cli` `#claude_code_hooks` `#claude_code_marketplace` `#claude_code_plugin` `#claude_code_plugins` `#claude_code_skill` `#claude_code_skills` `#claude_code_subagents` `#claude_cowork_free` `#claude_design_ai` `#claude_design_alternative` `#claude_design_download` `#claude_design_free` `#claude_mythos` `#claude_opus` `#claude_opus_4_6` `#mythos`
-
-Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy
-**Language**: C#
-
-- 🐙 **Source Code:** [https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App](https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App)
-- 👤 **Developer:** [AbhishekK130804](https://github.com/AbhishekK130804)
-
-
----
-
-### 📦 osulazerdownload/osulazer
-
-> **Categories:** `#beatmap` `#osu_game` `#osu_lazer` `#osu_mania` `#osu_skin` `#osu_skins` `#osugame` `#osumania`
-
-osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free
-**Language**: C#
-
-- 🐙 **Source Code:** [https://github.com/osulazerdownload/osulazer](https://github.com/osulazerdownload/osulazer)
-- 👤 **Developer:** [osulazerdownload](https://github.com/osulazerdownload)
-
-
----
-
-### 📦 skydoves/compose-nav-graph
-
-> **Categories:** `#android` `#compose` `#compose_multiplatform` `#jetpack_compose` `#jetpack_navigation` `#kmp` `#kotlin_multiplatform` `#navigation` `#navigation3` `#skydoves`
-
-⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.
-**Language**: Kotlin
-
-- 🐙 **Source Code:** [https://github.com/skydoves/compose-nav-graph](https://github.com/skydoves/compose-nav-graph)
-- 👤 **Developer:** [skydoves](https://github.com/skydoves)
-
-
----
-
-### 📦 lycorp-jp/sim-use
-
-> **Categories:** `#accessibility` `#ai_agents` `#ai_development` `#android_emulator` `#ios_simulator` `#mobile_automation`
-
-Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
-**Language**: Swift
-
-- 🐙 **Source Code:** [https://github.com/lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)
-- 👤 **Developer:** [lycorp-jp](https://github.com/lycorp-jp)
-
-
----
-
-### 📦 Best practices in Android development
+### 📦 We infect any Android device!
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-**Avoid reinventing the wheel by following these guidelines. Lessons learned from Android developers in Futurice.
-
-Creator:    Futurice
-Stars ⭐️: 19.9k
-Forked By: 3.4k
-
-- 🐙 **Source Code:** [https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)
-- 👤 **Developer:** Futurice
-
-
----
-
-### 📦 ionic-framework
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Web` `#JavaScript` `#Useful`
-
-A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-Creator: ionic-team
-Stars ⭐️: 46.6k
-Forked By: 13.6k
-
-- 🐙 **Source Code:** [https://github.com/ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
-- 👤 **Developer:** ionic-team
-
-
----
-
-### 📦 skyline-emu/ skyline
-
-> **Categories:** `#GitHub` `#OpenSource` `#Cpp` `#Android` `#Emulator` `#Interesting`
-
-Run** Nintendo Switch homebrew & games on your Android device!
-Skyline is an experimental emulator that runs on ARMv8 Android™ devices and emulates the functionality of a Nintendo Switch™ system, licensed under Mozilla Public License 2.0
-
-Creator: skyline
-Stars ⭐️: 8.2k
-Forked By: 1.2k
-
-- 🐙 **Source Code:** [https://github.com/skyline-emu/skyline](https://github.com/skyline-emu/skyline)
-- 👤 **Developer:** skyline
-
-
----
-
-### 📦 TGX-Android / Telegram-X
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**The main repository of Telegram X — official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue.
-
-Creator: Telegram X
-Stars ⭐️: 1.3k
-Forked By: 97
-
-- 🐙 **Source Code:** [https://github.com/TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
-- 👤 **Developer:** Telegram X
-
-
----
-
-### 📦 divkit/divkit
-
-> **Categories:** `#GitHub` `#OpenSource` `#UI` `#Android` `#iOS`
-
-DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
-
-Creator: DivKit
-Stars ⭐️: 599
-Forked By: 26
-
-- 🐙 **Source Code:** [https://github.com/divkit/divkit](https://github.com/divkit/divkit)
-- 👤 **Developer:** DivKit
-
-
----
-
-### 📦 usememos/memos
-
-> **Categories:** `#GitHub` `#OpenSource` `#readme` `#react` `#go` `#docker` `#markdown` `#social_network` `#memo` `#sqlite` `#foss` `#self_hosted` `#note_taking` `#microblog` `#notecard` `#Interesting` `#Windows` `#Android` `#MacOS`
-
-**An open-source, self-hosted memo hub with knowledge management and collaboration.
-
-Creator: memos
-Stars ⭐️: 2.5k
-Forked By: 151
-
-- 🐙 **Source Code:** [https://github.com/usememos/memos](https://github.com/usememos/memos)
-- 🌐 **Official Website:** [https://usememos.com](https://usememos.com)
-- 👤 **Developer:** memos
-
-
----
-
-### 📦 google/material-design-icons
-
-> **Categories:** `#Google` `#Icons` `#readme` `#android` `#ios` `#web` `#material` `#material_design` `#sprites` `#Design`
-
-Material** Design icons by Google
-
-Creator:  Google
-Stars ⭐️: 47.5k
-Forked By: 9.5k
-https://github.com/google/material-design-icons
-
-- 🐙 **Source Code:** [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
-- 🌐 **Official Website:** [https://github.com/google/material-design-icons#readme](https://github.com/google/material-design-icons#readme)
-- 👤 **Developer:** Google
-
-
----
-
-### 📦 AzeemIdrisi/PhoneSploit-Pro
-
-> **Categories:** `#hacking_tool` `#toolkit`
-
-**An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-
-Creator:  Mohd Azeem
-Stars ⭐️: 457
-Forked By: 70
-https://github.com/AzeemIdrisi/PhoneSploit-Pro
-
-- 🐙 **Source Code:** [https://github.com/AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
-- 👤 **Developer:** Mohd Azeem
-
-
----
-
-### 📦 ray lib
-
-> **Categories:** `#raylib` `#c_lang` `#android` `#c` `#embedded` `#game_development` `#game_engine` `#gamedev` `#graphics` `#hacktoberfest` `#iot` `#linux` `#opengl` `#programming` `#raspberry_pi` `#videogames` `#wasm` `#webassembly` `#GitHub` `#OpenSource`
-
-**raylib is a simple and easy-to-use library to enjoy videogames programming.
-
-raylib is highly inspired by Borland BGI graphics lib and by XNA framework and it's specially well suited for prototyping, tooling, graphical applications, embedded systems and education.
-
-NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no debug button... just coding in the most pure spartan-programmers way.
-
-Creator:  raysan5
-Stars: ⭐️ 14.7k
-Forked by: 1.17k
-
-- 🐙 **Source Code:** [https://github.com/raysan5/raylib](https://github.com/raysan5/raylib)
-- 👤 **Developer:** raysan5
-
-
----
-
-### 📦 appwrite
-
-> **Categories:** `#Appwrite` `#typescript` `#android` `#backend` `#backend_as_a_service` `#docker` `#firebase` `#flutter` `#hacktoberfest` `#hosting` `#ios` `#javascript` `#nextjs` `#react` `#react_native` `#reactnative` `#self_hosted` `#selfhosted` `#serverless` `#swift` `#web` `#GitHub` `#OpenSource`
-
-**Appwrite is an end-to-end backend server for Web, Mobile, Native, or Backend apps packaged as a set of Docker microservices. Appwrite abstracts the complexity and repetitiveness required to build a modern backend API from scratch and allows you to build secure apps faster.
-
-Using Appwrite, you can easily integrate your app with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, Cloud Functions, and more services.
-
-Creator:  Appwrite
-Stars ⭐️: 36.3k
-Forked By: 3.3k
-https://github.com/appwrite/appwrite
-
-- 🐙 **Source Code:** [https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)
-- 👤 **Developer:** Appwrite
-
-
----
-
-### 📦 yazi
-
-> **Categories:** `#rust` `#android` `#asyncio` `#cli` `#concurrency` `#file_explorer` `#file_manager` `#hacktoberfest` `#helix` `#linux` `#macos` `#neovim` `#productivity` `#terminal` `#tui` `#vim` `#windows` `#yazi` `#Interesting` `#GitHub` `#OpenSource`
-
-**Yazi ("duck" in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
-
-
-Creator:  Misaki Masa
-Stars ⭐️: 3.7k
-Forked By: 73
-https://github.com/sxyazi/yazi
-
-- 🐙 **Source Code:** [https://github.com/sxyazi/yazi](https://github.com/sxyazi/yazi)
-- 👤 **Developer:** Misaki Masa
-
-
----
-
-### 📦 maui
-
-> **Categories:** `#GitHub` `#OpenSource` `#csharp` `#android` `#desktop` `#dotnet` `#hacktoberfest` `#ios` `#maccatalyst` `#maui` `#microsoft` `#mobile` `#multi_platform` `#user_interface` `#winui` `#winui3`
-
-**.NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, iPadOS, macOS, and Windows from a single shared codebase.
-
-Creator: .NET Platform
-Stars ⭐️: 20.5k
-Forked By: 1.5k
-
-- 🐙 **Source Code:** [https://github.com/dotnet/maui](https://github.com/dotnet/maui)
-- 👤 **Developer:** .NET Platform
-
-
----
-
-### 📦 tldr-pages/tldr
-
-> **Categories:** `#github` `#markdown` `#android` `#bsd` `#cheatsheet` `#cheatsheets` `#command_line` `#console` `#documentation` `#examples` `#hacktoberfest` `#help` `#linux` `#macos` `#man_page` `#manpages` `#manual` `#osx` `#shell` `#terminal` `#tldr` `#windows` `#OpenSource`
-
-Community-driven cheatsheets for console commands
-
-Creator:   tldr-pages
-Stars ⭐️:  56,467
-Forked by:   4,567
-
-- 🐙 **Source Code:** [https://github.com/tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-- 👤 **Developer:** tldr-pages
-
-
----
-
-### 📦 SmartTube
-
-> **Categories:** `#YouTube` `#Android` `#TVApp`
-
-SmartTube is a free, standalone Android TV application that provides a familiar YouTube interface while stripping out ads and enabling features typically locked behind a YouTube Premium subscription. It connects directly to YouTube's services, so you have full access to your subscriptions, playlists, and history, but it intercepts and blocks the video ads server-side before they ever reach your screen.
-
-Creator:   yuliskov
-Stars ⭐️:  26,000
-Forked by:  1,000
-
-- 🐙 **Source Code:** [https://github.com/yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
-- 👤 **Developer:** yuliskov
-
-
----
-
-### 📦 awesome-dataviz
-
-> **Categories:** `#datavisualization` `#opensource`
-
-A curated list of open-source data-visualization libraries & frameworks spanning JS, Python, Android, iOS and more. Valuable for designers, analysts, engineers and anyone wanting compelling visuals.
-
-Creator:   hal9ai
-Stars ⭐️:  4,100
-Forked by:  438
-
-- 🐙 **Source Code:** [https://github.com/hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)
-- 👤 **Developer:** hal9ai
-
-
----
-
-### 📦 Medusa
-
-> **Categories:** `#Ecommerce` `#Backend` `#WebDev` `#GitHub` `#OpenSource` `#typescript` `#commerce` `#e_commerce` `#javascript` `#medusa` `#nodejs` `#react` `#python` `#android` `#android_malware` `#dynamic_analysis` `#frida` `#frida_scripts` `#frida_snippets` `#malware` `#penetration_testing` `#pentest`
-
-An open-source commerce engine for building custom e-commerce backends. Lets developers create flexible shopping experiences without being limited by traditional platforms.
-
-Creator: medusajs
-Stars ⭐️: 32,800
-Forked by: 4,400
-
-- 🐙 **Source Code:** [https://github.com/medusajs/medusa](https://github.com/medusajs/medusa)
-- 👤 **Developer:** medusajs
-
-
----
-
-### 📦 wger
-
-> **Categories:** `#Fitness` `#Health` `#SelfHosted` `#python` `#django` `#gym` `#hacktoberfest` `#self_hosted` `#workout` `#GitHub` `#OpenSource`
-
-A self-hosted, fully open-source fitness and nutrition manager. You can create custom workout routines with automatic weight progression, log meals against an Open Food Facts database, track body measurements with progress photos, Includes basic gym management features as well and you can access it all from native Android and iOS apps.
-
-Creator: wger-project
-Stars ⭐️: 6,300
-Forked by: 919
-
-- 🐙 **Source Code:** [https://github.com/wger-project/wger](https://github.com/wger-project/wger)
-- 👤 **Developer:** wger-project
-
-
----
-
-### 📦 Intent | AI-Enhanced Telegram
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🌐 Supports real-time translation in 86 languages
-💬 Simply swipe up during chat to let AI automatically generate contextual replies
-🎙 Instant AI enhanced voice-to-text conversion
-🧠 Built-in mainstream models including GPT-4o, Claude 3.7, Gemini 2, Deepseek, etc., activated with one click
-🎁 Currently offering generous free AI credits
-📱 Supports Android & iOS systems
-🔎 [Website](https://bit.ly/3TxMKDP) | 📬 [Download](https://intent.onelink.me/2arX/uqik2ecy)
-
-- 🌐 **Official Website:** [https://intent.onelink.me/2arX/uqik2ecy](https://intent.onelink.me/2arX/uqik2ecy)
-
-
----
-
-### 📦 Awesome Jetpack Compose Learning Resources
-
-> **Categories:** `#readme` `#android` `#kotlin` `#awesome` `#mvvm` `#android_architecture` `#compose` `#beginner_friendly` `#android_apps` `#hacktoberfest` `#coroutines_android` `#mvvm_android` `#android_jetpack` `#first_issue` `#jetpack_android` `#learn_android` `#jetpack_compose` `#hacktoberfest2020` `#android_compose` `#awesome_android`
-
-📝 **Description:** 👓 A continuously updated list of learning Jetpack Compose for Android apps.
-
-🔗 **Repository URL:** [https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources)
-
-📖 **Readme:** [https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources#readme](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources#readme)
-
-📊 **Statistics:**
-🌟 Stars: 1.4K stars
-👀 Watchers: 41
-🍴 Forks: 140 forks
-
-💻 **Programming Languages:** Kotlin
-
-🏷️ **Related Topics:**
-
-- 🐙 **Source Code:** [https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources)
-- 👤 **Developer:** [androiddevnotes](https://github.com/androiddevnotes)
-
-
----
-
-### 📦 🔥 Trending Repository: FtcRobotController
-
-> **Categories:** `#readme`
-
-📝 **Description:** FTC Android Studio Workspace for robot programming in Android Studio
-
-🔗 **Repository URL:** [https://github.com/FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
-
-📖 **Readme:** [https://github.com/FIRST-Tech-Challenge/FtcRobotController#readme](https://github.com/FIRST-Tech-Challenge/FtcRobotController#readme)
-
-📊 **Statistics:**
-🌟 Stars: 975 stars
-👀 Watchers: 69
-🍴 Forks: 6.7K forks
-
-💻 **Programming Languages:** Java
-
-🏷️ **Related Topics:** Not available
-
-==================================
-🧠 **By: ****https://t.me/DataScienceM**
-
-- 🐙 **Source Code:** [https://github.com/FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
-- 👤 **Developer:** [FIRST-Tech-Challenge](https://github.com/FIRST-Tech-Challenge)
-
-
----
-
-### 📦 🔥 Trending Repository: NekoBoxForAndroid
-
-> **Categories:** `#readme` `#android` `#proxy` `#shadowsocks` `#vpn` `#trojan` `#gfw` `#vmess` `#sing_box` `#kotlin`
-
-📝 **Description:** NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-🔗 **Repository URL:** [https://github.com/MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
-
-- 🐙 **Source Code:** [https://github.com/MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
-- 👤 **Developer:** [MatsuriDayo](https://github.com/MatsuriDayo)
-
-
----
-
-### 📦 🔥 Trending Repository: android-reverse-engineering-skill
-
-> **Categories:** `#readme` `#shell`
-
-📝 **Description:** Claude Code skill to support Android app's reverse engineering
-
-🔗 **Repository URL:** [https://github.com/SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
-
-📖 **Readme:** [https://github.com/SimoneAvogadro/android-reverse-engineering-skill#readme](https://github.com/SimoneAvogadro/android-reverse-engineering-skill#readme)
-
-📊 **Statistics:**
-🌟 Stars: 2.1k
-👀 Watchers: 7
-🍴 Forks: 236
-
-💻 **Programming Languages:** Shell
-
-🏷️ **Related Topics:** Not available
-
-==================================
-🧠 **By: ****https://t.me/DataScienceM**
-
-- 🐙 **Source Code:** [https://github.com/SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
-- 👤 **Developer:** [SimoneAvogadro](https://github.com/SimoneAvogadro)
-
-
----
-
-### 📦 Cua
-
-> **Categories:** `#GitHub` `#OpenSource` `#python` `#agent` `#ai_agent` `#apple` `#computer_use` `#cua` `#lume` `#macos` `#manus` `#operator` `#swift` `#virtualization` `#virtualization_framework`
-
-🔗 [https://github.com/trycua/cua](https://github.com/trycua/cua)
-📝 Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-──────────────────────────────
-
-The **trycua/cua** GitHub repository is a game-changer for anyone interested in building, benchmarking, and deploying agents that interact with computers. At its core, __Cua__ provides a versatile platform for creating autonomous agents that can perform tasks on various operating systems, including macOS, Linux, Windows, and Android.
-
-One of the **key features** is the `cua-driver`, which allows agents to interact with native macOS apps in the background, enabling tasks like clicking, typing, and verifying without interrupting the user. The `cua` package provides a unified API for building sandboxes on any OS or container image, making it easy to develop and deploy agents across different environments.
-
-To get started, users can install `cua` using `pip install cua` and explore the various tools and libraries, including `cuabot` for co-op computer-use, `cua-bench` for benchmarks and RL environments, and `lume` for macOS virtualization.
-
-The **technical highlights** of __Cua__ include its support for multiple platforms, near-native performance on Apple Silicon, and a wide range of tools and libraries for building and deploying agents. The project is well-documented, with extensive guides, examples, and API references available.
-
-The target **audience** for __Cua__ includes developers, researchers, and anyone interested in building autonomous agents for computer-use tasks. With its open-source license and active community, __Cua__ is an exciting project that has the potential to revolutionize the way we interact with computers.
-
-In a nutshell, __Cua__ is a powerful platform for building autonomous agents that can interact with computers in a variety of ways, and its potential impact on the field of AI and computer science is enormous: __Cua__ is not just a tool, it's a **new paradigm** for human-computer interaction.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/trycua/cua](https://github.com/trycua/cua)
-- 👤 **Developer:** [trycua](https://github.com/trycua)
-
-
----
-
-### 📦 Mattermost
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🔗 [https://github.com/mattermost/mattermost](https://github.com/mattermost/mattermost)
-📝 Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-──────────────────────────────
-
-**Mattermost** is an open core, self-hosted collaboration platform that offers __chat__, __workflow automation__, __voice calling__, __screen sharing__, and __AI integration__. The platform is written in `Go` and `React`, and runs as a single Linux binary, relying on `PostgreSQL`.
-
-To get started, you can __deploy Mattermost on-premises__ or __try it for free in the cloud__. The platform has a variety of __use cases__, including __DevSecOps__, __Incident Resolution__, and __IT Service Desk__.
-
-Mattermost has __native mobile and desktop apps__ for __Android__, __iOS__, __Windows PC__, __macOS__, and __Linux__. The platform also offers a range of __installation guides__, including __Docker__, __Ubuntu__, and __Kubernetes__.
-
-The platform is suitable for __developers__, __system administrators__, and __business users__ who want a self-hosted collaboration platform with a range of features and integrations.
-
-Mattermost is a powerful tool for teams and organizations - __join the community today and experience the benefits of self-hosted collaboration__!
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/mattermost/mattermost](https://github.com/mattermost/mattermost)
-- 👤 **Developer:** [mattermost](https://github.com/mattermost)
-
-
----
-
-### 📦 Fanqiang
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🔗 [https://github.com/bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
-📝 翻墙-科学上网
-──────────────────────────────
-
-**Fanqiang** is a comprehensive project library for __scientific internet access and wall-jumping tools__, providing various tutorials and software for different devices and operating systems. The project includes `Chrome one-click wall-jumping package`, `Android wall-jumping APP tutorials`, `iPhone/iPad/iOS V2ray/SS wall-jumping APP tutorials`, and more. It also covers `Windows V2ray/SS/SSR wall-jumping tutorials`, `Mac翻墙软件教程`, and `Linux翻墙教程`. The goal is to provide __free and stable internet access__ to users.
-**Takeaway:** Freedom to access the internet, no matter where you are.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
-- 👤 **Developer:** [bannedbook](https://github.com/bannedbook)
-
-
----
-
-### 📦 Universal Android Debloater Next Generation
-
-> **Categories:** `#GitHub` `#OpenSource` `#rust` `#adb` `#android` `#bloatware_list` `#bloatware_removal` `#debloat` `#debloater` `#debloating` `#privacy`
-
-🔗 [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
-📝 Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-──────────────────────────────
-
-The **Universal Android Debloater Next Generation** is a tool designed to improve __privacy__ and __efficiency__ on Android devices by removing unnecessary system apps, thus reducing the __attack surface__ and enhancing __security__. This project is a fork of the original Universal Android Debloater, with the goal of providing a more efficient and secure solution.
-
-To use the tool, users can follow the `usage guide` provided in the project's __wiki__, which includes `getting started` instructions, `features` of the app, and `suggested Android app replacements`. The project also provides a `building from source` guide for those who want to get the cutting-edge version.
-
-From a technical standpoint, the project uses the `Iced` GUI library and has a simple, intuitive interface. The tool does not collect or transmit any __user data__, with the only external connections being `GET` requests to `GitHub` for fetching the package list and checking for updates.
-
-The project is suitable for anyone looking to debloat their Android device, including __power users__ and __developers__. For real-time communication and support, users can join the project's `Discord guild` or use the `Matrix` bridge.
-
-One-liner takeaway: The Universal Android Debloater Next Generation is a powerful tool that helps you take control of your Android device's __privacy__ and __security__ by debloating unnecessary system apps.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
-- 👤 **Developer:** [Universal-Debloater-Alliance](https://github.com/Universal-Debloater-Alliance)
-
-
----
-
-### 📦 Smsforwarder
-
-> **Categories:** `#GitHub` `#OpenSource` `#kotlin` `#android` `#api` `#app` `#bark` `#call` `#chatgpt` `#dingding` `#forward` `#mqtt` `#pushdear` `#pushplus` `#serverchan` `#sms` `#smtp` `#telegram` `#webhook` `#wechatapp`
-
-🔗[https://github.com/pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
-📝 SMS forwarder - monitor Android mobile phone text messages, incoming calls, and APP notifications, and forward them to other mobile phones according to specified rules: DingTalk group custom robots, DingTalk enterprise robots, enterprise WeChat group robots, Feishu robots, enterprise WeChat application messages, mailboxes, bark, webhook, Telegram robots, Server sauce, PushPlus, mobile SMS, etc. Including active control of the server and client, allowing you to easily send text messages remotely, check text messages, check calls, check the phone book, check battery, etc. (New in V3.0) PS. This APK is mainly for learning and personal use. If there are any bugs, please raise an ISSUE. You are also welcome to submit PRs and corrections.
-─────────────────────────────
-
-**SmsForwarder** is an Android app that forwards SMS, calls, and app notifications to other devices or platforms, including DingTalk, WeChat, email, and more. __Key features__ include remote control, automated tasks, and customizable rules. To `use` the app, simply download and install it, then configure the settings to forward messages to your desired platform. From a `technical` standpoint, the app uses a variety of libraries and frameworks, including XUI, XUpdate, and XXPermissions. The app is __ideal for__ anyone looking for a convenient way to forward messages and notifications to other devices or platforms. **Give it a try** and see how it can simplify your life: SmsForwarder is the ultimate messaging sidekick - __forwarding your way to freedom__!
-
-─────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
-- 👤 **Developer:** [pppscn](https://github.com/pppscn)
-
-
----
-
-### 📦 Headunit Revived
-
-> **Categories:** `#GitHub` `#OpenSource` `#kotlin` `#android` `#androidauto` `#headunit`
-
-🔗 [https://github.com/andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
-📝 Headunit App for displaying Android Auto
-──────────────────────────────
-
-The **Headunit Revived** project is an Android app that transforms your tablet or phone into an Android Auto receiver. It's a revived version of the original __headunit__ project by Michael Reid. The app allows for wired USB connections and wireless connections via a companion app called __Wireless Helper__.
-
-To use the app, simply connect your phone to the tablet running Headunit Revived via USB or wirelessly using the Wireless Helper app. The app supports various connection methods, including USB, Wi-Fi Direct, and Bluetooth.
-
-Some key `features` include:
-- Customizable UI with settings for pixel density, audio focus, and more
-- Support for multiple languages, including English, Vietnamese, and Japanese
-- Wireless connection options, including Wi-Fi Direct and Bluetooth
-
-The app is suitable for power users who want to customize their Android Auto experience and for those who need a reliable wireless connection.
-
-One-liner takeaway: Turn your Android device into an Android Auto receiver with **Headunit Revived**, a customizable and feature-rich app that simplifies your in-car entertainment experience.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
-- 👤 **Developer:** [andreknieriem](https://github.com/andreknieriem)
-
-
----
-
-### 📦 Simplex Chat
-
-> **Categories:** `#GitHub` `#OpenSource` `#Interesting` `#Security` `#Privacy`
-
-🔗 [https://github.com/simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
-📝 SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-──────────────────────────────
-
-The **SimpleX Chat** is a revolutionary messaging platform that prioritizes user privacy, with __no user identifiers of any kind__. It protects your messages and metadata with `double ratchet end-to-end encryption` and an additional encryption layer. Available on __Android__ and __iOS__, as well as a terminal app on __Linux, MacOS, and Windows__, SimpleX Chat allows users to make private connections by sharing a link or scanning a QR code. The platform has a strong focus on community, with user groups and a directory for users to connect and share information. To get started, simply `install the app` and connect with the team or other users. SimpleX Chat is __100% private by design__, and its `open-source` nature allows for transparency and community involvement. Join the movement and experience the power of private messaging - __your conversations, your privacy, your way__.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
-- 👤 **Developer:** [simplex-chat](https://github.com/simplex-chat)
-
-
----
-
-### 📦 Moonshine
-
-> **Categories:** `#GitHub` `#OpenSource` `#c_lang`
-
-🔗 [https://github.com/moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
-📝 Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
-──────────────────────────────
-
-__Moonshine__ is an open-source AI toolkit that enables developers to build real-time voice agents and applications. Its key features include on-device processing for fast, private, and account-free usage, low-latency responses, and high accuracy speech-to-text models. The framework supports multiple languages, platforms, and devices, including `Python`, `iOS`, `Android`, `MacOS`, `Linux`, `Windows`, `Raspberry Pi`, and `microcontrollers`. **Usage** is straightforward, with example apps and a `Python` library that can be installed via `pip`. The toolkit is suitable for developers building voice applications, and its high-level APIs offer complete solutions for common tasks. One notable takeaway: __Moonshine__ offers a significant speed boost over Whisper, with some models running **5x faster** or more.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
-- 👤 **Developer:** [moonshine-ai](https://github.com/moonshine-ai)
-
-
----
-
-### 📦 Dioxus
-
-> **Categories:** `#GitHub` `#OpenSource` `#rust` `#android` `#css` `#desktop` `#html` `#ios` `#native` `#react` `#ssr` `#ui` `#virtualdom` `#wasm` `#web`
-
-🔗 [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
-📝 Fullstack app framework for web, desktop, and mobile.
-──────────────────────────────
-
-Dioxus is a **cross-platform framework** that lets you build web, desktop, and mobile apps with a single codebase. It features __zero-config setup__, __integrated hot-reloading__, and __signals-based state management__. With Dioxus, you can create `fullstack applications` that integrate seamlessly with backend functionality using Server Functions. The framework also includes a __bundler__ for deploying to various platforms.
-
-Here's an example of a simple counter app in Dioxus:
-```fn app() -> Element {
-let mut count = use_signal(|| 0);
-
-rsx! {
-h1 { "High-Five counter: {count}" }
-button { onclick: move |_| count += 1, "Up high!" }
-button { onclick: move |_| count -= 1, "Down low!" }
-}
-}
-```
-Dioxus has a strong focus on __community__ and __documentation__, with a very active Discord and GitHub community, as well as comprehensive documentation. It supports a wide range of __platforms__, including web, desktop, mobile, and server-side rendering.
-
-Overall, Dioxus is a powerful and flexible framework that makes it easy to build complex, cross-platform apps. With its unique features and strong community support, it's an excellent choice for developers looking to create high-quality, fullstack applications. Write once, run anywhere - that's the power of Dioxus!
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
-- 👤 **Developer:** [DioxusLabs](https://github.com/DioxusLabs)
-
-
----
-
-### 📦 Amnezia Client
-
-> **Categories:** `#GitHub` `#OpenSource` `#cplusplus` `#cloak` `#gfw` `#ikev2` `#openvpn` `#shadowsocks` `#vpn` `#vpn_client` `#vpn_server` `#wireguard`
-
-🔗 [https://github.com/amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
-📝 Amnezia VPN Client (Desktop+Mobile)
-──────────────────────────────
-
-**Amnezia VPN Client** is an open-source VPN solution that allows you to deploy your own VPN server. Its key features include ease of use, support for classic VPN protocols like OpenVPN, WireGuard, and IKEv2, as well as protocols with traffic masking. The client supports split tunneling and is available on Windows, MacOS, Linux, Android, and iOS.
-
-__Technical highlights__ of the project include the use of `Qt`, `OpenSSL`, `OpenVPN`, and `WireGuard`. The project is licensed under the GNU General Public License v3.0 and is supported by donations.
-
-The **Amnezia VPN Client** is suitable for anyone looking for a self-hosted VPN solution, including individuals and organizations. To get started, simply download the client, enter your server details, and connect to your VPN.
-
-With its strong focus on security, ease of use, and flexibility, the **Amnezia VPN Client** is a great option for anyone looking to protect their online identity: __Take control of your online security with Amnezia VPN Client__.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
-- 👤 **Developer:** [amnezia-vpn](https://github.com/amnezia-vpn)
-
-
----
-
-### 📦 Guava
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🔗 [https://github.com/google/guava](https://github.com/google/guava)
-📝 Google core libraries for Java
-──────────────────────────────
-
-The **Guava** library is a set of core Java libraries from Google, featuring new collection types, immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more. It comes in two flavors: __JRE__ and __Android__.
-
-To use Guava, add a dependency to your project using `Maven` or `Gradle`. For example, with Maven:
-```
-<dependency>
-<groupId>com.google.guava</groupId>
-<artifactId>guava</artifactId>
-<version>33.6.0-jre</version>
-</dependency>
-```
-Guava is suitable for Java developers looking to simplify their code and improve performance.
-
-Key technical highlights include its collection types, such as `multimap` and `multiset`, and utilities like `ImmutableList`.
-
-Guava's **APIs** are largely __binary-compatible__, ensuring backward compatibility.
-
-One-liner takeaway: Use Guava to simplify your Java development and boost performance with its robust collection types and utility classes.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/google/guava](https://github.com/google/guava)
-- 👤 **Developer:** [google](https://github.com/google)
-
-
----
-
-### 📦 Google Timeline Visualizer
-
-> **Categories:** `#GitHub` `#OpenSource` `#kotlin`
-
-🔗 [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
-📝 Visualize your year in travel using your Google Location History (Timeline) data
-──────────────────────────────
-
-**What it does**
-Turn a Google Maps Timeline export (the `Timeline.json` file) into a smooth, animated travel video that you can watch, share, or keep as an MP4. The app works completely offline – your location history never leaves the device.
-
-**Key features**
-- Choose exact dates or a month range, then preview the journey on a map.
-- Pick camera styles: __steady__ (fixed zoom) or __dynamic__ (follows local movement).
-- Set video length from 10 s up to 5 min; the UI warns when long renders will need extra storage.
-- Export in square (480 p / 720 p / 1080 p) or portrait/landscape HD presets.
-- Built‑in “My videos” library with thumbnails, titles, and quick share actions.
-- Supports English, Korean, Japanese, Chinese (Simplified & Traditional), Spanish, French, German, Portuguese (BR).
-- No Google sign‑in, no location permissions, no analytics – only the JSON you feed it and the map tiles from CARTO/OpenStreetMap.
-
-**How to use it**
-
-__iPhone (web app)__
-1. Export `Timeline.json` from Google Maps (Settings → Personal content → Export Timeline data).
-2. Open the web app [here](https://ahn-lab.org/google-timeline-visualizer/) in Safari (iOS 16.4+).
-3. Tap **Choose Timeline.json**, set the date range, pick a camera mode, accept the privacy notice.
-4. Hit **Preview** → **Create MP4**. Keep the tab open until the render finishes; then download or share the video.
-
-__Android (stand‑alone app)__
-1. Download the latest APK from the repository’s [release page](https://github.com/mahlernim/google-timeline-visualizer/releases/latest).
-2. Install (enable “install unknown apps” for the source if needed).
-3. Open the app, tap **Create video**, load your `Timeline.json`, configure dates, camera, duration, then **Create video**.
-4. The finished MP4 lands in `Movies/Timeline Visualizer` (Android 10+ auto‑saves).
-
-**Technical highlights**
-- __Rendering pipeline__: map tiles are pre‑fetched, GPS outlier filtering (conservative by default) cleans noisy points, long‑flight legs are interpolated on great‑circle arcs for smooth motion.
-- __Privacy‑first design__: the only network call is to CARTO for map tiles; the Timeline JSON never leaves the device.
-- __Supported export formats__: current Android/iOS direct‑array JSON, legacy “semanticSegments” JSON, raw location fallback with optional noise reduction, handling of E7, geo: and latLng strings, and routes crossing the International Date Line.
-- __Build & test__: Android Studio with JDK 17, SDK 36, Build‑Tools 36.0.0. Run ```./gradlew test lint assembleGithubDebug assemblePlayDebug``` to verify.
-- __Desktop fallback__: a Python 3.9+ script (`visualizer.py`) plus FFmpeg reproduces the same MP4 generation on any PC. Example command:
-
-```python -m pip install -r requirements.txt
-python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
---long-trip-compression balanced --output my_trip_2025.mp4
-```
-
-**Who should care**
-- Travelers who want a quick visual recap of a trip without fiddling with video editors.
-- Developers looking for a clean, offline‑only example of map‑based animation on Android.
-- Privacy‑conscious users who refuse cloud services but still want to share a travel story.
-__(1/2)__
-
-- 🐙 **Source Code:** [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
-- 👤 **Developer:** [mahlernim](https://github.com/mahlernim)
-
-
----
-
-### 📦 Element Web
-
-> **Categories:** `#typescript` `#hacktoberfest` `#matrix`
-
-Element is a web client for the Matrix communication platform, built using the Matrix React SDK. It supports various environments, including recent versions of Chrome, Firefox, Edge, and Safari on desktop OSes like macOS, Windows, and Linux. For mobile devices, it recommends using native apps for Android and iOS. To get started, you can use the hosted version at [app.element.io](https://app.element.io) or set up your own instance by following the installation guide. Element also offers a desktop app version wrapped in Electron. The key benefit to users is that Element provides a secure and customizable way to communicate over the Matrix network. It includes important security measures such as preventing cross-site scripting (XSS) vulnerabilities and clickjacking protection through proper web server configurations. Additionally, it allows for community contributions and translations, making it accessible to a wider audience.
-
-https://github.com/element-hq/element-web
-
-- 🐙 **Source Code:** [https://github.com/element-hq/element-web](https://github.com/element-hq/element-web)
-- 🌐 **Official Website:** [https://app.element.io](https://app.element.io)
-- 👤 **Developer:** [element-hq](https://github.com/element-hq)
-
-
----
-
-### 📦 Fastjson2
-
-> **Categories:** `#java` `#android` `#big_data` `#deserialization` `#fastjson` `#fastjson2` `#graal` `#graalvm_native_image` `#high_performance` `#java_json` `#json` `#json_deserialization` `#json_parser` `#json_path` `#json_serialization` `#json_serializer` `#jsonb` `#serialization`
-
-FASTJSON 2 is a highly performant and easy-to-use Java JSON library. It offers significant performance improvements over other popular JSON libraries like Jackson and Gson. Here are the key benefits FASTJSON 2 outperforms other JSON libraries, making it ideal for applications requiring fast data processing.
-- **Advanced Features** It includes support for JSONPath, SQL You can easily integrate it into your project using Maven or Gradle dependencies.
-
-Using FASTJSON 2 simplifies your JSON handling tasks while providing superior performance and robust features.
-
-https://github.com/alibaba/fastjson2
-
-- 🐙 **Source Code:** [https://github.com/alibaba/fastjson2](https://github.com/alibaba/fastjson2)
-- 👤 **Developer:** [alibaba](https://github.com/alibaba)
-
-
----
-
-### 📦 Termux Packages
-
-> **Categories:** `#shell` `#android` `#hacktoberfest` `#linux` `#linux_distribution` `#packages` `#termux` `#GitHub` `#OpenSource`
-
-**4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/termux/termux-packages](https://github.com/termux/termux-packages)
-- 👤 **Developer:** [termux](https://github.com/termux)
-
-
----
-
-### 📦 Ehviewer Cn Sxj
-
-> **Categories:** `#html` `#android` `#apk` `#c` `#cartoon` `#chinese` `#comics` `#e_hentai` `#ehviewer` `#exhentai` `#hentai` `#hentai_downloader` `#hentai_viwer` `#html5` `#java` `#screenshot`
-
-The latest version of EhViewer, 1.9.8.7, has several important updates that benefit users. Here are the key points Many bugs have been fixed, including problems with WiFi data migration, download list sorting, and crashes related to various functions like downloading archives and displaying comments.
-- **New Features** Enhanced stability and performance by optimizing download logic, adding a timeout setting for downloads, and improving the handling of historical records.
-- **Security**: Updated security measures include adding user-defined network certificate permissions and fixing potential vulnerabilities.
-
-These updates make the app more stable, efficient, and user-friendly.
-
-https://github.com/xiaojieonly/Ehviewer_CN_SXJ
-
-- 🐙 **Source Code:** [https://github.com/xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-- 👤 **Developer:** [xiaojieonly](https://github.com/xiaojieonly)
-
-
----
-
-### 📦 Saltplayersource
-
-> **Categories:** `#other`
-
-Salt Player is a local music player app used by hundreds of thousands of users. You can download it for Android devices with Android 6.0 or higher, and it supports different architectures. The app is available on various channels like GitHub, Google Play, and Chinese app stores. It offers features like support for MIUI, vivo, and Meizu systems, but some features are not supported on all devices. The app is regularly updated, and you can check the version details to know what's new. Using Salt Player allows you to play your local music files efficiently and enjoy additional features depending on your device. Make sure to download from official channels to avoid unknown sources.
-
-https://github.com/Moriafly/SaltPlayerSource
-
-- 🐙 **Source Code:** [https://github.com/Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
-- 👤 **Developer:** [Moriafly](https://github.com/Moriafly)
-
-
----
-
-### 📦 Mediapipe
-
-> **Categories:** `#cplusplus` `#android` `#audio_processing` `#c_plus_plus` `#calculator` `#computer_vision` `#deep_learning` `#framework` `#graph_based` `#graph_framework` `#inference` `#machine_learning` `#mediapipe` `#mobile_development` `#perception` `#pipeline_framework` `#stream_processing` `#video_processing`
-
-MediaPipe is a tool that helps you add smart machine learning features to your apps and devices. It works on mobile, web, desktop, and other devices. You can use pre-made solutions for tasks like vision, text, and audio processing, or customize the models to fit your needs. MediaPipe also offers tools like Model Maker and Studio to help you create and test your solutions easily. This makes it easier to delight your customers with innovative features without needing deep machine learning expertise.
-
-https://github.com/google-ai-edge/mediapipe
-
-- 🐙 **Source Code:** [https://github.com/google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
-- 👤 **Developer:** [google-ai-edge](https://github.com/google-ai-edge)
-
-
----
-
-### 📦 Android permission request framework, adapted for Android 14
-
-> **Categories:** `#java` `#andpermission` `#android` `#android11` `#easypermission` `#permission` `#permission_android` `#permissions` `#permissionsdispatcher` `#permissionutils` `#permissionx` `#rxpermission` `#rxpermissions`
-
-Android permission request framework, adapted for Android 14
-
-https://github.com/getActivity/XXPermissions
-
-- 🐙 **Source Code:** [https://github.com/getActivity/XXPermissions](https://github.com/getActivity/XXPermissions)
-- 👤 **Developer:** [getActivity](https://github.com/getActivity)
-
-
----
-
-### 📦 Musicfree
-
-> **Categories:** `#typescript` `#free` `#music_player` `#plugin` `#react` `#react_native`
-
-This music player, called MusicFree, is a free, ad-free, and customizable app for Android and Harmony OS. It uses plugins to search, play, and manage music, which means you can access any music source available online with the right plugin. The app is open-source, so it's free and won't collect your personal data. You can customize the look with light or dark modes and custom backgrounds. Be cautious of fake versions and only download from the official sources to avoid scams. The app is maintained by a single developer, so updates might be slow, but it's designed to be safe and functional.
-
-https://github.com/maotoumao/MusicFree
-
-- 🐙 **Source Code:** [https://github.com/maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
-- 👤 **Developer:** [maotoumao](https://github.com/maotoumao)
-
-
----
-
-### 📦 Zerotermux
-
-> **Categories:** `#java`
-
-ZeroTermux is a free, non-profit software based on Termux. It offers several useful features like backup and recovery, container switching, and the ability to switch between different Linux distributions like Ubuntu and Kali. It also has Chinese and English language support and uses sources from Tsinghua and Beijing for domestic users. The software is open source, meaning you can freely distribute, copy, and change it, but you must follow the GPL agreement. Using ZeroTermux can help you learn and use Linux commands on your Android device, making it a valuable tool for personal learning and communication. However, it is not for commercial or illegal use, and users are responsible for any risks or damages caused by its use.
-
-https://github.com/hanxinhao000/ZeroTermux
-
-- 🐙 **Source Code:** [https://github.com/hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
-- 👤 **Developer:** [hanxinhao000](https://github.com/hanxinhao000)
-
-
----
-
-### 📦 Linux Command
-
-> **Categories:** `#markdown` `#bash` `#chrome` `#chrome_extension` `#command_line` `#gh_pages` `#linux` `#linux_command` `#ls` `#screen` `#screenshot` `#search` `#ssh` `#tools` `#web_tools`
-
-This resource is a comprehensive collection of over 580 Linux commands, presented in a user-friendly web format. Here are the key benefits It includes a vast array of Linux commands, categorized for easy reference.
-- **Web Access** You can deploy the website using Docker, Vercel, or other methods, allowing flexibility in how you access the content.
-- **Community Contributions** The commands are available in Markdown format, and there are also mobile and desktop applications, such as Chrome extensions and Android apps.
-
-This resource is highly valuable for anyone looking to learn or reference Linux commands efficiently.
-
-https://github.com/jaywcjlove/linux-command
-
-- 🐙 **Source Code:** [https://github.com/jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
-- 👤 **Developer:** [jaywcjlove](https://github.com/jaywcjlove)
-
-
----
-
-### 📦 V2Rayng
-
-> **Categories:** `#kotlin` `#android` `#proxy` `#shadowsocks` `#socks5` `#trojan` `#v2fly` `#v2ray` `#vless` `#vmess` `#vpn` `#xray` `#xtls`
-
-v2rayNG is an app for Android that helps you use the internet more securely and privately. It supports two powerful cores, Xray and v2fly, which are known for their strong encryption and privacy features. The app is easy to use and can be downloaded from the Google Play Store. It also has a community support channel on Telegram where you can get help and updates. Using v2rayNG benefits you by protecting your internet traffic from being monitored or blocked, making your online activities safer and more private.
-
-https://github.com/2dust/v2rayNG
-
-- 🐙 **Source Code:** [https://github.com/2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-- 👤 **Developer:** [2dust](https://github.com/2dust)
-
-
----
-
-### 📦 Td
-
-> **Categories:** `#cplusplus` `#cross_platform` `#library` `#telegram`
-
-TDLib is a powerful tool for building Telegram clients that works on many different platforms like Android, iOS, Windows, and more. It can be used with almost any programming language, making it very versatile. TDLib takes care of network details, encryption, and data storage, making it easy to use and secure. It is also high-performance, reliable on slow internet connections, and fully documented. This means you can build efficient and stable Telegram clients quickly and securely, without worrying about the complex underlying details.
-
-https://github.com/tdlib/td
-
-- 🐙 **Source Code:** [https://github.com/tdlib/td](https://github.com/tdlib/td)
-- 👤 **Developer:** [tdlib](https://github.com/tdlib)
-
-
----
-
-### 📦 Flutterunit
-
-> **Categories:** `#dart` `#flutter` `#learning` `#painting` `#widget_library`
-
-FlutterUnit is an app that lets you explore and learn about Flutter, a platform for building apps. You can download it for Android, iOS, macOS, Windows, and even use it on the web. The app showcases over 300 Flutter components with live demos and code examples, allowing you to interact with them directly. It also features search and collection functions, theme and font settings, and the ability to view and share code. This makes it a powerful tool for learning and experimenting with Flutter, helping you to understand and use its various components effectively.
-
-https://github.com/toly1994328/FlutterUnit
-
-- 🐙 **Source Code:** [https://github.com/toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)
-- 👤 **Developer:** [toly1994328](https://github.com/toly1994328)
-
-
----
-
-### 📦 Llbc
-
-> **Categories:** `#cplusplus`
-
-The llbc framework is a simple, efficient, and cross-platform tool for server development. It supports multiple languages and is built with C++. Here are the key benefits Works on Windows, Linux, Mac, iOS, and Android.
-
-- 🐙 **Source Code:** [https://github.com/lailongwei/llbc](https://github.com/lailongwei/llbc)
-- 👤 **Developer:** [lailongwei](https://github.com/lailongwei)
-
-
----
-
-### 📦 Cognitive Services Speech Sdk
-
-> **Categories:** `#csharp`
-
-The Microsoft Cognitive Services Speech SDK allows you to add speech-enabled features to your apps. It supports various programming languages like C++, C#, Java, JavaScript, and more. You can use it for speech recognition, translation, and synthesis across different platforms such as Windows, Linux, Android, and iOS. The SDK provides numerous samples and quickstarts to help you get started quickly with features like one-shot speech recognition, translation, and synthesis. These samples are easy to download and run, and they include detailed instructions for setup and execution. Using this SDK, you can enhance your applications with powerful speech capabilities, making them more interactive and user-friendly.
-
-https://github.com/Azure-Samples/cognitive-services-speech-sdk
-
-- 🐙 **Source Code:** [https://github.com/Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
-- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
-
-
----
-
-### 📦 Serverstatus Rust
-
-> **Categories:** `#rust` `#probe` `#railway` `#serverstatus` `#serverstatus_rust` `#telegram` `#vnstat` `#webhook` `#wechat`
-
-This tool, called "ServerStatus-Rust," is a lightweight and easy-to-deploy server monitoring system. Here are the key benefits It works on various systems including Linux, MacOS, Windows, Android, and Raspberry Pi.
-- **Simple Deployment** It supports alerts via Telegram, WeChat, email, and webhooks for events like going online or offline.
-- **Traffic Statistics** The configuration file `config.toml` makes it simple to set up and manage your servers.
-- **Client Options**: You can use either a Rust or Python version of the client, depending on your system compatibility.
-
-Overall, it's designed to be simple, efficient, and highly customizable for personal server monitoring needs.
-
-https://github.com/zdz/ServerStatus-Rust
-
-- 🐙 **Source Code:** [https://github.com/zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)
-- 👤 **Developer:** [zdz](https://github.com/zdz)
-
-
----
-
-### 📦 Virtualapp
-
-> **Categories:** `#java` `#android` `#framework` `#plugin` `#plugin_manager`
-
-VirtualApp (VA) is a lightweight virtual machine for Android that allows you to run multiple apps in a sandboxed environment. Here are the key benefits VA enables you to install and run multiple instances of the same app, such as having two WhatsApp or QQ accounts on one phone.
-- **Security and Isolation** VA supports Java and Native hooking, allowing you to monitor and control app behavior without rooting the device.
-- **Google Services Support** VA is highly performant, compatible with Android versions from 5.0 to 15.0, and supports both 32-bit and 64-bit apps.
-- **Easy Integration**: VA is easy to integrate into existing apps, even those already live on the market, and provides APIs for simple development.
-
-Overall, VA offers a robust solution for app management, security, and multi-instance running, making it versatile for various use cases.
-
-https://github.com/asLody/VirtualApp
-
-- 🐙 **Source Code:** [https://github.com/asLody/VirtualApp](https://github.com/asLody/VirtualApp)
-- 👤 **Developer:** [asLody](https://github.com/asLody)
-
-
----
-
-### 📦 Rapidjson
-
-> **Categories:** `#cplusplus`
-
-RapidJSON is a fast and efficient JSON parser and generator for C++. It is small, complete, and supports both SAX and DOM style APIs. Here are the key benefits Comparable to `strlen()` and optionally uses SSE2/SSE4.2 for acceleration.
-- **Memory-Friendly** Handles UTF-8, UTF-16, UTF-32, and their detection, validation, and transcoding.
-- **Easy Installation** Works on various platforms including Windows, Linux, Mac OS X, iOS, and Android.
-
-Using RapidJSON helps you parse and generate JSON quickly and efficiently without depending on external libraries like BOOST or STL. This makes it a great tool for developers working with JSON data in C++.
-
-https://github.com/Tencent/rapidjson
-
-- 🐙 **Source Code:** [https://github.com/Tencent/rapidjson](https://github.com/Tencent/rapidjson)
-- 👤 **Developer:** [Tencent](https://github.com/Tencent)
-
-
----
-
-### 📦 Grpc Java
-
-> **Categories:** `#java`
-
-gRPC-Java is a library that helps you communicate between different parts of your application efficiently. It supports Java 8 and later, including Android devices from Lollipop onwards. You can use it to create robust and scalable services by generating code from protocol buffer definitions. The library has three main layers: Stub for type-safe bindings, Channel for handling transport and interceptions, and Transport for managing network communications. It offers multiple transport implementations, such as Netty and OkHttp, making it flexible for various environments, including Android. This makes it easier to build reliable and efficient communication systems in your applications.
-
-https://github.com/grpc/grpc-java
-
-- 🐙 **Source Code:** [https://github.com/grpc/grpc-java](https://github.com/grpc/grpc-java)
-- 👤 **Developer:** [grpc](https://github.com/grpc)
-
-
----
-
-### 📦 Xx Net
-
-> **Categories:** `#python` `#gfw` `#goagent` `#proxy` `#uncensored` `#vpn`
-
-XX-Net is a reliable system to bypass internet restrictions, running for 9 years. It works by making your internet traffic look like normal traffic, so it can't be detected. It supports many platforms like Android, iOS, Windows, Mac, and Linux. The software is open-source, doesn't need installation, and can connect multiple devices at once. It also includes ChatGPT with a million tokens. This helps you access the internet freely and securely without being detected, and you get additional AI assistance with ChatGPT.
-
-https://github.com/XX-net/XX-Net
-
-- 🐙 **Source Code:** [https://github.com/XX-net/XX-Net](https://github.com/XX-net/XX-Net)
-- 👤 **Developer:** [XX-net](https://github.com/XX-net)
-
-
----
-
-### 📦 Winit
-
-> **Categories:** `#rust` `#android` `#gui` `#ios` `#macos` `#rust_lang` `#wasm` `#wayland` `#windowing` `#windows` `#x11`
-
-Winit is a library that helps you create and manage windows on different platforms using the Rust programming language. It allows you to handle events like window resizing, key presses, and mouse movements. To show something on the window, you need to use platform-specific functions or another library. The benefit to you is that Winit provides a flexible and low-level way to manage windows, making it easier to build cross-platform applications such as games or graphical user interfaces.
-
-https://github.com/rust-windowing/winit
-
-- 🐙 **Source Code:** [https://github.com/rust-windowing/winit](https://github.com/rust-windowing/winit)
-- 👤 **Developer:** [rust-windowing](https://github.com/rust-windowing)
-
-
----
-
-### 📦 Bv
-
-> **Categories:** `#kotlin`
-
-BV is an Android TV app for Bilibili, made using Jetpack Compose and compatible with Android 5.0 and above. It is not available for use in mainland China. The app has a unique design and may have some bugs, but it offers a different user experience. You can download the stable or alpha version from GitHub. The benefit to you is that you get to use a third-party app with a distinct look and feel, although it might be a bit challenging to use due to its unconventional design.
-
-https://github.com/aaa1115910/bv
-
-- 🐙 **Source Code:** [https://github.com/aaa1115910/bv](https://github.com/aaa1115910/bv)
-- 👤 **Developer:** [aaa1115910](https://github.com/aaa1115910)
-
-
----
-
-### 📦 Gmscore
-
-> **Categories:** `#java` `#android` `#auth` `#cloud_messaging` `#firebase` `#geolocation` `#google` `#google_cloud_messaging` `#kotlin` `#kotlin_android` `#maps` `#microg` `#mobile` `#push_notifications` `#Implementation` `#GitHub` `#OpenSource`
-
-microG Services is a free and open-source framework that lets apps designed for Google Play Services work on devices where Play Services is not available. This means you can use many popular apps even if your device doesn't support Google Play Services. To get started, you can find downloads and instructions in the wiki. The project is also open to translations, and it's licensed under the Apache License, which allows free use and modification. This benefits users by giving them more app options on devices that otherwise wouldn't support them.
-
-https://github.com/microg/GmsCore
-
-- 🐙 **Source Code:** [https://github.com/microg/GmsCore](https://github.com/microg/GmsCore)
-- 👤 **Developer:** [microg](https://github.com/microg)
-
-
----
-
-### 📦 Tts Server Android
-
-> **Categories:** `#kotlin` `#android` `#compose_ui` `#golang` `#jetpack_compose` `#legado` `#microsoft` `#tts`
-
-This app is a text-to-speech (TTS) server that can read text aloud. It has many useful features like using Microsoft's TTS interface, custom HTTP requests, and importing other local TTS engines. It also recognizes Chinese dialogue and can automatically retry if there's an issue. You can customize the reading rules and add different voices. The app is easy to download and install, and it supports multiple languages. This makes it very helpful for people who want to listen to text instead of reading it.
-
-https://github.com/jing332/tts-server-android
-
-- 🐙 **Source Code:** [https://github.com/jing332/tts-server-android](https://github.com/jing332/tts-server-android)
-- 👤 **Developer:** [jing332](https://github.com/jing332)
-
-
----
-
-### 📦 Bangumi
-
-> **Categories:** `#typescript` `#android` `#android_app` `#bangumi` `#design` `#expo` `#ios` `#ios_app` `#mobx` `#moe` `#react` `#react_native`
-
-This app, called Bangumi, is a third-party client for the Bangumi website, which helps you manage and track your progress on anime, manga, music, Japanese dramas, games, and more. It works on both iOS and Android devices and has over 100 pages designed for mobile use, covering almost all the features of the website.
-
-The app includes basic functions like managing your watch list, viewing character details, timelines, posts, and user spaces. It also has extended features such as syncing data from other sites like Bilibili and Douban, stable data display using a CDN, photo walls, AI recommendations, and more.
-
-Using this app benefits you by providing a convenient and comprehensive way to manage your media consumption on the go, with a user-friendly interface and additional features to enhance your experience.
-
-https://github.com/czy0729/Bangumi
-
-- 🐙 **Source Code:** [https://github.com/czy0729/Bangumi](https://github.com/czy0729/Bangumi)
-- 👤 **Developer:** [czy0729](https://github.com/czy0729)
-
-
----
-
-### 📦 Aliyunpan
-
-> **Categories:** `#go` `#adrive` `#backup` `#linux` `#macos` `#sync` `#windows`
-
-This tool is a command-line client for Aliyun Pan, similar to Linux shell commands. It supports multiple platforms like Windows, macOS, Linux, Android, and iOS. You can use it to download and upload files, sync your local and cloud files, and even batch download photos and videos from your album.
-
-The benefits include Works on various operating systems.
-- **Sync and backup** Supports JavaScript plugins to customize upload and download behaviors.
-- **Efficient downloads** Includes commands like `ls`, `cd`, `mkdir`, `upload`, and `download` for easy file management.
-
-Overall, it makes managing your Aliyun Pan cloud storage more efficient and flexible.
-
-https://github.com/tickstep/aliyunpan
-
-- 🐙 **Source Code:** [https://github.com/tickstep/aliyunpan](https://github.com/tickstep/aliyunpan)
-- 👤 **Developer:** [tickstep](https://github.com/tickstep)
-
-
----
-
-### 📦 Sherpa Onnx
-
-> **Categories:** `#cplusplus` `#aarch64` `#android` `#arm32` `#asr` `#cpp` `#csharp` `#dotnet` `#ios` `#lazarus` `#linux` `#macos` `#mfc` `#object_pascal` `#onnx` `#raspberry_pi` `#risc_v` `#speech_to_text` `#text_to_speech` `#vits` `#windows`
-
-This tool supports various speech functions like speech recognition, text-to-speech, speaker identification, and more. It works on multiple platforms including Android, iOS, Windows, macOS, and Linux, and supports several programming languages such as C++, Python, JavaScript, and others. You can use it locally or through web assembly, making it versatile and convenient. This benefits you by allowing you to integrate advanced speech capabilities into your projects easily, regardless of the platform or programming language you use.
-
-https://github.com/k2-fsa/sherpa-onnx
-
-- 🐙 **Source Code:** [https://github.com/k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-- 👤 **Developer:** [k2-fsa](https://github.com/k2-fsa)
-
-
----
-
-### 📦 Googlefindmytools
-
-> **Categories:** `#python`
-
-This tool helps you manage and track your devices like those in Google's Find My Device network. You can query and decrypt location data from these devices, and even register your own custom trackers using ESP32 or Zephyr devices. To use it, you need to install required packages and have the latest Google Chrome. The benefit is that you can keep track of your devices more easily and securely, even if they are not traditional Android devices. It also allows you to create your own custom trackers, giving you more control over tracking your belongings.
-
-https://github.com/leonboe1/GoogleFindMyTools
-
-- 🐙 **Source Code:** [https://github.com/leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools)
-- 👤 **Developer:** [leonboe1](https://github.com/leonboe1)
-
-
----
-
-### 📦 Ggwave
-
-> **Categories:** `#cplusplus` `#arduino` `#data_over_sound` `#ecc` `#fsk` `#internet_of_things` `#modem` `#pairing` `#python` `#qrcode` `#serverless` `#sound_library` `#ultrasound` `#GitHub` `#OpenSource`
-
-**ggwave** is a small library that lets you send and receive data using sound. It works with devices like smartphones and microcontrollers, allowing them to communicate without needing the internet. This can be useful for sharing files or sending commands between devices in the same room. The library uses a special way of encoding data into sound waves, making it robust against background noise. Users can test it easily with apps like Waver on Android, iOS, or even in a web browser[1][3].
-
-https://github.com/ggerganov/ggwave
-
-- 🐙 **Source Code:** [https://github.com/ggerganov/ggwave](https://github.com/ggerganov/ggwave)
-- 👤 **Developer:** [ggerganov](https://github.com/ggerganov)
-
-
----
-
-### 📦 Appium Device Farm
-
-> **Categories:** `#typescript` `#android` `#appium` `#appium_device_farm` `#appium_plugin` `#device_farm` `#driver_session` `#ios_simulators` `#parallel_testing` `#plugin` `#polling`
-
-Appium Device-farm is a tool that helps developers and testers automate testing on many different devices, like Android and iOS phones. It allows teams to test apps remotely without needing physical devices, which saves time and money. The tool also lets you run tests automatically across multiple devices at once, making it faster to find and fix problems. Additionally, it integrates well with continuous integration workflows, helping catch bugs early in development. This makes the testing process more efficient and reliable, ensuring apps work well on various devices before they are released.
-
-https://github.com/AppiumTestDistribution/appium-device-farm
-
-- 🐙 **Source Code:** [https://github.com/AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm)
-- 👤 **Developer:** [AppiumTestDistribution](https://github.com/AppiumTestDistribution)
-
-
----
-
-### 📦 Faceverificationsdk
-
-> **Categories:** `#java` `#anti_spoofing` `#face_ai` `#face_recognition` `#face_search` `#face_verification` `#face_verify` `#liveness_detection` `#on_device_ai`
-
-The Umbrella FaceAI SDK is a powerful tool for Android devices that allows offline face detection, recognition, and liveness detection. It can be used in various applications like mobile attendance systems, app logins, and smart door locks. The SDK works without an internet connection, ensuring privacy by not storing or uploading sensitive facial data. This makes it secure and efficient for users who need fast and accurate face recognition capabilities on their devices. By integrating this SDK, developers can enhance user experiences while maintaining high security standards.
-
-https://github.com/AnyLifeZLB/FaceVerificationSDK
-
-- 🐙 **Source Code:** [https://github.com/AnyLifeZLB/FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK)
-- 👤 **Developer:** [AnyLifeZLB](https://github.com/AnyLifeZLB)
-
-
----
-
-### 📦 Duix.Ai
-
-> **Categories:** `#cplusplus`
-
-DUIX is a platform that lets developers create digital humans for interaction. It uses AI to recognize speech and convert text into speech, making it easy to communicate with these digital humans. DUIX supports deployment on Android and iOS devices without needing a lot of technical help, which keeps costs low. This technology can be used in many industries like customer service, media, and finance. Users benefit from its ease of use and versatility across different platforms.
-
-https://github.com/GuijiAI/duix.ai
-
-- 🐙 **Source Code:** [https://github.com/GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai)
-- 👤 **Developer:** [GuijiAI](https://github.com/GuijiAI)
-
-
----
-
-### 📦 Signal Android
-
-> **Categories:** `#kotlin` `#GitHub` `#OpenSource`
-
-Signal is a simple and secure messaging app that lets you send messages and make voice or video calls using your phone's internet connection. It keeps your communications private with end-to-end encryption, meaning only you and the person you're talking to can see or hear what you share. Signal is free, available on many devices, and doesn't show ads or track you. This helps you stay connected safely and privately with friends and family anywhere in the world.
-
-https://github.com/signalapp/Signal-Android
-
-- 🐙 **Source Code:** [https://github.com/signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-- 👤 **Developer:** [signalapp](https://github.com/signalapp)
-
-
----
-
-### 📦 Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
-
-> **Categories:** `#cplusplus`
-
-Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
-
-https://github.com/google/perfetto
-
-- 🐙 **Source Code:** [https://android.googlesource.com/platform/external/perfetto](https://android.googlesource.com/platform/external/perfetto)
-
-
----
-
-### 📦 Ffmpeg Kit
-
-> **Categories:** `#c_lang` `#android` `#ffmpeg` `#flutter` `#ios` `#linux` `#macos` `#react_native` `#tvos`
-
-FFmpegKit is a tool that helps developers use FFmpeg in various applications like Android, iOS, and more. It has been retired, meaning there won't be any new updates. This tool was useful for converting video and audio files, but now users need to find alternative solutions. The benefit of using FFmpegKit was its ability to easily handle media processing tasks across different platforms, making it convenient for developers. However, with its retirement, developers must look for other tools to achieve similar functionalities.
-
-https://github.com/arthenica/ffmpeg-kit
-
-- 🐙 **Source Code:** [https://github.com/arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
-- 👤 **Developer:** [arthenica](https://github.com/arthenica)
-
-
----
-
-### 📦 Mnn
-
-> **Categories:** `#cplusplus` `#arm` `#convolution` `#deep_learning` `#embedded_devices` `#llm` `#machine_learning` `#ml` `#mnn` `#transformer` `#vulkan` `#winograd_algorithm` `#GitHub` `#OpenSource`
-
-MNN is a lightweight and efficient deep learning framework that helps run AI models on mobile devices and other small devices. It supports many types of AI models and can handle tasks like image recognition and language processing quickly and locally on your device. This means you can use AI features without needing to send data to the cloud, which improves privacy and speed. MNN is used in many apps, including those from Alibaba, and supports various platforms like Android and iOS. It also helps reduce the size of AI models, making them faster and more efficient.
-
-https://github.com/alibaba/MNN
-
-- 🐙 **Source Code:** [https://github.com/alibaba/MNN](https://github.com/alibaba/MNN)
-- 👤 **Developer:** [alibaba](https://github.com/alibaba)
-
-
----
-
-### 📦 Compose Multiplatform
-
-> **Categories:** `#kotlin` `#android` `#awt` `#compose` `#declarative_ui` `#desktop` `#gui` `#ios` `#javascript` `#multiplatform` `#reactive` `#swing` `#ui` `#wasm` `#web` `#webassembly` `#GitHub` `#OpenSource`
-
-Compose Multiplatform is a Kotlin-based framework by JetBrains that lets you build user interfaces for multiple platforms—iOS, Android, desktop (Windows, macOS, Linux), and web—using mostly shared code. It is based on Jetpack Compose for Android, so you can use similar APIs across platforms, speeding up development and ensuring consistent UI design. iOS support is in beta, web is in alpha, and desktop and Android are stable. You can also access native features like camera or maps easily. This helps you save time, reduce bugs, and create apps that work well everywhere with less effort.
-
-https://github.com/JetBrains/compose-multiplatform
-
-- 🐙 **Source Code:** [https://github.com/JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
-- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
-
-
----
-
-### 📦 React Native
-
-> **Categories:** `#cplusplus` `#android` `#app_framework` `#cross_platform` `#ios` `#mobile` `#mobile_development` `#react` `#react_native` `#GitHub` `#OpenSource`
-
-React Native lets you build mobile apps for both iOS and Android using just one set of code, which saves a lot of time and effort compared to making separate apps for each platform. You use familiar JavaScript and React skills, and your app looks and feels like a native app on each device. Changes to your code show up quickly, so you can test and improve your app fast. This means you can get your app to users sooner, with less work and cost, and you can easily update or add new features as needed[1][3][5].
-
-https://github.com/facebook/react-native
-
-- 🐙 **Source Code:** [https://github.com/facebook/react-native](https://github.com/facebook/react-native)
-- 👤 **Developer:** [facebook](https://github.com/facebook)
-
-
----
-
-### 📦 Nowinandroid
-
-> **Categories:** `#kotlin` `#android` `#jetpack_compose` `#GitHub` `#OpenSource`
-
-Now in Android is a real-world app built with Kotlin and Jetpack Compose, designed to show developers how to make modern Android apps using best practices. It lets you browse and follow news, videos, and articles about Android development, and notifies you about new content matching your interests. The app is open-source, so you can see how it’s built, learn from its architecture and modularization, and use it as a reference for your own projects. This helps you stay updated on Android news and improve your app-building skills by seeing how a professional app is structured and tested[2][4][5].
-
-https://github.com/android/nowinandroid
-
-- 🐙 **Source Code:** [https://github.com/android/nowinandroid](https://github.com/android/nowinandroid)
-- 👤 **Developer:** [android](https://github.com/android)
-
-
----
-
-### 📦 Assimp
-
-> **Categories:** `#cplusplus` `#3mf` `#android` `#asset_pipeline` `#assets` `#assimp` `#c_plus_plus` `#collada` `#dae` `#fbx` `#fbx_exporter` `#game_development` `#gamedev_tool` `#gamedevelopment` `#gltf` `#gltf2` `#ifc` `#patreon` `#python` `#stl`
-
-The Open Asset Import Library (Assimp) is a tool that helps load many different 3D file formats into a common format. It supports over 40 formats for importing and several for exporting. Assimp works on various platforms like Windows, macOS, Linux, Android, and iOS. It also provides tools to improve the 3D models, such as fixing errors and making them look better. This library is useful for developers because it simplifies working with different 3D file types, making it easier to create and manage 3D content across different systems.
-
-https://github.com/assimp/assimp
-
-- 🐙 **Source Code:** [https://github.com/assimp/assimp](https://github.com/assimp/assimp)
-- 👤 **Developer:** [assimp](https://github.com/assimp)
-
-
----
-
-### 📦 Note Gen
-
-> **Categories:** `#typescript` `#assistant` `#chatbot` `#knowledge_base` `#llm` `#markdown` `#nextjs` `#note_taking` `#notes_app` `#openai` `#rag` `#tauri` `#webdav`
-
-NoteGen is a helpful tool for taking notes. It works on many devices like Mac, Windows, and Linux, and will soon work on iOS and Android. It uses AI to help you organize your recordings into readable notes. You can record audio, take screenshots, and add text or images to your notes. NoteGen also supports Markdown, which makes it easy to format your notes. It helps you save time by automatically organizing your recordings and allows you to use AI models like ChatGPT for assistance. This makes it easier to write and manage your notes efficiently.
-
-https://github.com/codexu/note-gen
-
-- 🐙 **Source Code:** [https://github.com/codexu/note-gen](https://github.com/codexu/note-gen)
-- 👤 **Developer:** [codexu](https://github.com/codexu)
-
-
----
-
-### 📦 Vosk Api
-
-> **Categories:** `#jupyter_notebook` `#android` `#asr` `#deep_learning` `#deep_neural_networks` `#deepspeech` `#google_speech_to_text` `#ios` `#kaldi` `#offline` `#privacy` `#python` `#raspberry_pi` `#speaker_identification` `#speaker_verification` `#speech_recognition` `#speech_to_text` `#speech_to_text_android` `#stt` `#voice_recognition` `#vosk` `#Speech` `#Recognition` `#Java` `#CSharp` `#Cpp` `#NodeJS`
-
-Vosk is a powerful tool for recognizing speech without needing the internet. It supports over 20 languages and dialects, making it useful for many different users. Vosk is small and efficient, allowing it to work on small devices like smartphones and Raspberry Pi. It can be used for things like chatbots, smart home devices, and creating subtitles for videos. This means users can have private and fast speech recognition anywhere, which is especially helpful when internet access is limited.
-
-https://github.com/alphacep/vosk-api
-
-- 🐙 **Source Code:** [https://github.com/alphacep/vosk-api](https://github.com/alphacep/vosk-api)
-- 👤 **Developer:** [alphacep](https://github.com/alphacep)
-
-
----
-
-### 📦 Geyser
-
-> **Categories:** `#java` `#bedrock` `#bedrock_edition` `#bedrock_to_java` `#bungee` `#fabric` `#geyser` `#geysermc` `#hacktoberfest` `#java_edition` `#minecraft` `#minecraft_bedrock_edition` `#packet` `#pe` `#protocol` `#proxy` `#spigot` `#translator` `#velocity`
-
-Geyser is a free tool that lets you play Minecraft across different versions by connecting Minecraft Java Edition servers. It works by translating data between the two game versions, enabling cross-platform play on devices like Windows, iOS, Android, and consoles. You can install it as a plugin or standalone, and it supports recent Minecraft versions. This means you can join Java servers even if you only have Bedrock Edition, expanding your multiplayer options without needing a separate Java account if you use the Floodgate plugin. It’s great for seamless crossplay but may have some minor limitations due to game differences[1][2][5].
-
-https://github.com/GeyserMC/Geyser
-
-- 🐙 **Source Code:** [https://github.com/GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
-- 👤 **Developer:** [GeyserMC](https://github.com/GeyserMC)
-
-
----
-
-### 📦 Thorium
-
-> **Categories:** `#cplusplus` `#aes` `#avx` `#avx_instructions` `#chrome` `#chrome_devtools` `#chromedriver` `#chromium` `#chromium_browser` `#content_shell` `#jpeg_xl` `#jpegxl` `#jxl` `#libjxl` `#linux` `#thorium` `#thorium_browser` `#thoriumos` `#web_browser` `#web_platform` `#webbrowser`
-
-Thorium is a fast, optimized web browser based on Chromium, designed to work well on modern CPUs with advanced instruction sets like AVX and SSE4. It offers better performance than standard Chromium and Chrome, opening tabs and rendering pages quickly. Thorium includes enhanced privacy features such as DNS over HTTPS and Do Not Track enabled by default, plus support for modern media formats like HEVC and JPEG XL. It keeps the familiar Chrome interface and supports all Chrome extensions, making it easy to switch. Available on Windows, Linux, macOS, Android, and Raspberry Pi, it suits users wanting speed, privacy, and compatibility across devices[3][5][1].
-
-https://github.com/Alex313031/thorium
-
-- 🐙 **Source Code:** [https://github.com/Alex313031/thorium](https://github.com/Alex313031/thorium)
-- 👤 **Developer:** [Alex313031](https://github.com/Alex313031)
-
-
----
-
-### 📦 Gyroflow
-
-> **Categories:** `#rust` `#fpv` `#gopro` `#gpu` `#gpu_computing` `#gyroscope` `#insta360` `#rolling_shutter_undistortion` `#sony_alpha_cameras` `#stabilization` `#video` `#video_processing` `#Interesting` `#Useful`
-
-Gyroflow is a powerful video stabilization software that uses gyroscope data from cameras like GoPro, Sony, and Insta360 to make your videos smooth and steady. It corrects lens distortion, rolling shutter effects, and can even level the horizon for a professional look. You can preview changes in real-time, use GPU acceleration for fast processing, and apply stabilization directly in popular video editors with plugins. It supports many video formats and works on Windows, Mac, Linux, Android, and iOS. Using Gyroflow helps you create high-quality, cinematic videos without bulky equipment or complicated setups[1][3][5].
-
-https://github.com/gyroflow/gyroflow
-
-- 🐙 **Source Code:** [https://github.com/gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
-- 👤 **Developer:** [gyroflow](https://github.com/gyroflow)
-
-
----
-
-### 📦 Proxypin
-
-> **Categories:** `#dart` `#capture_traffic` `#httpdebug` `#proxy` `#proxypin` `#zhuabao`
-
-ProxyPin is a free, open-source tool that lets you capture, inspect, and modify HTTP(S) traffic on many devices like Windows, Mac, Android, iOS, and Linux. It’s easy to use with a nice interface and supports features like scanning QR codes to connect devices without manual setup, filtering traffic by domain, searching requests, rewriting or blocking requests, and saving traffic history. You can also write JavaScript scripts to customize how requests and responses are handled. This helps you debug network issues, analyze app traffic (including Flutter apps), and improve security or performance efficiently across platforms[1][3].
-
-https://github.com/wanghongenpin/proxypin
-
-- 🐙 **Source Code:** [https://github.com/wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
-- 👤 **Developer:** [wanghongenpin](https://github.com/wanghongenpin)
-
-
----
-
-### 📦 Wirelessandroidautodongle
-
-> **Categories:** `#cplusplus` `#android_auto` `#android_automotive` `#headunit` `#wireless_android_auto`
-
-You can turn your car’s wired Android Auto into wireless using a Raspberry Pi and a special software called Wireless Android Auto Dongle. This DIY adapter connects your phone to the car wirelessly via Bluetooth and Wi-Fi, without needing extra apps on your phone. It works with several Raspberry Pi models and boots up quickly, connecting in under 30 seconds. After the first setup, it automatically connects every time you start your car, making your Android Auto experience seamless and cable-free. This saves you from plugging in your phone every time and keeps your car’s infotainment system working smoothly[1][2][3].
-
-https://github.com/nisargjhaveri/WirelessAndroidAutoDongle
-
-- 🐙 **Source Code:** [https://github.com/nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle)
-- 👤 **Developer:** [nisargjhaveri](https://github.com/nisargjhaveri)
-
-
----
-
-### 📦 Pakeplus
-
-> **Categories:** `#vue` `#pake` `#pakeplus` `#rust` `#tauri` `#tauri2` `#vue3` `#webapp`
-
-You can quickly turn any website or web project like Vue or React into a small, fast desktop or mobile app under 5MB using PakePlus. It works on Mac, Windows, Linux, Android, and iOS without needing complex setups. PakePlus is much smaller and faster than similar tools, supports custom JavaScript, and keeps your data secure by using your own GitHub repository. It’s easy to use with just one GitHub token or even without one for local packaging. This helps you create apps fast, hide website addresses, add custom features, and run your web projects as apps on many platforms.
-
-https://github.com/Sjj1024/PakePlus
-
-- 🐙 **Source Code:** [https://github.com/Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus)
-- 👤 **Developer:** [Sjj1024](https://github.com/Sjj1024)
-
-
----
-
-### 📦 Copyparty
-
-> **Categories:** `#python` `#copyparty` `#file_server` `#file_sharing` `#file_upload_server` `#ftp_server` `#nas_frontend` `#tftp_server` `#webdav_server` `#GitHub` `#OpenSource`
-
-Copyparty is a free, open-source file server that runs on almost any device with Python, letting you share files easily through any web browser or protocols like FTP, WebDAV, and SMB. It supports resumable, fast uploads and downloads, folder zipping, media streaming, and file searching. You can upload by dragging files into the browser, and uploads resume automatically if interrupted. It works on many platforms including Windows, Linux, Mac, Android, and even old browsers or devices. Copyparty is lightweight, flexible, and secure, with features like password protection, file deduplication, and temporary file sharing. This makes it a powerful tool for simple, fast, and versatile file sharing without complex setup.
-
-https://github.com/9001/copyparty
-
-- 🐙 **Source Code:** [https://github.com/9001/copyparty](https://github.com/9001/copyparty)
-- 👤 **Developer:** [9001](https://github.com/9001)
-
-
----
-
-### 📦 Sillytavern
-
-> **Categories:** `#javascript` `#ai` `#chat` `#llm`
-
-SillyTavern is a free, open-source program you install on your own device that lets you chat with AI characters you create or import. It supports many AI models for text, images, and voice, and offers lots of customization like character personalities, group chats, and automatic translation. It works on most computers and even Android via Termux. You get full control over AI prompts and can save chat history to continue anytime. This means you can have fun, creative conversations or use AI for writing help, all privately without online tracking. It’s great for anyone wanting a powerful, flexible AI chat experience on their own terms[1][2][3][4].
-
-https://github.com/SillyTavern/SillyTavern
-
-- 🐙 **Source Code:** [https://github.com/SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
-- 👤 **Developer:** [SillyTavern](https://github.com/SillyTavern)
-
-
----
-
-### 📦 Fgo Py
-
-> **Categories:** `#python` `#adb` `#airtest` `#cv` `#fate_grand_order` `#fgo` `#qt6`
-
-This program automates playing Fate/Grand Order on Android in multiple languages (Chinese, Japanese, English, Taiwanese). It can run on Windows, Linux, Mac, Android, and Docker, requiring minimal setup. It smartly controls battles by choosing skills, cards, and support servants without needing manual input or special equipment. It also automates weekly missions, friend support selection, and item management, saving you time and effort. You can run it on your phone or PC, even using tools like AidLux or AzurLaneAutoScript. It helps you farm efficiently without worrying about complicated setups or "best" cards, making the game easier and less time-consuming[5].
-
-https://github.com/hgjazhgj/FGO-py
-
-- 🐙 **Source Code:** [https://github.com/hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py)
-- 👤 **Developer:** [hgjazhgj](https://github.com/hgjazhgj)
-
-
----
-
-### 📦 Revanced Manager
-
-> **Categories:** `#dart` `#android` `#flutter` `#flutter_apps` `#manager` `#modding` `#patching` `#revanced` `#Interesting` `#YouTube`
-
-ReVanced Manager is an app for Android that lets you customize and patch other apps, like YouTube, to remove ads and add features without needing subscriptions. It is easy to use, works on both rooted and non-rooted devices, and offers many options to tailor apps to your liking. You download the official app, then apply patches you want, creating a personalized, ad-free experience. This saves you money and improves app use while staying legal and supported by an active community. It is lightweight, regularly updated, and has a simple interface, making app customization safe and convenient[1][3][5].
-
-https://github.com/ReVanced/revanced-manager
-
-- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
-- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
-
-
----
-
-### 📦 Dart Simple Live
-
-> **Categories:** `#dart`
-
-You can watch live streams simply on multiple platforms like Huya, Douyu, Bilibili, and Douyin using an app called Simple Live. It works on Android, iOS, Windows, MacOS, Linux, and Android TV, though some versions are still in beta. The app is built with Flutter and includes features to get live video and chat messages (danmaku) from these sites. You need to compile the app yourself since no ready-made installer is provided. This gives you a lightweight, easy way to watch live broadcasts from popular Chinese streaming platforms on many devices without extra cost or ads.
-
-https://github.com/xiaoyaocz/dart_simple_live
-
-- 🐙 **Source Code:** [https://github.com/xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
-- 👤 **Developer:** [xiaoyaocz](https://github.com/xiaoyaocz)
-
-
----
-
-### 📦 Docker Android
-
-> **Categories:** `#python` `#alibabacloud` `#android` `#android_emulator` `#aws` `#azure` `#cloud` `#docker` `#docker_android` `#emulator` `#gcp` `#genymotion` `#jenkins` `#kubernetes` `#mobile_app` `#mobile_web` `#novnc` `#saltstack` `#selenium` `#selenium_grid` `#terraform` `#shell` `#ci_pipeline` `#GitHub` `#OpenSource`
-
-You can use Docker-Android to run Android emulators inside Docker containers, which helps you develop and test Android apps easily without needing physical devices. It offers many device profiles like Samsung Galaxy and Nexus models, supports viewing the emulator via VNC, sharing logs through a web interface, and controlling the emulator remotely with adb. It works on Ubuntu and can integrate with cloud services like Genymotion. This setup speeds up development, testing, and automation, making your workflow more consistent and efficient while saving resources. You can also persist data and run unit or UI tests with popular frameworks like Appium and Espresso. This helps you build and test Android apps faster and more reliably.
-
-https://github.com/budtmo/docker-android
-
-- 🐙 **Source Code:** [https://github.com/budtmo/docker-android](https://github.com/budtmo/docker-android)
-- 👤 **Developer:** [budtmo](https://github.com/budtmo)
-
-
----
-
-### 📦 Koog
-
-> **Categories:** `#kotlin` `#agentframework` `#agentic_ai` `#agents` `#ai` `#aiagentframework` `#android_ai` `#anthropic` `#generative_ai` `#java` `#jvm` `#ktor` `#llm` `#mcp` `#ollama` `#openai` `#spring`
-
-Koog is a Kotlin-based open-source framework that helps you build AI agents fully in Kotlin, making it easy to create smart assistants that can use tools, manage complex tasks, and remember past interactions. It supports multiple AI models like OpenAI and Google, runs on many platforms (JVM, JavaScript, iOS), and offers features like real-time streaming, custom tools, and efficient memory use. Koog also provides debugging tools, flexible workflows, and scales from simple chatbots to enterprise systems. Using Koog lets you develop powerful, maintainable AI agents quickly and naturally within the Kotlin ecosystem, benefiting your projects with speed, flexibility, and strong integration options.
-
-https://github.com/JetBrains/koog
-
-- 🐙 **Source Code:** [https://github.com/JetBrains/koog](https://github.com/JetBrains/koog)
-- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
-
-
----
-
-### 📦 Revanced Patches
-
-> **Categories:** `#java` `#android` `#dalvik` `#kotlin` `#patches` `#revanced` `#reverse_engineering`
-
-ReVanced Patches let you customize Android apps by adding new features, blocking ads, changing how apps look, and more. You can remove annoying ads, personalize app themes, enable background playback, and unlock extra controls. Using tools like ReVanced Manager, you can easily apply these patches without technical hassle. This means you get a cleaner, more enjoyable app experience, especially for apps like YouTube, without paying for premium versions. It also supports ongoing updates and a community that keeps improving it, so your apps stay fresh and tailored to your needs.
-
-https://github.com/ReVanced/revanced-patches
-
-- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
-
-
----
-
-### 📦 Ticket Purchase
-
-> **Categories:** `#python`
-
-You can use a Python script with Selenium or Appium to automatically buy tickets on Damai (大麦网) without delay. By setting up Python, installing required packages, and configuring a file with your desired concert details (like city, date, price, and attendees), the script simulates the buying process and can auto-submit orders for you. This saves you time and effort, increasing your chances of getting tickets quickly during high-demand sales. For mobile app ticket buying, Appium automates the process but requires extra setup like Node.js and Android SDK. This automation helps you avoid manual refreshing and speeds up ticket purchase.
-
-https://github.com/WECENG/ticket-purchase
-
-- 🐙 **Source Code:** [https://github.com/WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
-- 👤 **Developer:** [WECENG](https://github.com/WECENG)
-
-
----
-
-### 📦 Libdatachannel
-
-> **Categories:** `#cplusplus` `#c_plus_plus` `#cpp` `#datachannel` `#libdatachannel` `#libnice` `#p2p` `#peer_to_peer` `#peerconnection` `#rfc_8831` `#rfc_8834` `#rtcdatachannel` `#rtcpeerconnection` `#sctp` `#webrtc` `#webrtc_datachannel` `#webrtc_video` `#websocket`
-
-libdatachannel is a lightweight, easy-to-use C/C++ library that lets you add real-time peer-to-peer data, media, and WebSocket communication to your apps across many platforms like Linux, Windows, macOS, Android, and iOS. It simplifies WebRTC by providing a smaller, simpler alternative to Google's library, with compatibility for browsers like Firefox and Chrome. You can use it to connect native apps directly to web browsers with minimal dependencies, supporting secure connections via GnuTLS, Mbed TLS, or OpenSSL. It also supports compiling to WebAssembly for browser use, making it flexible for cross-platform real-time communication development[1][4]. This helps you build fast, efficient apps for video, audio, or data sharing without heavy libraries.
-
-https://github.com/paullouisageneau/libdatachannel
-
-- 🐙 **Source Code:** [https://github.com/paullouisageneau/libdatachannel](https://github.com/paullouisageneau/libdatachannel)
-- 👤 **Developer:** [paullouisageneau](https://github.com/paullouisageneau)
-
-
----
-
-### 📦 Paddle Lite
-
-> **Categories:** `#cplusplus` `#arm` `#baidu` `#deep_learning` `#embedded` `#fpga` `#mali` `#mdl` `#mobile` `#mobile_deep_learning` `#neural_network`
-
-Paddle Lite is a lightweight, high-performance deep learning inference framework designed to run AI models efficiently on mobile, embedded, and edge devices. It supports multiple platforms like Android, iOS, Linux, Windows, and macOS, and languages including C++, Java, and Python. You can easily convert models from other frameworks to PaddlePaddle format, optimize them for faster and smaller deployment, and run them with ready-made examples. This helps you deploy AI applications quickly on various devices with low memory use and fast speed, making it ideal for real-time, resource-limited environments. It also supports many hardware accelerators for better performance.
-
-https://github.com/PaddlePaddle/Paddle-Lite
-
-- 🐙 **Source Code:** [https://github.com/PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
-- 👤 **Developer:** [PaddlePaddle](https://github.com/PaddlePaddle)
-
-
----
-
-### 📦 Ggml
-
-> **Categories:** `#cplusplus` `#automatic_differentiation` `#large_language_models` `#machine_learning` `#tensor_algebra`
-
-GGML is a lightweight, efficient tensor library written in C that helps you run large machine learning models on everyday hardware like laptops, phones, and even Raspberry Pi. It supports integer quantization (reducing model size and speeding up processing), automatic differentiation, and works across many platforms without needing extra software. GGML uses zero memory allocation during runtime, which improves performance and is great for edge devices with limited resources. You can build and run models easily, including GPT-2, and it supports CUDA, Android, and other hardware. This means you can use advanced AI models faster and cheaper on your existing devices.
-
-https://github.com/ggml-org/ggml
-
-- 🐙 **Source Code:** [https://github.com/ggml-org/ggml](https://github.com/ggml-org/ggml)
-- 👤 **Developer:** [ggml-org](https://github.com/ggml-org)
-
-
----
-
-### 📦 Vello
-
-> **Categories:** `#rust`
-
-Vello is a fast 2D graphics renderer written in Rust that uses your GPU's compute power to draw shapes, images, text, and gradients[1]. Unlike older renderers that rely on your CPU for sorting and clipping, Vello moves most work to the GPU using special algorithms, giving you much better performance with less computer power needed[1][2]. It can draw large scenes smoothly and interactively, making it perfect for user interfaces, games, and animation tools[1]. You benefit from faster, smoother graphics with lower energy use, and it works across different platforms including web and Android.
-
-https://github.com/linebender/vello
-
-- 🐙 **Source Code:** [https://github.com/linebender/vello](https://github.com/linebender/vello)
-- 👤 **Developer:** [linebender](https://github.com/linebender)
-
-
----
-
-### 📦 Kaiju
-
-> **Categories:** `#go` `#game_engine` `#game_engine_2d` `#game_engine_3d` `#game_engine_development` `#game_engine_framework` `#gameengine` `#golang`
-
-Kaiju Engine is a fast, modern 2D/3D game engine written in Go and powered by Vulkan, designed for simplicity and high performance. It runs on Windows, Linux, Android, and is working on Mac support. Kaiju offers much faster rendering speeds and lower memory use than popular engines like Unity, making game development quicker and more efficient. It uses Go’s garbage collector to help prevent common programming errors, improving stability. You can write games directly in Go, and the engine supports local AI integration and a flexible UI system using HTML/CSS. Although the editor is still in development, the engine itself is production-ready, offering a powerful tool for developers who want speed and simplicity.
-
-https://github.com/KaijuEngine/kaiju
-
-- 🐙 **Source Code:** [https://github.com/KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju)
-- 👤 **Developer:** [KaijuEngine](https://github.com/KaijuEngine)
-
-
----
-
-### 📦 Nexa Sdk
-
-> **Categories:** `#go` `#gemma3` `#gpt_oss` `#granite4` `#llama` `#llama3` `#llm` `#on_device_ai` `#phi3` `#qwen3` `#qwen3vl` `#sdk` `#stable_diffusion` `#vlm`
-
-NexaSDK runs AI models locally on CPUs, GPUs, and NPUs with a single command, supports GGUF/MLX/.nexa formats, and offers NPU-first Android and macOS support for fast, multimodal (text, image, audio) inference, plus an OpenAI‑compatible API for easy integration. This gives you low-latency, private on-device AI across laptops, phones, and embedded systems, reduces cloud costs and data exposure, and lets you deploy and test new models immediately on target hardware for faster development and better user experience.
-
-https://github.com/NexaAI/nexa-sdk
-
-- 🐙 **Source Code:** [https://github.com/NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
-- 👤 **Developer:** [NexaAI](https://github.com/NexaAI)
-
-
----
-
-### 📦 Vanilla
-
-> **Categories:** `#c_lang`
-
-Vanilla is an alpha-stage, open-source Wii U gamepad clone that lets you use devices like Steam Deck, Linux PCs, Nintendo Switch, Android phones, Windows, or Raspberry Pi as a replacement controller with touchscreen, needing 5GHz Wi-Fi (check compatibility). Download official builds from GitHub releases or distro packages; use keyboard mappings (e.g., Z=A, Enter=Plus) or controllers, with shortcuts like F5 for recording. It benefits you by fixing broken gamepads, enabling off-TV play, and preserving Wii U games cheaply without Nintendo hardware.
-
-https://github.com/vanilla-wiiu/vanilla
-
-- 🐙 **Source Code:** [https://github.com/vanilla-wiiu/vanilla](https://github.com/vanilla-wiiu/vanilla)
-- 👤 **Developer:** [vanilla-wiiu](https://github.com/vanilla-wiiu)
-
-<details>
-<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
-
-#### 📸 Cover / Preview
-<p align="center"><img src="../../assets/apps/vanilla/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
-
-</details>
-
-
----
-
-### 📦 Lamda
-
-> **Categories:** `#python` `#adb` `#agents` `#ai` `#android` `#appium` `#automation` `#dynamic_analysis` `#frida` `#magisk` `#mcp` `#mcp_server` `#mobile_security` `#pentesting` `#remote_control` `#reverse_engineering` `#security` `#uiautomation` `#uiautomator2` `#workflow` `#xposed` `#GitHub` `#OpenSource`
-
-FIRERPA is a powerful Android automation tool that runs on-device with root access, works on versions 6.0 to 16, and offers low-latency remote desktop, 160+ APIs, Python SDK, and AI integration for tasks like testing, data collection, and forensics. It needs no extra setup, stays stable for large-scale use, and beats other tools in compatibility. You benefit by automating mobile tasks quickly, saving time on development and monitoring, with easy visual control for reliable results.
-
-https://github.com/firerpa/lamda
-
-- 🐙 **Source Code:** [https://github.com/firerpa/lamda](https://github.com/firerpa/lamda)
-- 👤 **Developer:** [firerpa](https://github.com/firerpa)
-
-
----
-
-### 📦 Ytpro
-
-> **Categories:** `#javascript` `#gemini` `#generative_ai` `#node_ytdl_core` `#youtube` `#youtube_adblock` `#youtube_dislikes` `#youtube_downloader` `#youtube_downloader_android` `#youtube_player` `#youtube_vanced` `#yt_adskip` `#yt_dlp` `#yt_viewer` `#yt_views_bot` `#ytdl` `#ytdl_core` `#ytpro` `#GitHub` `#OpenSource`
-
-YT Pro is a tiny 50KB Android app that enhances YouTube with video/shorts/thumbnail/caption downloads, ad blocking, sponsor skipping, background play, PiP mode, dislike counts, Gemini AI video summaries, and auto-updates. Download the ZIP easily for quick install. It saves you time and data by blocking ads, downloading content offline, customizing playback with gestures, and summarizing long videos instantly for better productivity.
-
-https://github.com/prateek-chaubey/YTPro
-
-- 🐙 **Source Code:** [https://github.com/prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
-- 👤 **Developer:** [prateek-chaubey](https://github.com/prateek-chaubey)
-
-
----
-
-### 📦 Com.N0N3M4.Diii4A
-
-> **Categories:** `#cplusplus` `#android` `#diii4a` `#doom3` `#idtech4` `#prey` `#quake4`
-
-idTech4A++ (Harmattan Edition v1.1.0) lets you play DOOM III, Quake 4, Prey (2006), DOOM 3 BFG, Quake 1-3, RTCW, The Dark Mod, GZDOOM, Jedi Knight games, Serious Sam, Urban Terror, and more on Android 4.4+, Windows, or Linux with OpenGLES rendering, multi-threading, soft shadows, PBR lighting, global illumination, bots, full-body awareness, and mod support. Download from GitHub or F-Droid, add your PC game files to `/sdcard/diii4a`, pick a game in the launcher, and start. This brings classic idTech shooters to mobile with smooth performance and modern graphics tweaks, so you enjoy nostalgic gaming anywhere without a PC.
-
-https://github.com/glKarin/com.n0n3m4.diii4a
-
-- 🐙 **Source Code:** [https://github.com/glKarin/com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a)
-- 👤 **Developer:** [glKarin](https://github.com/glKarin)
-
-
----
-
-### 📦 Gentleman.Dots
-
-> **Categories:** `#shell`
-
-OpenCode now supports Claude Max/Pro subscriptions through the `opencode-anthropic-auth` plugin, allowing you to use your Claude subscription with both Claude Code and OpenCode in your terminal. This integration works with Gentleman.Dots, a complete development environment configuration that includes Neovim with AI assistants, multiple shells (Fish, Zsh, Nushell), terminal multiplexers (Tmux, Zellij), and various terminal emulators. You can install it via Homebrew or direct download across macOS, Linux, and Android platforms. The setup includes an interactive TUI installer that automatically configures your preferred tools, plus a Vim Mastery Trainer for learning editor shortcuts through progressive lessons and boss fights. This gives you a fully integrated AI-powered coding environment optimized for terminal-based development workflows.
-
-https://github.com/Gentleman-Programming/Gentleman.Dots
-
-- 🐙 **Source Code:** [https://github.com/Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots)
-- 👤 **Developer:** [Gentleman-Programming](https://github.com/Gentleman-Programming)
-
-
----
-
-### 📦 Conduit
-
-> **Categories:** `#typescript`
-
-Conduit is a free app that turns your Android, iOS, or Mac device into a secure proxy station in Psiphon's P2P network, routing encrypted traffic to help censored users access blocked sites, news, and free internet without you seeing their data. It runs quietly in the background with split tunneling, so your own browsing stays fast, and you can limit connections or speed to avoid slowdowns. The benefit is you easily fight censorship, support hundreds of people worldwide, and promote global internet freedom while using your device normally.
-
-https://github.com/Psiphon-Inc/conduit
-
-- 🐙 **Source Code:** [https://github.com/Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit)
-- 👤 **Developer:** [Psiphon-Inc](https://github.com/Psiphon-Inc)
-
-
----
-
-### 📦 Ahmyth
-
-> **Categories:** `#smali` `#ahmyth` `#ahmyth_android_rat` `#ahmyth_rat` `#android_rat` `#apk_builder` `#apk_merger` `#educational` `#payload_builder` `#payload_merger` `#trojan_builder` `#trojan_merger`
-
-I can't provide a summary of this content as requested. The text describes AhMyth, which is a remote access trojan (RAT) — malware designed to gain unauthorized control of Android devices. This tool is used to steal sensitive information like banking credentials, passwords, photos, and audio recordings, and to conduct surveillance through camera and microphone access.
-
-I cannot summarize malware documentation in a way that presents it neutrally or highlights "benefits to the user," as doing so would risk facilitating cybercrime. If you're interested in cybersecurity education, I'd be happy to discuss how to protect against such threats, or explain malware from a defensive security perspective.
-
-https://github.com/Morsmalleo/AhMyth
-
-- 🐙 **Source Code:** [https://github.com/Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
-- 👤 **Developer:** [Morsmalleo](https://github.com/Morsmalleo)
-
-
----
-
-### 📦 Android Foss
-
-> **Categories:** `#python` `#android` `#android_apps` `#f_droid` `#foss` `#free_and_op` `#free_and_open_source` `#izzyondroid` `#open_source` `#opensource` `#GitHub`
-
-This list offers free open-source Android apps for every need—from browsers, cameras, and music players to games, tools, and F-Droid stores like Neo-Store. Get them via F-Droid or IzzyOnDroid for no ads or tracking. It boosts your privacy and freedom by ditching Google apps, letting you control your data and phone fully.
-
-https://github.com/offa/android-foss
-
-- 🐙 **Source Code:** [https://github.com/offa/android-foss](https://github.com/offa/android-foss)
-- 👤 **Developer:** [offa](https://github.com/offa)
-
-
----
-
-### 📦 Awesome Shizuku
-
-> **Categories:** `#python` `#adb` `#android` `#android_mods` `#no_root` `#rootless` `#shizuku` `#GitHub` `#OpenSource`
-
-Shizuku lets normal apps use powerful system features on non-rooted Android devices via ADB, with this curated list showcasing apps for automation (like Tasker), file management (MiXplorer), customization (DarQ), privacy, audio tweaks, and more across categories like AI agents and gaming. It helps you unlock advanced controls, boost productivity, enhance privacy, and customize your phone without rooting, saving time and extending device capabilities safely.
-
-https://github.com/timschneeb/awesome-shizuku
-
-- 🐙 **Source Code:** [https://github.com/timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
-- 👤 **Developer:** [timschneeb](https://github.com/timschneeb)
+Infection occurs by reference. The hacker creates a link, throws it to the victim, it goes and the System Update.apk file is downloaded to the victim's device. After installing this software, Androyd victims will begin to be destroyed. Let's get started creating a link!
+
+◾️ apt-get update -y
+◾️ apt-get upgrade -y
+◾️ pkg install python -y
+◾️ pkg install python2 -y
+◾️ pkg install git -y
+◾️ git clone https://github.com/noob-hackers/infect
+◾️ cd $ HOME
+◾️ ls
+◾️ cd infect
+◾️ ls
+◾️ bash infect.sh
+
+- 🐙 **Source Code:** [https://github.com/noob-hackers/infect](https://github.com/noob-hackers/infect)
+- 👤 **Developer:** [noob-hackers](https://github.com/noob-hackers)
 
 
 ---
@@ -29714,824 +28596,26 @@ __[GitHub](https://t.me/github_community) | #Cpp #Game
 
 ---
 
-### 📦 Wordex Mobile App
-
-> **Categories:** `#JavaScript` `#Interesting`
-
-Unfortunately only on Android
-
-[GitHub](https://t.me/github_community) | #JavaScript #Interesting
-
-- 🐙 **Source Code:** [https://github.com/danmoop/Wordex-mobile-app](https://github.com/danmoop/Wordex-mobile-app)
-- 👤 **Developer:** [danmoop](https://github.com/danmoop)
-
-
----
-
-### 📦 Fastlane
-
-> **Categories:** `#Ruby` `#Automation` `#Useful`
-
-It is a tool for iOS and Android developers to automate tedious repetitive tasks such as taking screenshots, preparing profiles, and releasing your app.
-
-[**Documentation**](https://docs.fastlane.tools/)
-
-[GitHub](https://t.me/github_community) | #Ruby #Automation #Useful
-
-- 🐙 **Source Code:** [https://github.com/fastlane/fastlane](https://github.com/fastlane/fastlane)
-- 👤 **Developer:** [fastlane](https://github.com/fastlane)
-
-
----
-
-### 📦 Xprivacylua
-
-> **Categories:** `#Java` `#Privacy` `#Android` `#Useful`
-
-Revoking permissions from Android applications often leads to limitations in functionality or crashes in applications. XPrivacyLua transmits fake data to applications instead of real data, which allows you to maintain functionality and privacy **at the same time
-
-[GitHub](https://t.me/github_community) | #Java #Privacy #Android #Useful
-
-- 🐙 **Source Code:** [https://github.com/M66B/XPrivacyLua](https://github.com/M66B/XPrivacyLua)
-- 👤 **Developer:** [M66B](https://github.com/M66B)
-
-
----
-
-### 📦 Android Sudoku Solver Ocr
-
-> **Categories:** `#Android` `#OCR` `#Java` `#Interesting`
-
-Uses OpenCv4Android to find the location of Sudoku frames in an image and MLKIT Vision OCR to retrieve the numbers
-
-[GitHub](https://t.me/github_community) | #Android #OCR #Java #Interesting
-
-- 🐙 **Source Code:** [https://github.com/hypertensiune/Android-Sudoku-Solver-OCR](https://github.com/hypertensiune/Android-Sudoku-Solver-OCR)
-- 👤 **Developer:** [hypertensiune](https://github.com/hypertensiune)
-
-
----
-
-### 📦 Silence
-
-> **Categories:** `#Interesting` `#Android` `#Useful` `#Privacy` `#Security` `#GitHub` `#OpenSource`
-
-You can also allow numbers with toll-free codes (such as 800), allow temporary mobile numbers from incoming text messages, and much more.
-
-⤷ [Project link](https://github.com/x13a/Silence)
-
-[GitHub](https://t.me/github_community) | #Interesting #Android #Useful
-
-- 🐙 **Source Code:** [https://github.com/x13a/Silence](https://github.com/x13a/Silence)
-- 👤 **Developer:** [x13a](https://github.com/x13a)
-
-
----
-
-### 📦 Anonymousmessenger
-
-> **Categories:** `#Java` `#Messenger`
-
-**Functional**:
-• Voice messages
-• Live voice calls via tor (alpha feature)
-• Text messages
-• Media messages with metadata removed
-• Send raw files of any size (100GB+)
-• Disappearing messages by default
-• Encrypted file storage on Android
-• Diffie-Hellman encryption
-
-> [**Official Repository**](https://git.anonymousmessenger.ly/dx/AnonymousMessenger)
-> [**Official website**](https://www.anonymousmessenger.ly/)
-
-[GitHub](https://t.me/github_community) | #Java #Messenger
-
-- 🐙 **Source Code:** [https://github.com/AnonymousMessenger/AnonymousMessenger](https://github.com/AnonymousMessenger/AnonymousMessenger)
-- 👤 **Developer:** [AnonymousMessenger](https://github.com/AnonymousMessenger)
-
-
----
-
-### 📦 Hypatia
-
-> **Categories:** `#Interesting` `#Android` `#Security`
-
-Powered by ClamAV-style signature databases. The Internet is used only for downloading databases, minimum dependencies and much more..
-
-⤷ [Project link](https://github.com/Divested-Mobile/Hypatia)
-
-[GitHub](https://t.me/github_community) | #Interesting #Android #Security
-
-- 🐙 **Source Code:** [https://github.com/Divested-Mobile/Hypatia](https://github.com/Divested-Mobile/Hypatia)
-- 👤 **Developer:** [Divested-Mobile](https://github.com/Divested-Mobile)
-
-<details>
-<summary><b>✨ Key Features (10)</b> — <i>Click to expand</i></summary>
-
-- **Near zero battery impact** — you'll never notice any impact on battery at all
-- **Extremely fast** — it can scan small files (1MB) in 20ms, and even large files (40MB) in 1000ms.
-- **Memory efficient** — with the default databases enabled it uses under 120MB.
-- **Regular scan** — allowing selection of /system, internal storage, external storage, and installed apps
-- **Realtime scanner** — can detect malware in realtime on write/rename in internal storage
-- **Completely offline** — Internet is only used to download signature databases, files will never ever leave your device
-- **Persistence** — will automatically restart on boot/update
-- **Tiny codebase** — coming in at under 1000 sloc, it can be audited by even someone with basic programming experience
-- **Minimal dependencies** — the app only uses libraries when necessary
-- Signature databases can be enabled/disabled at the users demand
-
-</details>
-
-
----
-
-### 📦 Telegramandroid
-
-> **Categories:** `#Interesting` `#Android` `#Telegram` `#Useful`
-
-**Some changes in Forkgram: **
-• Shows the original message date for forwarded messages;
-• The sidebar header has been reduced;
-• There is a quick download button for each media file in private chats;
-• Unlimited unarchived pinned chats **and much more..**
-
-⤷ [Project link](https://github.com/Forkgram/TelegramAndroid)
-
-[GitHub](https://t.me/github_community) | #Interesting #Android #Telegram #Useful
-
-- 🐙 **Source Code:** [https://github.com/Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
-- 👤 **Developer:** [Forkgram](https://github.com/Forkgram)
-
-
----
-
-### 📦 Remotevideocam
-
-> **Categories:** `#Interesting` `#Android` `#Video` `#Useful`
-
-The application can be used to monitor things in the house or yard, as a walkie-talkie, etc.
-
-⤷ [Project link](https://github.com/izivkov/RemoteVideoCam)
-
-[GitHub](https://t.me/github_community) | #Interesting #Android #Video #Useful
-
-- 🐙 **Source Code:** [https://github.com/izivkov/RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam)
-- 👤 **Developer:** [izivkov](https://github.com/izivkov)
-
-
----
-
-### 📦 Auxio
-
-> **Categories:** `#Interesting` `#Android` `#Audio` `#Player`
-
-The trick is that it doesn't have most of the useless features found in other music players.
-
-⤷ [Project link](https://github.com/oxygencobalt/Auxio)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android #Audio #Player
-
-- 🐙 **Source Code:** [https://github.com/oxygencobalt/Auxio](https://github.com/oxygencobalt/Auxio)
-- 👤 **Developer:** [oxygencobalt](https://github.com/oxygencobalt)
-
-<details>
-<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
-
-#### 📸 Cover / Preview
-<p align="center"><img src="../../assets/apps/auxio/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
-
-</details>
-
-
----
-
-### 📦 Facilmap
-
-> **Categories:** `#Interesting` `#Android`
-
-Has a smartphone-friendly interface
-
-⤷ [Project link](https://github.com/FacilMap/facilmap)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/FacilMap/facilmap](https://github.com/FacilMap/facilmap)
-- 👤 **Developer:** [FacilMap](https://github.com/FacilMap)
-
-
----
-
-### 📦 Yatagan
-
-> **Categories:** `#UI` `#Android`
-
-The library will bring maximum benefit to projects that have a significant number of gradle modules in the project, where only one AP is used - Dagger, and developers are willing to try Yatagan in reflection mode for debug builds.
-
-[⤷ Link to project
-](https://github.com/yandex/yatagan)[⤷ Article with examples
-
-](https://habr.com/ru/company/yandex/blog/704838/)GitHub | #UI #Android
-
-- 🐙 **Source Code:** [https://github.com/yandex/yatagan](https://github.com/yandex/yatagan)
-- 👤 **Developer:** [yandex](https://github.com/yandex)
-
-
----
-
-### 📦 Gtasa Vita
-
-> **Categories:** `#Interesting` `#C`
-
-Grand Theft Auto: San Andreas Android PS Vita
-
-⤷ [Available for download](https://github.com/TheOfficialFloW/gtasa_vita)
-
-[GitHub](https://t.me/github_society) | #Interesting #C
-
-- 🐙 **Source Code:** [https://github.com/TheOfficialFloW/gtasa_vita](https://github.com/TheOfficialFloW/gtasa_vita)
-- 👤 **Developer:** [TheOfficialFloW](https://github.com/TheOfficialFloW)
-
-
----
-
-### 📦 Blink Comparison
-
-> **Categories:** `#Interesting` `#Android` `#Useful`
-
-The program is written in the Dart language and uses the Flutter framework to build the user interface. The concept of the method is simple - the application allows you to quickly switch images without delay to see the differences.
-
-⤷ [Project link](https://github.com/proninyaroslav/blink-comparison)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android #Useful
-
-- 🐙 **Source Code:** [https://github.com/proninyaroslav/blink-comparison](https://github.com/proninyaroslav/blink-comparison)
-- 👤 **Developer:** [proninyaroslav](https://github.com/proninyaroslav)
-
-
----
-
-### 📦 Cameraalign
-
-> **Categories:** `#Interesting` `#Android`
-
-This allows you to place your phone in the same position and orientation as when you took the original photo
-
-⤷ [Project link](https://github.com/JS-HobbySoft/CameraAlign)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/JS-HobbySoft/CameraAlign](https://github.com/JS-HobbySoft/CameraAlign)
-- 👤 **Developer:** [JS-HobbySoft](https://github.com/JS-HobbySoft)
-
-
----
-
-### 📦 Smartdock
-
-> **Categories:** `#Interesting` `#Android`
-
-Functions:
-▫️Supports multiple windows
-▫️Hot keys
-▫️Supports desktop and tablet layouts
-
-⤷ [Project link](https://github.com/axel358/smartdock)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/axel358/smartdock](https://github.com/axel358/smartdock)
-- 👤 **Developer:** [axel358](https://github.com/axel358)
-
-<details>
-<summary><b>✨ Key Features (4)</b> — <i>Click to expand</i></summary>
-
-- ***Hiding Android navigation buttons** — **
-- ***With root** — **
-- *Without root**
-- ***With LSPosed (might help on Android 11+)** — **
-
-</details>
-
-
----
-
-### 📦 Privatelock
-
-> **Categories:** `#Interesting` `#Android`
-
-It can help protect your privacy and security by monitoring the accelerometer in the background and, if the threshold is violated, will lock the screen
-
-⤷ [Project link](https://github.com/wesaphzt/privatelock)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/wesaphzt/privatelock](https://github.com/wesaphzt/privatelock)
-- 👤 **Developer:** [wesaphzt](https://github.com/wesaphzt)
-
-
----
-
-### 📦 Kryptey
-
-> **Categories:** `#Interesting` `#Useful` `#Android` `#GitHub` `#OpenSource`
-
-Communicate securely and independently, regardless of the legal situation or whether messengers use E2EE. No server needed
-
-⤷ [Project link](https://github.com/amnesica/KryptEY)
-
-[GitHub](https://t.me/github_society) | #Interesting #Useful
-
-- 🐙 **Source Code:** [https://github.com/amnesica/KryptEY](https://github.com/amnesica/KryptEY)
-- 👤 **Developer:** [amnesica](https://github.com/amnesica)
-
-
----
-
-### 📦 Gptassist
-
-> **Categories:** `#Interesting` `#Android`
-
-**It blocks all URLs that are not required. Does not support signing in with a Microsoft or Google account
-
-⤷ [Project link](https://github.com/woheller69/gptassist)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/woheller69/gptassist](https://github.com/woheller69/gptassist)
-- 👤 **Developer:** [woheller69](https://github.com/woheller69)
-
-
----
-
-### 📦 Andronixorigin
-
-> **Categories:** `#Interesting` `#Android` `#Linux`
-
-Inside the distribution, you are free to run a variety of desktop applications, including krita, GIMP, Blender
-
-⤷ [Project link](https://github.com/AndronixApp/AndronixOrigin)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android #Linux
-
-- 🐙 **Source Code:** [https://github.com/AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
-- 👤 **Developer:** [AndronixApp](https://github.com/AndronixApp)
-
-
----
-
-### 📦 Innertune
-
-> **Categories:** `#Interesting` `#Android` `#YT` `#GitHub` `#OpenSource`
-
-Features include ad-free song playback, background playback, search for songs, albums and playlists, library management, caching and downloading songs for offline playback
-
-⤷ [Project link](https://github.com/z-huang/InnerTune)
-
-[GitHub](https://t.me/github_society) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/z-huang/InnerTune](https://github.com/z-huang/InnerTune)
-- 👤 **Developer:** [z-huang](https://github.com/z-huang)
-
-
----
-
-### 📦 Nightlightapp
-
-> **Categories:** `#Interesting` `#Android`
-
-It cycles through colors on a full screen display and after an hour the display goes dark
-
-⤷ [Project link](https://github.com/Ra-Na/NightLightApp)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/Ra-Na/NightLightApp](https://github.com/Ra-Na/NightLightApp)
-- 👤 **Developer:** [Ra-Na](https://github.com/Ra-Na)
-
-
----
-
-### 📦 Box64Droid
-
-> **Categories:** `#Interesting` `#Android`
-
-Which allows you to run many PC games on Android in 4K 60 frames per second
-
-⤷ [Project link](https://github.com/Ilya114/Box64Droid)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid)
-- 👤 **Developer:** [Ilya114](https://github.com/Ilya114)
-
-
----
-
-### 📦 Keepscreenon
-
-> **Categories:** `#Interesting` `#Android`
-
-This can be useful for example when viewing a website or document
-
-⤷ [Project link](https://github.com/elastic-rock/KeepScreenOn)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/elastic-rock/KeepScreenOn](https://github.com/elastic-rock/KeepScreenOn)
-- 👤 **Developer:** [elastic-rock](https://github.com/elastic-rock)
-
-
----
-
-### 📦 Sayboard
-
-> **Categories:** `#Interesting` `#Android` `#GitHub` `#OpenSource`
-
-The application does not send any messages or information about the user over the Internet
-
-⤷ [Project link](https://github.com/ElishaAz/Sayboard)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard)
-- 👤 **Developer:** [ElishaAz](https://github.com/ElishaAz)
-
-
----
-
-### 📦 Vocably Pro
-
-> **Categories:** `#Interesting` `#language` `#App` `#Useful` `#Study` `#GitHub` `#OpenSource`
-
-**
-This repository allows you to learn foreign words using flashcards. It has a browser extension, web and mobile application for iOS and Android.
-
-**⤷**[** Link to project**](https://github.com/vocably/vocably-pro)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #language
-
-- 🐙 **Source Code:** [https://github.com/vocably/vocably-pro](https://github.com/vocably/vocably-pro)
-- 👤 **Developer:** [vocably](https://github.com/vocably)
-
-
----
-
-### 📦 Navidrome
-
-> **Categories:** `#Interesting` `#Music` `#Manager` `#Useful` `#GitHub` `#OpenSource`
-
-**
-It lets you enjoy your music collection from anywhere, making it accessible through a modern web interface and a range of mobile apps available for both iOS and Android devices.
-
-**⤷ **[**Link to project**](https://github.com/navidrome/navidrome)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Music #Manager #Useful
-
-- 🐙 **Source Code:** [https://github.com/navidrome/navidrome](https://github.com/navidrome/navidrome)
-- 👤 **Developer:** [navidrome](https://github.com/navidrome)
-
-
----
-
-### 📦 Eyeroll
-
-> **Categories:** `#Interesting` `#Android` `#Firefox`
-
-Close your right eye to scroll down and your left eye to scroll up. Also works in Firefox for Android. Settings include sensitivity, time required to scroll.
-
-**⤷ **[**Link to project**](https://github.com/bjesus/eyeroll)**
-**
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android #Firefox
-
-- 🐙 **Source Code:** [https://github.com/bjesus/eyeroll](https://github.com/bjesus/eyeroll)
-- 👤 **Developer:** [bjesus](https://github.com/bjesus)
-
-
----
-
-### 📦 [**DockerAndroid**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - A guide explaining how to run Docker on Android.
-
-> **Categories:** `#Interesting` `#Docker` `#Android` `#Guide`
-
-To do this, you need to root your phone, compile the kernel, and compile the Docker package. Instructions are provided for each component, including patches, configuration, and setup.
-
-**⤷ **[**Link to project**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)**
-**
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Docker #Android #Guide
-
-- 🐙 **Source Code:** [https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
-
-
----
-
-### 📦 Locallock
-
-> **Categories:** `#Android` `#Security` `#Interesting`
-
-Easy to use interface, biometric authentication, local data storage, no trackers or advertising. All passwords are encrypted with AES-256 and are easily copied to the clipboard.
-
-🐱 **⤷ **[**Link to project**](https://github.com/PriyavKaneria/LocalLock)
-
-[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Android #Security #Interesting
-
-- 🐙 **Source Code:** [https://github.com/PriyavKaneria/LocalLock](https://github.com/PriyavKaneria/LocalLock)
-- 👤 **Developer:** [PriyavKaneria](https://github.com/PriyavKaneria)
-
-
----
-
-### 📦 Ultrablue
-
-> **Categories:** `#Interesting` `#Android`
-
-consists of a server running on a computer and acting as a verifier, and a graphical client application running on a phone acting as a verifier.
-
-**⤷ **[**Link to project**](https://github.com/ANSSI-FR/ultrablue)**
-**
-📢 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/ANSSI-FR/ultrablue](https://github.com/ANSSI-FR/ultrablue)
-- 👤 **Developer:** [ANSSI-FR](https://github.com/ANSSI-FR)
-
-
----
-
-### 📦 Griddycode
-
-> **Categories:** `#Interesting` `#Android`
-
-It allows you to extend its functionality through Lua with tutorials provided.
-
-**⤷ **[Project link](https://github.com/face-hh/griddycode)**
-**
-📢 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Android
-
-- 🐙 **Source Code:** [https://github.com/face-hh/griddycode](https://github.com/face-hh/griddycode)
-- 👤 **Developer:** [face-hh](https://github.com/face-hh)
-
-
----
-
-### 📦 Airclap
-
-> **Categories:** `#Interesting` `#Useful` `#Android`
-
-It supports various file formats and the maximum transfer speed that is available on the local network.
-
-**⤷ **[**Link to project**](https://github.com/Gentleflow/Airclap)**
-**
-📢 [GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Useful #Android
-
-- 🐙 **Source Code:** [https://github.com/Gentleflow/Airclap](https://github.com/Gentleflow/Airclap)
-- 👤 **Developer:** [Gentleflow](https://github.com/Gentleflow)
-
-
----
-
-### 📦 Textbee
-
-> **Categories:** `#SMS` `#Android`
-
-Allows users to send SMS messages from the web interface or from their application via REST API. Android phones are used as SMS gateways.
-**
-⤷ **[**Link to project**](https://github.com/vernu/textbee)**
-**
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #SMS #Android
-
-- 🐙 **Source Code:** [https://github.com/vernu/textbee](https://github.com/vernu/textbee)
-- 👤 **Developer:** [vernu](https://github.com/vernu)
-
-
----
-
-### 📦 Babylonnative
-
-> **Categories:** `#Java` `#Android` `#Linux`
-
-The goal of this project is to allow the same JavaScript that powers Babylon.js apps on the web to work equally well in native apps for Windows, macOS, iOS, Android, and Linux.
-
-⤷ [**Link to project**](https://github.com/BabylonJS/BabylonNative)
-
-📢[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Java #Android #Linux
-
-- 🐙 **Source Code:** [https://github.com/BabylonJS/BabylonNative](https://github.com/BabylonJS/BabylonNative)
-- 👤 **Developer:** [BabylonJS](https://github.com/BabylonJS)
-
-
----
-
-### 📦 Fsclock Android
+### 📦 Best Android RAT in Termux!
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-It can be installed as a system saver on smartphones, tablets and Android TV.
+haxRat is a cloud-based Android remote control script based on NodeJS. With it, you can block calls on the device, see all files and pictures, listen to the microphone, monitor notifications and much more.
 
-**4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy)
+Installation
 
-- 🐙 **Source Code:** [https://github.com/schorschii/FsClock-Android](https://github.com/schorschii/FsClock-Android)
-- 👤 **Developer:** [schorschii](https://github.com/schorschii)
+◽ apt install nodejs git
+◽git clone https://github.com/hax4us/haxRat.git
+◽cd haxRat / server
+◽npm install
+◽mkdir ~ / haxrat
 
+Usage
 
----
+$ node index.js
 
-### 📦 Dev Setup
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development.
-
-**4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy)
-
-- 🐙 **Source Code:** [https://github.com/donnemartin/dev-setup](https://github.com/donnemartin/dev-setup)
-- 👤 **Developer:** [donnemartin](https://github.com/donnemartin)
-
-
----
-
-### 📦 Android Pin Bruteforce
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**4️⃣**** **[**GitHub**](https://t.me/github_tg)
-
-- 🐙 **Source Code:** [https://github.com/urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce)
-- 👤 **Developer:** [urbanadventurer](https://github.com/urbanadventurer)
-
-
----
-
-### 📦 Open Keychain
-
-> **Categories:** `#GitHub` `#OpenSource` `#Android` `#Ope`
-
-Helps you communicate more privately and securely.
-
-**4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
-- 🌐 **Official Website:** [http://www.openkeychain.org](http://www.openkeychain.org)
-- 👤 **Developer:** [open-keychain](https://github.com/open-keychain)
-
-
----
-
-### 📦 Become Android Developer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/DoggyDoggyDoggy/Become-Android-Developer](https://github.com/DoggyDoggyDoggy/Become-Android-Developer)
-- 👤 **Developer:** [говое](https://t.me/+3xphzXTayGE1NDVi)
-
-
----
-
-### 📦 Phaser
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Games can be created for web platforms, YouTube Playables, Discord Activities, Twitch Overlays, or compiled for iOS, Android, Steam and native applications using third-party tools.
-
-You can use JavaScript or TypeScript for development. Phaser supports over 40 different front-end frameworks, including React and Vue.
-
-🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/phaserjs/phaser](https://github.com/phaserjs/phaser)
-- 👤 **Developer:** [phaserjs](https://github.com/phaserjs)
-
-
----
-
-### 📦 Polymarketviewer
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Built using Jetpack Compose and modern Android development techniques following clean architecture principles.
-
-**Characteristics:**
-▫️ View the list of active events in the prediction market on Polymarket.com
-▫️ Filter events by category and search function
-▫️ Sorting events according to various criteria (volume for 24 hours/all time, liquidity, novelty, soon to end, competitiveness)
-
-🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
-
-- 🐙 **Source Code:** [https://github.com/streamatico/PolymarketViewer](https://github.com/streamatico/PolymarketViewer)
-- 👤 **Developer:** [streamatico](https://github.com/streamatico)
-
-
----
-
-### 📦 Beerus Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-It provides powerful tools, from PoC examples for sandbox exfiltration to full application management and instrumentation directly on your device without using a computer.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/hakaioffsec/beerus-android](https://github.com/hakaioffsec/beerus-android)
-- 👤 **Developer:** [hakaioffsec](https://github.com/hakaioffsec)
-
-
----
-
-### 📦 Snapdrop Android
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-However, even though in theory it will work entirely in your browser and you won't have to install anything, you'll love this app if you want to use PairDrop more often in your daily life.
-
-Thanks to perfect integration into the Android operating system, files are sent even faster. You can choose PairDrop to share files directly from other apps.
-
-With its radical simplicity, PairDrop for Android simplifies the daily lives of hundreds of users.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android)
-- 👤 **Developer:** [fm-sys](https://github.com/fm-sys)
-
-
----
-
-### 📦 Brutdroid
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-It's designed to make penetration testing for Android easier, and automates emulator creation, rooting, Frida server setup, and Burp Suite certificate installation.
-
-With a vibrant new user interface and support for custom scripts, Frida BrutDroid allows security researchers to focus on testing rather than tuning.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/Brut-Security/BrutDroid](https://github.com/Brut-Security/BrutDroid)
-- 👤 **Developer:** [Brut-Security](https://github.com/Brut-Security)
-
-
----
-
-### 📦 Dropp
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-They will be available on your Android phone and other devices. Unlike traditional file transfer methods, Dropp gives you a persistent folder with the ability to quickly move files between your devices.
-
-The app currently runs on macOS and Android, with Windows support coming soon.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/spacefarers/Dropp](https://github.com/spacefarers/Dropp)
-- 👤 **Developer:** [spacefarers](https://github.com/spacefarers)
-
-
----
-
-### 📦 Awesome Android Reverse Engineering
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
-- 👤 **Developer:** [user1342](https://github.com/user1342)
-
-
----
-
-### 📦 Gpupixel
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Built in C++11 and OpenGL/ES, the app provides beauty filters and supports iOS, Android, Mac, Windows, and Linux—it's compatible with any OpenGL/ES platform.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/pixpark/gpupixel](https://github.com/pixpark/gpupixel)
-- 👤 **Developer:** [pixpark](https://github.com/pixpark)
-
-
----
-
-### 📦 Bypass Android Lock Screen Passcode
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Hacking a locked device is not an easy task.
-It is very important to check out some applications and tools that can serve this purpose.
-
-And so let's get started!
-
-First of all, we need to download the Cilocks (Android password bypass) tool, so enter the following commands in your Linux or Termux terminal.
-
-$ git clone https://github.com/tegal1337/CiLocks.git
-$ cd CiLocks
-$ chmod + x CiLocks
-$ sudo bash cilocks
-
-Now connect your Android phone to your Linux computer and select the option you want.
-
-- 🐙 **Source Code:** [https://github.com/tegal1337/CiLocks](https://github.com/tegal1337/CiLocks)
-- 👤 **Developer:** [tegal1337](https://github.com/tegal1337)
+- 🐙 **Source Code:** [https://github.com/hax4us/haxRat](https://github.com/hax4us/haxRat)
+- 👤 **Developer:** [hax4us](https://github.com/hax4us)
 
 
 ---
@@ -30568,484 +28652,2400 @@ Brute force in the hut ✌️
 
 ---
 
-### 📦 Best Android RAT in Termux!
+### 📦 Bypass Android Lock Screen Passcode
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-haxRat is a cloud-based Android remote control script based on NodeJS. With it, you can block calls on the device, see all files and pictures, listen to the microphone, monitor notifications and much more.
+Hacking a locked device is not an easy task.
+It is very important to check out some applications and tools that can serve this purpose.
 
-Installation
+And so let's get started!
 
-◽ apt install nodejs git
-◽git clone https://github.com/hax4us/haxRat.git
-◽cd haxRat / server
-◽npm install
-◽mkdir ~ / haxrat
+First of all, we need to download the Cilocks (Android password bypass) tool, so enter the following commands in your Linux or Termux terminal.
 
-Usage
+$ git clone https://github.com/tegal1337/CiLocks.git
+$ cd CiLocks
+$ chmod + x CiLocks
+$ sudo bash cilocks
 
-$ node index.js
+Now connect your Android phone to your Linux computer and select the option you want.
 
-- 🐙 **Source Code:** [https://github.com/hax4us/haxRat](https://github.com/hax4us/haxRat)
-- 👤 **Developer:** [hax4us](https://github.com/hax4us)
+- 🐙 **Source Code:** [https://github.com/tegal1337/CiLocks](https://github.com/tegal1337/CiLocks)
+- 👤 **Developer:** [tegal1337](https://github.com/tegal1337)
 
 
 ---
 
-### 📦 We infect any Android device!
+### 📦 thelumiereguy/ShaderShowcaseApp
+
+> **Categories:** `#android` `#android_application` `#androidx` `#jetpack_android` `#jetpack_compose` `#jetpack_palette` `#kotlin` `#kotlin_android` `#opengl` `#opengl_es`
+
+A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragment shaders I have ever written, where you can set them as Live Wallpaper.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/thelumiereguy/ShaderShowcaseApp](https://github.com/thelumiereguy/ShaderShowcaseApp)
+- 👤 **Developer:** [thelumiereguy](https://github.com/thelumiereguy)
+
+
+---
+
+### 📦 LSPosed/MagiskOnWSA
+
+> **Categories:** `#wsa`
+
+Integrate Magisk root and OpenGApps into WSA (Windows Subsystem for Android)
+
+- 🐙 **Source Code:** [https://github.com/LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
+- 👤 **Developer:** [LSPosed](https://github.com/LSPosed)
+
+
+---
+
+### 📦 Paving-Base/APK-Installer
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Infection occurs by reference. The hacker creates a link, throws it to the victim, it goes and the System Update.apk file is downloaded to the victim's device. After installing this software, Androyd victims will begin to be destroyed. Let's get started creating a link!
+An Android Application Installer for Windows
+**Language**: C#
+**Stars**: 161 **Issues**: 13 **Forks**: 5
+[https://github.com/Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)
 
-◾️ apt-get update -y
-◾️ apt-get upgrade -y
-◾️ pkg install python -y
-◾️ pkg install python2 -y
-◾️ pkg install git -y
-◾️ git clone https://github.com/noob-hackers/infect
-◾️ cd $ HOME
-◾️ ls
-◾️ cd infect
-◾️ ls
-◾️ bash infect.sh
-
-- 🐙 **Source Code:** [https://github.com/noob-hackers/infect](https://github.com/noob-hackers/infect)
-- 👤 **Developer:** [noob-hackers](https://github.com/noob-hackers)
+- 🐙 **Source Code:** [https://github.com/Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)
+- 👤 **Developer:** [Paving-Base](https://github.com/Paving-Base)
 
 
 ---
 
-### 📦 Script for sms attacks
+### 📦 0x192/universal-android-debloater
+
+> **Categories:** `#android` `#debloat` `#privacy` `#GitHub` `#OpenSource` `#rust` `#adb` `#Interesting` `#Useful`
+
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+- 👤 **Developer:** [0x192](https://github.com/0x192)
+
+
+---
+
+### 📦 ron2111/Hacktoberfest2021_awesome-projects
+
+> **Categories:** `#android` `#appdevelopment` `#first_timers` `#hacktoberfest` `#hacktoberfest2021` `#java` `#javascipt` `#javascript` `#mern_stack` `#python` `#webdevelopment`
+
+This is a beginner-friendly repo for everyone participating in Hacktoberfest2021. Raise genuine PRs and they will be merged quickly!
+**Language**: Jupyter Notebook
+
+- 🐙 **Source Code:** [https://github.com/ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
+- 👤 **Developer:** [ron2111](https://github.com/ron2111)
+
+
+---
+
+### 📦 square/logcat
+
+> **Categories:** `#android` `#cats` `#logging`
+
+I CAN HAZ LOGZ?
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/square/logcat](https://github.com/square/logcat)
+- 👤 **Developer:** [square](https://github.com/square)
+
+
+---
+
+### 📦 mmazzarolo/react-native-universal-monorepo
+
+> **Categories:** `#android` `#electron` `#ios` `#macos` `#react` `#react_native` `#react_native_web` `#windows`
+
+React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo)
+- 👤 **Developer:** [mmazzarolo](https://github.com/mmazzarolo)
+
+
+---
+
+### 📦 mrousavy/Colorwaver
+
+> **Categories:** `#android` `#app` `#camera` `#color` `#colors` `#ios` `#palette` `#react` `#react_native` `#visioncamera`
+
+An app to detect color palettes in the real world - powered by VisionCamera
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/mrousavy/Colorwaver](https://github.com/mrousavy/Colorwaver)
+- 👤 **Developer:** [mrousavy](https://github.com/mrousavy)
+
+
+---
+
+### 📦 skydoves/MovieCompose
+
+> **Categories:** `#android` `#compose` `#coroutines` `#flow` `#hilt` `#hilt_android` `#jetpack_compose` `#kotlin` `#skydoves`
+
+🎞 A demo movie app using Jetpack Compose and Hilt based on modern Android tech stacks.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/MovieCompose](https://github.com/skydoves/MovieCompose)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 deapplization/awesome-switching
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-MySMS v1.0 is a script that generates an Android application with the functionality of SMS attacks over WAN. For Kali Linux users.
-https://github.com/papusingh2sms/mysms
+switching from the *pple ecosystem to Windows / Linux / Android or BSD
+**Stars**: 121 **Issues**: 2 **Forks**: 7
+[https://github.com/deapplization/awesome-switching](https://github.com/deapplization/awesome-switching)
 
-- 🐙 **Source Code:** [https://github.com/papusingh2sms/mysms](https://github.com/papusingh2sms/mysms)
-- 👤 **Developer:** [papusingh2sms](https://github.com/papusingh2sms)
+- 🐙 **Source Code:** [https://github.com/deapplization/awesome-switching](https://github.com/deapplization/awesome-switching)
+- 👤 **Developer:** [deapplization](https://github.com/deapplization)
 
 
 ---
 
-### 📦 We create a virus for Android/Windows/Linux
+### 📦 bytedance/bhook
+
+> **Categories:** `#android` `#hook` `#native` `#got` `#plt` `#plthook` `#gothook`
+
+🔥 bhook is a PLT hook framework for Android app.
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/bytedance/bhook](https://github.com/bytedance/bhook)
+- 👤 **Developer:** [bytedance](https://github.com/bytedance)
+
+
+---
+
+### 📦 TangStudio/PathView
+
+> **Categories:** `#android` `#kotlin` `#training` `#playground` `#animation` `#stopwatch` `#sport` `#wearable_devices` `#pathview`
+
+Simulate the running route of each player on the playground, and can be timed with a stopwatch
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/TangStudio/PathView](https://github.com/TangStudio/PathView)
+- 👤 **Developer:** [TangStudio](https://github.com/TangStudio)
+
+
+---
+
+### 📦 mouredev/Twitimer-Android
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Hello everyone.
-Well Z Virus is a collection of ready made viruses. This software is capable of generating viruses for all operating systems, and all you need to do is send a link to your victim and force them to download the virus.
+App Android correspondiente al proyecto twitimer.com de la comunidad MoureDev
+**Language**: Kotlin
+**Stars**: 128 **Issues**: 2 **Forks**: 13
+[https://github.com/mouredev/Twitimer-Android](https://github.com/mouredev/Twitimer-Android)
 
-Installation:
-▪️git clone https://github.com/ZechBron/zVirus-Gen.git
-▪️cd zVirus-Gen
-chmod +x setup.sh
-▪️./setup.sh
-
-Usage:
-▪️bash zVirus - program launch
-
-All information is provided for informational purposes only. We are not responsible for your actions.
-
-- 🐙 **Source Code:** [https://github.com/ZechBron/zVirus-Gen](https://github.com/ZechBron/zVirus-Gen)
-- 👤 **Developer:** [ZechBron](https://github.com/ZechBron)
+- 🐙 **Source Code:** [https://github.com/mouredev/Twitimer-Android](https://github.com/mouredev/Twitimer-Android)
+- 👤 **Developer:** [mouredev](https://github.com/mouredev)
 
 
 ---
 
-### 📦 [
+### 📦 prafullmishra/JetComposer
+
+> **Categories:** `#android` `#kotlin` `#kotlin_android` `#jetpack` `#declarative_ui` `#android_ui` `#compose` `#jetpack_compose`
+
+Collection of UIs and Animations built with Jetpack Compose for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer)
+- 👤 **Developer:** [prafullmishra](https://github.com/prafullmishra)
+
+
+---
+
+### 📦 CodingGay/BlackDex
+
+> **Categories:** `#android` `#shell` `#dump` `#unpack` `#blackbox` `#unpacker` `#dumpdex` `#blackdex`
+
+BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)
+- 👤 **Developer:** [CodingGay](https://github.com/CodingGay)
+
+
+---
+
+### 📦 mbkore/lockup
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-](https://telegra.ph/file/42169729f167cc6766c20.jpg)**Managing our own local web server
+A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques.
+**Language**: Java
+**Stars**: 143 **Issues**: 0 **Forks**: 18
+[https://github.com/mbkore/lockup](https://github.com/mbkore/lockup)
 
-MyServer is **[your own](https://github.com/rajkumardusad/MyServer.git) locally running server. On it you can set up PHP, Apache, MySQL on Android, Linux, Ubuntu or other operating systems. With MyServer, you can set up and test your website, regardless of the technologies used in its development.
-
-Installation
-
-$ git clone https://github.com/rajkumardusad/**MyServer.git**
-`$ cd MyServer
-$ chmod +x install
-
-launch
-
-$ sh install (`**o**r` ./install)
-`**$** `myserver start
-
-Sy`**ntax
-
-$ m**y`server -s l`ocalh`ost 8080 `/h**o**me/www
-
-- 🐙 **Source Code:** [https://github.com/rajkumardusad/MyServer](https://github.com/rajkumardusad/MyServer)
-- 👤 **Developer:** [rajkumardusad](https://github.com/rajkumardusad)
+- 🐙 **Source Code:** [https://github.com/mbkore/lockup](https://github.com/mbkore/lockup)
+- 👤 **Developer:** [mbkore](https://github.com/mbkore)
 
 
 ---
 
-### 📦 [
-
-> **Categories:** `#SI` `#Android` `#Privacy`
-
-](https://telegra.ph/file/2a4621560611dfaf23d49.jpg)**​✉️ Silence and SMS Pi**n**g. Find out the status of the subscriber and encr**__ypt SMS messages.
-
-This information can be important in certain circumstances.
-
-__```🖖🏻 Hello user_name.
-
-• Let's tak```e a little break from the #SI topic and talk about some useful #Android apps. Today we will talk about software, thanks to which you can stay in touch without the presence of the I**nternet and maintain the **confidentialit**y of correspondence. In addit**ion, we will talk about an interesting application that will allow you to find out the status of a subscriber.
-
-• Let's s**tart with** the SMS Ping application: In simple words, thanks to this applica**tion **you can send a silent SMS to any phone number and find out the status of the target (online / offline). The SMS message will not be displayed to the person who received the request, but you can determine whet`he`r your contact's phone is working or not.
-
-- 🐙 **Source Code:** [https://github.com/itds-co`ns`ulting/android-silent-ping-sms](https://github.com/itds-co`ns`ulting/android-silent-ping-sms)
-- 🌐 **Official Website:** [https://silence.im/](https://silence.im/)
-
-
----
-
-### 📦 [
-
-> **Categories:** `#Selection____` `#Linux____` `#__Anonymity` `#Book` `#Course` `#Pentest` `#CTF` `#Raspberry` `#Android` `#Forensics`
-
-](https://telegra.ph/file/7a945558bfe385693b50a.jpg)​🔖** A selection of useful information and res**`ources.
-
-💬 Hello user_name.
-
-📌` Today I have collected enough useful information for you to study in various fields. Hope you find what you've been looking for. Add to favorites so **as not to** lose.
-
-➖ More than 100K resour**ces **on various topics. Starting from books on programming, ending with various blogs of software developers.
-https://gi`thub.com/sindresorhus/awesome
-
-https://tw````itter.com/awesome__re
-
-➖ A huge n```umber of resources on the topic of searching and collecting information from open sources`.
-https://github.com/jivoi/awesome-osint
-`
-➖ Information security, forensics, cryptography, CTF, etc.
-https:/`/github.com/carpedm20/awesome-hacking
-
-➖ List o`f Honeypots (Traps for hackers). Manuals, tools, instructions, etc.
-https://github.com/`paralax/awesome-honeypots
-
-➖ List of tools and `resources for malware analysis.
-https://github.com/rshipp/awesome-`malware-analysis
-
-➖ List of frameworks, libraries, so`ftware and resources related to Python.
-https://github.com**/vinta**/a```wesome-python
-
-➖ List of various PHP libr````a`ries, resources and** ch**eat sheets.
-https://github.com/zia```doz/awesome-php
-
-➖ List of CTFs, librar````i`es, resou**rce**s, software and tutorials.
-https://github.com`/apsdehal/awesome-ctf
-
-➖ A collection of `resources related to Android security + software and various guides.
-https://githu`b.com/ashishb/android-security-awesome
-
-https://githu````b.com/JStumpp/awesome-android
-
-➖ Web applica```tion security. XSS, CSV and SQL Injection, ClickJacking and hundreds more.
-https://github.com/q`azbnm456/awesome-web-security
-
-➖ List of the best a`pplications and tools for Windows.
-https://gith**ub.com/**Aw`esome-Windows/Awesome
-
-➖ List of application`s and tools for Linux.
-https://github.co**m/ale**ks`andar-todorovic/awesome-linux
-
-➖ A collection of Raspbe`rry Pi tools, projects and resources.
-https**://github.com/**```thibmaek/awesome-raspberry-pi
-
-➖ A collection of p```entest resources, from tools to books.
-https://github.com/`enaqx/awesome-pentest
-
-P.S. This list does`__ not claim to be complete, if you have something to add to this list, write to the feedback bot in the channel description. Well, I remind you that you can find other useful information by hashtags in our group ____#Selection____ ____#Linux____ ____#__Anonymity #Book #Course #Pentest #CTF #Raspberry #Android #Forensics
-
-Share with your friends and stay with us.
-
-Such posts are only posted on our github channel
-
-T.me/githubx
-
-- 🐙 **Source Code:** [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-- 🌐 **Official Website:** [https://github.com/q`azbnm456/awesome-web-security](https://github.com/q`azbnm456/awesome-web-security)
-- 👤 **Developer:** [jivoi](https://gi`thub.com/sindresorhus/awesome)
-
-
----
-
-### 📦 [
-
-> **Categories:** `#Compilation` `#Linux` `#Anonymity` `#Book` `#Course` `#Pentest` `#CTF` `#Raspberry` `#Android` `#Forensic`
-
-](https://telegra.ph/file/9f36187c0ea1f96d3cde2.jpg)​🔖** A selection of useful information and resources. P**`art 2.
-
-🖖🏻 Hello user_name.
-
-💬 `The[ previous post ](https://t.me/Social_engineering/1093)collected a lot of reposts and views, thanks to your feedback and activity, we will supplement [this list s](https://t.me/Social_engineering/1093)o that our other subscribers can find the necessary information in various areas in the field of information security.
-
-• A list of hacking training resources where you can legally and safely practice your cybersecurity skills. The list includes a lot of resources, from remote banking systems that contain common vulnerabilities to a collection of web applications that are vulnerable to command injection.
-
-https://github.com/joe-shenouda/awesome-cyber-skil```ls
-
-• A list of tips for protecting your digital sec```urity and privacy, with links to additional resources.
-
-https://github.com/Lissy93/personal-security-checklist
-
-• Lis```t of tools for network traffic research: Traffic Capture```, Traffic Analysis / Inspection, DNS Utilities, File Extraction and more...
-
-https://github.com/caesar0301/awesome-pcaptools
-
-• Web hacking. The list i```s intended for anyone who wants to learn about we```b application security, but does not have enough experience and knowledge in this area.
-
-https://github.com/infoslack/awesome-web-hacking
-
-• A hug```e list of software, libraries, documents, books, r```esources and interesting things about security.
-
-https://github.com/sbilly/awesome-security
-
-• C```ollection of resources, tools and other usef```ul materials for Cybersecurity Blue Team.
-
-https://github.com/fabacab/awesome-cybersecurity-blue```team
-
-• Our list of literature, courses, articles and use```ful materials that are published in the second channel, there is a convenient menu for convenience and finding the right material on a specific topic.
-
-https://github.com/SE-adm/Book
-
-• Com```pleting the selection is a list ```of must-see films for anyone interested in the subject of information security. Personally, I recommend that you get acquainted with documentaries.
-
-https://github.com/k**4m4/movies-for-**hackers
-
-‼️``` The list does not claim to be complete, onc```e a month we will supplement this collection with new material. Share with friends and save to your favorites so you don't lose. You can find other useful information by hashtags in our group #Compilation #Linux #Anonymity #Book #Course #Pentest #CTF #Raspberry #Android #Forensic‌‌
-
-Tomorrow i will add on list 3.
-
-This is only exclusive to our new channel t.me/githubx
-
-- 🐙 **Source Code:** [https://github.com/joe-shenouda/awesome-cyber-skil```ls](https://github.com/joe-shenouda/awesome-cyber-skil```ls)
-- 🌐 **Official Website:** [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
-- 👤 **Developer:** [joe-shenouda](https://github.com/joe-shenouda)
-
-
----
-
-### 📦 [
-
-> **Categories:** `#Selection` `#Linux` `#Anonymity` `#Book` `#Course` `#Pentest` `#CTF` `#Raspberry` `#Android` `#Forensic`
-
-](https://telegra.ph/file/652025a8871df9eb6e2e8.jpg)**​🔖 A selection of useful information and resources. P**`art 3
-
-🖖🏻 Hello user_name.
-
-💬 W`__e continue to publish unique collections on various topics. Thanks to this information, you can improve your skill and get the necessary information - for free. Save to your favorites and check out the previous collections if for some reason you missed them:
-
-• Starting our lis__[t with Awesome Shodan Search Queries - The list contai](https://t.me/Social_engineering/1093)[ns ready-made queries for searching control systems, w](https://t.me/Social_engineering/1168)ebcams, printers , IoT devices, and much more...
-
-ht[tps://github.com/jakejarvis/a](https://github.com/jakejarvis/awesome-shodan-queries)wesome-shodan-queries
-
-вЂў Wi-Fi Arsenal - Everything that affects the subject of Wi-[Fi. A lot of useful software for](https://t.me/Social_engineering/1179) all occasions. General information, tools for auditing Wi-Fi networks, monitoring, collecting in**formation and** dozens of other sections:
-
-https://github.com/techge/wifi-arsenal
-
-https://github.com/edelahozuah/awesome-wifi-security/
-
-• List of information for hacking IoT devices. The list contains a collection of articles that deal with hacking various devices, from smart light bulbs to smart door locks:
-
-https://github.com/**nebgnahz/awes**ome-iot-hacks
-
-• Forensics. Free open source tools and resources. Includes useful tools, books, articles and various resources:
-
-https://github.com/Cugu/awesome-forensics
-
-** • Reposi**to**ry with a **list of useful resources for the system administrator:
-
-https://github.com/kahun/awesome-sysadmin
-
-• Additional information on Cobalt Strike. And also, do not forget about our selection related to this framework.
-
-https://github.com/zer0yu/Awesome-CobaltStrike
-
-‼️ The list does not claim to be complete, as we find us**eful material,** we will supplement this collec[tion. Share with friends and save to yo](https://t.me/Social_engineering/1170)ur favorites so you don't lose. You can find other useful information by hashtags in our group #Selection #Linux #Anonymity #Book #Course #Pentest #CTF #Raspberry #Android #Forensic. Your S.E.‌‌
-
-Such information is only published in our github channel.
-t.me/githubx
-
-- 🐙 **Source Code:** [https://github.com/jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
-- 👤 **Developer:** [jakejarvis](https://github.com/jakejarvis)
-
-
----
-
-### 📦 [
-
-> **Categories:** `#Selection` `#Linux` `#OSINT` `#Cobalt_Strike` `#Pentest` `#Android` `#Anonymity` `#Book` `#Course`
-
-](https://telegra.ph/file/bb790668d1bd51465d01a.jpg)**​🔖 A selection of useful information and resources. P**`art 6
-
-🖖🏻 Hello user_name.
-
-💬 H`__ere is the 6th part of the collections of useful material, thanks to this information you can upgrade your skill in the category you need and get unique knowledge - for free.
-__
-
-[• Start](https://t.me/Social_engineering/1093)ing [with a ](https://t.me/Social_engineering/1168)huge [collect](https://t.me/Social_engineering/1190)ion o[f OSINT](https://t.me/Social_engineering/1233) reso[urces. ](https://t.me/Social_engineering/1280)Tools, news, blogs, learning material, podcasts, videos, playlists, forums, CTFs, streams, etc.
-
-https://start.me/p/DPYPMz/the-ultimate-osint-collection
-
-• Useful material on penetration testing.
-
-https://github.com/enaqx/awesome-pentest
-
-https://github.com/Muhammd/Awesome-Pentest
-
-https://github.com/oneplus-x/Awesome-Pentest
-
-https://github.com/wtsxDev/Penetration-Testing
-
-https://github.com/anubi5egypt/awesome-web-pentest
-
-https://github.com/Nieuport/Awesome-Penetration-Testing
-
-https://github.com/majidkalantarii/AwesomePenetrationTest
-
-• Red Teaming for beginners and pros. A lot of useful material for every taste.
-
-https://github.com/tcostam/awesome-command-control
-https://github.com/marcosValle/awesome-windows-red-team
-
-https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
-
-https://github.com/r3p3r/yeyintminthuhtut-Awesome-Red-Teaming
-
-https://github.com/mishmashclone/yeyintminthuhtut-Awesome-Red-Teaming
-
-• Selection of rootkits, with a different set of functions. From hidden SSH to a full-fledged keylogger with a built-in IRC bot.
-
-https://github.com/milabs/awesome-linux-rootkits
-
-• Reverse Engineering: books, courses, practice and more.
-
-https://github.com/wtsxDev/reverse-engineering
-
-• A selection of materials on the fight against Cobalt Strike.
-
-https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
-
-• A selection of vulnerable VMs and applications. Includes: Online platforms, Docker, SSO systems, Paid, Android.
-
-https://github.com/vavkamil/awesome-vulnerable-apps/
-
-• Useful material on the subject of Active Directory security testing.
-
-https://github.com/balaasif6789/AD-Pentesting
-
-• i2p and TOR. Software for Android and iOS, books, articles, server protection tools, presentations, distributions and much more.
-
-https://github.com/mikalv/awesome-i2p
-https://github.com/ajvb/awesome-tor
-
-‼️ The list does not claim to be complete,  we will supplement this collection with new material. Share with friends and save to favorites so as not to lose. You can find other useful information by hashtags in our group #Selection #Linux #OSINT #Cobalt_Strike #Pentest #Android # #Anonymity #Book #Course #Pentest. Your S.E.‌‌
-
-This info is only shared in
-t.me/githubx
-
-- 🐙 **Source Code:** [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
-- 🌐 **Official Website:** [https://github.com/anubi5egypt/awesome-web-pentest](https://github.com/anubi5egypt/awesome-web-pentest)
-- 👤 **Developer:** [enaqx](https://github.com/wtsxDev/Penetration-Testing)
-
-
----
-
-### 📦 Hacking Bluetooth speakers
+### 📦 Trendyol/mobile-app-automizer
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Sa**lute, bandits! I think many schoolchildren with speakers playing terrible music are enraged. And I think everyone would like to drown out this nightmare. In this post, you will learn how to break the Bluetooth connection between the speaker and the phone, and even connect to** it and turn** `on your mus`**i**c`.
+You can automize iOS and Android app's build, upload and versioning processes via Mobile App Automizer CLI tool.
+**Language**: JavaScript
+**Stars**: 346 **Issues**: 0 **Forks**: 12
+[https://github.com/Trendyol/mobile-app-automizer](https://github.com/Trendyol/mobile-app-automizer)
 
-Installation
-
-$ `**p**k`g update
-$ pkg i`**n**s`tall python
-$ pkg in`**s**t`all git
-$ pkg insta`**l**l` python2
-$ pip2 install scapy
-$ git clone https://git`**h**u`b.com/The404H`**a**c`king/websploit
-$ cd webspl`**oit
-$ chm**o`d 777 * websploit.py
-
-`launch
-
-$ python2 websploit.py
-
-We open the utility**.** `Next, we write the following:`
-
-$ use bluetooth/bluetooth_pod
-
-Then follow the link a[nd ](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US)download "nRF Connect" - [LINK](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=ru&gl=US) Install and open, after which we give the necessary permissions. Click "SCAN", look for the column, and copy its mac-address.
-
-We return to T**e**r`mux and write`** **t`he following:
-
-$ set `**s**i`ze 99`9
-$ set bdaddr mac address
-$ run
-
-Instead of "mac-ad[d](https://t.me/Oblako_sxem)ress" paste the copied mac-address. Further, as soon as the speaker stops playing sound, this means that we have broken the connection, so we immediately try to connect [via](https://t.me/Oblako_sxem) "nRF Connect" to the speaker.
-
-It is also worth clarifying that if the distance to the co[l](https://t.me/Oblako_sxem)umn is too large, then nothing will come of it. In this way, you can break the connection not only of the bluetoot[h s](https://t.me/Oblako_sxem)peaker, but also of any other devices with a "blue tooth".
-
-For more power, I advise you to create as many as 8 sessions and launch an attack in all ✌️‌‌
-
-- 🌐 **Official Website:** [https://git`**h**u`b.com/The404H`**a**c`king/websploit](https://git`**h**u`b.com/The404H`**a**c`king/websploit)
+- 🐙 **Source Code:** [https://github.com/Trendyol/mobile-app-automizer](https://github.com/Trendyol/mobile-app-automizer)
+- 👤 **Developer:** [Trendyol](https://github.com/Trendyol)
 
 
 ---
 
-### 📦 Lockphish
+### 📦 google/modernstorage
+
+> **Categories:** `#android` `#storage`
+
+ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/google/modernstorage](https://github.com/google/modernstorage)
+- 👤 **Developer:** [google](https://github.com/google)
+
+
+---
+
+### 📦 LSPosed/AndroidHiddenApiBypass
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
+**Language**: Java
+**Stars**: 102 **Issues**: 0 **Forks**: 8
+[https://github.com/LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
 
-- 🐙 **Source Code:** [https://github.com/jaykali/lockphish](https://github.com/jaykali/lockphish)
-- 👤 **Developer:** [jaykali](https://github.com/jaykali)
+- 🐙 **Source Code:** [https://github.com/LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
+- 👤 **Developer:** [LSPosed](https://github.com/LSPosed)
 
 
 ---
 
-### 📦 Hackerpro
+### 📦 androidmalware/android_hid
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
+Use Android as Rubber Ducky against another Android device
+**Language**: Shell
+**Stars**: 222 **Issues**: 1 **Forks**: 21
+[https://github.com/androidmalware/android_hid](https://github.com/androidmalware/android_hid)
 
-www.kalilinux.in
-
-- 🐙 **Source Code:** [https://github.com/jaykali/hackerpro](https://github.com/jaykali/hackerpro)
-- 👤 **Developer:** [jaykali](https://github.com/jaykali)
-
-
----
-
-### 📦 Deadly Android Rat..
-
-> **Categories:** `#Android` `#malware` `#WhatsApp`
-
-#Android #malware (.apk) can be spread through a fake PDF document by manipulating the file extension in the #WhatsApp application.
-
-https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC
-
-- 🐙 **Source Code:** [https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC](https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC)
-- 👤 **Developer:** [0x6rss](https://github.com/0x6rss)
+- 🐙 **Source Code:** [https://github.com/androidmalware/android_hid](https://github.com/androidmalware/android_hid)
+- 👤 **Developer:** [androidmalware](https://github.com/androidmalware)
 
 
 ---
 
-### 📦 Android web attack surface
+### 📦 naman14/adb-tools-mac
 
-> **Categories:** `#Mobile_Security`
+> **Categories:** `#android` `#swiftui`
 
-Android web attack surface
-https://ndevtk.github.io/writeups/2024/08/01/awas
+Mac menu bar app for common adb tools
+**Language**: Swift
 
-- 🌐 **Official Website:** [https://ndevtk.github.io/writeups/2024/08/01/awas](https://ndevtk.github.io/writeups/2024/08/01/awas)
+- 🐙 **Source Code:** [https://github.com/naman14/adb-tools-mac](https://github.com/naman14/adb-tools-mac)
+- 👤 **Developer:** [naman14](https://github.com/naman14)
+
+
+---
+
+### 📦 Tencent/loli_profiler
+
+> **Categories:** `#android` `#cpp` `#memory` `#profiler` `#qt5` `#unity3d` `#unreal_engine_4`
+
+Memory instrumentation tool for android app&game developers.
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/Tencent/loli_profiler](https://github.com/Tencent/loli_profiler)
+- 👤 **Developer:** [Tencent](https://github.com/Tencent)
+
+
+---
+
+### 📦 mrousavy/react-native-mmkv
+
+> **Categories:** `#android` `#cpp` `#ios` `#jni` `#jsi` `#mmkv` `#native_module` `#react` `#react_native` `#turbomodule`
+
+⚡️ An extremely fast key/value storage library for React Native. ~30x faster than AsyncStorage!
+**Language**: Objective-C++
+
+- 🐙 **Source Code:** [https://github.com/mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)
+- 👤 **Developer:** [mrousavy](https://github.com/mrousavy)
+
+
+---
+
+### 📦 grishka/Houseclub
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A barebones unofficial Android app for Clubhouse
+**Language**: Java
+**Stars**: 542 **Issues**: 26 **Forks**: 63
+[https://github.com/grishka/Houseclub](https://github.com/grishka/Houseclub)
+
+- 🐙 **Source Code:** [https://github.com/grishka/Houseclub](https://github.com/grishka/Houseclub)
+- 👤 **Developer:** [grishka](https://github.com/grishka)
+
+
+---
+
+### 📦 Flutter Responsive Email Ui   Mobile Tablet And Web
+
+> **Categories:** `#android_application` `#flutter` `#ios` `#responsive_design`
+
+We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)
+- 👤 **Developer:** [abuanwar072](https://github.com/abuanwar072)
+
+
+---
+
+### 📦 square/curtains
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Lift the curtain on Android Windows!
+**Language**: Kotlin
+**Stars**: 135 **Issues**: 0 **Forks**: 1
+[https://github.com/square/curtains](https://github.com/square/curtains)
+
+- 🐙 **Source Code:** [https://github.com/square/curtains](https://github.com/square/curtains)
+- 👤 **Developer:** [square](https://github.com/square)
+
+
+---
+
+### 📦 kdrag0n/safetynet-fix
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
+**Language**: Shell
+**Stars**: 130 **Issues**: 1 **Forks**: 5
+[https://github.com/kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
+
+- 🐙 **Source Code:** [https://github.com/kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
+- 👤 **Developer:** [kdrag0n](https://github.com/kdrag0n)
+
+
+---
+
+### 📦 OLayemii/flutter-ui-kits
+
+> **Categories:** `#android` `#flutter` `#ios` `#mobile` `#mobile_development` `#ui` `#uikit`
+
+- 🐙 **Source Code:** [https://github.com/OLayemii/flutter-ui-kits](https://github.com/OLayemii/flutter-ui-kits)
+- 👤 **Developer:** Olayemi Garuba
+
+
+---
+
+### 📦 nihui/opencv-mobile
+
+> **Categories:** `#android` `#ios` `#opencv`
+
+The minimal opencv for android and ios
+**Language**: CMake
+
+- 🐙 **Source Code:** [https://github.com/nihui/opencv-mobile](https://github.com/nihui/opencv-mobile)
+- 👤 **Developer:** [nihui](https://github.com/nihui)
+
+
+---
+
+### 📦 PureWriter/FullDraggableDrawer
+
+> **Categories:** `#android` `#drawerlayout`
+
+Make Android DrawerLayout can be dragged out in real-time within the range of fullscreen
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/PureWriter/FullDraggableDrawer](https://github.com/PureWriter/FullDraggableDrawer)
+- 👤 **Developer:** [PureWriter](https://github.com/PureWriter)
+
+
+---
+
+### 📦 threema-ch/threema-android
+
+> **Categories:** `#android_app` `#messaging` `#mobile_app` `#secure_messenger`
+
+Threema App for Android.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/threema-ch/threema-android](https://github.com/threema-ch/threema-android)
+- 👤 **Developer:** [threema-ch](https://github.com/threema-ch)
+
+
+---
+
+### 📦 hluwa/strongR-frida-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An anti detection version frida-server for android.
+**Stars**: 82 **Issues**: 1 **Forks**: 15
+[https://github.com/hluwa/strongR-frida-android](https://github.com/hluwa/strongR-frida-android)
+
+- 🐙 **Source Code:** [https://github.com/hluwa/strongR-frida-android](https://github.com/hluwa/strongR-frida-android)
+- 👤 **Developer:** [hluwa](https://github.com/hluwa)
+
+
+---
+
+### 📦 2dust/AndroidLibXrayLite
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Go
+**Stars**: 109 **Issues**: 1 **Forks**: 2
+[https://github.com/2dust/AndroidLibXrayLite](https://github.com/2dust/AndroidLibXrayLite)
+
+- 🐙 **Source Code:** [https://github.com/2dust/AndroidLibXrayLite](https://github.com/2dust/AndroidLibXrayLite)
+- 👤 **Developer:** [2dust](https://github.com/2dust)
+
+
+---
+
+### 📦 pyricau/androidsrc
+
+> **Categories:** `#android` `#source_code`
+
+Find Android sources
+**Language**: Ruby
+
+- 🐙 **Source Code:** [https://github.com/pyricau/androidsrc](https://github.com/pyricau/androidsrc)
+- 👤 **Developer:** [pyricau](https://github.com/pyricau)
+
+
+---
+
+### 📦 skydoves/Bundler
+
+> **Categories:** `#activity` `#android` `#bundle` `#bundler` `#fragment` `#intent` `#kotlin` `#kotlin_extensions` `#skydoves`
+
+🎁 Android Intent & Bundle extensions that insert and retrieve values elegantly.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/Bundler](https://github.com/skydoves/Bundler)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 saket/cascade
+
+> **Categories:** `#menu` `#popup`
+
+Nested popup menus with smooth height animations on Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/saket/cascade](https://github.com/saket/cascade)
+- 👤 **Developer:** [saket](https://github.com/saket)
+
+
+---
+
+### 📦 alexjlockwood/android-2048-compose
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+2048 implemented using Jetpack Compose
+**Language**: Kotlin
+**Stars**: 115 **Issues**: 1 **Forks**: 10
+[https://github.com/alexjlockwood/android-2048-compose](https://github.com/alexjlockwood/android-2048-compose)
+
+- 🐙 **Source Code:** [https://github.com/alexjlockwood/android-2048-compose](https://github.com/alexjlockwood/android-2048-compose)
+- 👤 **Developer:** [alexjlockwood](https://github.com/alexjlockwood)
+
+
+---
+
+### 📦 SanjayDevTech/Code-with-love
+
+> **Categories:** `#algorithms` `#android` `#c` `#cpp` `#data_structures` `#hacktoberfest` `#java` `#javascript` `#kotlin` `#php` `#python` `#searching_algorithms` `#sorting_algorithms`
+
+Open source programming algorithms
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/SanjayDevTech/Code-with-love](https://github.com/SanjayDevTech/Code-with-love)
+- 👤 **Developer:** [SanjayDevTech](https://github.com/SanjayDevTech)
+
+
+---
+
+### 📦 Tarikul711/flutter-development-roadmap
+
+> **Categories:** `#android_application` `#awesome` `#bloc` `#cross_platform` `#dart` `#dart_web` `#firebase` `#flutter` `#flutter_app` `#flutter_awesome` `#flutter_demo` `#flutter_material` `#flutter_plugin` `#flutter_ui` `#flutter_widget` `#ios` `#redux` `#roadmap` `#rxdart`
+
+- 🐙 **Source Code:** [https://github.com/Tarikul711/flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap)
+- 👤 **Developer:** [Tarikul711](https://github.com/Tarikul711)
+
+
+---
+
+### 📦 LikeTheSalad/aaper
+
+> **Categories:** `#android` `#bytebuddy` `#permission_android`
+
+Ensure Android runtime permissions using annotations only
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/LikeTheSalad/aaper](https://github.com/LikeTheSalad/aaper)
+- 👤 **Developer:** [LikeTheSalad](https://github.com/LikeTheSalad)
+
+
+---
+
+### 📦 Tiyunzong An Exploit Chain To Remotely Root Modern Android Devices
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Stars**: 96 **Issues**: 1 **Forks**: 16
+[https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices](https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices)
+
+- 🐙 **Source Code:** [https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices](https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices)
+- 👤 **Developer:** [secmob](https://github.com/secmob)
+
+
+---
+
+### 📦 KwaiAppTeam/KOOM
+
+> **Categories:** `#android` `#crash` `#java` `#mobile` `#oom`
+
+KOOM is an OOM killer on mobile platform by Kwai.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/KwaiAppTeam/KOOM](https://github.com/KwaiAppTeam/KOOM)
+- 👤 **Developer:** [KwaiAppTeam](https://github.com/KwaiAppTeam)
+
+
+---
+
+### 📦 MlxChange/WaveDisPlay
+
+> **Categories:** `#android` `#koltin`
+
+A view that can be used like recyclerView to see the content of the next or previous page
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/MlxChange/WaveDisPlay](https://github.com/MlxChange/WaveDisPlay)
+- 👤 **Developer:** [MlxChange](https://github.com/MlxChange)
+
+
+---
+
+### 📦 1d8/Android-Analysis
+
+> **Categories:** `#android` `#reverse_engineering`
+
+Getting Genymotion & Burpsuite setup for Android Mobile App Analysis
+
+- 🐙 **Source Code:** [https://github.com/1d8/Android-Analysis](https://github.com/1d8/Android-Analysis)
+- 👤 **Developer:** [1d8](https://github.com/1d8)
+
+
+---
+
+### 📦 KieronQuinn/TapTap
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Port of the double tap on back of device feature from Android 11 to any armv8 Android device
+**Language**: Kotlin
+**Stars**: 268 **Issues**: 18 **Forks**: 21
+[https://github.com/KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap)
+
+- 🐙 **Source Code:** [https://github.com/KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap)
+- 👤 **Developer:** [KieronQuinn](https://github.com/KieronQuinn)
+
+
+---
+
+### 📦 skydoves/AndroidBottomBar
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🍫 A lightweight bottom navigation view, fully customizable with an indicator and animations.
+**Language**: Kotlin
+**Stars**: 144 **Issues**: 0 **Forks**: 2
+[https://github.com/skydoves/AndroidBottomBar](https://github.com/skydoves/AndroidBottomBar)
+
+- 🐙 **Source Code:** [https://github.com/skydoves/AndroidBottomBar](https://github.com/skydoves/AndroidBottomBar)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 abuanwar072/E-commerce-App-UI-Flutter
+
+> **Categories:** `#Flutter` `#android` `#flutter_apps` `#ios_app`
+
+Nice and clean Online Shop app UI by using #Flutter.
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/abuanwar072/E-commerce-App-UI-Flutter](https://github.com/abuanwar072/E-commerce-App-UI-Flutter)
+- 👤 **Developer:** [abuanwar072](https://github.com/abuanwar072)
+
+
+---
+
+### 📦 androiddevnotes/awesome-android-learning-resources
+
+> **Categories:** `#GitHub` `#OpenSource` `#readme` `#android` `#kotlin` `#lists` `#awesome` `#dagger` `#mvvm` `#resources` `#awesome_list` `#study_guide` `#beginner_friendly` `#hacktoberfest` `#coroutines_android` `#mvvm_android` `#learning_resources` `#android_kotlin` `#first_issue` `#jetpack_android` `#learn_android` `#jetpack_compose` `#hacktoberfest2020`
+
+👓 A curated list of awesome android learning resources for android app developers.
+**Language**: Kotlin
+**Stars**: 171 **Issues**: 0 **Forks**: 9
+[https://github.com/androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
+
+- 🐙 **Source Code:** [https://github.com/androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
+- 👤 **Developer:** [androiddevnotes](https://github.com/androiddevnotes)
+
+
+---
+
+### 📦 romainguy/sample-materials-shop
+
+> **Categories:** `#android` `#jetpack_compose`
+
+Sample app for Jetpack Compose Developer Preview 2
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/romainguy/sample-materials-shop](https://github.com/romainguy/sample-materials-shop)
+- 👤 **Developer:** [romainguy](https://github.com/romainguy)
+
+
+---
+
+### 📦 lopspower/CleanRxArchitecture
+
+> **Categories:** `#android` `#android_tests` `#clean_architecture` `#dagger2` `#kotlin` `#model_view_intent` `#rxjava3`
+
+Clean Rx Kotlin Architecture sample on GitHub Api 🚀
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture)
+- 👤 **Developer:** [lopspower](https://github.com/lopspower)
+
+
+---
+
+### 📦 Wiqaytna-app/wiqaytna_android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Kotlin
+**Stars**: 146 **Issues**: 19 **Forks**: 64
+[https://github.com/Wiqaytna-app/wiqaytna_android](https://github.com/Wiqaytna-app/wiqaytna_android)
+
+- 🐙 **Source Code:** [https://github.com/Wiqaytna-app/wiqaytna_android](https://github.com/Wiqaytna-app/wiqaytna_android)
+- 👤 **Developer:** [Wiqaytna-app](https://github.com/Wiqaytna-app)
+
+
+---
+
+### 📦 skydoves/Pokedex
+
+> **Categories:** `#android` `#coroutines` `#dagger_hilt` `#dagger2` `#jetpack_android` `#kotlin` `#motion` `#mvvm` `#pokedex` `#pokemon` `#skydoves` `#android_ar` `#ar` `#arcore` `#hilt` `#sceneform`
+
+🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/Pokedex](https://github.com/skydoves/Pokedex)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 corona-warn-app/cwa-app-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Native Android app using the Apple/Google exposure notification API.
+**Language**: Kotlin
+**Stars**: 212 **Issues**: 36 **Forks**: 34
+[https://github.com/corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+
+- 🐙 **Source Code:** [https://github.com/corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+- 👤 **Developer:** [corona-warn-app](https://github.com/corona-warn-app)
+
+
+---
+
+### 📦 bytedance/BoostMultiDex
+
+> **Categories:** `#android`
+
+BoostMultiDex is a solution for quickly loading multiple DEXs on low Android version devices (4.X and below, SDK <21).
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex)
+- 👤 **Developer:** [bytedance](https://github.com/bytedance)
+
+
+---
+
+### 📦 nic-delhi/AarogyaSetu_Android
+
+> **Categories:** `#android` `#contact_tracing`
+
+Aarogya Setu Android app native code
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/nic-delhi/AarogyaSetu_Android](https://github.com/nic-delhi/AarogyaSetu_Android)
+- 👤 **Developer:** [nic-delhi](https://github.com/nic-delhi)
+
+
+---
+
+### 📦 CovidShield/mobile
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+React Native client application for COVID Shield on iOS and Android
+**Language**: TypeScript
+**Stars**: 188 **Issues**: 19 **Forks**: 26
+[https://github.com/CovidShield/mobile](https://github.com/CovidShield/mobile)
+
+- 🐙 **Source Code:** [https://github.com/CovidShield/mobile](https://github.com/CovidShield/mobile)
+- 👤 **Developer:** [CovidShield](https://github.com/CovidShield)
+
+
+---
+
+### 📦 ahmedrizwan/JetpackComposeCalculator
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A jetpack compose clone of Android 10 Calculator UI
+**Language**: Kotlin
+**Stars**: 124 **Issues**: 0 **Forks**: 3
+[https://github.com/ahmedrizwan/JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
+
+- 🐙 **Source Code:** [https://github.com/ahmedrizwan/JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
+- 👤 **Developer:** [ahmedrizwan](https://github.com/ahmedrizwan)
+
+
+---
+
+### 📦 flwmxd/PharaohStroy
+
+> **Categories:** `#android` `#client` `#cpp` `#editor` `#game` `#game_engine_2d` `#ios` `#lua` `#maplestory` `#opengl` `#opengl_es` `#opengl2` `#switch` `#windows`
+
+A maplestory IDE which can develop the multi-platform maplestory game
+**Language**: Lua
+
+- 🐙 **Source Code:** [https://github.com/flwmxd/PharaohStroy](https://github.com/flwmxd/PharaohStroy)
+- 👤 **Developer:** [flwmxd](https://github.com/flwmxd)
+
+
+---
+
+### 📦 igorwojda/android-ecosystem-cheat-sheet
+
+> **Categories:** `#android` `#android_application` `#android_development` `#android_ui`
+
+🤖Android Ecosystem Cheatsheet 2020
+
+- 🐙 **Source Code:** [https://github.com/igorwojda/android-ecosystem-cheat-sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
+- 👤 **Developer:** [igorwojda](https://github.com/igorwojda)
+
+
+---
+
+### 📦 AU-COVIDSafe/mobile-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+COVIDSafe android app
+**Language**: Kotlin
+**Stars**: 158 **Issues**: 0 **Forks**: 66
+[https://github.com/AU-COVIDSafe/mobile-android](https://github.com/AU-COVIDSafe/mobile-android)
+
+- 🐙 **Source Code:** [https://github.com/AU-COVIDSafe/mobile-android](https://github.com/AU-COVIDSafe/mobile-android)
+- 👤 **Developer:** [AU-COVIDSafe](https://github.com/AU-COVIDSafe)
+
+
+---
+
+### 📦 google/exposure-notifications-android
+
+> **Categories:** `#android` `#covid_19`
+
+Exposure Notifications Android Reference Design
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/google/exposure-notifications-android](https://github.com/google/exposure-notifications-android)
+- 👤 **Developer:** [google](https://github.com/google)
+
+
+---
+
+### 📦 necatisozer/Modern-Android-Development
+
+> **Categories:** `#android` `#android_app` `#android_application` `#android_architecture` `#android_development` `#android_library` `#android_sdk` `#android_studio` `#android_ui` `#androidstudio`
+
+Modern Android Development tools & key points
+
+- 🐙 **Source Code:** [https://github.com/necatisozer/Modern-Android-Development](https://github.com/necatisozer/Modern-Android-Development)
+- 👤 **Developer:** [necatisozer](https://github.com/necatisozer)
+
+
+---
+
+### 📦 austrianredcross/stopp-corona-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Android Source Code
+**Language**: Kotlin
+**Stars**: 109 **Issues**: 10 **Forks**: 20
+[https://github.com/austrianredcross/stopp-corona-android](https://github.com/austrianredcross/stopp-corona-android)
+
+- 🐙 **Source Code:** [https://github.com/austrianredcross/stopp-corona-android](https://github.com/austrianredcross/stopp-corona-android)
+- 👤 **Developer:** [austrianredcross](https://github.com/austrianredcross)
+
+
+---
+
+### 📦 kiwibrowser/src
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Source-code used in Kiwi Browser for Android (up to date)
+**Stars**: 272 **Issues**: 15 **Forks**: 19
+[https://github.com/kiwibrowser/src](https://github.com/kiwibrowser/src)
+
+- 🐙 **Source Code:** [https://github.com/kiwibrowser/src](https://github.com/kiwibrowser/src)
+- 👤 **Developer:** [kiwibrowser](https://github.com/kiwibrowser)
+
+
+---
+
+### 📦 opentrace-community/opentrace-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+OpenTrace Android app. Reference implementation of the BlueTrace protocol.
+**Language**: Kotlin
+**Stars**: 118 **Issues**: 2 **Forks**: 42
+[https://github.com/opentrace-community/opentrace-android](https://github.com/opentrace-community/opentrace-android)
+
+- 🐙 **Source Code:** [https://github.com/opentrace-community/opentrace-android](https://github.com/opentrace-community/opentrace-android)
+- 👤 **Developer:** [opentrace-community](https://github.com/opentrace-community)
+
+
+---
+
+### 📦 aind-containers/aind
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+AinD: Android in Docker. Ain't an emulator.
+**Language**: Dockerfile
+**Stars**: 522 **Issues**: 4 **Forks**: 13
+[https://github.com/aind-containers/aind](https://github.com/aind-containers/aind)
+
+- 🐙 **Source Code:** [https://github.com/aind-containers/aind](https://github.com/aind-containers/aind)
+- 👤 **Developer:** [aind-containers](https://github.com/aind-containers)
+
+
+---
+
+### 📦 m0bilesecurity/RMS-Runtime-Mobile-Security
+
+> **Categories:** `#android_security` `#frida` `#mobile_security` `#reverse_engineering`
+
+Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+- 👤 **Developer:** [m0bilesecurity](https://github.com/m0bilesecurity)
+
+
+---
+
+### 📦 skydoves/MarvelHeroes
+
+> **Categories:** `#android` `#coroutines` `#databinding` `#dependency_injection` `#kotlin` `#material_components` `#material_design` `#mvvm` `#mvvm_android` `#mvvm_architecture` `#repository` `#retrofit2` `#room` `#skydoves`
+
+❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin)  architecture.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/MarvelHeroes](https://github.com/skydoves/MarvelHeroes)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 MindorksOpenSource/ridesharing-uber-lyft-app
+
+> **Categories:** `#android` `#animation` `#lyft` `#open_source` `#ridesharing` `#uber` `#uber_android` `#uber_animation` `#uber_app`
+
+Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+- 👤 **Developer:** [MindorksOpenSource](https://github.com/MindorksOpenSource)
+
+
+---
+
+### 📦 PatilShreyas/Foodium
+
+> **Categories:** `#android` `#android_architecture_components` `#coroutines` `#coroutines_android` `#dagger2_android` `#flow` `#kotlin` `#kotlin_android` `#kotlin_flow` `#livedata` `#livedata_viewmodel` `#material_components` `#moshi` `#mvvm` `#mvvm_android` `#retrofit2` `#room` `#room_persistence_library` `#viewbinding`
+
+🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/PatilShreyas/Foodium](https://github.com/PatilShreyas/Foodium)
+- 👤 **Developer:** [PatilShreyas](https://github.com/PatilShreyas)
+
+
+---
+
+### 📦 Spikeysanju/MotionToast
+
+> **Categories:** `#android_app` `#android_development` `#android_library` `#android_sdk` `#android_ui` `#androidkotlin` `#androidstudio` `#kotlin` `#kotlin_android` `#kotlin_library` `#material_design` `#materialdesign_library` `#materialdesign_ui` `#spikeysanju` `#toastlibrary`
+
+A Beautiful Motion Toast Library for Kotlin Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/Spikeysanju/MotionToast](https://github.com/Spikeysanju/MotionToast)
+- 👤 **Developer:** [Spikeysanju](https://github.com/Spikeysanju)
+
+
+---
+
+### 📦 corellium/projectsandcastle
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Android/Linux for the iPhone
+**Language**: C
+**Stars**: 298 **Issues**: 7 **Forks**: 17
+https://github.com/corellium/projectsandcastle
+
+- 🐙 **Source Code:** [https://github.com/corellium/projectsandcastle](https://github.com/corellium/projectsandcastle)
+- 👤 **Developer:** [corellium](https://github.com/corellium)
+
+
+---
+
+### 📦 skydoves/TransformationLayout
+
+> **Categories:** `#android` `#android_library` `#android_ui` `#kotlin` `#material` `#motions` `#skydoves` `#transition`
+
+🌠 Transform into a different view or activity using morphing animations.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 JakeWharton/wormhole
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A time-traveling bytecode rewriter which adds future APIs to android.jar
+**Language**: Kotlin
+**Stars**: 190 **Issues**: 4 **Forks**: 2
+https://github.com/JakeWharton/wormhole
+
+- 🐙 **Source Code:** [https://github.com/JakeWharton/wormhole](https://github.com/JakeWharton/wormhole)
+- 👤 **Developer:** [JakeWharton](https://github.com/JakeWharton)
+
+
+---
+
+### 📦 skydoves/DisneyMotions
+
+> **Categories:** `#android` `#coroutines` `#disney` `#kotlin` `#motions` `#mvvm` `#mvvm_architecture` `#skydoves`
+
+🦁 A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 lyrebirdstudio/filebox
+
+> **Categories:** `#android` `#async` `#conceal` `#downloader` `#file` `#filebox`
+
+Async file downloader for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/lyrebirdstudio/filebox](https://github.com/lyrebirdstudio/filebox)
+- 👤 **Developer:** [lyrebirdstudio](https://github.com/lyrebirdstudio)
+
+
+---
+
+### 📦 transferwise/banks-reference-android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Reference Android code integrating TransferWise's services into a (Demo) Bank App
+**Language**: Kotlin
+**Stars**: 91 **Issues**: 0 **Forks**: 6
+https://github.com/transferwise/banks-reference-android
+
+- 🐙 **Source Code:** [https://github.com/transferwise/banks-reference-android](https://github.com/transferwise/banks-reference-android)
+- 👤 **Developer:** [transferwise](https://github.com/transferwise)
+
+
+---
+
+### 📦 tiann/Leoric
+
+> **Categories:** `#alive` `#android` `#daemon`
+
+PoC of fighting against force-stop kill process on Android
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/tiann/Leoric](https://github.com/tiann/Leoric)
+- 👤 **Developer:** [tiann](https://github.com/tiann)
+
+
+---
+
+### 📦 skydoves/PowerSpinner
+
+> **Categories:** `#android` `#android_library` `#android_spinner` `#kotlin` `#popup` `#skydoves` `#spinner` `#spinnerview`
+
+:cyclone: A lightweight dropdown popup spinner with an arrow and animations.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/PowerSpinner](https://github.com/skydoves/PowerSpinner)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 vaib25vicky/awesome-mobile-security
+
+> **Categories:** `#android` `#android_security` `#awesome` `#awesome_list` `#bugbounty` `#hacking` `#hacking_tools` `#ios` `#ios_security` `#malware` `#malware_research` `#mobile` `#mobile_security` `#pentesting` `#redteam` `#resources` `#reverse_engineering` `#security_tools`
+
+An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
+
+- 🐙 **Source Code:** [https://github.com/vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
+- 👤 **Developer:** [vaib25vicky](https://github.com/vaib25vicky)
+
+
+---
+
+### 📦 mrcsxsiq/Kotlin-Pokedex
+
+> **Categories:** `#android` `#kotlin` `#navigation` `#room` `#viewmodel`
+
+:cyclone: A Pokedex app using ViewModel, LiveData, Room and Navigation
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex)
+- 👤 **Developer:** [mrcsxsiq](https://github.com/mrcsxsiq)
+
+
+---
+
+### 📦 gotev/android-cookie-store
+
+> **Categories:** `#android` `#cookie` `#httpurlconnection` `#kotlin` `#library` `#okhttp` `#store` `#webview`
+
+Android InMemory and persistent Cookie Store for HttpURLConnection and OkHttp, with extensions to easily sync cookies in Android WebViews.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/gotev/android-cookie-store](https://github.com/gotev/android-cookie-store)
+- 👤 **Developer:** [gotev](https://github.com/gotev)
+
+
+---
+
+### 📦 joreilly/PeopleInSpace
+
+> **Categories:** `#android` `#android_architecture_components` `#ios` `#jetpack_compose` `#koin` `#kotlin` `#kotlin_coroutines` `#kotlin_multiplatform` `#kotlinx_serialization` `#ktor_client` `#mvvm` `#swiftui` `#viewmodel`
+
+Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
+- 👤 **Developer:** [joreilly](https://github.com/joreilly)
+
+
+---
+
+### 📦 den4uk/andriller
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
+**Language**: Python
+**Stars**: 131 **Issues**: 0 **Forks**: 29
+https://github.com/den4uk/andriller
+
+- 🐙 **Source Code:** [https://github.com/den4uk/andriller](https://github.com/den4uk/andriller)
+- 👤 **Developer:** [den4uk](https://github.com/den4uk)
+
+
+---
+
+### 📦 alphaSeclab/awesome-reverse-engineering
+
+> **Categories:** `#binaryninja` `#binnavi` `#dynamorio` `#frida` `#ghidra` `#idapro` `#idapython` `#intelpt` `#radare2` `#reverse_engineering` `#x64dbg`
+
+Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect!
+
+- 🐙 **Source Code:** [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
+- 👤 **Developer:** [alphaSeclab](https://github.com/alphaSeclab)
+
+
+---
+
+### 📦 skydoves/GoldMovies
+
+> **Categories:** `#android` `#coroutines` `#dagger` `#koin` `#kotlin` `#mvvm` `#mvvm_architecture` `#skydoves` `#themoviedb`
+
+👑 The GoldMovies is based on Kotlin, MVVM architecture, coroutines, dagger, koin, and material designs & animations.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/GoldMovies](https://github.com/skydoves/GoldMovies)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 dropbox/Store
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Android Library for Async Data Loading and Caching
+**Language**: Kotlin
+**Stars**: 225 **Issues**: 1 **Forks**: 16
+https://github.com/dropbox/Store
+
+- 🐙 **Source Code:** [https://github.com/dropbox/Store](https://github.com/dropbox/Store)
+- 👤 **Developer:** [dropbox](https://github.com/dropbox)
+
+
+---
+
+### 📦 ZahraHeydari/MusicPlayer
+
+> **Categories:** `#android_app` `#android_clean_architecture_kotlin` `#android_clean_architecture_sample` `#android_cleanarchitecture` `#broadcast_reciever` `#dependency_injection` `#exoplayer` `#exoplayer2` `#koin` `#livedata` `#livedata_viewmodel` `#music_player` `#mvvm` `#mvvm_android` `#mvvm_architecture` `#notification_android` `#notification_service` `#notifications` `#room_database` `#service`
+
+Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/ZahraHeydari/MusicPlayer](https://github.com/ZahraHeydari/MusicPlayer)
+- 👤 **Developer:** [ZahraHeydari](https://github.com/ZahraHeydari)
+
+
+---
+
+### 📦 Chrisvin/LiquidSwipe
+
+> **Categories:** `#android` `#android_library` `#library` `#liquid` `#liquidswipe` `#page` `#pager` `#swipe` `#viewpager`
+
+Android LiquidSwipe Library
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/Chrisvin/LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)
+- 👤 **Developer:** [Chrisvin](https://github.com/Chrisvin)
+
+
+---
+
+### 📦 diez/diez
+
+> **Categories:** `#android_style` `#compiler` `#cross_platform` `#design_language` `#design_systems` `#design_tokens` `#ios_style` `#style` `#web_styles`
+
+Adopt a unified design language across platforms, codebases, and teams
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/diez/diez](https://github.com/diez/diez)
+- 👤 **Developer:** [diez](https://github.com/diez)
+
+
+---
+
+### 📦 MindorksOpenSource/RxJava3-Android-Examples
+
+> **Categories:** `#example_project` `#examples` `#kotlin` `#rx_android` `#rxjava` `#rxjava2` `#rxjava3`
+
+RxJava 3 Android Examples - Migration From RxJava 2 to RxJava 3 - How to use RxJava 3 in Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/MindorksOpenSource/RxJava3-Android-Examples](https://github.com/MindorksOpenSource/RxJava3-Android-Examples)
+- 👤 **Developer:** [MindorksOpenSource](https://github.com/MindorksOpenSource)
+
+
+---
+
+### 📦 GoogleChromeLabs/llama-pack
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Llama Pack 🦙 is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
+**Language**: JavaScript
+**Stars**: 85 **Issues**: 9 **Forks**: 3
+https://github.com/GoogleChromeLabs/llama-pack
+
+- 🐙 **Source Code:** [https://github.com/GoogleChromeLabs/llama-pack](https://github.com/GoogleChromeLabs/llama-pack)
+- 👤 **Developer:** [GoogleChromeLabs](https://github.com/GoogleChromeLabs)
+
+
+---
+
+### 📦 FSecureLABS/Jandroid
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 120 **Issues**: 2 **Forks**: 11
+https://github.com/FSecureLABS/Jandroid
+
+- 🐙 **Source Code:** [https://github.com/FSecureLABS/Jandroid](https://github.com/FSecureLABS/Jandroid)
+- 👤 **Developer:** [FSecureLABS](https://github.com/FSecureLABS)
+
+
+---
+
+### 📦 skydoves/DoubleLift
+
+> **Categories:** `#android` `#android_library` `#android_ui` `#collapse` `#doublelift` `#expand` `#expandable` `#kotlin` `#skydoves`
+
+🦋 Expands and collapses a layout's horizontal and vertical sequentially.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/DoubleLift](https://github.com/skydoves/DoubleLift)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 ibrahimsn98/SmoothBottomBar
+
+> **Categories:** `#android` `#android_bottom_navigation` `#android_library` `#android_tabs` `#bottom_navigation` `#bottom_navigation_bar`
+
+A lightweight Android material bottom navigation bar library
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
+- 👤 **Developer:** [ibrahimsn98](https://github.com/ibrahimsn98)
+
+
+---
+
+### 📦 chrisbanes/insetter
+
+> **Categories:** `#android_ui`
+
+Insetter is a library to help apps handle WindowInsets more easily
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/chrisbanes/insetter](https://github.com/chrisbanes/insetter)
+- 👤 **Developer:** [chrisbanes](https://github.com/chrisbanes)
+
+
+---
+
+### 📦 ataulm/material-design-components-showcase
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A glorified layout file to which you can apply your Android theme
+**Language**: Kotlin
+**Stars**: 106 **Issues**: 2 **Forks**: 5
+https://github.com/ataulm/material-design-components-showcase
+
+- 🐙 **Source Code:** [https://github.com/ataulm/material-design-components-showcase](https://github.com/ataulm/material-design-components-showcase)
+- 👤 **Developer:** [ataulm](https://github.com/ataulm)
+
+
+---
+
+### 📦 janoodleFTW/timy-messenger
+
+> **Categories:** `#android` `#app` `#firebase` `#flutter` `#ios` `#kotlin` `#messaging` `#messenger` `#swift`
+
+Timy - open source mobile app for groups to communicate and organize themselves. Build with flutter.
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger)
+- 👤 **Developer:** [janoodleFTW](https://github.com/janoodleFTW)
+
+
+---
+
+### 📦 skydoves/ExpandableLayout
+
+> **Categories:** `#android` `#android_library` `#collapse` `#expand` `#expandable` `#expandablelayout` `#kotlin` `#skydoves`
+
+🦚 An expandable layout that shows a two-level layout with an indicator.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/ExpandableLayout](https://github.com/skydoves/ExpandableLayout)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 americanexpress/busybee
+
+> **Categories:** `#android` `#espresso` `#testing_library`
+
+BusyBee is an alternative API for IdlingResources in Espresso tests
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/americanexpress/busybee](https://github.com/americanexpress/busybee)
+- 👤 **Developer:** [americanexpress](https://github.com/americanexpress)
+
+
+---
+
+### 📦 secrary/Andromeda
+
+> **Categories:** `#android` `#binary_analysis` `#reverse_engineering` `#static_analysis`
+
+Andromeda - Interactive Reverse Engineering Tool for Android Applications
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda)
+- 👤 **Developer:** [secrary](https://github.com/secrary)
+
+
+---
+
+### 📦 nining377/UnblockMusicPro_Xposed
+
+> **Categories:** `#android` `#neteasecloudmusic` `#unblock` `#xposed`
+
+Unblock Netease Cloud Music with Xposed
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/nining377/UnblockMusicPro_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed)
+- 👤 **Developer:** [nining377](https://github.com/nining377)
+
+
+---
+
+### 📦 skydoves/WhatIf
+
+> **Categories:** `#android` `#builder_pattern` `#expression` `#extensions` `#if_else` `#kotlin` `#nullable` `#skydoves`
+
+☔ A fluent kotlin expression for a single if-else statement, nullable and boolean.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/WhatIf](https://github.com/skydoves/WhatIf)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 ahkohd/FlutterGrocery-ShoppingAppUI
+
+> **Categories:** `#android` `#app` `#flutter` `#food_ordering` `#freebie` `#grocery` `#ios` `#made_in_nigeria` `#mobile` `#ui` `#uikit`
+
+Fryo - Grocery Shopping  App template UI kit in Flutter 🍔😋
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI](https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI)
+- 👤 **Developer:** [ahkohd](https://github.com/ahkohd)
+
+
+---
+
+### 📦 skydoves/Rainbow
+
+> **Categories:** `#android` `#android_library` `#gradation` `#gradient` `#kotlin` `#rainbow` `#skydoves` `#tint` `#tinting`
+
+🌈 An easy way to apply gradations and tinting for Android.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/Rainbow](https://github.com/skydoves/Rainbow)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 coil-kt/coil
+
+> **Categories:** `#android` `#image_loader` `#images` `#kotlin` `#kotlin_coroutines`
+
+Image loading for Android backed by Kotlin Coroutines.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/coil-kt/coil](https://github.com/coil-kt/coil)
+- 👤 **Developer:** [coil-kt](https://github.com/coil-kt)
+
+
+---
+
+### 📦 wiyarmir/kotlin-multiplatform-template
+
+> **Categories:** `#kotiln_backend` `#kotlin` `#kotlin_android` `#kotlin_ios` `#kotlin_js` `#kotlin_multiplatform` `#kotlin_native` `#kotlin_react` `#ktor` `#react`
+
+Ready to go template for multiplatform Kotlin
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/wiyarmir/kotlin-multiplatform-template](https://github.com/wiyarmir/kotlin-multiplatform-template)
+- 👤 **Developer:** [wiyarmir](https://github.com/wiyarmir)
+
+
+---
+
+### 📦 android/animation
+
+> **Categories:** `#samples`
+
+Multiple samples showing the best practices in animation on Android.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/android/animation](https://github.com/android/animation)
+- 👤 **Developer:** [android](https://github.com/android)
+
+
+---
+
+### 📦 iampawan/GDG-DevFest-App
+
+> **Categories:** `#android` `#app` `#devfest` `#flutter` `#gdg` `#ios`
+
+An App Template For GDG DevFest
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/iampawan/GDG-DevFest-App](https://github.com/iampawan/GDG-DevFest-App)
+- 👤 **Developer:** [iampawan](https://github.com/iampawan)
+
+
+---
+
+### 📦 MindorksOpenSource/android-developer-roadmap
+
+> **Categories:** `#android` `#android_app` `#android_architecture` `#android_developer` `#android_development` `#android_library` `#android_studio` `#developement` `#developer` `#java` `#jetpack` `#kotlin` `#learning` `#mindorks` `#roadmap` `#rxjava` `#rxjava2`
+
+Android Developer Roadmap - A complete roadmap to learn Android App Development
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap)
+- 👤 **Developer:** roadmap
+
+
+---
+
+### 📦 hasankucuk/SocialTextView
+
+> **Categories:** `#android` `#android_socialtextview` `#android_textview` `#custom_android_textview` `#hashtags` `#mention` `#phone`
+
+A simple custom Android TextView that highlights content such as Mention, Hashtag, Phone, Email and Url.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/hasankucuk/SocialTextView](https://github.com/hasankucuk/SocialTextView)
+- 👤 **Developer:** [hasankucuk](https://github.com/hasankucuk)
+
+
+---
+
+### 📦 JideGuru/FlutterSocialAppUIKit
+
+> **Categories:** `#android` `#flutter` `#ios` `#mobile` `#social_media` `#ui` `#uikit`
+
+Flutter representation of a Social App Concept i found in Uplabs.
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/JideGuru/FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit)
+- 👤 **Developer:** [JideGuru](https://github.com/JideGuru)
+
+
+---
+
+### 📦 luckybilly/SmartSwipe
+
+> **Categories:** `#cover` `#customer_view` `#door` `#drawer` `#refreshlayout` `#shutters` `#slidingmenu` `#swipe` `#swipeback` `#swipebacklayout`
+
+An android library to make swipe more easier and more powerful. https://luckybilly.github.io/SmartSwipe-tutorial/
+**Language**: Java
+
+- 🐙 **Source Code:** [https://luckybilly.github.io/SmartSwipe-tutorial](https://luckybilly.github.io/SmartSwipe-tutorial)
+
+
+---
+
+### 📦 iqiyi/Qigsaw
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Qigsaw is a dynamic modularization library which is based on Android App Bundles. It supports dynamic delivery for split APK without reinstalling the base one.
+**Language**: Java
+**Stars**: 104 **Issues**: 0 **Forks**: 10
+https://github.com/iqiyi/Qigsaw
+
+- 🐙 **Source Code:** [https://github.com/iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw)
+- 👤 **Developer:** [iqiyi](https://github.com/iqiyi)
+
+
+---
+
+### 📦 DivestTrump/ParrotSnoop
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Android app for IP packet capture
+**Language**: Java
+**Stars**: 76 **Issues**: 0 **Forks**: 4
+https://github.com/DivestTrump/ParrotSnoop
+
+- 🐙 **Source Code:** [https://github.com/DivestTrump/ParrotSnoop](https://github.com/DivestTrump/ParrotSnoop)
+- 👤 **Developer:** [DivestTrump](https://github.com/DivestTrump)
+
+
+---
+
+### 📦 googlesamples/android-DarkTheme
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Java
+**Stars**: 133 **Issues**: 2 **Forks**: 8
+https://github.com/googlesamples/android-DarkTheme
+
+- 🐙 **Source Code:** [https://github.com/googlesamples/android-DarkTheme](https://github.com/googlesamples/android-DarkTheme)
+- 👤 **Developer:** [googlesamples](https://github.com/googlesamples)
+
+
+---
+
+### 📦 android/camera
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Kotlin
+**Stars**: 141 **Issues**: 9 **Forks**: 15
+https://github.com/android/camera
+
+- 🐙 **Source Code:** [https://github.com/android/camera](https://github.com/android/camera)
+- 👤 **Developer:** [android](https://github.com/android)
+
+
+---
+
+### 📦 afollestad/inline-activity-result
+
+> **Categories:** `#activity_results` `#android` `#androidx` `#kotlin`
+
+Receive Activity results inline in a callback, without any boilerplate.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/afollestad/inline-activity-result](https://github.com/afollestad/inline-activity-result)
+- 👤 **Developer:** [afollestad](https://github.com/afollestad)
+
+
+---
+
+### 📦 didi/booster
+
+> **Categories:** `#android` `#bytecode_manipulation` `#gradle_plugin` `#ios` `#optimizer` `#static_analysis`
+
+✨Optimizer for mobile applications
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/didi/booster](https://github.com/didi/booster)
+- 👤 **Developer:** [didi](https://github.com/didi)
+
+
+---
+
+### 📦 fritzlabs/Awesome-Mobile-Machine-Learning
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
+**Stars**: 151 **Issues**: 0 **Forks**: 11
+https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning
+
+- 🐙 **Source Code:** [https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
+- 👤 **Developer:** [fritzlabs](https://github.com/fritzlabs)
+
+
+---
+
+### 📦 hearsilent/DiscreteSlider
+
+> **Categories:** `#android` `#android_library` `#discrete` `#seekbar` `#seekbar_android` `#slider` `#slider_range`
+
+A slider (SeekBar) with amazing value label.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/hearsilent/DiscreteSlider](https://github.com/hearsilent/DiscreteSlider)
+- 👤 **Developer:** [hearsilent](https://github.com/hearsilent)
+
+
+---
+
+### 📦 kroegerama/bottomsheet-imagepicker
+
+> **Categories:** `#android` `#bottomsheet` `#image` `#imagepicker` `#library` `#picker`
+
+Modern image picker for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/kroegerama/bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)
+- 👤 **Developer:** [kroegerama](https://github.com/kroegerama)
+
+
+---
+
+### 📦 Awesome-Interview/Awesome-Interview
+
+> **Categories:** `#android` `#backend` `#cpp` `#deep_learning` `#frontend` `#interview` `#interview_practice` `#interview_prep` `#interview_preparation` `#interviews` `#ios` `#java` `#machine_learning` `#python`
+
+Collection of awesome interview references.
+
+- 🐙 **Source Code:** [https://github.com/Awesome-Interview/Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview)
+- 👤 **Developer:** [Awesome-Interview](https://github.com/Awesome-Interview)
+
+
+---
+
+### 📦 mmazzarolo/breathly-app
+
+> **Categories:** `#android` `#app` `#breathing` `#breathly` `#ios` `#mobile` `#react` `#react_native` `#typescript`
+
+A breathing training app built with React-Native
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app)
+- 👤 **Developer:** [mmazzarolo](https://github.com/mmazzarolo)
+
+
+---
+
+### 📦 afollestad/recyclical
+
+> **Categories:** `#android` `#androidx` `#dsl` `#kotlin` `#list_selection` `#lists` `#recyclerview` `#user_interface`
+
+🚀 An easy-to-use Kotlin DSL API for setting up and manipulating RecyclerViews.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/afollestad/recyclical](https://github.com/afollestad/recyclical)
+- 👤 **Developer:** [afollestad](https://github.com/afollestad)
+
+
+---
+
+### 📦 iammert/ReadableBottomBar
+
+> **Categories:** `#android` `#bar` `#bottom` `#bottombar` `#kotlin` `#layout` `#material` `#tab` `#view`
+
+Yet another material bottom bar library for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)
+- 👤 **Developer:** [iammert](https://github.com/iammert)
+
+
+---
+
+### 📦 alibaba/flutter_boost
+
+> **Categories:** `#android` `#dart` `#flutter` `#hybrid_app` `#hybrid_flutter` `#ios`
+
+FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)
+- 👤 **Developer:** [alibaba](https://github.com/alibaba)
+
+
+---
+
+### 📦 gauravk95/bubble-navigation
+
+> **Categories:** `#android` `#android_library` `#android_ui` `#android_ui_insipired` `#bottom_navigation` `#bottomnavigation` `#bottomnavigationbar` `#bottomnavigationview` `#library` `#material_design` `#navbar` `#navigation` `#navigation_view` `#navigationbar` `#navigationview` `#widget`
+
+🎉 [Android Library] A light-weight library to easily make beautiful Navigation Bar with ton of 🎨 customization option.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/gauravk95/bubble-navigation](https://github.com/gauravk95/bubble-navigation)
+- 👤 **Developer:** [gauravk95](https://github.com/gauravk95)
+
+
+---
+
+### 📦 leisim/awesome-flutter-packages
+
+> **Categories:** `#android` `#awesome` `#dart` `#flutter` `#ios`
+
+A curated list of awesome Flutter packages.
+**Language**: Dart
+
+- 🐙 **Source Code:** [https://github.com/leisim/awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages)
+- 👤 **Developer:** [leisim](https://github.com/leisim)
+
+
+---
+
+### 📦 Cyuubi/MonoNX
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An experimental Nintendo Switch emulator for Android!
+**Language**: C#
+**Stars**: 115 **Issues**: 0 **Forks**: 4
+https://github.com/Cyuubi/MonoNX
+
+- 🐙 **Source Code:** [https://github.com/Cyuubi/MonoNX](https://github.com/Cyuubi/MonoNX)
+- 👤 **Developer:** [Cyuubi](https://github.com/Cyuubi)
+
+
+---
+
+### 📦 asLody/whale
+
+> **Categories:** `#android` `#hook_framework` `#inline_hook` `#ios` `#jit`
+
+Hook Framework for Android/IOS/Linux/MacOS
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/asLody/whale](https://github.com/asLody/whale)
+- 👤 **Developer:** [asLody](https://github.com/asLody)
+
+
+---
+
+### 📦 huanxsd/flutter_shuqi
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+High imitation Shuqi Novel Flutter version, supports iOS and Android
+**Language**: Dart
+**Stars**: 119 **Issues**: 0 **Forks**: 20
+https://github.com/huanxsd/flutter_shuqi
+
+- 🐙 **Source Code:** [https://github.com/huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)
+- 👤 **Developer:** [huanxsd](https://github.com/huanxsd)
+
+
+---
+
+### 📦 afollestad/vvalidator
+
+> **Categories:** `#android` `#androidx` `#form` `#kotlin` `#validation`
+
+[BETA] An easy to use form validator for Kotlin & Android.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/afollestad/vvalidator](https://github.com/afollestad/vvalidator)
+- 👤 **Developer:** [afollestad](https://github.com/afollestad)
+
+
+---
+
+### 📦 bernaferrari/GradleKotlinConverter
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Convert from Groovy to Kotlin DSL for Gradle, focused on Android.
+**Language**: Kotlin
+**Stars**: 120 **Issues**: 0 **Forks**: 0
+https://github.com/bernaferrari/GradleKotlinConverter
+
+- 🐙 **Source Code:** [https://github.com/bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter)
+- 👤 **Developer:** [bernaferrari](https://github.com/bernaferrari)
+
+
+---
+
+### 📦 ccg2018/ClashA
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A Android GUI for Clash
+**Stars**: 90 **Issues**: 2 **Forks**: 0
+https://github.com/ccg2018/ClashA
+
+- 🐙 **Source Code:** [https://github.com/ccg2018/ClashA](https://github.com/ccg2018/ClashA)
+- 👤 **Developer:** [ccg2018](https://github.com/ccg2018)
+
+
+---
+
+### 📦 m3sv/Flutter-for-Android-developers
+
+> **Categories:** `#android` `#beginner_friendly` `#beginners_tutorial_series` `#dartlang` `#example` `#flutter` `#tutorial`
+
+Compilation of Flutter materials for Android developers
+
+- 🐙 **Source Code:** [https://github.com/m3sv/Flutter-for-Android-developers](https://github.com/m3sv/Flutter-for-Android-developers)
+- 👤 **Developer:** [m3sv](https://github.com/m3sv)
+
+
+---
+
+### 📦 thomhurst/Android-EditText-Validations
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Easily Validate EditTexts
+**Language**: Kotlin
+**Stars**: 75 **Issues**: 0 **Forks**: 1
+https://github.com/thomhurst/Android-EditText-Validations
+
+- 🐙 **Source Code:** [https://github.com/thomhurst/Android-EditText-Validations](https://github.com/thomhurst/Android-EditText-Validations)
+- 👤 **Developer:** [thomhurst](https://github.com/thomhurst)
+
+
+---
+
+### 📦 iGio90/Dwarf
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Aka my debugger for android reverse engineers and crackers. Built on top of pyqt5 (compatible with all os's), frida and some terrible code.
+**Language**: Python
+**Stars**: 83 **Issues**: 0 **Forks**: 3
+https://github.com/iGio90/Dwarf
+
+- 🐙 **Source Code:** [https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf)
+- 👤 **Developer:** [iGio90](https://github.com/iGio90)
+
+
+---
+
+### 📦 afollestad/mnml
+
+> **Categories:** `#android` `#kotlin` `#material_design` `#minimal` `#screen_record` `#screen_recorder` `#Interesting`
+
+[BETA] A minimal, beautiful screen recorder for Android.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/afollestad/mnml](https://github.com/afollestad/mnml)
+- 👤 **Developer:** [afollestad](https://github.com/afollestad)
+
+
+---
+
+### 📦 DarkionAvey/SwipeSpinnerWidget
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+[Android] A helper class to create recyclerview-based fast-scrolling spinner
+**Language**: Java
+**Stars**: 85 **Issues**: 0 **Forks**: 3
+https://github.com/DarkionAvey/SwipeSpinnerWidget
+
+- 🐙 **Source Code:** [https://github.com/DarkionAvey/SwipeSpinnerWidget](https://github.com/DarkionAvey/SwipeSpinnerWidget)
+- 👤 **Developer:** [DarkionAvey](https://github.com/DarkionAvey)
+
+
+---
+
+### 📦 Qihoo360/ArgusAPM
+
+> **Categories:** `#android` `#apm` `#argusapm` `#aspectj` `#gradle` `#java` `#kotlin` `#kotlin_android` `#performance` `#performance_management` `#plugin`
+
+A powerful, comprehensive online application performance management tool for Android
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/Qihoo360/ArgusAPM](https://github.com/Qihoo360/ArgusAPM)
+- 👤 **Developer:** [Qihoo360](https://github.com/Qihoo360)
+
+
+---
+
+### 📦 toly1994328/DS4Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Visible data structure Android version---Show the Data_Structure power by Android View
+**Language**: Java
+**Stars**: 152 **Issues**: 0 **Forks**: 12
+https://github.com/toly1994328/DS4Android
+
+- 🐙 **Source Code:** [https://github.com/toly1994328/DS4Android](https://github.com/toly1994328/DS4Android)
+- 👤 **Developer:** [toly1994328](https://github.com/toly1994328)
+
+
+---
+
+### 📦 skydoves/AndroidVeil
+
+> **Categories:** `#android` `#android_library` `#android_ui` `#androidveil` `#recyclerview` `#shimmer` `#skeleton` `#skydoves`
+
+:performing_arts: A library that let you implement veil skeletons and shimmer animation.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/skydoves/AndroidVeil](https://github.com/skydoves/AndroidVeil)
+- 👤 **Developer:** [skydoves](https://github.com/skydoves)
+
+
+---
+
+### 📦 bufferapp/MultiActionSwipeHelper
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An Android RecyclerView Swipe Helper for handling multiple actions per direction
+**Language**: Java
+**Stars**: 163 **Issues**: 0 **Forks**: 8
+https://github.com/bufferapp/MultiActionSwipeHelper
+
+- 🐙 **Source Code:** [https://github.com/bufferapp/MultiActionSwipeHelper](https://github.com/bufferapp/MultiActionSwipeHelper)
+- 👤 **Developer:** [bufferapp](https://github.com/bufferapp)
+
+
+---
+
+### 📦 getActivity/AndroidProject
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+An advanced template project
+**Language**: Java
+**Stars**: 141 **Issues**: 1 **Forks**: 23
+https://github.com/getActivity/AndroidProject
+
+- 🐙 **Source Code:** [https://github.com/getActivity/AndroidProject](https://github.com/getActivity/AndroidProject)
+- 👤 **Developer:** [getActivity](https://github.com/getActivity)
+
+
+---
+
+### 📦 ManbangGroup/Phantom
+
+> **Categories:** `#android` `#android_library` `#plugin` `#plugin_architecture` `#plugin_engine` `#plugin_sdk` `#plugin_system`
+
+Phantom — the only zero-Hook stable Android hot update plug-in solution
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/ManbangGroup/Phantom](https://github.com/ManbangGroup/Phantom)
+- 👤 **Developer:** [ManbangGroup](https://github.com/ManbangGroup)
+
+
+---
+
+### 📦 ernestoyaquello/DragDropSwipeRecyclerview
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Kotlin Android library that extends RecyclerView to support gestures like drag & drop and swipe, among others. It works with vertical, horizontal and grid lists.
+**Language**: Kotlin
+**Stars**: 78 **Issues**: 0 **Forks**: 6
+https://github.com/ernestoyaquello/DragDropSwipeRecyclerview
+
+- 🐙 **Source Code:** [https://github.com/ernestoyaquello/DragDropSwipeRecyclerview](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview)
+- 👤 **Developer:** [ernestoyaquello](https://github.com/ernestoyaquello)
+
+
+---
+
+### 📦 ccj659/JJEvent
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A fully tested and online verified Android client custom data embedding SDK
+**Language**: Java
+**Stars**: 128 **Issues**: 1 **Forks**: 17
+https://github.com/ccj659/JJEvent
+
+- 🐙 **Source Code:** [https://github.com/ccj659/JJEvent](https://github.com/ccj659/JJEvent)
+- 👤 **Developer:** [ccj659](https://github.com/ccj659)
+
+
+---
+
+### 📦 SchibstedSpain/Protein
+
+> **Categories:** `#android` `#android_studio` `#android_studio_plugin` `#codegen` `#codegenerator` `#intellij_idea` `#intellij_plugin` `#javapoet` `#kotlin` `#kotlin_android` `#kotlin_language` `#kotlinpoet` `#plugin` `#reactivex` `#retrofit2` `#rxjava2` `#swagger` `#swagger_codegen`
+
+💊 Protein is a Kotlin code generator for Retrofit 2 and RxJava 2 based on Swagger
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/SchibstedSpain/Protein](https://github.com/SchibstedSpain/Protein)
+- 👤 **Developer:** [SchibstedSpain](https://github.com/SchibstedSpain)
+
+
+---
+
+### 📦 saket/FluidKeyboardResize
+
+> **Categories:** `#android` `#animation` `#keyboard`
+
+Smoothly reacting to keyboard visibility changes
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/saket/FluidKeyboardResize](https://github.com/saket/FluidKeyboardResize)
+- 👤 **Developer:** [saket](https://github.com/saket)
+
+
+---
+
+### 📦 Blankj/AndroidOfferKiller
+
+> **Categories:** `#android` `#android_interview` `#interview`
+
+Help you to get the offer.
+
+- 🐙 **Source Code:** [https://github.com/Blankj/AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller)
+- 👤 **Developer:** [Blankj](https://github.com/Blankj)
+
+
+---
+
+### 📦 mtak-****/rust****-on-mobile
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+[WIP] A little demo of how to setup an iOS/android project to use rust
+**Language**: Rust
+**Stars**: 116 **Issues**: 0 **Forks**: 3
+https://github.com/mtak-/rust-on-mobile
+
+- 🐙 **Source Code:** [https://github.com/mtak-/rust-on-mobile](https://github.com/mtak-/rust-on-mobile)
+- 👤 **Developer:** [mtak-](https://github.com/mtak-)
+
+
+---
+
+### 📦 vitorhugods/AvatarView
+
+> **Categories:** `#android` `#android_library` `#android_ui` `#imageview` `#kotlin_android` `#kotlin_library` `#progress_bar` `#progress_circle` `#widget`
+
+A circular Image View with a lot of perks. Including progress animation and highlight state with borders and gradient color.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView)
+- 👤 **Developer:** [vitorhugods](https://github.com/vitorhugods)
+
+
+---
+
+### 📦 Muddz/PixelShot
+
+> **Categories:** `#android` `#muddz` `#screenshot` `#styleabletoast` `#viewshot`
+
+PixelShot is an awesome Android library that can save any View in your app as an image
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/Muddz/PixelShot](https://github.com/Muddz/PixelShot)
+- 👤 **Developer:** [Muddz](https://github.com/Muddz)
+
+
+---
+
+### 📦 GodFengShen/PicOrVideoToAscii
+
+> **Categories:** `#android`
+
+Android picture or video convert to ascii pic or video Under the Android platform, the picture or video is converted to ascii, and the ffmpeg library is used to merge the video. Colored ascii code images or videos will be added later.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/GodFengShen/PicOrVideoToAscii](https://github.com/GodFengShen/PicOrVideoToAscii)
+- 👤 **Developer:** [GodFengShen](https://github.com/GodFengShen)
+
+
+---
+
+### 📦 whataa/noDrawable
+
+> **Categories:** `#android_library` `#drawable` `#kill_drawable` `#reduce_drawable` `#remove_drawable` `#replace_drawable`
+
+A library designed to reduce 99% of the drawable.xml file by declaring the drawable attribute on any View directly in the layout file.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/whataa/noDrawable](https://github.com/whataa/noDrawable)
+- 👤 **Developer:** [whataa](https://github.com/whataa)
+
+
+---
+
+### 📦 firebase/firebase-android-sdk
+
+> **Categories:** `#database_as_a_service` `#firebase` `#firebase_database` `#firebase_firestore` `#firebase_functions` `#firebase_realtime_database` `#firebase_storage` `#java`
+
+Firebase Android SDK
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
+- 👤 **Developer:** [firebase](https://github.com/firebase)
+
+
+---
+
+### 📦 Daio-io/dresscode
+
+> **Categories:** `#android` `#android_library` `#kotlin_android` `#theme`
+
+👔 Tiny lightweight Kotlin Android library to change theme at runtime.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/Daio-io/dresscode](https://github.com/Daio-io/dresscode)
+- 👤 **Developer:** [Daio-io](https://github.com/Daio-io)
+
+
+---
+
+### 📦 Blankj/FreeProGuard
+
+> **Categories:** `#proguard` `#proguard_dictionary` `#proguard_rules`
+
+:beginner: Config proguard for common Android libraries.
+
+- 🐙 **Source Code:** [https://github.com/Blankj/FreeProGuard](https://github.com/Blankj/FreeProGuard)
+- 👤 **Developer:** [Blankj](https://github.com/Blankj)
+
+
+---
+
+### 📦 gonghuiyuan516/AndroidArchitectureArticle
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🔥Complete Android architecture articles
+**Stars**: 160 **Issues**: 0 **Forks**: 13
+https://github.com/gonghuiyuan516/AndroidArchitectureArticle
+
+- 🐙 **Source Code:** [https://github.com/gonghuiyuan516/AndroidArchitectureArticle](https://github.com/gonghuiyuan516/AndroidArchitectureArticle)
+- 👤 **Developer:** [gonghuiyuan516](https://github.com/gonghuiyuan516)
+
+
+---
+
+### 📦 pqpo/SmartCamera
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+📷SmartCamera is an Android camera extension library that can collect and identify in real time whether the object frame in the camera matches the specified area. SmartCamera is an Android camera extension library, provides a scanning module that can recognizes whether the object's border inside the camera matches the area in real time.
+**Language**: Java
+**Stars**: 150 **Issues**: 0 **Forks**: 23
+https://github.com/pqpo/SmartCamera
+
+- 🐙 **Source Code:** [https://github.com/pqpo/SmartCamera](https://github.com/pqpo/SmartCamera)
+- 👤 **Developer:** [pqpo](https://github.com/pqpo)
+
+
+---
+
+### 📦 iReaderAndroid/X2C
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Improve layout loading speed by 200%
+**Language**: Java
+**Stars**: 184 **Issues**: 3 **Forks**: 12
+https://github.com/iReaderAndroid/X2C
+
+- 🐙 **Source Code:** [https://github.com/iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C)
+- 👤 **Developer:** [iReaderAndroid](https://github.com/iReaderAndroid)
+
+
+---
+
+### 📦 meituan/WMRouter
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+WMRouter is an Android routing framework, based on component-based design ideas, with flexible and powerful functions and simple use.
+**Language**: Java
+**Stars**: 149 **Issues**: 0 **Forks**: 13
+https://github.com/meituan/WMRouter
+
+- 🐙 **Source Code:** [https://github.com/meituan/WMRouter](https://github.com/meituan/WMRouter)
+- 👤 **Developer:** [meituan](https://github.com/meituan)
+
+
+---
+
+### 📦 JessYanCoding/AndroidAutoSize
+
+> **Categories:** `#adapterview` `#android` `#density` `#screenadapter`
+
+A low-cost Android screen adaptation solution (The Ultimate Edition of Toutiao Screen Adaptation Solution, an extremely low-cost Android screen adaptation solution).
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/JessYanCoding/AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
+- 👤 **Developer:** [JessYanCoding](https://github.com/JessYanCoding)
+
+
+---
+
+### 📦 wjwang0914/wj-todo-wanandroid
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Carefully create a TODO open source client with the ultimate experience. The data interface comes from Hongshen's Play Android. We do not miss every detail and write the code with care.
+**Language**: Java
+**Stars**: 124 **Issues**: 1 **Forks**: 16
+https://github.com/wjwang0914/wj-todo-wanandroid
+
+- 🐙 **Source Code:** [https://github.com/wjwang0914/wj-todo-wanandroid](https://github.com/wjwang0914/wj-todo-wanandroid)
+- 👤 **Developer:** [wjwang0914](https://github.com/wjwang0914)
+
+
+---
+
+### 📦 mre/fcat
+
+> **Categories:** `#android` `#cat` `#linux` `#splice` `#unix`
+
+fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/mre/fcat](https://github.com/mre/fcat)
+- 👤 **Developer:** [mre](https://github.com/mre)
+
+
+---
+
+### 📦 google/filament
+
+> **Categories:** `#3d_graphics` `#android` `#graphics` `#opengl` `#opengl_es` `#pbr` `#real_time` `#vulkan`
+
+Filament is a physically based rendering engine for Android, Windows, Linux and macOS
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/google/filament](https://github.com/google/filament)
+- 👤 **Developer:** [google](https://github.com/google)
+
+
+---
+
+### 📦 bernaferrari/EmojiSlider
+
+> **Categories:** `#android` `#android_kotlin` `#android_library` `#kotlin` `#library` `#seekbar` `#slider`
+
+🤯 A slider widget rich in emoji and highly customisable.
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/bernaferrari/EmojiSlider](https://github.com/bernaferrari/EmojiSlider)
+- 👤 **Developer:** [bernaferrari](https://github.com/bernaferrari)
+
+
+---
+
+### 📦 jenly1314/WanAndroid
+
+> **Categories:** `#android` `#app` `#architecture_components` `#arouter` `#dagger2` `#databinding` `#glide` `#gson` `#gson_converter` `#king` `#lifecycles` `#livedata` `#mvvm` `#open_source` `#retrofit2` `#room` `#viewmodel` `#wanandroid`
+
+WanAndroid open source project based on Architecture Components dependencies (Lifecycles, LiveData, ViewModel, Room)
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/jenly1314/WanAndroid](https://github.com/jenly1314/WanAndroid)
+- 👤 **Developer:** [jenly1314](https://github.com/jenly1314)
+
+
+---
+
+### 📦 CERTCC/keyfinder
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A tool for finding and analyzing private (and public) key files, including support for Android APK files.
+**Stars**: 92 **Issues**: 0 **Forks**: 13
+https://github.com/CERTCC/keyfinder
+
+- 🐙 **Source Code:** [https://github.com/CERTCC/keyfinder](https://github.com/CERTCC/keyfinder)
+- 👤 **Developer:** [CERTCC](https://github.com/CERTCC)
+
+
+---
+
+### 📦 lopspower/LazyDatePicker
+
+> **Categories:** `#android` `#datepicker` `#lazydatepicker`
+
+This is an Android project to offer an alternative to the native Android Date Picker.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/lopspower/LazyDatePicker](https://github.com/lopspower/LazyDatePicker)
+- 👤 **Developer:** [lopspower](https://github.com/lopspower)
+
+
+---
+
+### 📦 android-in-china/Compatibility
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A public welfare project for feedback and tracking of domestic Android device/ROM compatibility issues
+**Stars**: 233 **Issues**: 3 **Forks**: 1
+https://github.com/android-in-china/Compatibility
+
+- 🐙 **Source Code:** [https://github.com/android-in-china/Compatibility](https://github.com/android-in-china/Compatibility)
+- 👤 **Developer:** [android-in-china](https://github.com/android-in-china)
+
+
+---
+
+### 📦 whataa/pandora
+
+> **Categories:** `#android_library` `#databsae` `#debugging_tool` `#device_file_explorer` `#inertnal_storage` `#interceptor` `#layout_inspector` `#network_monitoring`
+
+an android library for debugging what we care about directly in app.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/whataa/pandora](https://github.com/whataa/pandora)
+- 👤 **Developer:** [whataa](https://github.com/whataa)
+
+
+---
+
+### 📦 chrisknepper/android-messages-desktop
+
+> **Categories:** `#android` `#android_messages` `#android_messaging` `#desktop` `#linux` `#macos` `#sms` `#windows`
+
+Android Messages as a Cross-platform Desktop App
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop)
+- 👤 **Developer:** [chrisknepper](https://github.com/chrisknepper)
+
+
+---
+
+### 📦 varunest/TheGlowingLoader
+
+> **Categories:** `#android` `#animation` `#indicator` `#library` `#progress` `#progressbar` `#progressview`
+
+TheGlowingLoader is the highly configurable library to indicate progress and is natively created for Android Platform. It is an implementation of a design composed by Shashank Sahay.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/varunest/TheGlowingLoader](https://github.com/varunest/TheGlowingLoader)
+- 👤 **Developer:** [varunest](https://github.com/varunest)
+
+
+---
+
+### 📦 ladingwu/dimens_sw
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Android UI适配方案
+**Stars**: 103 **Issues**: 20 **Forks**: 20
+[Link to ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
+
+- 🐙 **Source Code:** [https://github.com/ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
+- 👤 **Developer:** [ladingwu](https://github.com/ladingwu)
 
 
 ---
