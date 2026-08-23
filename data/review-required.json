@@ -44515,5 +44515,16 @@
     "message_id": 11091,
     "raw_text": "[**Rembg**](https://github.com/danielgatis/rembg) — это инструмент для удаления фона с изображений. \n\nЕго можно использовать как интерфейс командной строки, библиотеку Python, HTTP-сервер или контейнер Docker.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-23T15:13:48.234553+00:00"
+  },
+  {
+    "incoming_name": "Awesome Django",
+    "incoming_normalized": "awesomedjango",
+    "matched_project_id": "awesome-java",
+    "matched_project_name": "Awesome Java",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11094,
+    "raw_text": "[**Awesome Django**](https://github.com/wsvincent/awesome-django) — подборка лучших библиотек, инструментов, шаблонов проектов и обучающих материалов для Django\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-23T22:13:03.173663+00:00"
   }
 ]

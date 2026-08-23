@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16958`
+> **Total Cataloged Projects:** `16959`
 
 ---
 
@@ -9539,6 +9539,7 @@
 | **Missing Core** | A Nothing-inspired music player. | [GitHub](https://github.com/MissingCore/Music) | — | `Android, MusicPlayer, nothing` |
 | **missing-semester/missing-semester** | The Missing Semester of Your CS Education | [GitHub](https://github.com/missing-semester/missing-semester) | — | `GitHub, OpenSource` |
 | **missuo/FreeGPT35** | Utilize the unlimited free GPT-3.5-Turbo API service provided by the… | [GitHub](https://github.com/missuo/FreeGPT35) | — | `GitHub, OpenSource` |
+| **missuo/herdrm** | Native macOS console for herdr — all your coding agents and their liv… | [GitHub](https://github.com/missuo/herdrm) | — | `GitHub, OpenSource` |
 | **mist941/basic-server-configuration** | An Ansible playbook for automating secure server setup and configurat… | [GitHub](https://github.com/mist941/basic-server-configuration) | — | `ansible, devops, linux, server, system_administration, system_administration_tool, tools` |
 | **MisterBooo/LeetCodeAnimation** | Demonstrate all the questions on LeetCode in the form of animation. (… | [GitHub](https://github.com/MisterBooo/LeetCodeAnimation) | — | `GitHub, OpenSource` |
 | **MisterPrada/singularity** | Black Hole -> Three.js -> TSL -> (WebGPU/WebGL) | [GitHub](https://github.com/MisterPrada/singularity) | — | `blackhole, bloom, raymarching, threejs, tsl, webgl, webgpu` |
