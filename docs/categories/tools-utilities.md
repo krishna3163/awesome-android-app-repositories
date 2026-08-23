@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 Leutenegger/coldcard-airgap
+
+> **Categories:** `#airgap` `#airgap_devkit` `#airgap_download` `#airgap_setup` `#airgap_tutorial` `#bitcoin` `#bitcoin_wallet` `#coldcard` `#coldcard_mk2` `#coldcard_mk4` `#cryptography` `#cryptography_algorithms` `#cryptography_tools` `#ledger` `#ledger_cli` `#ledger_wallet` `#metamask` `#metamask_desktop`
+
+Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
+
+
+---
+
 ### 📦 Claude Plugins Community
 
 > **Categories:** `#python`
@@ -197170,19 +197183,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 Leutenegger/coldcard-airgap
-
-> **Categories:** `#airgap` `#airgap_devkit` `#airgap_download` `#airgap_setup` `#airgap_tutorial` `#bitcoin` `#bitcoin_wallet` `#coldcard` `#coldcard_mk2` `#coldcard_mk4` `#cryptography` `#cryptography_algorithms` `#cryptography_tools` `#ledger` `#ledger_cli` `#ledger_wallet` `#metamask` `#metamask_desktop`
-
-Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap)
-- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
 
 
 ---

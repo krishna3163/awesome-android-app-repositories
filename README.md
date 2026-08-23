@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16958`
 - 🏷️ **Unique Categories / Tags:** `15479`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 16:14 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 17:13 UTC`
 
 ---
 
@@ -290,6 +290,19 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16958 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Leutenegger/coldcard-airgap
+
+> **Categories:** `#airgap` `#airgap_devkit` `#airgap_download` `#airgap_setup` `#airgap_tutorial` `#bitcoin` `#bitcoin_wallet` `#coldcard` `#coldcard_mk2` `#coldcard_mk4` `#cryptography` `#cryptography_algorithms` `#cryptography_tools` `#ledger` `#ledger_cli` `#ledger_wallet` `#metamask` `#metamask_desktop`
+
+Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
+
+
+---
 
 ### 📦 Claude Plugins Community
 
@@ -811,73 +824,6 @@ This project fills this gap by providing **both training materials and an extens
 
 - 🐙 **Source Code:** [https://github.com/GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies)
 - 👤 **Developer:** [GiovanniPasq](https://github.com/GiovanniPasq)
-
-
----
-
-### 📦 Substrate
-
-> **Categories:** `#GitHub` `#OpenSource` `#go`
-
-🔗 [https://github.com/agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-📝 Agent Substrate: the core system
-──────────────────────────────
-
-**Agent Substrate – a high‑density runtime for massive numbers of agents**
-
-__What it is__
-Agent Substrate is a control‑plane system that lets you run thousands of “actor” processes (think AI agents, micro‑services, sandboxed tools) on a tiny pool of Kubernetes pods.  By treating each actor as a lightweight sandbox that spends most of its time idle, Substrate can suspend, snapshot, and instantly resume them on any available worker, achieving sub‑second “teleport” between pods.
-
-**Key features**
-
-**Sub‑second suspend/resume** – actors are hibernated to RAM or disk and brought back in
-**State‑preserving snapshots** – full memory + filesystem state is saved, so an actor picks up exactly where it left off.
-**Heavy multiplexing** – >30× oversubscription (e.g., 250 stateful actors on 8 pods) by “juggling” actors across workers.
-**Sandbox‑agnostic** – supports gVisor, microVMs, or any OCI container; works with any AI framework (LangChain, Claude Code, MCP, etc.).
-**Kubernetes‑native** – builds on Pods, HPA, and autoscaling; the substrate control plane adds agent‑specific scheduling.
-**Request parking** – router holds inbound requests when workers are saturated instead of returning 503.
-**Observability & security** – built‑in logging, metrics, tracing, JWT auth, and a documented threat model.
-
-
-__How you use it__
-1. Install the required tools (`go`, `kubectl`, `docker`) – the scripts will pull `kind` or GKE resources for you.
-2. Deploy the substrate system with the provided `hack/install-ate-kind.sh` (local) or `hack/install-ate.sh` (GKE) scripts.
-3. Create an `atespace` (a namespace for actors) and launch an actor via the `kubectl ate` CLI.
-4. Optionally forward the router service to your workstation and talk to the actor with a normal HTTP call.
-
-```
-# quick local start
-hack/create-kind-cluster.sh
-hack/install-ate-kind.sh --deploy-ate-system
-hack/install-ate-kind.sh --deploy-demo-counter
-go install ./cmd/kubectl-ate
-
-kubectl ate create atespace demo
-kubectl ate create actor my-counter-1 -a demo --template=ate-demo-counter/counter
-kubectl port-forward -n ate-system svc/atenet-router 8000:80
-```
-
-Then in another terminal:
-
-```
-curl -X POST -H "Host: my-counter-1.demo.actors.resources.substrate.ate.dev" -i http://localhost:8000/
-```
-
-__Technical highlights__
-
-**Control‑plane API** – `cmd/ateapi` exposes gRPC endpoints for actor/worker lifecycle.
-**Node supervisor** – `cmd/atelet` runs as a DaemonSet, handling snapshot creation, state transfer, and worker health.
-**WorkerPool & ActorTemplate CRDs** – declarative resources let you describe how many workers to keep, what sandbox to use, and which binaries to run.
-**Persistent state** – snapshots are stored in a distributed KV store (Valkey) and can be restored on any worker.
-**Framework‑agnostic** – because Substrate deals only with OCI containers, you can drop in LangChain agents, custom ADK actors, or MCP servers without code changes.
-**Autoscaling integration** – WorkerPools can be scaled by a Horizontal Pod Autoscaler fed by Prometheus metrics.
-
-
-__Who should care__
-__(1/2)__
-
-- 🐙 **Source Code:** [https://github.com/agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-- 👤 **Developer:** [agent-substrate](http://localhost:8000/)
 
 
 ---
