@@ -27,8 +27,8 @@ def generate_content(projects: list[Project]) -> str:
 
     Produces:
         1. Statistics header
-        2. Latest projects section (detailed cards)
-        3. Searchable table (all projects)
+        2. Searchable Quick Index Table
+        3. Detailed project cards with collapsible screenshots & features
 
     Args:
         projects: List of Project objects, already sorted by created_at desc.
@@ -46,18 +46,40 @@ def generate_content(projects: list[Project]) -> str:
 
     # --- Statistics ---
     lines.append("")
-    lines.append("## 📊 Statistics")
+    lines.append("## 📊 Catalog Overview")
     lines.append("")
-    lines.append(f"- **Total Projects:** {len(projects)}")
-    lines.append(f"- **Categories:** {len(all_tags)}")
-    lines.append(f"- **Last Updated:** {now}")
+    lines.append(f"- 📦 **Total Discovered Apps & Repositories:** `{len(projects)}`")
+    lines.append(f"- 🏷️ **Unique Categories / Tags:** `{len(all_tags)}`")
+    lines.append(f"- 🔄 **Last Automatically Synchronized:** `{now}`")
     lines.append("")
     lines.append("---")
     lines.append("")
 
-    # --- Latest Projects (detailed cards) ---
+    # --- Searchable Table / Quick Index ---
+    lines.append("## 📋 Quick Directory Index")
+    lines.append("")
+    lines.append("| App / Project | Description | Repository | Categories |")
+    lines.append("|:---|:---|:---|:---|")
+
     if projects:
-        lines.append("## 🆕 Latest Projects")
+        for project in projects:
+            name = project.name
+            desc = _truncate(project.description, 75)
+            repo_link = f"[GitHub]({project.repository})" if project.repository else "—"
+            tags = ", ".join(project.tags) if project.tags else "—"
+            lines.append(f"| **{name}** | {desc} | {repo_link} | `{tags}` |")
+    else:
+        lines.append("| _No projects synced yet._ | — | — | — |")
+
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    # --- Detailed Projects Directory ---
+    if projects:
+        lines.append("## 📱 Discover Apps & Project Details")
+        lines.append("")
+        lines.append("> Click on the **🖼️ Preview Screenshots & Media** dropdown under any project to view screenshots before deciding to download or use.")
         lines.append("")
 
         for project in projects:
@@ -66,36 +88,21 @@ def generate_content(projects: list[Project]) -> str:
             lines.append("---")
             lines.append("")
 
-    # --- Searchable Table ---
-    lines.append("## 📋 All Projects")
-    lines.append("")
-    lines.append("| Project | Description | Repository | Tags |")
-    lines.append("|:---|:---|:---|:---|")
-
-    if projects:
-        for project in projects:
-            name = project.name
-            desc = _truncate(project.description, 80)
-            repo_link = f"[GitHub]({project.repository})" if project.repository else "—"
-            tags = ", ".join(project.tags) if project.tags else "—"
-            lines.append(f"| **{name}** | {desc} | {repo_link} | {tags} |")
-    else:
-        lines.append("| _No projects yet._ | — | — | — |")
-
-    lines.append("")
     return "\n".join(lines)
 
 
 def _generate_project_card(project: Project) -> list[str]:
-    """Generate detailed markdown card for a single project."""
+    """Generate a clean, user-friendly markdown card for a single project."""
     lines: list[str] = []
 
-    lines.append(f"### {project.name}")
+    # Project Title
+    lines.append(f"### 📦 {project.name}")
     lines.append("")
 
-    # Cover image
-    if project.images.cover:
-        lines.append(f"![{project.name} Cover]({project.images.cover})")
+    # Categories / Tags
+    if project.tags:
+        tag_badges = " ".join(f"`#{t}`" for t in project.tags)
+        lines.append(f"> **Categories:** {tag_badges}")
         lines.append("")
 
     # Description
@@ -103,28 +110,26 @@ def _generate_project_card(project: Project) -> list[str]:
         lines.append(project.description)
         lines.append("")
 
-    # Links
-    if project.website:
-        lines.append(f"**Website:** {project.website}")
-        lines.append("")
+    # Links & Metadata
+    links_meta = []
     if project.repository:
-        lines.append(f"**Source Code:** {project.repository}")
-        lines.append("")
+        links_meta.append(f"- 🐙 **Source Code:** [{project.repository}]({project.repository})")
+    if project.website:
+        links_meta.append(f"- 🌐 **Official Website:** [{project.website}]({project.website})")
     if project.developer.name:
-        dev_text = project.developer.name
-        if project.developer.url:
-            dev_text = f"[{project.developer.name}]({project.developer.url})"
-        lines.append(f"**Developer:** {dev_text}")
+        clean_dev = project.developer.name.replace("[", "").replace("]", "").replace("(", "").replace(")", "").strip("*_`~ ")
+        if clean_dev:
+            dev_text = f"[{clean_dev}]({project.developer.url})" if project.developer.url else clean_dev
+            links_meta.append(f"- 👤 **Developer:** {dev_text}")
+
+    if links_meta:
+        lines.extend(links_meta)
         lines.append("")
 
-    # Tags
-    if project.tags:
-        lines.append(f"**Tags:** {' • '.join(project.tags)}")
-        lines.append("")
-
-    # Features
+    # Collapsible Features List
     if project.features:
-        lines.append("#### Features")
+        lines.append("<details>")
+        lines.append(f"<summary><b>✨ Key Features ({len(project.features)})</b> — <i>Click to expand</i></summary>")
         lines.append("")
         for feature in project.features:
             if feature.description:
@@ -132,14 +137,24 @@ def _generate_project_card(project: Project) -> list[str]:
             else:
                 lines.append(f"- {feature.title}")
         lines.append("")
-
-    # Screenshots
-    if project.images.screenshots:
-        lines.append("<details>")
-        lines.append("<summary>📸 Screenshots</summary>")
+        lines.append("</details>")
         lines.append("")
-        for i, screenshot in enumerate(project.images.screenshots, 1):
-            lines.append(f"![Screenshot {i}]({screenshot})")
+
+    # Collapsible Screenshots & Images Gallery
+    all_images: list[tuple[str, str]] = []
+    if project.images.cover:
+        all_images.append(("Cover / Preview", project.images.cover))
+    for i, screenshot in enumerate(project.images.screenshots, 1):
+        if screenshot != project.images.cover:
+            all_images.append((f"Screenshot {i}", screenshot))
+
+    if all_images:
+        lines.append("<details>")
+        lines.append(f"<summary><b>🖼️ Preview Screenshots & Media ({len(all_images)})</b> — <i>Click to view images & decide if you want to use this app</i></summary>")
+        lines.append("")
+        for title, img_path in all_images:
+            lines.append(f"#### 📸 {title}")
+            lines.append(f'<p align="center"><img src="{img_path}" alt="{title}" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>')
             lines.append("")
         lines.append("</details>")
         lines.append("")

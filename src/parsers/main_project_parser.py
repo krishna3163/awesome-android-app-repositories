@@ -221,6 +221,9 @@ def _extract_developer_name(text: str) -> str:
             # Remove any trailing URLs or hashtags
             name = re.sub(r"https?://\S+", "", name).strip()
             name = re.sub(r"#\S+", "", name).strip()
+            # Remove markdown link formatting [Name](url) -> Name
+            name = re.sub(r"[\[\]\(\)]", "", name).strip()
+            name = name.strip("*_`~:-—– \t")
             if name:
                 return name
     return ""

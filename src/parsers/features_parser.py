@@ -151,12 +151,12 @@ def _parse_single_feature(content: str) -> Feature | None:
     parts = _SEPARATOR_RE.split(content, maxsplit=1)
 
     if len(parts) == 2:
-        title = parts[0].strip()
-        description = parts[1].strip()
+        title = parts[0].strip().strip("*_`~ ")
+        description = parts[1].strip().strip("*_`~ ")
         if title:
             return Feature(title=title, description=description)
     elif len(parts) == 1:
-        title = parts[0].strip()
+        title = parts[0].strip().strip("*_`~ ")
         if title:
             return Feature(title=title, description="")
 
