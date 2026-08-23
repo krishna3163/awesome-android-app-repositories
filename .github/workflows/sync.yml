@@ -1,0 +1,74 @@
+name: Sync Telegram Projects
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Hourly sync
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (check without saving/committing)"
+        required: false
+        type: boolean
+        default: false
+      force_resync:
+        description: "Force re-evaluation of all channels"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Synchronize Projects
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+
+      - name: Run Telegram Sync
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ "${{ inputs.force_resync }}" = "true" ]; then
+            ARGS="$ARGS --force-resync"
+          fi
+          python -m src.main $ARGS
+
+      - name: Run Test Suite Validation
+        run: python -m pytest tests/ -v
+
+      - name: Commit and push changes
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ assets/ README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(sync): update catalog from Telegram [skip ci]"
+            for i in {1..5}; do
+              git pull --rebase origin main && git push && break || sleep 3
+            done
+          fi
