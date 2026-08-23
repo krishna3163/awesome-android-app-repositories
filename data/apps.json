@@ -1,5 +1,50 @@
 [
   {
+    "id": "leutenegger-coldcard-airgap",
+    "name": "Leutenegger/coldcard-airgap",
+    "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/Leutenegger/coldcard-airgap",
+    "developer": {
+      "name": "Leutenegger",
+      "url": "https://github.com/Leutenegger"
+    },
+    "features": [],
+    "tags": [
+      "airgap",
+      "airgap_devkit",
+      "airgap_download",
+      "airgap_setup",
+      "airgap_tutorial",
+      "bitcoin",
+      "bitcoin_wallet",
+      "coldcard",
+      "coldcard_mk2",
+      "coldcard_mk4",
+      "cryptography",
+      "cryptography_algorithms",
+      "cryptography_tools",
+      "ledger",
+      "ledger_cli",
+      "ledger_wallet",
+      "metamask",
+      "metamask_desktop"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13690,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-23T16:00:04+00:00",
+    "updated_at": "2026-08-23T16:14:47.916060+00:00"
+  },
+  {
     "id": "claude-plugins-community",
     "name": "Claude Plugins Community",
     "description": "This is a read-only list of community plugins for Claude Cowork and Claude Code. Each plugin was submitted through the official form, checked for security, and approved before being added. You can install them from the Claude plugins site or by adding the marketplace in Claude Code. The benefit is simple: you get a safe, approved place to find useful plugins without needing to sort through unverified ones.\n\nhttps://github.com/anthropics/claude-plugins-community",
