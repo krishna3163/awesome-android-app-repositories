@@ -12,7 +12,7 @@
 
 **Explore new open-source projects, tools, websites, developer libraries, and Android utilities — automatically tracked and updated.**
 
-[📊 Statistics](#-statistics) • [🆕 Latest Projects](#-latest-projects) • [📋 All Projects](#-all-projects) • [🤝 Contributing](#-contributing) • [⚖️ Disclaimer](#️-disclaimer)
+[📊 Statistics](#-statistics) • [🆕 Latest Projects](#-latest-projects) • [📋 All Projects](#-all-projects) • [🤝 Contributing](#-contributing) • [🙌 Acknowledgments](#-acknowledgments--telegram-channels) • [⚖️ Disclaimer](#️-disclaimer)
 
 </div>
 
@@ -58,6 +58,19 @@ Found a great open-source Android app, tool, or website that should be featured?
 1. **Submit an Issue or Pull Request** with the project details (name, GitHub repository, website, description, tags).
 2. Ensure the project is **open-source** and has an active repository.
 3. Once reviewed, it will be added to the directory.
+
+---
+
+## 🙌 Acknowledgments & Telegram Channels
+
+A huge thanks to the following Telegram channels for discovering, testing, and sharing amazing new open-source applications, tools, and updates daily:
+
+| Channel | Focus | Join Channel |
+|:---|:---|:---|
+| **@popMODS** | Main Open-Source Apps & Project Discoveries | [👉 **Join @popMODS**](https://t.me/popMODS) |
+| **@popCLOUDS** | Detailed Features, App Breakdowns & Screenshots | [👉 **Join @popCLOUDS**](https://t.me/popCLOUDS) |
+
+> 💖 **Special Thanks:** All credit and appreciation goes to the creators, maintainers, and community members of **@popMODS** and **@popCLOUDS** for their continuous dedication to providing quality app recommendations daily!
 
 ---
 
