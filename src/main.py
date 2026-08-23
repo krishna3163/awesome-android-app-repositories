@@ -247,15 +247,7 @@ async def sync(settings: Settings, dry_run: bool = False, force_resync: bool = F
                     len(parsed_feat.features),
                 )
 
-                # Download images
-                image_paths: list[str] = []
-                if message.media and not dry_run:
-                    slug = slugify(parsed_feat.project_name_guess)
-                    image_paths = await download_message_media(client, message, slug)
-                    if image_paths:
-                        logger.info("[INFO] Downloaded %d image(s)", len(image_paths))
-
-                # Try to match to an existing project
+                # Try to match to an existing project first
                 match = find_matching_project(
                     name=parsed_feat.project_name_guess,
                     repo_url="",
@@ -263,6 +255,17 @@ async def sync(settings: Settings, dry_run: bool = False, force_resync: bool = F
                     duplicate_threshold=settings.duplicate_threshold,
                     review_threshold_low=settings.review_threshold_low,
                 )
+
+                # Download images using resolved project slug
+                image_paths: list[str] = []
+                if message.media and not dry_run:
+                    target_slug = slugify(match.project_id if match.project_id else parsed_feat.project_name_guess)
+                    try:
+                        image_paths = await download_message_media(client, message, target_slug)
+                        if image_paths:
+                            logger.info("[INFO] Downloaded %d image(s)", len(image_paths))
+                    except Exception as exc:
+                        logger.warning("[WARNING] Failed to download media for %s: %s", target_slug, exc)
 
                 if match.match_type in (MatchType.EXACT_REPO, MatchType.EXACT_NAME, MatchType.FUZZY_HIGH):
                     logger.info(

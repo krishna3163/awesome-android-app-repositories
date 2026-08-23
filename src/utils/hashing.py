@@ -7,7 +7,7 @@ import re
 import unicodedata
 
 
-def slugify(name: str) -> str:
+def slugify(name: str, max_length: int = 50) -> str:
     """Convert a project name into a filesystem-safe slug.
 
     Examples:
@@ -28,7 +28,9 @@ def slugify(name: str) -> str:
     text = re.sub(r"[^a-z0-9]+", "-", text)
     # Collapse multiple hyphens and strip edges
     text = re.sub(r"-+", "-", text).strip("-")
-    return text
+    if len(text) > max_length:
+        text = text[:max_length].rstrip("-")
+    return text or "project"
 
 
 def content_hash(filepath: str) -> str:

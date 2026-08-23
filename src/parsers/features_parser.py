@@ -20,10 +20,10 @@ _EMOJI_PREFIX_RE = re.compile(
     re.UNICODE,
 )
 
-# Title patterns — lines like "Features of X:", "X Features", etc.
+# Title patterns — lines like "Features of X:", "Screenshots of X", "Download X for", etc.
 _TITLE_PATTERNS = [
-    re.compile(r"^[Ff]eatures?\s+(?:of|for)\s+(.+?)\s*:?\s*$"),
-    re.compile(r"^(.+?)\s+[Ff]eatures?\s*:?\s*$"),
+    re.compile(r"^(?:features?|screenshots?|screenrecords?|download|prerequisites?)\s+(?:of|for|from)?\s*(.+?)\s*:?\s*$", re.IGNORECASE),
+    re.compile(r"^(.+?)\s+(?:features?|screenshots?|download)\s*:?\s*$", re.IGNORECASE),
     re.compile(r"^(.+?)\s*:?\s*$"),  # Fallback: entire first line
 ]
 
@@ -79,20 +79,25 @@ def _extract_project_name(title_line: str) -> str:
 
     Handles patterns like:
         'Features of Neuron Pedia:' → 'Neuron Pedia'
-        'Neuron Pedia Features'     → 'Neuron Pedia'
-        'Neuron Pedia:'             → 'Neuron Pedia'
+        'Screenshots of Ghost-Downloader-3' → 'Ghost-Downloader-3'
+        'Download Spot SponsorBlock: [Link](...)' → 'Spot SponsorBlock'
     """
-    # Remove trailing colons
-    cleaned = title_line.rstrip(":").strip()
+    # Remove markdown links [Text](url) -> keep Text or strip if it's URLs
+    cleaned = re.sub(r"\[([^\]]+)\]\([^)]+\)", "", title_line)
+    # Remove bare URLs
+    cleaned = re.sub(r"https?://\S+", "", cleaned)
     # Remove emoji prefix
     cleaned = _EMOJI_PREFIX_RE.sub("", cleaned).strip()
+    # Remove markdown bold/italic
+    cleaned = re.sub(r"[\*_`~#]", "", cleaned).strip(":-—– \t\n")
 
     for pattern in _TITLE_PATTERNS[:-1]:  # Try specific patterns first
         match = pattern.match(cleaned)
         if match:
-            return match.group(1).strip()
+            extracted = match.group(1).strip(":-—– \t\n")
+            if extracted:
+                return extracted
 
-    # Fallback: the entire cleaned line is the project name
     return cleaned
 
 
