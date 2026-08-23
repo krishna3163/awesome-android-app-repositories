@@ -44504,5 +44504,16 @@
     "message_id": 11090,
     "raw_text": "[**Audiobookshelf**](https://github.com/advplyr/audiobookshelf) — бесплатный и открытый сервер для хранения и потоковой передачи аудиокниг и подкастов. \n\nПозволяет организовывать вашу коллекцию, слушать книги в браузере или через мобильные приложения, а также делиться доступом с другими пользователями.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-23T12:48:24.855812+00:00"
+  },
+  {
+    "incoming_name": "Rembg",
+    "incoming_normalized": "rembg",
+    "matched_project_id": "rmbg",
+    "matched_project_name": "RMBG",
+    "similarity_score": 88.88888888888889,
+    "channel": "@github",
+    "message_id": 11091,
+    "raw_text": "[**Rembg**](https://github.com/danielgatis/rembg) — это инструмент для удаления фона с изображений. \n\nЕго можно использовать как интерфейс командной строки, библиотеку Python, HTTP-сервер или контейнер Docker.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-23T15:13:48.234553+00:00"
   }
 ]
