@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `1647`
-- 🏷️ **Unique Categories / Tags:** `730`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 05:32 UTC`
+- 📦 **Total Discovered Apps & Projects:** `16955`
+- 🏷️ **Unique Categories / Tags:** `15463`
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 11:12 UTC`
 
 ---
 
@@ -90,7 +90,7 @@ An open-source Android app that provides a seamless movie browsing experience wi
 
 ### 📦 LLPlayer
 
-> **Categories:** `#Windows` `#Desktop` `#Utilities` `#AI`
+> **Categories:** `#Windows` `#Desktop` `#Utilities` `#AI` `#asr` `#csharp` `#flyleaf` `#language_learning` `#media_player` `#ocr` `#player` `#tesseract` `#video` `#video_player` `#whisper` `#wpf` `#yt_dlp` `#GitHub` `#OpenSource`
 
 A video player focused on subtitle-related features such as dual subtitles, AI-generated subtitles, real-time OCR, real-time translation, word lookup, and more!
 
@@ -139,7 +139,7 @@ A video player focused on subtitle-related features such as dual subtitles, AI-g
 
 ### 📦 Overmorrow
 
-> **Categories:** `#Weather` `#Android` `#Minimalism` `#Privacy`
+> **Categories:** `#Weather` `#Android` `#Minimalism` `#Privacy` `#GitHub` `#OpenSource`
 
 Your minimalist, colorful weather companion with a clean, vibrant, and open-source weather experience. Get hyper-accurate forecasts, slick radar, air quality info, and even stunning network images that change based on your location and the weather. All that without sacrificing your privacy – no ads, no data collection, just pure weather goodness.
 
@@ -177,7 +177,7 @@ Your minimalist, colorful weather companion with a clean, vibrant, and open-sour
 
 ### 📦 Omniget
 
-> **Categories:** `#Windows` `#Linux` `#Mac` `#DownloadManager` `#MediaDownloader` `#Study`
+> **Categories:** `#Windows` `#Linux` `#Mac` `#DownloadManager` `#MediaDownloader` `#Study` `#GitHub` `#OpenSource`
 
 OmniGet is an open-source, all-in-one desktop application for downloading, organizing, and studying online content. It combines a powerful media downloader with a built-in course player, PDF/EPUB reader, music library, and productivity tools—allowing you to learn, watch, read, and manage everything from a single, privacy-focused interface.
 
@@ -246,11 +246,12 @@ Rail-first Android browser with Material 3 Expressive UI, privacy tools, Decoy M
 
 ### 📦 Nanobrowser
 
-> **Categories:** `#AI` `#Browser` `#Extension`
+> **Categories:** `#AI` `#Browser` `#Extension` `#readme` `#chrome_extension` `#agent` `#automation` `#opensource` `#comet` `#nano` `#multi_agent` `#dia` `#browser_automation` `#ai_agents` `#web_automation` `#mariner` `#n8n` `#manus` `#playwright` `#ai_tools` `#browser_use` `#typescript` `#GitHub`
 
 Nanobrowser is an open-source AI web automation tool that runs in your browser. A free alternative to OpenAI Operator with flexible LLM options and multi-agent system.
 
 - 🐙 **Source Code:** [https://github.com/nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
+- 🌐 **Official Website:** [https://nanobrowser.ai](https://nanobrowser.ai)
 
 <details>
 <summary><b>✨ Key Features (6)</b> — <i>Click to expand</i></summary>
@@ -273,30 +274,31 @@ Explore our organized category directories to find the exact apps and tools you 
 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
-| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1191 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `478 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
-| **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `289 apps` | [**Explore →**](docs/categories/windows.md) |
-| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `238 apps` | [**Explore →**](docs/categories/linux.md) |
-| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `218 apps` | [**Explore →**](docs/categories/apple.md) |
-| **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `212 apps` | [**Explore →**](docs/categories/media-music.md) |
-| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `193 apps` | [**Explore →**](docs/categories/web-ai.md) |
-| **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `171 apps` | [**Explore →**](docs/categories/root-modules.md) |
-| **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `82 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 1647 cataloged applications | `1647 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1608 apps` | [**Explore →**](docs/categories/android.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13369 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `824 apps` | [**Explore →**](docs/categories/windows.md) |
+| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `778 apps` | [**Explore →**](docs/categories/linux.md) |
+| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `687 apps` | [**Explore →**](docs/categories/apple.md) |
+| **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `473 apps` | [**Explore →**](docs/categories/media-music.md) |
+| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1047 apps` | [**Explore →**](docs/categories/web-ai.md) |
+| **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `240 apps` | [**Explore →**](docs/categories/root-modules.md) |
+| **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `345 apps` | [**Explore →**](docs/categories/extensions.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16955 cataloged applications | `16955 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **1647 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16955 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
 
 ### 📦 Croc
 
-> **Categories:** `#Windows` `#Mac` `#linux`
+> **Categories:** `#Windows` `#Mac` `#linux` `#readme` `#golang` `#tcp` `#transfer` `#peer_to_peer` `#file_sharing` `#data_transfer` `#pake` `#GitHub` `#OpenSource` `#go` `#Interesting` `#Useful`
 
 croc is a simple, secure, and fast command-line file transfer tool that allows users to send files and folders between devices over the internet. It uses end-to-end encryption, works across platforms and networks without port forwarding, supports resumable transfers, and can use relay servers when direct connections aren't possible. It also supports text transfers, browser-based receiving, custom transfer codes, proxies, and self-hosted relays.
 
 - 🐙 **Source Code:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
+- 🌐 **Official Website:** [https://github.com/schollz/croc#readme](https://github.com/schollz/croc#readme)
 - 👤 **Developer:** [Zack Schollz](https://github.com/schollz)
 
 <details>
@@ -585,7 +587,7 @@ Root My Galaxy is a lightweight utility that enables temporary, exploit-based ro
 
 ### 📦 Omniget
 
-> **Categories:** `#Windows` `#Linux` `#Mac` `#DownloadManager` `#MediaDownloader` `#Study`
+> **Categories:** `#Windows` `#Linux` `#Mac` `#DownloadManager` `#MediaDownloader` `#Study` `#GitHub` `#OpenSource`
 
 OmniGet is an open-source, all-in-one desktop application for downloading, organizing, and studying online content. It combines a powerful media downloader with a built-in course player, PDF/EPUB reader, music library, and productivity tools—allowing you to learn, watch, read, and manage everything from a single, privacy-focused interface.
 
@@ -952,7 +954,7 @@ Spotui is an Android Spotify clone built with Jetpack Compose that connects to y
 
 ### 📦 Spectre
 
-> **Categories:** `#Android` `#Foss` `#Tools` `#Utilities` `#Sensors` `#DeviceScanners`
+> **Categories:** `#Android` `#Foss` `#Tools` `#Utilities` `#Sensors` `#DeviceScanners` `#GitHub` `#OpenSource` `#python` `#csi` `#diy` `#esp_32` `#espectre` `#home_assistant` `#motion_detection` `#wifi` `#wifi_sensing`
 
 Spectre is an Android app for observing and interacting with the wireless environment around you. It monitors signals from Bluetooth devices, Wi-Fi access points, cellular towers, and GNSS satellites. Spectre also features a growing set of pentesting tools, constrained by Android's security model.
 

@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `171`
+> **Total Apps in Category:** `240`
 
 ---
 
@@ -710,7 +710,7 @@ A Magisk/KernelSU module that changes the system WebView with Vanadium WebView a
 
 ### 📦 ShizuWall
 
-> **Categories:** `#Android` `#Shizuku` `#Network`
+> **Categories:** `#Android` `#Shizuku` `#Network` `#GitHub` `#OpenSource`
 
 A lightweight, privacy focused Android firewall application that blocks network connections for selected apps without requiring root access or VPN. ShizuWall leverages Shizuku to provide powerful network control capabilities. Requires Android 11 (API 30) or higher.
 
@@ -923,7 +923,7 @@ Boostify is a modern, Xposed module that supercharges WhatsApp with smart extras
 
 ### 📦 InstallerX Revived (Community Edition)
 
-> **Categories:** `#key` `#Android` `#Root` `#Utilities`
+> **Categories:** `#key` `#Android` `#Root` `#Utilities` `#readme` `#installer` `#apk` `#apks` `#shizuku` `#dhizuku` `#kotlin`
 
 A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)
 
@@ -1643,7 +1643,7 @@ A comprehensive collection of unmodified stock firmware images and OTA update li
 
 ### 📦 Thor
 
-> **Categories:** `#Android` `#Root` `#Tools`
+> **Categories:** `#Android` `#Root` `#Tools` `#GitHub` `#OpenSource`
 
 Thor is an Android App Manager and App Installer utility
 
@@ -2303,11 +2303,12 @@ Root access is required.
 
 ### 📦 QtScrcpy
 
-> **Categories:** `#Windows` `#Linux` `#MacOS`
+> **Categories:** `#Windows` `#Linux` `#MacOS` `#Interesting` `#Android` `#USB` `#GitHub` `#OpenSource`
 
 QtScrcpy supports displaying and controlling Android devices via USB or over network. It does NOT require root privileges.
 
 - 🐙 **Source Code:** [https://github.com/barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+- 👤 **Developer:** [barry-ran](https://github.com/barry-ran)
 
 
 ---
@@ -2390,6 +2391,22 @@ AdClose is an Android ad-blocking tool based on the Xposed framework. It aims to
 APatch is an application that allows the modification of the Android kernel and system. This application provides support for the Root APM module, similar to Magisk, and the Kernel Patch Module (KPM), which allows for any code to be injected into the kernel.
 
 - 🐙 **Source Code:** [https://github.com/bmax121/APatch](https://github.com/bmax121/APatch)
+
+
+---
+
+### 📦 Exodus
+
+> **Categories:** `#Android` `#Security` `#GitHub` `#OpenSource`
+
+This is useful in situations where you do not have root rights on the computer or when the package is simply not available for a given Linux distribution. For example, CentOS 6.X and Amazon Linux do not have packages for Google Chrome or aria2.
+
+Server distributions tend to have a more limited set of legacy packages than desktop distributions, so it's common to have software installed on a laptop that can't be easily installed on a remote computer.
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://t.me/popCLOUDS/3668](https://t.me/popCLOUDS/3668)
+- 👤 **Developer:** Exodus Privacy, a French non-profit organization that aims to raise awareness about digital privacy issues.
 
 
 ---
@@ -2534,7 +2551,7 @@ GMS Flags is a tool for changing parameters in Google services to activate or de
 
 ### 📦 Athena
 
-> **Categories:** `#Android` `#Root` `#Tools`
+> **Categories:** `#Android` `#Root` `#Tools` `#Interesting` `#Python` `#CSS`
 
 Athena is an advanced Android firewall app designed with Material You style, empowering you with full network control and privacy tools. It supports both VPN and root modes, letting you customize which apps can access the internet with granular filtering options.
 
@@ -2732,7 +2749,7 @@ thanks @JELLYBEANx1 for help
 
 ### 📦 ([Enhanced Post](https://t.me/popMODS/2059)) 💾 **DataBackup
 
-> **Categories:** `#Android`
+> **Categories:** `#Android` `#kotlin` `#backup` `#root` `#zstd` `#GitHub` `#OpenSource`
 
 **A free and open source backup app with Material You design, Cloud integration, no ads, and several features!
 REQUIRES ROOT!
@@ -2796,7 +2813,7 @@ STRP x ULTRA x BATTERY is a powerful module designed to help you maximize the ba
 
 ### 📦 IGExperiments
 
-> **Categories:** `#Android`
+> **Categories:** `#Android` `#GitHub` `#OpenSource`
 
 Allow you to enable developer options in Instagram!
 When the module is enabled, kill Instagram and long press home button. You will be able go to developer page and sometimes other stuff.
@@ -2805,6 +2822,7 @@ You will need Lsposed/Xposed framework to use it.(Root devices)
 LSPatch(Non-Root devices)
 
 - 🐙 **Source Code:** [https://t.me/popCLOUDS/1224](https://t.me/popCLOUDS/1224)
+- 👤 **Developer:** [origin-space](https://github.com/origin-space)
 
 
 ---
@@ -2822,7 +2840,7 @@ LSPatch(Non-Root devices)
 
 ### 📦 Custom WSABuilds ( Windows Subsystem Android)
 
-> **Categories:** `#requirements` `#Windows`
+> **Categories:** `#requirements` `#Windows` `#readme` `#android` `#google_apps` `#windows_10` `#windows10` `#android_emulator` `#subsystem` `#magisk` `#windows_11` `#wsa` `#windows_subsystem_for_android` `#windows_subsystem_android` `#windowssubsystemforandroid` `#magiskonwsa` `#wsa_with_gapps_and_magisk` `#wsa_root` `#kernelsu` `#magiskonwsalocal` `#wsapatch` `#python`
 
 **MustardChef’s WSABuilds GitHub project is a repository that provides custom versions of Windows Subsystem For Android (WSA), which lets Windows users run Android apps. The project adds features like Google Play Store, root access, and Magisk Delta. [Magisk Delta](https://t.me/popMODS/3023) is a feature that lets users update Magisk without reinstalling WSA. Magisk is a tool that lets users modify their Android system. The project is open source and has a wiki page for users.
 
@@ -2940,11 +2958,12 @@ Platform(s); #Android
 
 ### 📦 Inure - elegant app manager
 
-> **Categories:** `#Android`
+> **Categories:** `#Android` `#Interesting` `#Useful` `#GitHub` `#OpenSource`
 
 **Inure is an elegant android app manager that supports both rooted and not rooted devices. It is very customizable and has a lot of useful functions.
 
 - 🐙 **Source Code:** [https://github.com/Hamza417/Inure](https://github.com/Hamza417/Inure)
+- 👤 **Developer:** [Hamza417](https://github.com/Hamza417)
 
 
 ---
@@ -3093,7 +3112,7 @@ Platform(s); #Android
 
 ### 📦 Magisk v25.1 (25100)
 
-> **Categories:** `#Android`
+> **Categories:** `#Android` `#cplusplus`
 
 ⚡__Magisk Beta__
 ⚡__Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.__
@@ -3240,7 +3259,7 @@ Scoop also supports Xposed.
 
 ### 📦 LibreTube | YouTube Vanced Alternative 1
 
-> **Categories:** `#Android` `#Website`
+> **Categories:** `#Android` `#Website` `#Interesting` `#Privacy` `#GitHub` `#OpenSource`
 
 Alternative YouTube frontend for Android
 built with [Piped
@@ -3415,7 +3434,7 @@ Platform(s); #Android
 
 ### 📦 Kille**rgram | Remove sponsored Telegram's messages
 
-> **Categories:** `#Android`
+> **Categories:** `#Android` `#telegram` `#xposed` `#Java` `#GitHub` `#OpenSource`
 
 An Android Xposed module to remove sponsored messages of Telegram.
 
@@ -3610,6 +3629,1113 @@ About us:
 Platform(s); #Android
 
 - 🐙 **Source Code:** [https://github.com/Nixsuki/Cache-App-Limiter](https://github.com/Nixsuki/Cache-App-Limiter)
+
+
+---
+
+### 📦 tb0yd/rootfinder
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Arabic root finder with neural nets!
+**Language**: Jupyter Notebook
+**Stars**: 101 **Issues**: 1 **Forks**: 10
+https://github.com/tb0yd/rootfinder
+
+- 🐙 **Source Code:** [https://github.com/tb0yd/rootfinder](https://github.com/tb0yd/rootfinder)
+- 👤 **Developer:** [tb0yd](https://github.com/tb0yd)
+
+
+---
+
+### 📦 rootVIII/proxy_requests
+
+> **Categories:** `#http` `#http_get` `#http_getter` `#http_proxy` `#http_proxy_middleware` `#proxy` `#proxy_list` `#proxy_requests` `#proxy_server` `#python` `#python_requests` `#python3` `#recursion` `#recursion_problem` `#requests` `#requests_module` `#webscraper` `#webscraper_api` `#webscraping`
+
+a class that uses scraped proxies to make an http GET request (Python requests)
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/rootVIII/proxy_requests](https://github.com/rootVIII/proxy_requests)
+- 👤 **Developer:** [rootVIII](https://github.com/rootVIII)
+
+
+---
+
+### 📦 hotvulcan/****Thanos.sh
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+if you are Thanos(root), this command could delete half your files randomly
+**Language**: Shell
+**Stars**: 153 **Issues**: 4 **Forks**: 22
+https://github.com/hotvulcan/Thanos.sh
+
+- 🐙 **Source Code:** [https://github.com/hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh)
+- 👤 **Developer:** [hotvulcan](https://github.com/hotvulcan)
+
+
+---
+
+### 📦 ReneLergner/WPinternals
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Tool to unlock the bootloader and enable Root Access on Windows Phones
+**Language**: C#
+**Stars**: 222 **Issues**: 1 **Forks**: 39
+https://github.com/ReneLergner/WPinternals
+
+- 🐙 **Source Code:** [https://github.com/ReneLergner/WPinternals](https://github.com/ReneLergner/WPinternals)
+- 👤 **Developer:** [ReneLergner](https://github.com/ReneLergner)
+
+
+---
+
+### 📦 Chainfire/librootjava
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Run Java (and Kotlin) code as root!
+**Language**: Java
+**Stars**: 116 **Issues**: 0 **Forks**: 5
+https://github.com/Chainfire/librootjava
+
+- 🐙 **Source Code:** [https://github.com/Chainfire/librootjava](https://github.com/Chainfire/librootjava)
+- 👤 **Developer:** [Chainfire](https://github.com/Chainfire)
+
+
+---
+
+### 📦 egoist/import-http
+
+> **Categories:** `#esmodules` `#module` `#rollup` `#webpack`
+
+Import modules from URL instead of local node_modules
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/egoist/import-http](https://github.com/egoist/import-http)
+- 👤 **Developer:** [egoist](https://github.com/egoist)
+
+
+---
+
+### 📦 jakeajames/rootlessJB3
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+hahh
+**Language**: C
+**Stars**: 111 **Issues**: 16 **Forks**: 37
+https://github.com/jakeajames/rootlessJB3
+
+- 🐙 **Source Code:** [https://github.com/jakeajames/rootlessJB3](https://github.com/jakeajames/rootlessJB3)
+- 👤 **Developer:** [jakeajames](https://github.com/jakeajames)
+
+
+---
+
+### 📦 storyicon/gos
+
+> **Categories:** `#chain` `#cross_compilation` `#go` `#golang` `#gomodule` `#goproxy` `#grpc` `#mod` `#module` `#proto` `#tools`
+
+Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)
+**Language**: Go
+
+- 🐙 **Source Code:** [https://github.com/storyicon/gos](https://github.com/storyicon/gos)
+- 👤 **Developer:** [storyicon](https://github.com/storyicon)
+
+
+---
+
+### 📦 InitRoot/BurpJSLinkFinder
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Burp Extension for a passive scanning JS files for endpoint links.
+**Language**: Python
+**Stars**: 121 **Issues**: 1 **Forks**: 13
+https://github.com/InitRoot/BurpJSLinkFinder
+
+- 🐙 **Source Code:** [https://github.com/InitRoot/BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)
+- 👤 **Developer:** [InitRoot](https://github.com/InitRoot)
+
+
+---
+
+### 📦 nunomaduro/yorn
+
+> **Categories:** `#modules` `#php`
+
+⚗️ Modules in PHP with the `import` and `export` syntax
+**Language**: PHP
+
+- 🐙 **Source Code:** [https://github.com/nunomaduro/yorn](https://github.com/nunomaduro/yorn)
+- 👤 **Developer:** [nunomaduro](https://github.com/nunomaduro)
+
+
+---
+
+### 📦 nining377/UnblockMusicPro_Xposed
+
+> **Categories:** `#android` `#neteasecloudmusic` `#unblock` `#xposed`
+
+Unblock Netease Cloud Music with Xposed
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/nining377/UnblockMusicPro_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed)
+- 👤 **Developer:** [nining377](https://github.com/nining377)
+
+
+---
+
+### 📦 alexellis/expressjs-k8s
+
+> **Categories:** `#express_js` `#javascript` `#kubernetes` `#node_js`
+
+Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/alexellis/expressjs-k8s](https://github.com/alexellis/expressjs-k8s)
+- 👤 **Developer:** [alexellis](https://github.com/alexellis)
+
+
+---
+
+### 📦 mohuihui/antispy
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
+**Language**: C
+**Stars**: 189 **Issues**: 0 **Forks**: 113
+https://github.com/mohuihui/antispy
+
+- 🐙 **Source Code:** [https://github.com/mohuihui/antispy](https://github.com/mohuihui/antispy)
+- 👤 **Developer:** [mohuihui](https://github.com/mohuihui)
+
+
+---
+
+### 📦 akusio/KernBypass-Public
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+chroot based kernel level jailbreak detection bypass.
+**Language**: Objective-C
+**Stars**: 116 **Issues**: 7 **Forks**: 32
+[https://github.com/akusio/KernBypass-Public](https://github.com/akusio/KernBypass-Public)
+
+- 🐙 **Source Code:** [https://github.com/akusio/KernBypass-Public](https://github.com/akusio/KernBypass-Public)
+- 👤 **Developer:** [akusio](https://github.com/akusio)
+
+
+---
+
+### 📦 hvmi/hvmi
+
+> **Categories:** `#exploit` `#hypervisor` `#introspection` `#memory` `#protection` `#rootkit`
+
+Hypervisor Memory Introspection Core Library
+**Language**: Objective-C
+
+- 🐙 **Source Code:** [https://github.com/hvmi/hvmi](https://github.com/hvmi/hvmi)
+- 👤 **Developer:** [hvmi](https://github.com/hvmi)
+
+
+---
+
+### 📦 Tiyunzong An Exploit Chain To Remotely Root Modern Android Devices
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Stars**: 96 **Issues**: 1 **Forks**: 16
+[https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices](https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices)
+
+- 🐙 **Source Code:** [https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices](https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices)
+- 👤 **Developer:** [secmob](https://github.com/secmob)
+
+
+---
+
+### 📦 w568w/XposedDetectLib
+
+> **Categories:** `#xposed`
+
+A light-weight yet powerful solution library for detecting xposed installation.
+**Language**: Java
+
+- 🐙 **Source Code:** [https://github.com/w568w/XposedDetectLib](https://github.com/w568w/XposedDetectLib)
+- 👤 **Developer:** [w568w](https://github.com/w568w)
+
+
+---
+
+### 📦 hhroot/2021_Hvv
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+2021 hw
+**Stars**: 166 **Issues**: 0 **Forks**: 43
+[https://github.com/hhroot/2021_Hvv](https://github.com/hhroot/2021_Hvv)
+
+- 🐙 **Source Code:** [https://github.com/hhroot/2021_Hvv](https://github.com/hhroot/2021_Hvv)
+- 👤 **Developer:** [hhroot](https://github.com/hhroot)
+
+
+---
+
+### 📦 irsl/gcp-dhcp-takeover-code-exec
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent
+**Language**: Go
+**Stars**: 292 **Issues**: 2 **Forks**: 14
+[https://github.com/irsl/gcp-dhcp-takeover-code-exec](https://github.com/irsl/gcp-dhcp-takeover-code-exec)
+
+- 🐙 **Source Code:** [https://github.com/irsl/gcp-dhcp-takeover-code-exec](https://github.com/irsl/gcp-dhcp-takeover-code-exec)
+- 👤 **Developer:** [irsl](https://github.com/irsl)
+
+
+---
+
+### 📦 0x192/universal-android-debloater
+
+> **Categories:** `#android` `#debloat` `#privacy` `#GitHub` `#OpenSource` `#rust` `#adb` `#Interesting` `#Useful`
+
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+- 👤 **Developer:** [0x192](https://github.com/0x192)
+
+
+---
+
+### 📦 ADeltaX/WSAGAScript
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Scripts to install Google Apps into a WSA image. Plus optional ADB root
+**Language**: Shell
+**Stars**: 169 **Issues**: 8 **Forks**: 6
+[https://github.com/ADeltaX/WSAGAScript](https://github.com/ADeltaX/WSAGAScript)
+
+- 🐙 **Source Code:** [https://github.com/ADeltaX/WSAGAScript](https://github.com/ADeltaX/WSAGAScript)
+- 👤 **Developer:** [ADeltaX](https://github.com/ADeltaX)
+
+
+---
+
+### 📦 LSPosed/MagiskOnWSA
+
+> **Categories:** `#wsa`
+
+Integrate Magisk root and OpenGApps into WSA (Windows Subsystem for Android)
+
+- 🐙 **Source Code:** [https://github.com/LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
+- 👤 **Developer:** [LSPosed](https://github.com/LSPosed)
+
+
+---
+
+### 📦 CryogenicPlanet/depp
+
+> **Categories:** `#dependency` `#duplicate_detection` `#modules` `#monorepo` `#npm` `#unused`
+
+⚡ Check your npm modules for unused and duplicate dependencies fast
+**Language**: Go
+
+- 🐙 **Source Code:** [https://github.com/CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp)
+- 👤 **Developer:** [CryogenicPlanet](https://github.com/CryogenicPlanet)
+
+
+---
+
+### 📦 Arinerron/CVE-2022-0847-DirtyPipe-Exploit
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A root exploit for CVE-2022-0847 (Dirty Pipe)
+**Language**: C
+**Stars**: 200 **Issues**: 1 **Forks**: 55
+[https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)
+
+- 🐙 **Source Code:** [https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)
+- 👤 **Developer:** [Arinerron](https://github.com/Arinerron)
+
+
+---
+
+### 📦 YTVanced/VancedStore
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+General Application Store with support for root apps and more
+**Language**: Kotlin
+**Stars**: 119 **Issues**: 0 **Forks**: 120
+[https://github.com/YTVanced/VancedStore](https://github.com/YTVanced/VancedStore)
+
+- 🐙 **Source Code:** [https://github.com/YTVanced/VancedStore](https://github.com/YTVanced/VancedStore)
+- 👤 **Developer:** [YTVanced](https://github.com/YTVanced)
+
+
+---
+
+### 📦 polygraphene/DirtyPipe-Android
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Dirty Pipe root exploit for Android (Pixel 6)
+**Language**: C
+**Stars**: 138 **Issues**: 3 **Forks**: 36
+[https://github.com/polygraphene/DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android)
+
+- 🐙 **Source Code:** [https://github.com/polygraphene/DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android)
+- 👤 **Developer:** [polygraphene](https://github.com/polygraphene)
+
+
+---
+
+### 📦 gmh5225/CallMeWin32kDriver
+
+> **Categories:** `#anti` `#anticheat` `#cheat` `#driver` `#dump` `#game` `#hack` `#hide` `#llvm_msvc` `#mmcopymemory` `#psloadedmodulelist` `#rootkit` `#win32k` `#windows`
+
+Load your driver like win32k.sys
+**Language**: C++
+
+- 🐙 **Source Code:** [https://github.com/gmh5225/CallMeWin32kDriver](https://github.com/gmh5225/CallMeWin32kDriver)
+- 👤 **Developer:** [gmh5225](https://github.com/gmh5225)
+
+
+---
+
+### 📦 opa334/TrollStore
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+**Language**: C
+**Stars**: 158 **Issues**: 13 **Forks**: 11
+[https://github.com/opa334/TrollStore](https://github.com/opa334/TrollStore)
+
+- 🐙 **Source Code:** [https://github.com/opa334/TrollStore](https://github.com/opa334/TrollStore)
+- 👤 **Developer:** [opa334](https://github.com/opa334)
+
+
+---
+
+### 📦 MaherAzzouzi/CVE-2022-37706-LPE-exploit
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)
+**Language**: Shell
+**Stars**: 132 **Issues**: 0 **Forks**: 13
+[https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)
+
+- 🐙 **Source Code:** [https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)
+- 👤 **Developer:** [MaherAzzouzi](https://github.com/MaherAzzouzi)
+
+
+---
+
+### 📦 tiann/KernelSU
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A Kernel based root solution for Android GKI
+**Language**: Kotlin
+**Stars**: 263 **Issues**: 1 **Forks**: 26
+[https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+- 🐙 **Source Code:** [https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
+- 👤 **Developer:** [tiann](https://github.com/tiann)
+
+
+---
+
+### 📦 zhuowei/MacDirtyCowDemo
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
+**Language**: C
+**Stars**: 123 **Issues**: 0 **Forks**: 10
+[https://github.com/zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo)
+
+- 🐙 **Source Code:** [https://github.com/zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo)
+- 👤 **Developer:** [zhuowei](https://github.com/zhuowei)
+
+
+---
+
+### 📦 jafarlihi/modreveal
+
+> **Categories:** `#blueteam` `#kernel_module` `#kernel_security` `#lkm` `#lkm_rootkit` `#security` `#security_audit` `#security_tools`
+
+Utility to find hidden Linux kernel modules
+**Language**: C
+
+- 🐙 **Source Code:** [https://github.com/jafarlihi/modreveal](https://github.com/jafarlihi/modreveal)
+- 👤 **Developer:** [jafarlihi](https://github.com/jafarlihi)
+
+
+---
+
+### 📦 RootHide/FairFree
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.
+**Language**: JavaScript
+**Stars**: 119 **Issues**: 1 **Forks**: 10
+[https://github.com/RootHide/FairFree](https://github.com/RootHide/FairFree)
+
+- 🐙 **Source Code:** [https://github.com/RootHide/FairFree](https://github.com/RootHide/FairFree)
+- 👤 **Developer:** [RootHide](https://github.com/RootHide)
+
+
+---
+
+### 📦 GhostRooter0953/discord-voice-ips
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Discord Voice IPs
+**Language**: HTML
+**Stars**: 144 **Issues**: 3 **Forks**: 10
+[https://github.com/GhostRooter0953/discord-voice-ips](https://github.com/GhostRooter0953/discord-voice-ips)
+
+- 🐙 **Source Code:** [https://github.com/GhostRooter0953/discord-voice-ips](https://github.com/GhostRooter0953/discord-voice-ips)
+- 👤 **Developer:** [GhostRooter0953](https://github.com/GhostRooter0953)
+
+
+---
+
+### 📦 nh2/internal-contstrained-pki
+
+> **Categories:** `#openssl` `#pki` `#tls` `#x509`
+
+Safely shareable TLS root CA for .internal networks using Name Constraints
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki)
+- 👤 **Developer:** [nh2](https://github.com/nh2)
+
+
+---
+
+### 📦 pipelight/boulette
+
+> **Categories:** `#rust` `#shutdown` `#ssh` `#GitHub` `#OpenSource`
+
+Protect you from yourself (even as root).
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/pipelight/boulette](https://github.com/pipelight/boulette)
+- 👤 **Developer:** [pipelight](https://github.com/pipelight)
+
+
+---
+
+### 📦 rifsxd/KernelSU-Next
+
+> **Categories:** `#android` `#kernel` `#kernelsu` `#kernelsu_next` `#next` `#root` `#su` `#superuser`
+
+A Kernel based root solution for Android
+**Language**: Kotlin
+
+- 🐙 **Source Code:** [https://github.com/rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next)
+- 👤 **Developer:** [rifsxd](https://github.com/rifsxd)
+
+
+---
+
+### 📦 Aeastr/Portal
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Seamless element transitions between root, sheets, and navigation pushes in SwiftUI.
+**Language**: Swift
+**Stars**: 341 **Issues**: 2 **Forks**: 7
+[https://github.com/Aeastr/Portal](https://github.com/Aeastr/Portal)
+
+- 🐙 **Source Code:** [https://github.com/Aeastr/Portal](https://github.com/Aeastr/Portal)
+- 👤 **Developer:** [Aeastr](https://github.com/Aeastr)
+
+
+---
+
+### 📦 MhmRdd/NoHello
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A Zygisk module to hide root.
+**Language**: C++
+**Stars**: 165 **Issues**: 5 **Forks**: 14
+[https://github.com/MhmRdd/NoHello](https://github.com/MhmRdd/NoHello)
+
+- 🐙 **Source Code:** [https://github.com/MhmRdd/NoHello](https://github.com/MhmRdd/NoHello)
+- 👤 **Developer:** [MhmRdd](https://github.com/MhmRdd)
+
+
+---
+
+### 📦 unkn0wn-root/resterm
+
+> **Categories:** `#go` `#golang` `#rest` `#rest_api` `#rest_client` `#tui` `#tui_app` `#GitHub` `#OpenSource`
+
+Terminal REST client for .http/.rest files with HTTP, GraphQL, and gRPC support.
+**Language**: Go
+
+- 🐙 **Source Code:** [https://github.com/unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm)
+- 👤 **Developer:** [unkn0wn-root](https://github.com/unkn0wn-root)
+
+
+---
+
+### 📦 rootsecdev/cve_2026_31431
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Exploit POC for CVE_2026_31431
+**Language**: Python
+**Stars**: 434 **Issues**: 4 **Forks**: 87
+[https://github.com/rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431)
+
+- 🐙 **Source Code:** [https://github.com/rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431)
+- 👤 **Developer:** [rootsecdev](https://github.com/rootsecdev)
+
+
+---
+
+### 📦 Leutenegger/vanity-eth
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).
+**Language**: Python
+**Stars**: 801 **Issues**: 0 **Forks**: 90
+[https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
+
+
+---
+
+### 📦 Universal Android Debloater Next Generation
+
+> **Categories:** `#GitHub` `#OpenSource` `#rust` `#adb` `#android` `#bloatware_list` `#bloatware_removal` `#debloat` `#debloater` `#debloating` `#privacy`
+
+🔗 [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+📝 Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+──────────────────────────────
+
+The **Universal Android Debloater Next Generation** is a tool designed to improve __privacy__ and __efficiency__ on Android devices by removing unnecessary system apps, thus reducing the __attack surface__ and enhancing __security__. This project is a fork of the original Universal Android Debloater, with the goal of providing a more efficient and secure solution.
+
+To use the tool, users can follow the `usage guide` provided in the project's __wiki__, which includes `getting started` instructions, `features` of the app, and `suggested Android app replacements`. The project also provides a `building from source` guide for those who want to get the cutting-edge version.
+
+From a technical standpoint, the project uses the `Iced` GUI library and has a simple, intuitive interface. The tool does not collect or transmit any __user data__, with the only external connections being `GET` requests to `GitHub` for fetching the package list and checking for updates.
+
+The project is suitable for anyone looking to debloat their Android device, including __power users__ and __developers__. For real-time communication and support, users can join the project's `Discord guild` or use the `Matrix` bridge.
+
+One-liner takeaway: The Universal Android Debloater Next Generation is a powerful tool that helps you take control of your Android device's __privacy__ and __security__ by debloating unnecessary system apps.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+- 👤 **Developer:** [Universal-Debloater-Alliance](https://github.com/Universal-Debloater-Alliance)
+
+
+---
+
+### 📦 Dopamine
+
+> **Categories:** `#GitHub` `#OpenSource` `#c_lang`
+
+🔗 [https://github.com/opa334/Dopamine](https://github.com/opa334/Dopamine)
+📝 Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+──────────────────────────────
+
+The **Dopamine** project on GitHub is a game-changer for iOS users, offering a __rootless arm64e jailbreak__ for versions 15.0 to 15.4.1. This innovative solution allows users to break free from limitations without compromising their device's security. For more information and to download, visit the __official website__ at https://ellekit.space/dopamine/. The project's key features and technical details are forthcoming, but one thing is clear: __Dopamine__ is a must-visit for anyone interested in iOS jailbreaking. `Rootless jailbreak` is the future, and **Dopamine** is leading the charge - jailbreak your iOS device, effortlessly!
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/opa334/Dopamine](https://github.com/opa334/Dopamine)
+- 🌐 **Official Website:** [https://ellekit.space/dopamine/](https://ellekit.space/dopamine/)
+- 👤 **Developer:** [opa334](https://github.com/opa334)
+
+
+---
+
+### 📦 Playintegrityfix
+
+> **Categories:** `#cplusplus`
+
+This module helps your device pass Play Integrity and SafetyNet tests, which are necessary for some apps to work properly. You need to have root access and Zygisk installed, and you can use one of three setups: Magisk, KernelSU, or APatch with ZygiskNext. After setting it up, you can check if it works using specific apps. This fix ensures your device gets a valid attestation, allowing you to use apps that require these tests to pass. It doesn't hide root or avoid detections in other apps, just helps your device appear safe and intact for these specific tests.
+
+https://github.com/chiteroman/PlayIntegrityFix
+
+- 🐙 **Source Code:** [https://github.com/chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+- 👤 **Developer:** [chiteroman](https://github.com/chiteroman)
+
+
+---
+
+### 📦 Nerdctl
+
+> **Categories:** `#go` `#containerd`
+
+`nerdctl` is a tool that works like Docker but uses `containerd` instead. Here’s what you need to know:
+
+- It has the same user interface as Docker, so if you know Docker, you can use `nerdctl` easily.
+- It supports Docker Compose, so you can run multiple containers together.
+- It offers advanced features like lazy image pulling, encrypted images, and peer-to-peer image distribution.
+- You can use it in rootless mode, which means you don't need admin rights to run containers.
+- It's useful for debugging Kubernetes clusters and supports various networking and build tools.
+
+Using `nerdctl` gives you access to cutting-edge features that aren't yet available in Docker, making it a powerful tool for container management.
+
+https://github.com/containerd/nerdctl
+
+- 🐙 **Source Code:** [https://github.com/containerd/nerdctl](https://github.com/containerd/nerdctl)
+- 👤 **Developer:** [containerd](https://github.com/containerd)
+
+
+---
+
+### 📦 Mkcert
+
+> **Categories:** `#go` `#certificates` `#chrome` `#firefox` `#https` `#ios` `#linux` `#local_development` `#localhost` `#macos` `#root_ca` `#tls` `#windows` `#GitHub` `#OpenSource`
+
+mkcert is a simple tool that helps you create and use trusted certificates for local development without any complicated setup. It automatically installs a local Certificate Authority (CA) on your system, which allows you to generate certificates that your browser and other tools will trust. This is especially useful because using real certificates for development can be risky or impossible for certain hosts like `localhost` or `example.test`. With mkcert, you can avoid trust errors and manage your own CA easily, making your development process smoother and more secure.
+
+https://github.com/FiloSottile/mkcert
+
+- 🐙 **Source Code:** [https://github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+- 👤 **Developer:** [FiloSottile](https://github.com/FiloSottile)
+
+
+---
+
+### 📦 Virtualapp
+
+> **Categories:** `#java` `#android` `#framework` `#plugin` `#plugin_manager`
+
+VirtualApp (VA) is a lightweight virtual machine for Android that allows you to run multiple apps in a sandboxed environment. Here are the key benefits VA enables you to install and run multiple instances of the same app, such as having two WhatsApp or QQ accounts on one phone.
+- **Security and Isolation** VA supports Java and Native hooking, allowing you to monitor and control app behavior without rooting the device.
+- **Google Services Support** VA is highly performant, compatible with Android versions from 5.0 to 15.0, and supports both 32-bit and 64-bit apps.
+- **Easy Integration**: VA is easy to integrate into existing apps, even those already live on the market, and provides APIs for simple development.
+
+Overall, VA offers a robust solution for app management, security, and multi-instance running, making it versatile for various use cases.
+
+https://github.com/asLody/VirtualApp
+
+- 🐙 **Source Code:** [https://github.com/asLody/VirtualApp](https://github.com/asLody/VirtualApp)
+- 👤 **Developer:** [asLody](https://github.com/asLody)
+
+
+---
+
+### 📦 This firmware is for Nanopi devices and uses OpenWrt. You can download it from GitHub and use a tool like Etcher to install it. The default username is "root" and the password is "password". After installation, you can access the router's backend by typing `http://immortalwrt/` in your browser. The firmware supports USB wireless cards and automatic online updates, which also expand the root partition. You can even customize your own firmware in just a few minutes by editing the config files and running a workflow on GitHub. This makes it easy to add or remove software packages according to your needs.
+
+> **Categories:** `#shell` `#nanopi` `#openwrt` `#r1s` `#r2s` `#r4s`
+
+This firmware is for Nanopi devices and uses OpenWrt. You can download it from GitHub and use a tool like Etcher to install it. The default username is "root" and the password is "password". After installation, you can access the router's backend by typing `http://immortalwrt/` in your browser. The firmware supports USB wireless cards and automatic online updates, which also expand the root partition. You can even customize your own firmware in just a few minutes by editing the config files and running a workflow on GitHub. This makes it easy to add or remove software packages according to your needs.
+
+https://github.com/stupidloud/nanopi-openwrt
+
+- 🐙 **Source Code:** [http://immortalwrt/`](http://immortalwrt/`)
+
+
+---
+
+### 📦 Xautodaily
+
+> **Categories:** `#kotlin` `#jetpack_compose` `#qq` `#xposed` `#xposed_module`
+
+XAutoDaily is a free and open-source module that automates various tasks on QQ and TIM apps. It works on most versions of QQ, including the new TIM. After activating the module, you can turn on or off different features in the QQ settings. It helps you with tasks like daily sign-ins, member tasks, video member check-ins, and more. This saves you time and effort by automating these routine activities. However, it's important to use it only for legal purposes and follow the guidelines to avoid any issues.
+
+https://github.com/LuckyPray/XAutoDaily
+
+- 🐙 **Source Code:** [https://github.com/LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily)
+- 👤 **Developer:** [LuckyPray](https://github.com/LuckyPray)
+
+
+---
+
+### 📦 Httptap
+
+> **Categories:** `#go` `#gvisor` `#linux_network_namespace` `#man_in_the_middle` `#monastery` `#networking` `#tun_device` `#GitHub` `#OpenSource`
+
+`httptap` is a tool that lets you see the HTTP and HTTPS requests made by any Linux program. You can use it by running `httptap -- <command>`, and it will show you the details of the HTTP requests and responses without needing root access or changing your system settings. It works by running the command in a separate network namespace and decrypting HTTPS traffic using a temporary certificate authority. This helps you understand what your programs are doing online, which can be very useful for debugging or learning how different tools work. For example, you can see the exact URLs and responses when using `curl` or other commands, making it easier to troubleshoot issues or analyze network behavior.
+
+https://github.com/monasticacademy/httptap
+
+- 🐙 **Source Code:** [https://github.com/monasticacademy/httptap](https://github.com/monasticacademy/httptap)
+- 👤 **Developer:** [monasticacademy](https://github.com/monasticacademy)
+
+
+---
+
+### 📦 Acme.Sh
+
+> **Categories:** `#shell` `#acme` `#acme_client` `#acme_protocol` `#ash` `#bash` `#buypass` `#certbot` `#letsencrypt` `#posix` `#posix_sh` `#zerossl`
+
+Using **acme.sh** is a simple way to get free HTTPS certificates for your website. It works with many operating systems and doesn't require special permissions. You can easily issue, renew, and install certificates automatically without manual intervention. This tool supports various modes like webroot, standalone, and DNS, making it versatile for different setups. The benefit is that you secure your site with trusted certificates at no cost, ensuring user data privacy while simplifying certificate management[1][3].
+
+https://github.com/acmesh-official/acme.sh
+
+- 🐙 **Source Code:** [https://github.com/acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+- 👤 **Developer:** [acmesh-official](https://github.com/acmesh-official)
+
+
+---
+
+### 📦 Hands On Large Language Models
+
+> **Categories:** `#jupyter_notebook` `#artificial_intelligence` `#book` `#large_language_models` `#llm` `#llms` `#oreilly` `#oreilly_books`
+
+You can learn how to use Large Language Models (LLMs) effectively through the book *Hands-On Large Language Models* by Jay Alammar and Maarten Grootendorst. This book uses nearly 300 custom illustrations to explain key concepts and practical tools for working with LLMs, including tokenization, transformers, prompt engineering, fine-tuning, and advanced text generation. It also provides runnable code examples in Google Colab, making it easy to practice and apply what you learn. This resource helps you understand and build your own LLM applications confidently, saving you time and effort in mastering complex AI technology. It’s highly recommended for anyone wanting hands-on experience with LLMs.
+
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+
+- 🐙 **Source Code:** [https://github.com/HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- 👤 **Developer:** [HandsOnLLM](https://github.com/HandsOnLLM)
+
+
+---
+
+### 📦 Revanced Manager
+
+> **Categories:** `#dart` `#android` `#flutter` `#flutter_apps` `#manager` `#modding` `#patching` `#revanced` `#Interesting` `#YouTube`
+
+ReVanced Manager is an app for Android that lets you customize and patch other apps, like YouTube, to remove ads and add features without needing subscriptions. It is easy to use, works on both rooted and non-rooted devices, and offers many options to tailor apps to your liking. You download the official app, then apply patches you want, creating a personalized, ad-free experience. This saves you money and improves app use while staying legal and supported by an active community. It is lightweight, regularly updated, and has a simple interface, making app customization safe and convenient[1][3][5].
+
+https://github.com/ReVanced/revanced-manager
+
+- 🐙 **Source Code:** [https://github.com/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
+- 👤 **Developer:** [ReVanced](https://github.com/ReVanced)
+
+
+---
+
+### 📦 Thingino Firmware
+
+> **Categories:** `#shell` `#buildroot_external_tree` `#firmware` `#ingenic` `#ip_camera` `#ipc` `#ipcamera`
+
+Thingino is free, open-source firmware designed specifically for IP cameras using Ingenic SoC chips. It customizes the software to fit each supported camera model, making the camera easier to use and more efficient. You can build the firmware yourself using the provided instructions and tools, and there is a helpful web interface to control camera features like pan, tilt, night mode, and streaming. This gives you more control and flexibility over your camera without relying on proprietary software. It supports many camera models, and the community offers resources like a wiki, chat groups, and development guides to help you get started and customize your device. This benefits you by providing a customizable, transparent, and community-supported alternative to closed camera firmware.
+
+https://github.com/themactep/thingino-firmware
+
+- 🐙 **Source Code:** [https://github.com/themactep/thingino-firmware](https://github.com/themactep/thingino-firmware)
+- 👤 **Developer:** [themactep](https://github.com/themactep)
+
+
+---
+
+### 📦 Lamda
+
+> **Categories:** `#python` `#adb` `#agents` `#ai` `#android` `#appium` `#automation` `#dynamic_analysis` `#frida` `#magisk` `#mcp` `#mcp_server` `#mobile_security` `#pentesting` `#remote_control` `#reverse_engineering` `#security` `#uiautomation` `#uiautomator2` `#workflow` `#xposed` `#GitHub` `#OpenSource`
+
+FIRERPA is a powerful Android automation tool that runs on-device with root access, works on versions 6.0 to 16, and offers low-latency remote desktop, 160+ APIs, Python SDK, and AI integration for tasks like testing, data collection, and forensics. It needs no extra setup, stays stable for large-scale use, and beats other tools in compatibility. You benefit by automating mobile tasks quickly, saving time on development and monitoring, with easy visual control for reliable results.
+
+https://github.com/firerpa/lamda
+
+- 🐙 **Source Code:** [https://github.com/firerpa/lamda](https://github.com/firerpa/lamda)
+- 👤 **Developer:** [firerpa](https://github.com/firerpa)
+
+
+---
+
+### 📦 Actions Friendlywrt
+
+> **Categories:** `#shell`
+
+FriendlyWrt firmware uses GitHub Actions for easy building and download from releases. Login as root with password "password" at IP 192.168.2.1. Same file works for SD card or eMMC: flash to SD first, boot, go to System > eMMC Tools in web menu, upload file to install—no unzip needed; device auto-reboots from eMMC. Latest updates (to 2025) add devices like NanoPi-R76S/M5, fix fans/WiFi, upgrade OpenWrt to 24.10.4 and kernels. This gives you stable, customizable router OS fast, saving compile time and boosting performance.
+
+https://github.com/friendlyarm/Actions-FriendlyWrt
+
+- 🐙 **Source Code:** [https://github.com/friendlyarm/Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt)
+- 👤 **Developer:** [friendlyarm](https://github.com/friendlyarm)
+
+
+---
+
+### 📦 Gitnexus
+
+> **Categories:** `#typescript` `#GitHub` `#OpenSource`
+
+GitNexus indexes your codebase into a knowledge graph tracking dependencies, call chains, clusters, and flows, then connects AI agents like Cursor and Claude Code via CLI tools for reliable analysis. Run `npx gitnexus analyze` from your repo root to start—it auto-generates context files and MCP setup. Use tools like `impact` for change risks or `rename` for safe refactors. This boosts your productivity by preventing AI blind edits, cutting debugging time, and enabling smaller models to grasp full architecture fast.
+
+https://github.com/abhigyanpatwari/GitNexus
+
+- 🐙 **Source Code:** [https://github.com/abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- 👤 **Developer:** [abhigyanpatwari](https://github.com/abhigyanpatwari)
+
+
+---
+
+### 📦 Awesome Shizuku
+
+> **Categories:** `#python` `#adb` `#android` `#android_mods` `#no_root` `#rootless` `#shizuku` `#GitHub` `#OpenSource`
+
+Shizuku lets normal apps use powerful system features on non-rooted Android devices via ADB, with this curated list showcasing apps for automation (like Tasker), file management (MiXplorer), customization (DarQ), privacy, audio tweaks, and more across categories like AI agents and gaming. It helps you unlock advanced controls, boost productivity, enhance privacy, and customize your phone without rooting, saving time and extending device capabilities safely.
+
+https://github.com/timschneeb/awesome-shizuku
+
+- 🐙 **Source Code:** [https://github.com/timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
+- 👤 **Developer:** [timschneeb](https://github.com/timschneeb)
+
+
+---
+
+### 📦 [**DockerAndroid**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - A guide explaining how to run Docker on Android.
+
+> **Categories:** `#Interesting` `#Docker` `#Android` `#Guide`
+
+To do this, you need to root your phone, compile the kernel, and compile the Docker package. Instructions are provided for each component, including patches, configuration, and setup.
+
+**⤷ **[**Link to project**](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)**
+**
+[GitHub](https://t.me/+rB2DxiwI4X5iYjcy) | #Interesting #Docker #Android #Guide
+
+- 🐙 **Source Code:** [https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
+
+
+---
+
+### 📦 Termux Udocker
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+No root access, no qemu-VM, much faster.
+
+🐱** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi)
+
+- 🐙 **Source Code:** [https://github.com/George-Seven/Termux-Udocker](https://github.com/George-Seven/Termux-Udocker)
+- 👤 **Developer:** [George-Seven](https://github.com/George-Seven)
+
+
+---
+
+### 📦 Brutdroid
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It's designed to make penetration testing for Android easier, and automates emulator creation, rooting, Frida server setup, and Burp Suite certificate installation.
+
+With a vibrant new user interface and support for custom scripts, Frida BrutDroid allows security researchers to focus on testing rather than tuning.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Brut-Security/BrutDroid](https://github.com/Brut-Security/BrutDroid)
+- 👤 **Developer:** [Brut-Security](https://github.com/Brut-Security)
+
+
+---
+
+### 📦 Elementcopy
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Features:**
+**1. Elementor detection**
+Automatically detect pages built with Elementor based on DOM markers, CSS classes, scripts, style sheets, and meta tags
+Counting all Elementor root containers, sections, columns, widgets and internal sections
+**2. Full structure extraction**
+Extracting **sections**, **columns**, **containers (**e-con**)** and **widgets** with their hierarchy
+Determining Elementor template types (header, footer, etc.) by data-elementor-type attributes
+Restore responsive settings, custom CSS classes and background images
+**3. Widget Intelligence**
+Recognizes **over 30 types of Elementor widgets** with type-specific settings retrieved:
+heading, text-editor, image, button, video, spacer, divider, icon-list, tabs, accordion, toggle, google_maps, alert, counter, progress, testimonial, shortcode, icon-box, social-icons, and much more
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Hordekiller/ElementCopy](https://github.com/Hordekiller/ElementCopy)
+- 👤 **Developer:** [Hordekiller](https://github.com/Hordekiller)
+
+
+---
+
+### 📦 Generating a random list of words for a brute attack
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Lazybee is a Python script that you can use to generate a random list of words for brute force attacks. This tool has unique features such as calculating the creation time of the wordlist and saving the .txt directly to the current directory. This tool works on both rooted Android device and non-rooted Android device.
+
+Installation
+
+$ apt-get update -y
+$ apt-get upgrade -y
+$ pkg install python -y
+$ pkg install python2 -y
+$ pkg install git -y
+$ pip install lolcat
+$ git clone https://github.com/noob-hackers/lazybee
+$ cd $ HOME
+$ ls
+$ cd lazybee
+$ ls
+
+Running
+
+$ python2 lazybee.py
+
+Brute force in the hut ✌️
+
+- 🐙 **Source Code:** [https://github.com/noob-hackers/lazybee](https://github.com/noob-hackers/lazybee)
+- 👤 **Developer:** [noob-hackers](https://github.com/noob-hackers)
+
+
+---
+
+### 📦 [
+
+> **Categories:** `#Selection` `#Linux` `#OSINT` `#Cobalt_Strike` `#Pentest` `#Android` `#Anonymity` `#Book` `#Course`
+
+](https://telegra.ph/file/bb790668d1bd51465d01a.jpg)**​🔖 A selection of useful information and resources. P**`art 6
+
+🖖🏻 Hello user_name.
+
+💬 H`__ere is the 6th part of the collections of useful material, thanks to this information you can upgrade your skill in the category you need and get unique knowledge - for free.
+__
+
+[• Start](https://t.me/Social_engineering/1093)ing [with a ](https://t.me/Social_engineering/1168)huge [collect](https://t.me/Social_engineering/1190)ion o[f OSINT](https://t.me/Social_engineering/1233) reso[urces. ](https://t.me/Social_engineering/1280)Tools, news, blogs, learning material, podcasts, videos, playlists, forums, CTFs, streams, etc.
+
+https://start.me/p/DPYPMz/the-ultimate-osint-collection
+
+• Useful material on penetration testing.
+
+https://github.com/enaqx/awesome-pentest
+
+https://github.com/Muhammd/Awesome-Pentest
+
+https://github.com/oneplus-x/Awesome-Pentest
+
+https://github.com/wtsxDev/Penetration-Testing
+
+https://github.com/anubi5egypt/awesome-web-pentest
+
+https://github.com/Nieuport/Awesome-Penetration-Testing
+
+https://github.com/majidkalantarii/AwesomePenetrationTest
+
+• Red Teaming for beginners and pros. A lot of useful material for every taste.
+
+https://github.com/tcostam/awesome-command-control
+https://github.com/marcosValle/awesome-windows-red-team
+
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+
+https://github.com/r3p3r/yeyintminthuhtut-Awesome-Red-Teaming
+
+https://github.com/mishmashclone/yeyintminthuhtut-Awesome-Red-Teaming
+
+• Selection of rootkits, with a different set of functions. From hidden SSH to a full-fledged keylogger with a built-in IRC bot.
+
+https://github.com/milabs/awesome-linux-rootkits
+
+• Reverse Engineering: books, courses, practice and more.
+
+https://github.com/wtsxDev/reverse-engineering
+
+• A selection of materials on the fight against Cobalt Strike.
+
+https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+
+• A selection of vulnerable VMs and applications. Includes: Online platforms, Docker, SSO systems, Paid, Android.
+
+https://github.com/vavkamil/awesome-vulnerable-apps/
+
+• Useful material on the subject of Active Directory security testing.
+
+https://github.com/balaasif6789/AD-Pentesting
+
+• i2p and TOR. Software for Android and iOS, books, articles, server protection tools, presentations, distributions and much more.
+
+https://github.com/mikalv/awesome-i2p
+https://github.com/ajvb/awesome-tor
+
+‼️ The list does not claim to be complete,  we will supplement this collection with new material. Share with friends and save to favorites so as not to lose. You can find other useful information by hashtags in our group #Selection #Linux #OSINT #Cobalt_Strike #Pentest #Android # #Anonymity #Book #Course #Pentest. Your S.E.‌‌
+
+This info is only shared in
+t.me/githubx
+
+- 🐙 **Source Code:** [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- 🌐 **Official Website:** [https://github.com/anubi5egypt/awesome-web-pentest](https://github.com/anubi5egypt/awesome-web-pentest)
+- 👤 **Developer:** [enaqx](https://github.com/wtsxDev/Penetration-Testing)
+
+
+---
+
+### 📦 [New] Smtps Checker With Email testing ! Very fast
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Download link : https://github.com/Rootinabox/Smtps-Checker
+
+- 🐙 **Source Code:** [https://github.com/Rootinabox/Smtps-Checker](https://github.com/Rootinabox/Smtps-Checker)
+- 👤 **Developer:** [Rootinabox](https://github.com/Rootinabox)
+
+
+---
+
+### 📦 Proxylist
+
+> **Categories:** `#Free`
+
+****https://github.com/fate0/proxylist****
+****https://github.com/ShiftyTR/Proxy-List****
+****https://github.com/rdavydov/proxy-list****
+****https://github.com/mmpx12/proxy-list****
+****https://github.com/IshanSingla/proxy-list****
+****https://github.com/monosans/proxy-list****
+****https://github.com/S767/proxycheck****
+****https://github.com/UptimerBot/proxy-list****
+****https://github.com/TheSpeedX/PROXY-List****
+****https://github.com/aswin-m-p/proxy-list****
+****https://github.com/reny311/proxy****
+****https://github.com/Volodichev/proxy-list****
+****https://github.com/RX4096/proxy-list****
+****https://github.com/manuGMG/proxy-365****
+****https://github.com/HyperBeats/proxy-list****
+****https://github.com/Koshsky/proxy-getter****
+****https://github.com/mertguvencli/http-proxy-list****
+****https://github.com/roosterkid/openproxylist****
+****https://github.com/hookzof/socks5_list****
+****https://github.com/ObcbO/getproxy****
+****https://github.com/jetkai/proxy-list****
+****https://github.com/yuewei5215/Proxies-1****
+****https://github.com/clarketm/proxy-list****
+****https://github.com/sunny9577/proxy-scraper****
+****https://github.com/stamparm/fetch-some-proxies****
+****https://github.com/almroot/proxylist****
+****https://github.com/takelley1/proxy-servers****
+****https://github.com/ph4ntonn/Stowaway****
+****https://github.com/proxyips/proxylist****
+****https://github.com/vaitan/proxy-list****
+****https://github.com/h4mid007/free-proxy-list**
+
+- 🐙 **Source Code:** [https://github.com/fate0/proxylist****](https://github.com/fate0/proxylist****)
+- 👤 **Developer:** [fate0](https://github.com/fate0)
+
+
+---
+
+### 📦 Kdrill: Python tool to check rootkits in Windows kernel.
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+https://github.com/ExaTrack/Kdrill
+
+- 🐙 **Source Code:** [https://github.com/ExaTrack/Kdrill](https://github.com/ExaTrack/Kdrill)
+- 👤 **Developer:** [ExaTrack](https://github.com/ExaTrack)
 
 
 ---

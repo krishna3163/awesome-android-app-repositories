@@ -261,15 +261,6 @@
     "received_at": "2026-08-23T04:47:28.846208+00:00"
   },
   {
-    "raw_title": "Screenshot of ytdlnis",
-    "normalized_title": "ytdlnis",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 89,
-    "received_at": "2026-08-23T04:47:28.861832+00:00"
-  },
-  {
     "raw_title": "Screenshots & Features",
     "normalized_title": "",
     "features": [
@@ -1409,17 +1400,6 @@
     "received_at": "2026-08-23T04:47:41.168859+00:00"
   },
   {
-    "raw_title": "screenshots of Auxio",
-    "normalized_title": "auxio",
-    "features": [],
-    "image_paths": [
-      "assets/apps/auxio/cover.jpg"
-    ],
-    "channel": "popCLOUDS",
-    "message_id": 382,
-    "received_at": "2026-08-23T04:47:41.486981+00:00"
-  },
-  {
     "raw_title": "screenshots of foldersync",
     "normalized_title": "foldersync",
     "features": [],
@@ -1538,15 +1518,6 @@
     "channel": "popCLOUDS",
     "message_id": 447,
     "received_at": "2026-08-23T04:47:43.002750+00:00"
-  },
-  {
-    "raw_title": "Material Design",
-    "normalized_title": "materialdesign",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 448,
-    "received_at": "2026-08-23T04:47:43.018405+00:00"
   },
   {
     "raw_title": "Screenshots of **Tusky**",
@@ -2075,17 +2046,6 @@
     "channel": "popCLOUDS",
     "message_id": 551,
     "received_at": "2026-08-23T04:47:45.452201+00:00"
-  },
-  {
-    "raw_title": "syncthing screenshots",
-    "normalized_title": "syncthing",
-    "features": [],
-    "image_paths": [
-      "assets/apps/syncthing/cover.jpg"
-    ],
-    "channel": "popCLOUDS",
-    "message_id": 564,
-    "received_at": "2026-08-23T04:47:46.492327+00:00"
   },
   {
     "raw_title": "Oto Music screenshots",
@@ -2663,32 +2623,6 @@
     "received_at": "2026-08-23T04:47:50.096335+00:00"
   },
   {
-    "raw_title": "Usage of **Smart Dock**",
-    "normalized_title": "smartdock",
-    "features": [
-      {
-        "title": "*Hiding Android navigation buttons",
-        "description": "**"
-      },
-      {
-        "title": "*With root",
-        "description": "**"
-      },
-      {
-        "title": "*Without root**",
-        "description": ""
-      },
-      {
-        "title": "*With LSPosed (might help on Android 11+)",
-        "description": "**"
-      }
-    ],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 773,
-    "received_at": "2026-08-23T04:47:50.112370+00:00"
-  },
-  {
     "raw_title": "Screenshots of SignalYou",
     "normalized_title": "signalyou",
     "features": [],
@@ -2916,15 +2850,6 @@
     "channel": "popCLOUDS",
     "message_id": 885,
     "received_at": "2026-08-23T04:47:50.956146+00:00"
-  },
-  {
-    "raw_title": "Screenshots of **URLCheck**",
-    "normalized_title": "urlcheck",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 888,
-    "received_at": "2026-08-23T04:47:50.971792+00:00"
   },
   {
     "raw_title": "More about **WatchWorthy**",
@@ -8332,15 +8257,6 @@
     "received_at": "2026-08-23T04:48:03.697354+00:00"
   },
   {
-    "raw_title": "**Screenshots of Xplorer**",
-    "normalized_title": "xplorer",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 3341,
-    "received_at": "2026-08-23T04:48:03.712861+00:00"
-  },
-  {
     "raw_title": "How to use and screenshot of **Léon**",
     "normalized_title": "howtouseandleon",
     "features": [],
@@ -8384,15 +8300,6 @@
     "channel": "popCLOUDS",
     "message_id": 3364,
     "received_at": "2026-08-23T04:48:04.351287+00:00"
-  },
-  {
-    "raw_title": "Screenshots of **Web Archives**",
-    "normalized_title": "webarchives",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 3365,
-    "received_at": "2026-08-23T04:48:04.366865+00:00"
   },
   {
     "raw_title": "Screenshots of hyperpipe",
@@ -8474,65 +8381,6 @@
     "channel": "popCLOUDS",
     "message_id": 3524,
     "received_at": "2026-08-23T04:48:04.528572+00:00"
-  },
-  {
-    "raw_title": "Screenshots of **Hypatia**",
-    "normalized_title": "hypatia",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 3546,
-    "received_at": "2026-08-23T04:48:04.549955+00:00"
-  },
-  {
-    "raw_title": "Features of **Hypatia**",
-    "normalized_title": "hypatia",
-    "features": [
-      {
-        "title": "Near zero battery impact",
-        "description": "you'll never notice any impact on battery at all"
-      },
-      {
-        "title": "Extremely fast",
-        "description": "it can scan small files (1MB) in 20ms, and even large files (40MB) in 1000ms."
-      },
-      {
-        "title": "Memory efficient",
-        "description": "with the default databases enabled it uses under 120MB."
-      },
-      {
-        "title": "Regular scan",
-        "description": "allowing selection of /system, internal storage, external storage, and installed apps"
-      },
-      {
-        "title": "Realtime scanner",
-        "description": "can detect malware in realtime on write/rename in internal storage"
-      },
-      {
-        "title": "Completely offline",
-        "description": "Internet is only used to download signature databases, files will never ever leave your device"
-      },
-      {
-        "title": "Persistence",
-        "description": "will automatically restart on boot/update"
-      },
-      {
-        "title": "Tiny codebase",
-        "description": "coming in at under 1000 sloc, it can be audited by even someone with basic programming experience"
-      },
-      {
-        "title": "Minimal dependencies",
-        "description": "the app only uses libraries when necessary"
-      },
-      {
-        "title": "Signature databases can be enabled/disabled at the users demand",
-        "description": ""
-      }
-    ],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 3550,
-    "received_at": "2026-08-23T04:48:04.565624+00:00"
   },
   {
     "raw_title": "Screenshots of **CalcYou**",
@@ -8963,17 +8811,6 @@
     "received_at": "2026-08-23T04:48:07.753768+00:00"
   },
   {
-    "raw_title": "**Waterfox**",
-    "normalized_title": "waterfox",
-    "features": [],
-    "image_paths": [
-      "assets/apps/waterfox/cover.jpg"
-    ],
-    "channel": "popCLOUDS",
-    "message_id": 3929,
-    "received_at": "2026-08-23T04:48:08.073126+00:00"
-  },
-  {
     "raw_title": "**IceRaven:**",
     "normalized_title": "iceraven",
     "features": [],
@@ -9371,15 +9208,6 @@
     "channel": "popCLOUDS",
     "message_id": 4379,
     "received_at": "2026-08-23T04:48:10.718514+00:00"
-  },
-  {
-    "raw_title": "Screenshots of **Cinny**:",
-    "normalized_title": "cinny",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 4393,
-    "received_at": "2026-08-23T04:48:10.736567+00:00"
   },
   {
     "raw_title": "- **Flexible schedules.** The app supports daily, weekly, monthly, and alternate-day schedules. You're free to choose specific days or inform the app how many times you wish to complete the task within a period.",
@@ -12210,15 +12038,6 @@
     "channel": "popCLOUDS",
     "message_id": 5720,
     "received_at": "2026-08-23T04:48:25.015995+00:00"
-  },
-  {
-    "raw_title": "**Youtube Extension**",
-    "normalized_title": "youtubeextension",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 5721,
-    "received_at": "2026-08-23T04:48:25.031697+00:00"
   },
   {
     "raw_title": "Features of **Echo Music**:",
@@ -15082,15 +14901,6 @@
     "received_at": "2026-08-23T04:48:36.915429+00:00"
   },
   {
-    "raw_title": "Screenshots of **Tabby**",
-    "normalized_title": "tabby",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 7260,
-    "received_at": "2026-08-23T04:48:37.318643+00:00"
-  },
-  {
     "raw_title": "Screenshots Of **Metrolist**",
     "normalized_title": "metrolist",
     "features": [],
@@ -15850,17 +15660,6 @@
     "channel": "popCLOUDS",
     "message_id": 7489,
     "received_at": "2026-08-23T04:48:39.247365+00:00"
-  },
-  {
-    "raw_title": "Screenshots of **Eliza**",
-    "normalized_title": "eliza",
-    "features": [],
-    "image_paths": [
-      "assets/apps/eliza/cover.jpg"
-    ],
-    "channel": "popCLOUDS",
-    "message_id": 7491,
-    "received_at": "2026-08-23T04:48:39.636748+00:00"
   },
   {
     "raw_title": "Screenshots of __FFUpdater__",
@@ -17482,15 +17281,6 @@
     "received_at": "2026-08-23T04:48:46.873102+00:00"
   },
   {
-    "raw_title": "Features of **Camoufox**:",
-    "normalized_title": "camoufox",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 8271,
-    "received_at": "2026-08-23T04:48:46.889038+00:00"
-  },
-  {
     "raw_title": "Screenshots of **Nugget Video Editor**:",
     "normalized_title": "nuggetvideoeditor",
     "features": [],
@@ -17751,15 +17541,6 @@
     "channel": "popCLOUDS",
     "message_id": 8366,
     "received_at": "2026-08-23T04:48:48.510342+00:00"
-  },
-  {
-    "raw_title": "Screenshots of **UniGetUI**",
-    "normalized_title": "unigetui",
-    "features": [],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 8382,
-    "received_at": "2026-08-23T04:48:49.257273+00:00"
   },
   {
     "raw_title": "Download options for **traced it**:",
@@ -18775,51 +18556,6 @@
     "channel": "popCLOUDS",
     "message_id": 8716,
     "received_at": "2026-08-23T04:48:54.643886+00:00"
-  },
-  {
-    "raw_title": "Screenshots of CryptPad",
-    "normalized_title": "cryptpad",
-    "features": [],
-    "image_paths": [
-      "assets/apps/cryptpad/cover.jpg"
-    ],
-    "channel": "popCLOUDS",
-    "message_id": 8731,
-    "received_at": "2026-08-23T04:48:55.232455+00:00"
-  },
-  {
-    "raw_title": "Features of CryptPad",
-    "normalized_title": "cryptpad",
-    "features": [
-      {
-        "title": "End-to-End Encryption",
-        "description": "All data is encrypted before it reaches the server, ensuring zero-knowledge privacy."
-      },
-      {
-        "title": "Real-Time Collaboration",
-        "description": "Work with multiple users on documents, spreadsheets, whiteboards, and more in real-time."
-      },
-      {
-        "title": "No Account Required",
-        "description": "You can use CryptPad anonymously without creating an account."
-      },
-      {
-        "title": "Multiple Office Tools in One",
-        "description": "Supports various file types and tools:"
-      },
-      {
-        "title": "Collaborative Editing with Permissions",
-        "description": "Invite others to view or edit your documents securely."
-      },
-      {
-        "title": "File Storage & Sharing",
-        "description": "Securely store and share files without third-party access"
-      }
-    ],
-    "image_paths": [],
-    "channel": "popCLOUDS",
-    "message_id": 8733,
-    "received_at": "2026-08-23T04:48:55.249014+00:00"
   },
   {
     "raw_title": "Download links for **Flying Carpet**",
@@ -19905,17 +19641,6 @@
     "channel": "popCLOUDS",
     "message_id": 9102,
     "received_at": "2026-08-23T04:49:00.313971+00:00"
-  },
-  {
-    "raw_title": "Vanilla",
-    "normalized_title": "vanilla",
-    "features": [],
-    "image_paths": [
-      "assets/apps/vanilla/cover.jpg"
-    ],
-    "channel": "popCLOUDS",
-    "message_id": 9107,
-    "received_at": "2026-08-23T04:49:00.682276+00:00"
   },
   {
     "raw_title": "With mod",
