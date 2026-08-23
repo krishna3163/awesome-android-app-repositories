@@ -106,11 +106,9 @@ def parse_main_project(
     if not posted_at:
         posted_at = datetime.now(UTC).isoformat()
 
-    # Filter out casual chat/poll messages that have no links, tags, or substantive description
-    has_links = bool(links.website or links.source_code or links.features_url)
-    has_tags = bool(tags)
-    if not has_links and not has_tags and len(description) < 40:
-        raise ParseError("Message does not contain project links, tags, or substantive description")
+    # Filter out casual chat, polls, and news posts that have no repository or website link
+    if not links.source_code and not links.website:
+        raise ParseError("Message does not contain repository or website link")
 
     return ParsedProject(
         name=name,

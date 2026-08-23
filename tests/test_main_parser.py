@@ -55,10 +55,10 @@ def test_parse_empty_text_raises():
 
 
 def test_parse_minimal_project():
-    text = "Cool Tool\n\nThis is a minimal utility project description for Android.\n\n#Tool"
+    text = "Cool Tool\n\nThis is a minimal utility project description for Android.\n\nWebsite: https://cooltool.dev\n\n#Tool"
     parsed = parse_main_project(text=text)
     assert parsed.name == "Cool Tool"
     assert "minimal utility project" in parsed.description
     assert parsed.tags == ["Tool"]
+    assert parsed.website == "https://cooltool.dev"
     assert parsed.source_code == ""
-    assert parsed.website == ""

@@ -29,7 +29,7 @@ async def fetch_new_messages(
     client: TelegramClient,
     channel_username: str,
     last_processed_id: int = 0,
-    limit: int = 100,
+    limit: int | None = None,
 ) -> ChannelMessages:
     """Fetch new messages from a Telegram channel.
 
