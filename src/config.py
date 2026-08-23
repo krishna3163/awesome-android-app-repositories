@@ -5,7 +5,7 @@ from __future__ import annotations
 from datetime import UTC, datetime
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 from pydantic_settings import BaseSettings
 
 # ---------------------------------------------------------------------------
@@ -37,9 +37,29 @@ class Settings(BaseSettings):
     review_threshold_low: int = 75
 
     # Validation
-    min_description_length: int = 20
-
     model_config = {"env_file": ".env", "env_file_encoding": "utf-8", "extra": "ignore"}
+
+    @field_validator("telegram_session_string", mode="before")
+    @classmethod
+    def clean_session_string(cls, v: object) -> str:
+        if not v:
+            return ""
+        return str(v).strip().strip("'\"").replace("\r", "").replace("\n", "").replace(" ", "")
+
+    @field_validator("telegram_api_hash", mode="before")
+    @classmethod
+    def clean_api_hash(cls, v: object) -> str:
+        if not v:
+            return ""
+        return str(v).strip().strip("'\"").replace("\r", "").replace("\n", "").replace(" ", "")
+
+    @field_validator("telegram_api_id", mode="before")
+    @classmethod
+    def clean_api_id(cls, v: object) -> int:
+        if not v:
+            return 0
+        cleaned = str(v).strip().strip("'\"").replace("\r", "").replace("\n", "").replace(" ", "")
+        return int(cleaned) if cleaned.isdigit() else 0
 
     @property
     def channels(self) -> list[ChannelConfig]:

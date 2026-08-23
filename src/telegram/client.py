@@ -31,9 +31,11 @@ class TelegramClient:
         api_hash: str,
         session_string: str = "",
     ) -> None:
-        self._api_id = api_id
-        self._api_hash = api_hash
-        self._session_string = session_string
+        self._api_id = int(str(api_id).strip()) if api_id else 0
+        self._api_hash = str(api_hash).strip().strip("'\"")
+        # Sanitize session string: remove whitespace, newlines, quotes that might come from CI secrets
+        cleaned = str(session_string).strip().strip("'\"").replace("\r", "").replace("\n", "").replace(" ", "")
+        self._session_string = cleaned
         self._client: _TelegramClient | None = None
 
     @property
