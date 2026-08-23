@@ -12,7 +12,7 @@
 
 **Explore new open-source projects, tools, websites, developer libraries, and Android utilities — automatically tracked and updated.**
 
-[📊 Overview](#-catalog-overview) • [📁 Browse Categories](#-browse-by-platform--category) • [🆕 Latest Discoveries](#-latest-discovered-projects-top-30) • [📚 Complete A–Z Index](docs/all-apps.md) • [🤝 Contributing](#-contributing--suggesting-projects) • [🙌 Acknowledgments](#-acknowledgments--telegram-channels) • [⚖️ Disclaimer](#️-disclaimer)
+[📊 Overview](#-catalog-overview) • [🔥 Trending Repos](#-trending--fast-rising-repositories) • [📁 Browse Categories](#-browse-by-platform--category) • [🆕 Latest Discoveries](#-latest-discovered-projects-top-25) • [📚 Complete A–Z Index](docs/all-apps.md) • [🤝 Contributing](#-contributing--suggesting-projects) • [🙌 Acknowledgments](#-acknowledgments--telegram-channels) • [⚖️ Disclaimer](#️-disclaimer)
 
 </div>
 
@@ -38,7 +38,232 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `1647`
 - 🏷️ **Unique Categories / Tags:** `730`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 05:21 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 05:32 UTC`
+
+---
+
+## 🔥 Trending & Fast-Rising Repositories
+
+> 🌟 **Curated Top List:** Outstanding open-source repositories and applications rapidly gaining community momentum:
+
+### 📦 Logline
+
+> **Categories:** `#Android` `#Streaming` `#Tools`
+
+An open-source Android app that provides a seamless movie browsing experience with an emphasis on user privacy and transparency. The app offers core functionality to discover, organize, and rate movies while ensuring that user data remains under their control.
+
+🔗Links
+- [Download](https://t.me/popCLOUDS/8288)
+- [Features](https://t.me/popCLOUDS/8277)
+- [Screenshots](https://t.me/popCLOUDS/8278)
+- [Source code](https://github.com/Patch4Code/Logline)
+
+- 🐙 **Source Code:** [https://github.com/Patch4Code/Logline](https://github.com/Patch4Code/Logline)
+- 👤 **Developer:** Patch4Code
+
+<details>
+<summary><b>✨ Key Features (10)</b> — <i>Click to expand</i></summary>
+
+- **Discover new Movies** — Explore popular, top-rated, and upcoming movies. Use advanced filters to find exactly what you're looking for, from genres to release years and more.
+- **Search Functionality** — Find your favorite movies quickly.
+- **Detailed Movie Information** — Access details about movies (including cast, release information and more).
+- **Watchlist** — Organize your movies by adding them to a personal watchlist.
+- **Rate Movies** — Privately rate movies you’ve watched.
+- **Activity Tracking** — Keep a personal log of your watched movies.
+- **Write Personal Reviews** — Write down your personal thoughts and impressions about movies.
+- **Custom Lists** — Create and manage general lists of movies.
+- **Export/Import Data** — Securely back up your data or transfer it to a new device.
+- **Privacy First** — Local data storage ensures full control of your personal information.
+
+</details>
+
+<details>
+<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
+
+#### 📸 Cover / Preview
+<p align="center"><img src="assets/apps/logline/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
+
+</details>
+
+
+---
+
+### 📦 LLPlayer
+
+> **Categories:** `#Windows` `#Desktop` `#Utilities` `#AI`
+
+A video player focused on subtitle-related features such as dual subtitles, AI-generated subtitles, real-time OCR, real-time translation, word lookup, and more!
+
+🔗Links
+- [Official Site](https://llplayer.com/)
+- [Download](https://github.com/umlx5h/LLPlayer/releases)
+- [Features](https://t.me/popCLOUDS/8266)
+- [Screenshot](https://t.me/popCLOUDS/8267)
+- [Live Preview](https://t.me/popCLOUDS/8268)
+- [Source code](https://github.com/umlx5h/LLPlayer)
+
+- 🐙 **Source Code:** [https://github.com/umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+- 🌐 **Official Website:** [https://llplayer.com/](https://llplayer.com/)
+- 👤 **Developer:** [umlx5h](https://github.com/umlx5h)
+
+<details>
+<summary><b>✨ Key Features (14)</b> — <i>Click to expand</i></summary>
+
+- **Dual Subtitles** — Two subtitles can be displayed simultaneously. Both text subtitles and bitmap subtitles are supported.
+- **AI-generated subtitles (ASR)** — Real-time automatic subtitle generation from any video and audio, powered by OpenAI Whisper. 100 languages are suported!
+- **Real-time Translation** — Supports Google and DeepL API, 134 languages are currently supported!
+- **Real-time OCR subtitles** — Can convert bitmap subtitles to text subtitles in real time, powered by Tesseract OCR and Microsoft OCR.
+- **Subtitles Sidebar** — Both text and bitmap are supported. Seek and word lookup available. Has anti-spoiler functionality.
+- **Instant word lookup** — Word lookup and browser searches can be performed on subtitle text.
+- **Customizable Browser Search** — Browser searches can be performed from the context menu of a word, and the search site can be completely customized.
+- **Plays online videos** — With yt-dlp integration, any online video can be played back in real time, with AI subtitle generation, word lookups!
+- **Flexible Subtitles Size/Placement Settings** — The size and position of the dual subtitles can be adjusted very flexibly.
+- **Subtitles Seeking for any format** — Any subtitle format can be used for subtitle seek.
+- **Built-in Subtitles Downloader** — Supports opensubtitles.org
+- **Customizable Dark Theme** — The theme is based on black and can be customized.
+- **Fully Customizable Shortcuts** — All keyboard shortcuts are fully customizable. The same action can be assigned to multiple keys!
+- **Built-in Cheat Sheet** — You can find out how to use the application in the application itself.
+
+</details>
+
+<details>
+<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
+
+#### 📸 Cover / Preview
+<p align="center"><img src="assets/apps/llplayer/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
+
+</details>
+
+
+---
+
+### 📦 Overmorrow
+
+> **Categories:** `#Weather` `#Android` `#Minimalism` `#Privacy`
+
+Your minimalist, colorful weather companion with a clean, vibrant, and open-source weather experience. Get hyper-accurate forecasts, slick radar, air quality info, and even stunning network images that change based on your location and the weather. All that without sacrificing your privacy – no ads, no data collection, just pure weather goodness.
+
+- 🐙 **Source Code:** [https://github.com/bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow)
+- 👤 **Developer:** [Balint Maroti](https://github.com/bmaroti9)
+
+<details>
+<summary><b>✨ Key Features (12)</b> — <i>Click to expand</i></summary>
+
+- **Hyper-accurate forecasts** — Get precise weather predictions for up to 14 days, powered by open-meteo, met-norway, or weatherapi.com
+- **Stunning visuals** — Enjoy location and weather-adaptive network images and 5 customizable color themes
+- **Detailed radar** — Track past and future precipitation with a compact or full-screen radar view (2 hours past, 30 minutes future)
+- **Comprehensive air quality data** — Stay informed about AQI, PM2.5, PM10, O3, and NO2 levels
+- **Precise rain tracking** — Get 15-minute precision rain forecasts for the next 6 hours
+- **Sunrise/sunset times** — Know exactly when the sun rises and sets in your location
+- **3-day detailed forecast** — Dive deep into temperature, precipitation, wind, and UV index prediction
+- **14-day compact forecast** — Get a quick overview of the next two weeks, expandable for details
+- **Interactive rain charts** — Visualize daily rainfall patterns
+- **Multiple weather providers** — Choose your preferred source for the most accurate data
+- **Tablet mode** — Optimized for larger screens
+- **Two search providers** — Easily find your location
+
+</details>
+
+<details>
+<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
+
+#### 📸 Cover / Preview
+<p align="center"><img src="assets/apps/overmorrow/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
+
+</details>
+
+
+---
+
+### 📦 Omniget
+
+> **Categories:** `#Windows` `#Linux` `#Mac` `#DownloadManager` `#MediaDownloader` `#Study`
+
+OmniGet is an open-source, all-in-one desktop application for downloading, organizing, and studying online content. It combines a powerful media downloader with a built-in course player, PDF/EPUB reader, music library, and productivity tools—allowing you to learn, watch, read, and manage everything from a single, privacy-focused interface.
+
+- 🐙 **Source Code:** [https://github.com/tonhowtf/omniget](https://github.com/tonhowtf/omniget)
+- 👤 **Developer:** [tonhowtf](https://github.com/tonhowtf)
+
+<details>
+<summary><b>✨ Key Features (12)</b> — <i>Click to expand</i></summary>
+
+- **Universal Downloader** — Download videos, audio, courses, books, and files from 1,000+ supported websites.
+- **Course Downloader & Player** — Download and watch Udemy, Hotmart, Kiwify, Teachable, Kajabi, Thinkific, Skool, Wondrium, and more with resume support.
+- **Timestamped Notes** — Create notes linked to exact video timestamps for faster revision.
+- **Built-in PDF & EPUB Reader** — Read books with highlights, bookmarks, focus mode, and annotations.
+- **Music Library** — Organize and play local music with synced lyrics, equalizer, playlists, and streaming service integration.
+- **Torrent Support** — Download .torrent files and magnet links with native support.
+- **FFmpeg Converter** — Convert audio and video files directly within the app.
+- **Telegram Media Browser** — Browse chats and save photos, videos, and files from Telegram.
+- **Pomodoro Focus Timer** — Stay productive with an integrated focus timer and study tools.
+- **Knowledge Management** — Daily journal, bidirectional notes, knowledge graph, flashcards, and study progress tracking.
+- **Browser Extension & Global Hotkey** — Send links to OmniGet instantly from Chrome, Firefox, or your clipboard.
+- **Cross-Platform & Privacy-First** — Available on Windows, macOS, and Linux, with all downloads and data stored locally.
+
+</details>
+
+
+---
+
+### 📦 Solipsism
+
+> **Categories:** `#android` `#browser` `#Solipsism` `#touchniggers`
+
+Rail-first Android browser with Material 3 Expressive UI, privacy tools, Decoy Mode, QR scanning, and compact one-handed browsing
+
+- 🐙 **Source Code:** [https://github.com/Kenneth-Cho-InfoSec/Solipsism](https://github.com/Kenneth-Cho-InfoSec/Solipsism)
+- 👤 **Developer:** [Kenneth-Cho-InfoSec](https://github.com/Kenneth-Cho-InfoSec)
+
+<details>
+<summary><b>✨ Key Features (21)</b> — <i>Click to expand</i></summary>
+
+- ****Rail-first browsing**** — A left or right side rail keeps browser controls reachable without covering the web page.
+- ****Compact by design**** — Small, Medium, Large, and Super Compact rail sizes let the UI adapt to different hands, screens, and habits.
+- ****Material 3 Expressive direction**** — Rounded surfaces, motion, shadows, themed colors, and physical-feeling popup menus shape the app’s visual language.
+- ****Custom homepage**** — Wallpaper support, bookmark shortcuts, and a quiet Solipsism start page replace the generic blank tab feeling.
+- ****Privacy tools**** — Incognito browsing, ad blocking, cookie controls, WebRTC settings, clear-on-exit options, and Decoy Mode for history replacement.
+- ****Fast daily actions**** — QR scanning, find in page, add bookmark, downloads, install website as app, share, copy link, and history tools are designed for mobile use.
+- WebView browsing with tabs, tab overview, and animated tab switching from the URL rail.
+- Vertical URL rail with a horizontal full-URL editor when needed.
+- Built-in QR scanner with light and dark mode support.
+- Bookmark list and homepage bookmark shortcuts.
+- History page with Clear All History and Decoy Mode.
+- Download handling with a donation prompt section.
+- Install Website as App using Android pinned shortcuts.
+- File upload support through Android’s file picker.
+- Fullscreen video support with system bars and rail hidden during landscape fullscreen playback.
+- Material-style settings with grouped sections, search, appearance controls, privacy controls, and accessibility options.
+- Put the rail on the left or right.
+- Choose rail size, including Super Compact mode.
+- Match rail colors to Android system theming.
+- Use dark or light mode-sensitive UI.
+- Customize the homepage wallpaper or keep it blacked out.
+
+</details>
+
+
+---
+
+### 📦 Nanobrowser
+
+> **Categories:** `#AI` `#Browser` `#Extension`
+
+Nanobrowser is an open-source AI web automation tool that runs in your browser. A free alternative to OpenAI Operator with flexible LLM options and multi-agent system.
+
+- 🐙 **Source Code:** [https://github.com/nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
+
+<details>
+<summary><b>✨ Key Features (6)</b> — <i>Click to expand</i></summary>
+
+- ***Multi-agent System**** — Specialized AI agents collaborate to accomplish complex web workflows
+- ***Interactive Side Panel**** — Intuitive chat interface with real-time status updates
+- ***Task Automation**** — Seamlessly automate repetitive web automation tasks across websites
+- ***Follow-up Questions**** — Ask contextual follow-up questions about completed tasks
+- ***Conversation History**** — Easily access and manage your AI agent interaction history
+- ***Multiple LLM Support**** — Connect your preferred LLM providers and assign different models to different agents
+
+</details>
+
 
 ---
 
@@ -61,9 +286,9 @@ Explore our organized category directories to find the exact apps and tools you 
 
 ---
 
-## 🆕 Latest Discovered Projects (Top 30)
+## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **30 additions**. To browse all **1647 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **1647 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
 
 ### 📦 Croc
 
@@ -750,152 +975,6 @@ Spectre is an Android app for observing and interacting with the wireless envir
 
 
 ---
-
-### 📦 SmartIsland
-
-> **Categories:** `#Android` `#Customization` `#DynamicIsland`
-
-Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
-
-- 🐙 **Source Code:** [https://github.com/agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
-- 👤 **Developer:** [agupta07505](https://github.com/agupta07505)
-
-<details>
-<summary><b>✨ Key Features (20)</b> — <i>Click to expand</i></summary>
-
-- ****Floating Overlay**** — A compact animated pill rendered above other apps using Android's overlay APIs.
-- ****Notification Listener**** — Glanceable cards for any active notification, with rich media previews.
-- ****Smooth Animations**** — Morphs between collapsed and expanded states with buttery Compose transitions.
-- ****Multiple Notifications**** — Stacks active notifications and lets you swipe between them seamlessly.
-- ****Light & Dark Themes**** — Adapts to your system theme automatically, including the overlay.
-- ****Incoming Calls**** — Detects calls and surfaces them on the island.
-- ****Music & Media**** — Shows track title, artist, artwork, playback state, and progress.
-- ****Battery Charging**** — Live percentage, pulsing charge icon, and "time until full" estimates.
-- ****Quick Actions**** — Open, dismiss, or launch notification content right from the expanded island.
-- ****Position Controls**** — Adjust width, height, X/Y offset, and corner radius to the pixel.
-- ****Custom Colors**** — Pick your own indicator colors (e.g. battery charging hue).
-- ****App Shortcuts**** — Choose up to **8 apps** for one-tap access from the expanded island.
-- ****Recently Used Apps**** — Optionally auto-fill empty slots with your recent apps.
-- ****Demo Modes**** — One-tap buttons to test Notify, Call, Music, and Battery.
-- ****Gesture Guide**** — Animated walkthrough + interactive practice area for swipe gestures.
-- ****Local Settings**** — Persisted via AndroidX DataStore. **No internet permission requested** — your data never leaves the device.
-- ****Open Source & Hackable**** — Clean architecture, transparent code, easy to extend.
-- ****Overlay permission**** — Draw the pill above other apps.
-- ****Notification access**** — Surface incoming notification content.
-- ****System warning toggle**** — Optionally hide Android's "displaying over other apps" alert.
-
-</details>
-
-
----
-
-### 📦 Clashdrive
-
-> **Categories:** `#Website` `#Telegram` `#TGClient` `#Privacy` `#Storage` `#Tools` `#Utilitied`
-
-Clashdrive is an open-source Telegram-based cloud platform featuring parallel connections for downloading, uploading, and previewing every file format. It includes file indexing, search, and file sharing options, bypassing Telegram's speed and 2GB upload limits.
-
-- 🐙 **Source Code:** [https://github.com/ajisth69/Clashdrive](https://github.com/ajisth69/Clashdrive)
-- 🌐 **Official Website:** [https://t.me/popCLOUDS/13291?single](https://t.me/popCLOUDS/13291?single)
-- 👤 **Developer:** @letmesolo_her
-
-<details>
-<summary><b>🖼️ Preview Screenshots & Media (1)</b> — <i>Click to view images & decide if you want to use this app</i></summary>
-
-#### 📸 Cover / Preview
-<p align="center"><img src="assets/apps/clashdrive/cover.jpg" alt="Cover / Preview" style="max-height: 480px; max-width: 100%; border-radius: 8px; margin: 8px auto;" /></p>
-
-</details>
-
-
----
-
-### 📦 Axis
-
-> **Categories:** `#Linux` `#Windows` `#Tools`
-
-Axis is an open-source desktop application built with HTML, CSS, JavaScript, and Tauri that lets you compare, rank, and organize virtually anything. Games, movies, anime, phones, PC hardware, books, cars — if it can be rated, it can be ranked.
-
-- 🐙 **Source Code:** [https://github.com/PR0Gorib/Axis](https://github.com/PR0Gorib/Axis)
-- 👤 **Developer:** [Ramim Hasan](https://github.com/PR0Gorib)
-
-<details>
-<summary><b>✨ Key Features (16)</b> — <i>Click to expand</i></summary>
-
-- Custom ranking categories
-- Side-by-side comparison mode
-- Radar & bar chart visualizations
-- Dynamic rankings, podiums & score tiers
-- Advanced image manager (up to 5 images per item)
-- Automatic backups & restore manager
-- Bulk stat editing tools
-- Keyboard shortcuts
-- Centralized settings panel
-- Search, tags & advanced filtering
-- Category templates
-- Beautiful Share as Image exports
-- Favorites / pinned items
-- Dark & Light themes
-- Native desktop app via Tauri
-- Fully offline & privacy-friendly
-
-</details>
-
-
----
-
-### 📦 Arrow Escape
-
-> **Categories:** `#android` `#game`
-
-Arrow Escape is a grid-based puzzle game where players slide arrows out of the grid. Each level is procedurally generated and deterministic — the same level number always produces the same puzzle on every device. The game ships with 500 pre-generated levels across 7 difficulty tiers, with tutorial, Boss, and God level variants.
-
-- 🐙 **Source Code:** [https://github.com/gtxPrime/arrow-escape](https://github.com/gtxPrime/arrow-escape)
-- 👤 **Developer:** [gtxPrime](https://github.com/gtxPrime)
-
-<details>
-<summary><b>✨ Key Features (12)</b> — <i>Click to expand</i></summary>
-
-- **Slide Mechanics - Tap an arrow** — if its path to the edge is clear, it exits
-- 500 Levels Tutorial → Easy → Medium → Hard → Expert → Master → Legend
-- Deflector Dots Gold dots that redirect an arrow's exit direction
-- Color-Paired Arrows Two arrows of matching color must exit simultaneously
-- Long-Tap Preview Hold an arrow to preview its full exit path
-- Lives System 3 lives per level; star rating based on lives remaining
-- Timed Challenges Boss and God levels have countdown timers
-- Dev Mode Unlock all levels instantly (disabled in production via enableDevMode)
-- Daily Streaks Consecutive-play rewards
-- Pinch-to-Zoom Zoom in/out on large grids
-- Deadlock Detection Detects unsolvable states and offers restart
-- Dark / Light Mode Sage-green earthy palette with full theme support
-
-</details>
-
-
----
-
-### 📦 HoldSpace
-
-> **Categories:** `#Windows` `#Utilities`
-
-HoldSpace is a lightweight, zero-distraction shortcut launcher for Windows that stays completely invisible until you hold your activation key. Instantly launch apps, folders, or web links from a floating canvas, and let go to return to your work.
-
-- 🐙 **Source Code:** [https://github.com/anuroopkdas/HoldSpace](https://github.com/anuroopkdas/HoldSpace)
-- 👤 **Developer:** [anuroopkdas](https://github.com/anuroopkdas)
-
-<details>
-<summary><b>✨ Key Features (5)</b> — <i>Click to expand</i></summary>
-
-- **Hold-to-Reveal Interface** — Stays hidden to prevent visual clutter. Simply press and hold your designated trigger key to reveal your canvas, and release to launch.
-- **Custom Triggers** — Bind any key on your keyboard to instantly summon the launcher.
-- **Fast and Lightweight** — Runs quietly in the system tray with negligible memory and CPU usage.
-- **Universal Shortcuts** — Add folder paths, local applications, or website links to your canvas.
-- **Easy Backup** — Export your layout configuration to a single file and restore it on any device in one click.
-
-</details>
-
-
----
 <!-- AUTO-GENERATED-END -->
 
 ---
@@ -912,14 +991,20 @@ Found a great open-source Android app, tool, or website that should be featured?
 
 ## 🙌 Acknowledgments & Telegram Channels
 
-A huge thanks to the following Telegram channels for discovering, testing, and sharing amazing new open-source applications, tools, and updates daily:
+A huge thanks to the following Telegram channels and communities for discovering, testing, and sharing amazing new open-source repositories, applications, and developer tools daily:
 
-| Channel | Focus | Join Channel |
+| Channel | Focus & Content | Join Channel |
 |:---|:---|:---|
 | **@popMODS** | Main Open-Source Apps & Project Discoveries | [👉 **Join @popMODS**](https://t.me/popMODS) |
 | **@popCLOUDS** | Detailed Features, App Breakdowns & Screenshots | [👉 **Join @popCLOUDS**](https://t.me/popCLOUDS) |
+| **@github_repos** | Curated GitHub Repositories & Utilities | [👉 **Join @github_repos**](https://t.me/github_repos) |
+| **@github_repositories_bds** | Open-Source Projects & Developer Libraries | [👉 **Join @github_repositories_bds**](https://t.me/github_repositories_bds) |
+| **@GithubRe** | Trending Repositories & Open Source Tools | [👉 **Join @GithubRe**](https://t.me/GithubRe) |
+| **@githubtrending** | Fast-Growing & Trending GitHub Projects | [👉 **Join @githubtrending**](https://t.me/githubtrending) |
+| **@github** | Global GitHub Community Discoveries | [👉 **Join @github**](https://t.me/github) |
+| **@githubx** | GitHub Releases & Project Spotlights | [👉 **Join @githubx**](https://t.me/githubx) |
 
-> 💖 **Special Thanks:** All credit and appreciation goes to the creators, maintainers, and community members of **@popMODS** and **@popCLOUDS** for their continuous dedication to providing quality app recommendations daily!
+> 💖 **Special Thanks:** All credit and appreciation goes to the creators, maintainers, and active community members of these Telegram channels for their continuous dedication to providing quality repository recommendations daily!
 
 ---
 

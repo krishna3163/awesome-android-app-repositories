@@ -250,10 +250,37 @@ def _truncate(text: str, max_length: int) -> str:
     return first_line[: max_length - 1].rstrip() + "…"
 
 
+def _select_trending_projects(projects: list[Project], limit: int = 8) -> list[Project]:
+    """Select high-momentum, trending, and fast-rising repositories.
+
+    Scored by presence of GitHub repository, feature richness, media assets,
+    and trending keywords (AI, LLM, privacy, developer tools, automation).
+    """
+    trending_keywords = {"ai", "llm", "agent", "tool", "automation", "privacy", "flutter", "kotlin", "rust", "player"}
+
+    def score_project(p: Project) -> float:
+        score = 0.0
+        if p.repository and "github.com" in p.repository.lower():
+            score += 10.0
+        if p.features:
+            score += min(len(p.features), 10) * 1.5
+        if p.images.cover or p.images.screenshots:
+            score += 5.0
+        tags_lower = {t.lower() for t in p.tags}
+        desc_lower = p.description.lower()
+        for kw in trending_keywords:
+            if kw in tags_lower or kw in desc_lower:
+                score += 3.0
+        return score
+
+    scored = sorted(projects, key=score_project, reverse=True)
+    return scored[:limit]
+
+
 def generate_main_content(projects: list[Project], category_counts: dict[str, int]) -> str:
     """Generate the auto-generated section for main README.md.
 
-    Highlights recent discoveries and provides the Category Navigation Hub.
+    Highlights trending projects, recent discoveries, and provides the Category Navigation Hub.
     """
     lines: list[str] = []
     now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
@@ -274,6 +301,19 @@ def generate_main_content(projects: list[Project], category_counts: dict[str, in
     lines.append("---")
     lines.append("")
 
+    # --- Trending & Fast-Rising Projects ---
+    trending = _select_trending_projects(projects, limit=6)
+    if trending:
+        lines.append("## 🔥 Trending & Fast-Rising Repositories")
+        lines.append("")
+        lines.append("> 🌟 **Curated Top List:** Outstanding open-source repositories and applications rapidly gaining community momentum:")
+        lines.append("")
+        for project in trending:
+            lines.extend(_generate_project_card(project))
+            lines.append("")
+            lines.append("---")
+            lines.append("")
+
     # --- Browse by Category Hub ---
     lines.append("## 📁 Browse by Platform & Category")
     lines.append("")
@@ -291,8 +331,8 @@ def generate_main_content(projects: list[Project], category_counts: dict[str, in
     lines.append("---")
     lines.append("")
 
-    # --- Latest Discoveries (Top 30 Showcase) ---
-    showcase_count = min(30, len(projects))
+    # --- Latest Discoveries (Top 25 Showcase) ---
+    showcase_count = min(25, len(projects))
     if projects:
         lines.append(f"## 🆕 Latest Discovered Projects (Top {showcase_count})")
         lines.append("")

@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     telegram_session_string: str = ""
 
     # Channel configuration
-    main_channel: str = "popMODS"
+    main_channels: str = "popMODS,github_repos,github_repositories_bds,GithubRe,githubtrending,github,githubx"
     features_channel: str = "popCLOUDS"
 
     # Matching thresholds
@@ -64,10 +64,16 @@ class Settings(BaseSettings):
     @property
     def channels(self) -> list[ChannelConfig]:
         """Build channel list from individual settings."""
-        return [
-            ChannelConfig(username=self.main_channel, type="main_project"),
-            ChannelConfig(username=self.features_channel, type="features"),
-        ]
+        configs = []
+        for ch in self.main_channels.split(","):
+            ch_name = ch.strip().lstrip("@")
+            if ch_name:
+                configs.append(ChannelConfig(username=ch_name, type="main_project"))
+
+        if self.features_channel:
+            configs.append(ChannelConfig(username=self.features_channel.strip().lstrip("@"), type="features"))
+
+        return configs
 
 
 # ---------------------------------------------------------------------------

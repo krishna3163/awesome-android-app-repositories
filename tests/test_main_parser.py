@@ -62,3 +62,32 @@ def test_parse_minimal_project():
     assert parsed.tags == ["Tool"]
     assert parsed.website == "https://cooltool.dev"
     assert parsed.source_code == ""
+
+
+def test_parse_github_channel_post_auto_developer():
+    text = (
+        "SuperFast-CLI\n\n"
+        "A lightning-fast terminal automation tool written in Rust.\n\n"
+        "https://github.com/rustacean-dev/superfast-cli\n\n"
+        "#Rust #CLI"
+    )
+    parsed = parse_main_project(text=text, channel="github_repos", message_id=501)
+    assert parsed.name == "SuperFast-CLI"
+    assert "terminal automation tool" in parsed.description
+    assert parsed.source_code == "https://github.com/rustacean-dev/superfast-cli"
+    assert parsed.developer_name == "rustacean-dev"
+    assert parsed.developer_url == "https://github.com/rustacean-dev"
+    assert parsed.telegram_source_message == "https://t.me/github_repos/501"
+
+
+def test_parse_foreign_language_post():
+    text = (
+        "Отличный проект\n\n"
+        "Универсальный инструмент для разработчиков на GitHub.\n\n"
+        "https://github.com/devteam/universal-tool\n\n"
+        "#Tools"
+    )
+    parsed = parse_main_project(text=text, channel="github", message_id=777)
+    assert parsed.source_code == "https://github.com/devteam/universal-tool"
+    assert parsed.developer_name == "devteam"
+    assert len(parsed.description) > 0

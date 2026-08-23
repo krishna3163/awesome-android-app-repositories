@@ -9,8 +9,12 @@ from typing import Any
 from src.config import ParsedProject
 from src.parsers.link_extractor import extract_links_from_entities
 from src.utils.logger import get_logger
+from src.utils.translator import translate_to_english
 
 logger = get_logger()
+
+# GitHub Repo URL pattern
+_GITHUB_REPO_RE = re.compile(r"https?://github\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9_.-]+)", re.IGNORECASE)
 
 
 # Boilerplate sections to exclude from the project description.
@@ -71,7 +75,7 @@ def parse_main_project(
         text: The full message text content.
         entities: Telegram message entities (hyperlinks, etc.).
         message_id: Telegram message ID.
-        channel: Channel username (e.g. 'popMODS').
+        channel: Channel username (e.g. 'popMODS', 'github_repos').
         posted_at: ISO timestamp when the message was posted.
 
     Returns:
@@ -96,27 +100,48 @@ def parse_main_project(
     # 3. Extract links from entities
     links = extract_links_from_entities(text, entities)
 
+    # Filter out casual chat, polls, and news posts that have no repository or website link
+    if not links.source_code and not links.website:
+        raise ParseError("Message does not contain repository or website link")
+
+    # Auto-translate name and description to English if foreign language is detected
+    name = translate_to_english(name)
+    if description:
+        description = translate_to_english(description)
+
+    # If name is overly long (>60 chars) or a sentence, and GitHub repo is present, derive clean name from repo
+    if len(name) > 60 and links.source_code:
+        gh_match = _GITHUB_REPO_RE.search(links.source_code)
+        if gh_match:
+            name = gh_match.group(2).replace("-", " ").replace("_", " ").title()
+
     # 4. Extract tags (hashtags)
     tags = _extract_tags(text)
+    if not tags:
+        tags = ["GitHub", "OpenSource"]
 
-    # 5. Extract developer name from text
-    developer_name = _extract_developer_name(text)
+    # 5. Extract developer name
+    developer_name = _extract_developer_name(text) or links.developer_name
+    developer_url = links.developer_url
+
+    if not developer_name and links.source_code:
+        gh_match = _GITHUB_REPO_RE.search(links.source_code)
+        if gh_match:
+            developer_name = gh_match.group(1)
+            if not developer_url:
+                developer_url = f"https://github.com/{gh_match.group(1)}"
 
     # 6. Build the parsed project
     if not posted_at:
         posted_at = datetime.now(UTC).isoformat()
-
-    # Filter out casual chat, polls, and news posts that have no repository or website link
-    if not links.source_code and not links.website:
-        raise ParseError("Message does not contain repository or website link")
 
     return ParsedProject(
         name=name,
         description=description,
         website=links.website,
         source_code=links.source_code,
-        developer_name=developer_name or links.developer_name,
-        developer_url=links.developer_url,
+        developer_name=developer_name,
+        developer_url=developer_url,
         features_message_url=links.features_url,
         tags=tags,
         telegram_source_message=f"https://t.me/{channel}/{message_id}" if channel and message_id else "",
