@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16959`
 - 🏷️ **Unique Categories / Tags:** `15479`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 22:13 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 23:12 UTC`
 
 ---
 
@@ -290,6 +290,21 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16959 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 missuo/herdrm
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Native macOS console for herdr — all your coding agents and their live terminals, across devices
+**Language**: Swift
+**Stars**: 607 **Issues**: 1 **Forks**: 37
+[https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
+
+- 🐙 **Source Code:** [https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
+- 👤 **Developer:** [missuo](https://github.com/missuo)
+
+
+---
 
 ### 📦 Leutenegger/coldcard-airgap
 
@@ -808,22 +823,6 @@ __(1/2)__
 
 - 🐙 **Source Code:** [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
 - 👤 **Developer:** [mahlernim](https://github.com/mahlernim)
-
-
----
-
-### 📦 Agentic Rag For Dummies
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Most RAG tutorials cover basic concepts but do not provide guidance on how to build modular agent systems.
-
-This project fills this gap by providing **both training materials and an extensible architecture**.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies)
-- 👤 **Developer:** [GiovanniPasq](https://github.com/GiovanniPasq)
 
 
 ---

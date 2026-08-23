@@ -8,6 +8,21 @@
 
 ---
 
+### 📦 missuo/herdrm
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Native macOS console for herdr — all your coding agents and their live terminals, across devices
+**Language**: Swift
+**Stars**: 607 **Issues**: 1 **Forks**: 37
+[https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
+
+- 🐙 **Source Code:** [https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
+- 👤 **Developer:** [missuo](https://github.com/missuo)
+
+
+---
+
 ### 📦 DenisSergeevitch/desktop-fly
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -11472,21 +11487,6 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
-
-
----
-
-### 📦 missuo/herdrm
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Native macOS console for herdr — all your coding agents and their live terminals, across devices
-**Language**: Swift
-**Stars**: 607 **Issues**: 1 **Forks**: 37
-[https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
-
-- 🐙 **Source Code:** [https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
-- 👤 **Developer:** [missuo](https://github.com/missuo)
 
 
 ---
