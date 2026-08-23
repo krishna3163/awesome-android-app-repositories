@@ -8,6 +8,33 @@
 
 ---
 
+### 📦 Claude Plugins Community
+
+> **Categories:** `#python`
+
+This is a read-only list of community plugins for Claude Cowork and Claude Code. Each plugin was submitted through the official form, checked for security, and approved before being added. You can install them from the Claude plugins site or by adding the marketplace in Claude Code. The benefit is simple: you get a safe, approved place to find useful plugins without needing to sort through unverified ones.
+
+https://github.com/anthropics/claude-plugins-community
+
+- 🐙 **Source Code:** [https://github.com/anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
+- 👤 **Developer:** [anthropics](https://github.com/anthropics)
+
+
+---
+
+### 📦 Spielewoy/autoprompt-skill
+
+> **Categories:** `#agent_orchestration` `#agent_skills` `#agentic_workflows` `#ai_agents` `#ai_coding` `#automated_testing` `#autonomous_agents` `#claude_code` `#cli` `#code_review` `#codex` `#coding_agent` `#developer_tools` `#github_copilot` `#multi_agent_systems` `#opencode` `#prompt_engineering` `#subagents` `#test_driven_development` `#workflow_automation`
+
+Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill)
+- 👤 **Developer:** [Spielewoy](https://github.com/Spielewoy)
+
+
+---
+
 ### 📦 jeremy-prt/bloub
 
 > **Categories:** `#animation` `#avatar` `#morphing` `#svg` `#svg_animation` `#typescript` `#vue`
@@ -197143,33 +197170,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 Spielewoy/autoprompt-skill
-
-> **Categories:** `#agent_orchestration` `#agent_skills` `#agentic_workflows` `#ai_agents` `#ai_coding` `#automated_testing` `#autonomous_agents` `#claude_code` `#cli` `#code_review` `#codex` `#coding_agent` `#developer_tools` `#github_copilot` `#multi_agent_systems` `#opencode` `#prompt_engineering` `#subagents` `#test_driven_development` `#workflow_automation`
-
-Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill)
-- 👤 **Developer:** [Spielewoy](https://github.com/Spielewoy)
-
-
----
-
-### 📦 Claude Plugins Community
-
-> **Categories:** `#python`
-
-This is a read-only list of community plugins for Claude Cowork and Claude Code. Each plugin was submitted through the official form, checked for security, and approved before being added. You can install them from the Claude plugins site or by adding the marketplace in Claude Code. The benefit is simple: you get a safe, approved place to find useful plugins without needing to sort through unverified ones.
-
-https://github.com/anthropics/claude-plugins-community
-
-- 🐙 **Source Code:** [https://github.com/anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
-- 👤 **Developer:** [anthropics](https://github.com/anthropics)
 
 
 ---

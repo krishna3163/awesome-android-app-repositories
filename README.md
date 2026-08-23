@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16957`
 - 🏷️ **Unique Categories / Tags:** `15468`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 12:48 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 13:25 UTC`
 
 ---
 
@@ -290,6 +290,33 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16957 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Claude Plugins Community
+
+> **Categories:** `#python`
+
+This is a read-only list of community plugins for Claude Cowork and Claude Code. Each plugin was submitted through the official form, checked for security, and approved before being added. You can install them from the Claude plugins site or by adding the marketplace in Claude Code. The benefit is simple: you get a safe, approved place to find useful plugins without needing to sort through unverified ones.
+
+https://github.com/anthropics/claude-plugins-community
+
+- 🐙 **Source Code:** [https://github.com/anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
+- 👤 **Developer:** [anthropics](https://github.com/anthropics)
+
+
+---
+
+### 📦 Spielewoy/autoprompt-skill
+
+> **Categories:** `#agent_orchestration` `#agent_skills` `#agentic_workflows` `#ai_agents` `#ai_coding` `#automated_testing` `#autonomous_agents` `#claude_code` `#cli` `#code_review` `#codex` `#coding_agent` `#developer_tools` `#github_copilot` `#multi_agent_systems` `#opencode` `#prompt_engineering` `#subagents` `#test_driven_development` `#workflow_automation`
+
+Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill)
+- 👤 **Developer:** [Spielewoy](https://github.com/Spielewoy)
+
+
+---
 
 ### 📦 jeremy-prt/bloub
 
@@ -851,60 +878,6 @@ __(1/2)__
 
 - 🐙 **Source Code:** [https://github.com/agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 - 👤 **Developer:** [agent-substrate](http://localhost:8000/)
-
-
----
-
-### 📦 Neuronpedia
-
-> **Categories:** `#Website` `#AI` `#Learning`
-
-Neuronpedia is an open-source AI interpretability platform for exploring and understanding what happens inside neural networks and LLMs. It enables researchers to inspect model features, neuron activations, circuits, and internal representations, making complex model behavior more transparent and easier to understand. It also provides tools for investigating and steering model behavior.
-
-- 🌐 **Official Website:** [https://github.com/hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia)
-- 👤 **Developer:** [Johnny Lin](https://github.com/hijohnnylin)
-
-<details>
-<summary><b>✨ Key Features (13)</b> — <i>Click to expand</i></summary>
-
-- **Feature/latent exploration** — inspect individual model features and activations
-- **Semantic search** — search millions of latents/features by meaning
-- **Activation analysis** — view top activations, logits, and activation density
-- **Model steering** — modify model behavior using latents or custom vectors
-- **Circuit Tracer/graphs** — visualize relationships between model components
-- **Auto-interpretability** — automatically generate and score feature explanations
-- **SAE support** — work with Sparse Autoencoders and their features
-- **Probes, concepts & transcoders** — support advanced interpretability research
-- **Inference testing** — run prompts and examine internal model behavior
-- **Dashboards & UMAP** — visualize features and embeddings
-- **API + Python/TypeScript libraries** — access functionality programmatically
-- **Import/export & datasets** — work with interpretability datasets
-- **Self-hosting** — run the open-source platform locally or in the cloud
-
-</details>
-
-
----
-
-### 📦 Engineers who already use AI assistants** and want reproducible, low‑risk workflows.
-
-> **Categories:** `#GitHub` `#OpenSource` `#substrate`
-
-* **Team leads** needing a shared language and ticket‑generation pipeline that the whole squad (human and AI) can follow.
-* **Solo developers** who want the safety net of TDD and design reviews without writing boilerplate scripts.
-* **Tool‑builders** looking for a ready‑made catalog of prompt‑driven capabilities to embed in their own agents.
-
-**Bottom line**
-
-These skills turn a clever LLM into a disciplined teammate, letting you keep the creative speed of AI while preserving the rigor of real software engineering.
-
-__Takeaway: Give your AI a playbook, and it will stop guessing and start building.__
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-__(2/2)__
-
-- 🐙 **Source Code:** [https://t.me/GithubRe**](https://t.me/GithubRe**)
 
 
 ---
