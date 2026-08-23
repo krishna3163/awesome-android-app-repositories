@@ -12,7 +12,7 @@
 
 **Explore new open-source projects, tools, websites, developer libraries, and Android utilities — automatically tracked and updated.**
 
-[📊 Statistics](#-statistics) • [🆕 Latest Projects](#-latest-projects) • [📋 All Projects](#-all-projects) • [🤝 Contributing](#-contributing) • [🙌 Acknowledgments](#-acknowledgments--telegram-channels) • [⚖️ Disclaimer](#️-disclaimer)
+[📊 Overview](#-catalog-overview) • [📱 Discover Apps](#-discover-apps--project-details) • [📋 Quick Index](#quick-index) • [🤝 Contributing](#-contributing--suggesting-projects) • [🙌 Acknowledgments](#-acknowledgments--telegram-channels) • [⚖️ Disclaimer](#️-disclaimer)
 
 </div>
 
@@ -38,1661 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Repositories:** `1647`
 - 🏷️ **Unique Categories / Tags:** `730`
-- 🔄 **Last Automatically Synchronized:** `2026-08-23 05:00 UTC`
-
----
-
-## 📋 Quick Directory Index
-
-| App / Project | Description | Repository | Categories |
-|:---|:---|:---|:---|
-| **Croc** | croc is a simple, secure, and fast command-line file transfer tool that al… | [GitHub](https://github.com/schollz/croc) | `Windows, Mac, linux` |
-| **Neuronpedia** | Neuronpedia is an open-source AI interpretability platform for exploring a… | — | `Website, AI, Learning` |
-| **Early test** | Kindly test it and report bugs, recommendations, enhancements. Google logi… | [GitHub](https://github.com/omersusin/piTube) | `—` |
-| **tg-logging-handler** | tg-logging-handler is a logging.Handler that delivers Python log records t… | [GitHub](https://github.com/0xarchit/tg-logging-handler) | `library, python, logging, dev` |
-| **Clash Flac** | ClashFLAC is a Stream high-resolution audio previews, search across millio… | [GitHub](https://github.com/ajisth69/clashflac) | `Website, Stream, Flac, Lyrics` |
-| **Switcher 5G** | The fastest way to switch your Android network mode — no root required. A… | [GitHub](https://t.me/popCLOUDS/13521) | `android, shizuku, 5g, utilities` |
-| **AttendSmartly** | AttendSmartly is a clean, open-source Android app that helps students effo… | [GitHub](https://github.com/agupta07505/AttendSmartly) | `Android, attendence, student, productivity` |
-| **Just A Link** | Just A Link is a serverless, zero-database "Link-in-bio". User profiles (n… | [GitHub](https://github.com/jaival-11/justalink) | `Website, Portfolio` |
-| **Smooth Optimizer** | Optimizes your Android device for smoother scrolling and animations. | [GitHub](https://github.com/NoneBaiano/SmoothOptimizer) | `Android, Root, Modules` |
-| **Clipsync** | ClipSync is a fast, open-source clipboard synchronization app that lets yo… | [GitHub](https://github.com/WinShell-Bhanu/Clipsync) | `macos, android, clipboard` |
-| **Aerial** | A simple, private, and open-source internet radio app that lets you explor… | [GitHub](https://github.com/shapeshed/aerial) | `Android, Radio, Music, Material3Expressive` |
-| **Root My Galaxy** | Root My Galaxy is a lightweight utility that enables temporary, exploit-ba… | [GitHub](https://github.com/BuSung-dev/Root-My-Galaxy) | `Samsung, Root, Tools` |
-| **Omniget** | OmniGet is an open-source, all-in-one desktop application for downloading,… | [GitHub](https://github.com/tonhowtf/omniget) | `Windows, Linux, Mac, DownloadManager, MediaDownloader, Study` |
-| **Vox Music** | Vox Music isn't just an offline music player—it's a nostalgic trip back to… | [GitHub](https://github.com/SachinXpert/VoxMusic) | `Android, Music, Player` |
-| **Revanced & Morphe Builder** | ReVanced & Morphe Builder is an automated build system for creating the la… | [GitHub](https://github.com/nullcpy/rvb) | `apps, web, android, revanced, morphe` |
-| **SpatialFlow** | SpatialFlow delivers a next-generation music experience on Android, blendi… | [GitHub](https://github.com/MythicalSHUB/SpatialFlow) | `android, ytMusicClient, SpatialFlow` |
-| **DeepDoze-Enforcer** | DeepDoze Enforcer is a lightweight Magisk/KernelSU module that instantly f… | [GitHub](https://github.com/Azyrn/DeepDoze-Enforcer) | `android, root, magisk, ksu, doze, BatterySaver` |
-| **Clash Dev Analyser** | A deterministic engine to analyze GitHub developers and repositories in re… | [GitHub](https://github.com/ajisth69/dev-analyzer) | `Website, GitHub, Analyser, DevProfileChecker` |
-| **meron** | Meron is a modern, open-source mail and RSS client that combines IMAP/SMTP… | [GitHub](https://github.com/nonbili/meron) | `android, windows, ios, linux, msStore, iosAppStore, SnapStore` |
-| **VaultExplorer** | VaultExplorer lets you mount, browse, and manage VeraCrypt and LUKS encryp… | [GitHub](https://github.com/R0b0To/VaultExplorer) | `android, veracrypt, luks, decrypt, fuckyouMadarcod` |
-| **DekuSMS-Android** | Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations | [GitHub](https://github.com/dekusms/DekuSMS-Android) | `Android, SMS` |
-| **Pearpass** | PearPass is an open-source, privacy-first password and identity manager th… | [GitHub](https://github.com/tetherto/pearpass-app-mobile) | `ios, android, PaaswordManager, pearpass, FuckNiggerisPaasword` |
-| **Tsuzuku** | A private, offline-first Android habit tracker, focus timer, and minimal l… | [GitHub](https://github.com/agupta07505/Tsuzuku) | `Android, Productivity, Launcher, NiggaSax` |
-| **Spotui** | Spotui is an Android Spotify clone built with Jetpack Compose that connect… | [GitHub](https://github.com/Spotui/Spotui) | `Android, Spotify, Client` |
-| **Spectre** | Spectre is an Android app for observing and interacting with the wireless… | [GitHub](https://t.me/popCLOUDS/13309) | `Android, Foss, Tools, Utilities, Sensors, DeviceScanners` |
-| **SmartIsland** | Smart Island is a modern, open-source implementation of Android's Dynamic… | [GitHub](https://github.com/agupta07505/SmartIsland) | `Android, Customization, DynamicIsland` |
-| **Clashdrive** | Clashdrive is an open-source Telegram-based cloud platform featuring paral… | [GitHub](https://github.com/ajisth69/Clashdrive) | `Website, Telegram, TGClient, Privacy, Storage, Tools, Utilitied` |
-| **Axis** | Axis is an open-source desktop application built with HTML, CSS, JavaScrip… | [GitHub](https://github.com/PR0Gorib/Axis) | `Linux, Windows, Tools` |
-| **Arrow Escape** | Arrow Escape is a grid-based puzzle game where players slide arrows out of… | [GitHub](https://github.com/gtxPrime/arrow-escape) | `android, game` |
-| **HoldSpace** | HoldSpace is a lightweight, zero-distraction shortcut launcher for Windows… | [GitHub](https://github.com/anuroopkdas/HoldSpace) | `Windows, Utilities` |
-| **ReFra** | ReFra is a modern, open-source Android gallery app built with Jetpack Comp… | [GitHub](https://github.com/IacobIonut01/ReFra) | `android, gallery, chut` |
-| **GitSwitch** | GitSwitch is a fast, lightweight desktop application built with Tauri and… | [GitHub](https://github.com/iput-object/GitSwitch) | `Git, Client, Linux, Windows, MacOS` |
-| **Kill My Apps** | Kill My Apps is a lightweight utility designed to terminate background pro… | [GitHub](https://github.com/dedeadend/KillMyApps) | `Android, Hibernator, Root, Shizuku` |
-| **dmt** | A beautiful, privacy-friendly offline music player with smart library mana… | [GitHub](https://t.me/dmtpanda) | `android, musicplayer, offline, dmt, FuckNigger` |
-| **Puzzle** | The ultimate collection of puzzle challenge games available for Android ,… | [GitHub](https://github.com/sidhant947/Puzzle) | `android, mac, windows, linux, web, puzzle, games` |
-| **Shevery** | A modernized fork of Shizuku Manager with a Jetpack Compose + Material 3 E… | [GitHub](https://github.com/HmnDev-Tech/shevery) | `Android, ADB, Root, Tools` |
-| **Screen-Recorder** | A pristine OneUI-style screen recorder with mic and internal audio toggles. | [GitHub](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder) | `android, screenrecorder, scamsung, BijliVibhagKiMakichut` |
-| **SmokingYou** | A clean and open-source Android app designed to help you quit smoking by t… | [GitHub](https://github.com/mem2sp/SmokingYou) | `MaterialYou, Health, QuitSmoking, Wellness` |
-| **screen-x** | ScreenX is a modern, high-performance screen recording utility built for A… | [GitHub](https://github.com/gtxPrime/screen-x) | `android, screenrecorder` |
-| **IStanPdf** | IStanPdf is an offline Android utility for PDF and DOCX operations. There… | [GitHub](https://github.com/vasuki-re/IStanPdf) | `android, pdf, imageToPdf, PdfToimage, chut` |
-| **Solipsism** | Rail-first Android browser with Material 3 Expressive UI, privacy tools, D… | [GitHub](https://github.com/Kenneth-Cho-InfoSec/Solipsism) | `android, browser, Solipsism, touchniggers` |
-| **ctxline-claude** | A lightweight, zero-config statusline for Claude Code.Monitor context usag… | [GitHub](https://github.com/MithunWijayasiri/ctxline-claude) | `web, cLaude, cLaudecode, statusline, TelegramUnbannedinIndia` |
-| **MediaGrab** | Free, open-source media downloader for Android. Grab images, video, and au… | [GitHub](https://github.com/omersusin/MediaGrab) | `Android, Downloader` |
-| **Ever Haptics** | Ever Haptics is an Android app that adds haptic feedback across apps and s… | [GitHub](https://t.me/EverlastingAndroidTweak) | `Android, Haptics, Tools, Utilities, Foss, CallRecorder` |
-| **GitAtlas** | GitAtlas is a fluid Liquid Glass GitHub client featuring smart recommendat… | [GitHub](https://github.com/Koustubh12345/GitAtlas) | `Android, Github, Client` |
-| **TenSei Upscale** | A sleek, intuitive Android application for upscaling and enhancing image q… | [GitHub](https://github.com/Koustubh12345/TenSei-Upscale-image) | `Android, Tools, Upscale` |
-| **odysseus** | A self-hosted AI workspace -- meant to be the self-hosted version of the U… | [GitHub](https://github.com/pewdiepie-archdaemon/odysseus) | `quick, windows, mac, linux, odysseus, gayniggers` |
-| **dotzlauncherPRO** | Dotz Launcher Pro is a sleek and minimalist Android launcher featuring a u… | [GitHub](https://github.com/amalsnair535/dotzlauncherPRO) | `android, launcher, dotzlauncerPro, NiggaLauncher` |
-| **Council of High Intelligence** | Simulate a network of expert agents representing different philosophies an… | [GitHub](https://github.com/0xNyk/council-of-high-intelligence) | `installation, AI, Skills, ClaudeCode, Codex` |
-| **Flow** | Flow is a YouTube client built with Jetpack Compose and Material 3. | [GitHub](https://github.com/A-EDev/Flow) | `android, youtube, client, flow, innertube, ytClient` |
-| **Metiq** | A lightweight and privacy-friendly noise app designed to help you focus, s… | [GitHub](https://github.com/metiq-xyz/android-app) | `Android, Sleep, Focus, Study, Relaxation` |
-| **NewPipe Material** | NewPipe Material is a Youtube Client which keeps the core NewPipe experien… | [GitHub](https://github.com/wizdom13/NewPipe_Material) | `Android, YouTube, NewPipe, Player` |
-| **QuaX** | QuaX is a cleaner, calmer way to browse X, built around control, privacy,… | [GitHub](https://github.com/Teskann/QuaX) | `Android, X, Client, Social` |
-| **BatSlop** | BatSlop is a tiny joke browser extension for people tired of the endless “… | [GitHub](https://github.com/2001db8/BatSlop) | `Extension` |
-| **Clashgram** | Clashgram is a highly optimized, privacy-focused hybrid web and native cli… | [GitHub](https://github.com/ajisth69/clashgram) | `Web, Desktop, Telegr, Client` |
-| **Notekar** | NoteKar is a privacy-first timestamp logger for capturing moments instantl… | [GitHub](https://t.me/popCLOUDS/12919) | `Android, Productivity, Notes` |
-| **OmniTools** | A privacy‑first web toolbox for everyday tasks images, PDFs, video, text,… | [GitHub](https://github.com/iib0011/omni-tools) | `SelfHosted, WebTools, Docker` |
-| **Linksi** | A Material 3 Android app to save, organize, and rediscover links. Appears… | [GitHub](https://github.com/AsukaAzure/Linksi) | `Android, Productivity` |
-| **I gave up. Deepseek is absolute shit about coding. I even did an AI job. I researched, guided and gave it everything that needed but it feels like it's making mistakes intentionally. Because for example it fixes the current issue in the first commit, then it breaks it in the second commit. You'll probably say it's hallucinating but nope.** | If anyone is interested in this project and wants it, let me know. And I'l… | [GitHub](https://github.com/omersusin/CrossStick) | `—` |
-| **Beam** | Beam is a lightweight battery monitor. It pins a live power, current, volt… | [GitHub](https://github.com/montafra/beam) | `Android, Battery, Monitor, Charge` |
-| **Code On The Go** | Build Android apps on Android phones, without needing a PC or Internet acc… | [GitHub](https://github.com/appdevforall/CodeOnTheGo) | `Android, IDE, App, Development, Coding` |
-| **OpenScholarXIV** | OpenScholarXIV is an open-source, aesthetic, minimal and AI powered app th… | [GitHub](https://github.com/ScholarXIV/OpenScholarXIV) | `Android, Education` |
-| **Muxcard** | Muxcard is a fully working computer that is literally the size of a credit… | [GitHub](https://github.com/krauseler/muxcard) | `—` |
-| **WhatsWrap** | Wrap for your WhatsApp chats — get cool, fun stats and insights from your… | [GitHub](https://github.com/gtxPrime/whats-wrap) | `WhatsWrap, ChatAnalytics, OpenSourceProject, DataVisualization, WhatsAppStats` |
-| **NFile** | NFile is designed to provide a highly aesthetic file management experience… | [GitHub](https://t.me/popCLOUDS/12835) | `Android, Files, FileManager, Tools, Utilities` |
-| **WHPH - Work Hard Play Hard** | WHPH is a comprehensive productivity app offering a unified experience to… | [GitHub](https://whph.ahmetcetinkaya.me) | `Android, Productivity, HabitTracker, TaskManager` |
-| **Hortay** | A Twitter-style reader for Telegram channels. Read your subscribed channel… | [GitHub](https://github.com/LyoSU/hortay-android) | `Android, Reader, Telegram` |
-| **muzik-Player** | Muzik Player is a UI/UX exploration project focused on delivering a premiu… | [GitHub](https://github.com/rajsriv/muzik-Player) | `Android, MusicPlayer, OfflinePlayer, localFirst` |
-| **openclaw-android** | Run OpenClaw on Android with a single command — no proot, no Linux | [GitHub](https://github.com/AidanPark/openclaw-android) | `AI, Android, homelab, Openclaw` |
-| **Reality** | A free and open-source productivity OS that combines AI-driven daily plann… | [GitHub](https://github.com/pawanwashudev-official/Reality) | `android, productivity, Reality` |
-| **looper** | Advance music player for the linux and android with lyrics support for off… | [GitHub](https://github.com/SthrNilshaaa/looper) | `android, linux, looper, music, offline` |
-| **Wallhavend** | A clean and lightweight Android application that automatically changes you… | [GitHub](https://github.com/Attacktive/Wallhavend-android) | `Android, Wallpapers, Wallhaven` |
-| **Sparkle** | Open-Source tool to optimize Windows and boost gaming performance | [GitHub](https://github.com/thedogecraft/sparkle) | `Windows, Tools, Tweak` |
-| **HydroTracker** | Stay hydrated with HydroTracker, a beautifully crafted open-source water t… | [GitHub](https://github.com/dev778g-me/HydroTracker) | `Android, MaterialYou, Hydration, Health, Tracker` |
-| **Equalizer314**:** | Equalizer314 is a free, open-source, system-wide parametric equalizer and… | [GitHub](https://github.com/bearinmindcat/Equalizer314) | `android, equalizer, Equalizer314` |
-| **pauseCat** | Increase productivity with paws-itive breaks | [GitHub](https://github.com/0xarchit/pauseCat) | `windows, productivity, break, pauseCat` |
-| **Deutsia Radio** | Privacy-focused radio player supporting clearnet, Tor, and I2P networks | [GitHub](https://github.com/deutsia/deutsia-radio) | `Android` |
-| **ShutApp** | ShutApp lets you control your Windows and Linux computers from your Androi… | [GitHub](https://github.com/S2009-dev/ShutApp) | `Android, Utilities` |
-| **Nextup Resource** | Nextup Resources puts 50+ courses, 700+ FOSS Android apps, AI tools, ebook… | [GitHub](https://github.com/shreyagarwal72/nextup-resource) | `Website, Learning, Tools, Android, AI, Resources, Courses, Free` |
-| **U**niversal Installer** | A modern Android app for installing and managing APK packages with split A… | [GitHub](https://github.com/pass-with-high-score/universal-installer) | `android, installer, package, shizuku` |
-| **Safe Haven** | SafeHaven is an Android app store that is focused on trust, source visibil… | [GitHub](https://github.com/phsycologicalFudge/SafeHaven-Store) | `Android, Tools, Utilities, AppStore, GithubStore, Store` |
-| **Secure OTP** | A smart, battery-efficient Android utility app built with Kotlin that auto… | [GitHub](https://github.com/26JATIN/SecureOTP) | `Android, Tools, Utilities, OTPExtractor, OTP` |
-| **Vyxel Apps** | The GitHub-powered Android app store. Discover, install, and update Androi… | [GitHub](https://t.me/popCLOUDS/12589) | `Android, Tools, Utilities, AppStore, GitHub, GitHubAppStore` |
-| **Secure Screen** | SecureScreen is a **__NO ROOT__**  Kotlin Android app that prevents screen… | [GitHub](https://github.com/adikul1023/SecureScreen) | `Android, Security, ScreenshotBlocker, Privacy` |
-| **Med** | Med helps you keep track of your medicines and medical history with ease.… | [GitHub](https://github.com/FeDeveloper95/Med) | `Health, Tracker` |
-| **cux** | Claude account switcher for uninterrupted sessions. Run multiple Claude Co… | [GitHub](http://cux.inulute.com) | `AI, Tools` |
-| **Colota** | Colota sends your location to your own server over HTTP(S). It works offli… | [GitHub](https://github.com/dietrichmax/colota) | `Android, GPS, Tracking, Tracker` |
-| **Stash** | Your Spotify + YouTube Music library & daily mixes, offline in lossless FL… | [GitHub](https://github.com/rawnaldclark/Stash) | `android, flac, hi, lossless, material3, music` |
-| **CustomAnimator** | Change DPI and Animation Speeds easily without digging you developer optio… | [GitHub](https://github.com/AhmetCanArslan/CustomAnimator) | `DPIChanger, AnimationTweaks` |
-| **Expensy** | Expensy is a clean, fast, and fully offline expense manager built with Flu… | [GitHub](https://github.com/mina-android/Expensy) | `android, expenses` |
-| **OnionMedia** | Open-Source Mediaconverter and -downloader | [GitHub](https://github.com/onionware-github/OnionMedia) | `Converter, Downloaer, tool, windows, Foss` |
-| **brat Sticker Bot** | With that bot, you can create brat stickers with /b command. | [GitHub](https://github.com/mamiiblt/tg-brat-bot) | `Bot, Fun` |
-| **Zenith** | A clean and modern digital wellbeing application built with Material Desig… | [GitHub](https://github.com/1372Slash/Zenith) | `FOSS, MaterialYou, DigitalWellbeing, Productivity` |
-| **LCLD** | LCLD is a lightweight, open-source Android utility designed for remote dev… | [GitHub](https://github.com/pawanwashudev-official/LCLD) | `android, LCLD` |
-| **Privacium** | A simple app for discovering tools that respects your privacy. | [GitHub](https://github.com/kaleedtc/Privacium) | `android, open, privacy, privacium` |
-| **Grafyx** | Grafyx is a high-performance, CLI-driven code knowledge graph tool designe… | [GitHub](https://github.com/0xarchit/grafyx) | `Windows, Linux, MacOS, Tools, Utilities` |
-| **Skreenup** | Skreenup is a minimal app that wraps your screenshots in beautiful device… | [GitHub](https://github.com/Pankaj-Meharchandani/Skreenup) | `android, skreenup` |
-| **ferrot** | A clean and minimal downloader for video and audio on Android. | [GitHub](https://github.com/strigate/ferrot) | `android, video, ferrot` |
-| **RateFlip** | RateFlip is a minimal currency converter for Android built with React Nati… | [GitHub](https://github.com/MithunWijayasiri/RateFlip) | `android, rateflip` |
-| **AniZen** | a solo-built anime and movie application for Android. While based on the A… | [GitHub](https://github.com/salmanbappi/AniZen) | `Anime, Movie, Stream, Android, Foss` |
-| **DSB Material** | Material You alternative to the DSB Mobile app. | [GitHub](https://github.com/WollyDev24/DSB_Material) | `android, dsb, school` |
-| **Kagi** | 🔑 A Fast Minimal and Secure Local Password Manager. | [GitHub](https://github.com/koiverse/Kagi) | `windows, linux, macos, kagi, paasword, local` |
-| **ObtainiumPlus** | AI-assisted development fork of Obtainium with extra features. | [GitHub](https://github.com/thejaustin/ObtainiumPlus) | `android, ObtainuimPlus` |
-| **Dynamic** **SideBar** | Dynamic SideBar is a premium productivity tool designed for Windows 11. It… | [GitHub](https://github.com/rajsriv/Dynamic-sideBar-for-windows) | `windows, customisation, productivity, DynamicSideBar` |
-| **Better Nothing Music Visualizer** | A powerful upgrade for Nothing Phone users that transforms the Glyph Inter… | [GitHub](https://github.com/Aleks-Levet/better-nothing-music-visualizer) | `NothingOS, Glyph, Visualizer, Android, FOSS` |
-| **Smart-Edge** | Smart Edge is an open-source Android control center with a smooth, customi… | [GitHub](https://github.com/Imtiaz-Official/Smart-Edge) | `Android, Utilities` |
-| **trudido** | Simple tasks. Secure notes. Made in Europe. | [GitHub](https://github.com/dominikmuellr/trudido) | `android, flutter, Notes, Todo` |
-| **Everlasting Android Tweak** | Everlasting Android Tweak is the true heart of Android, powerful, feature… | — | `Android, Tools, Utilities, Tweaks, Tuner` |
-| **Cashiro** | Cashiro is a comprehensive financial tracking manager that Turn bank SMS a… | [GitHub](https://github.com/ritesh-kanwar/Cashiro) | `android, budget, expense, material3, local` |
-| **BarraCUDA** | Open-source CUDA compiler targeting multiple GPU architectures. Compiles .… | [GitHub](https://github.com/Zaneham/BarraCUDA) | `NVIDIA, CUDA, GPU` |
-| **MiroFish** | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. | [GitHub](https://github.com/666ghj/MiroFish) | `AI, Financial_forecasting, Future_prediction, Public_opinion_analysis, Social_prediction, Swarm_intelligence` |
-| **LastWave** | A lastfm playlist generator, | [GitHub](https://github.com/AmanRajAryan/LastWave) | `Android, Music, lastfm` |
-| **Revision-Master** | Revision Master - A smart, offline-first study app with AI-generated flash… | [GitHub](https://github.com/mkr-infinity/Revision-Master) | `ai, aistudy, revision, study, android` |
-| **Dynamic Island For Windows:** | A sleek, fluid, and highly customizable Dynamic Island for Windows built w… | [GitHub](https://github.com/rajsriv/dynamic-island-for-windows) | `windows, dynamic` |
-| **I'm  also vibe coding an app that converts Spotify listens to LastFM scrobbles. Imagine you're using Spotify for 5 years, and today you meet LastFM, then you want or wish to convert your Spotify listen records to scrobbles. This app doing that.  Repo link is here but I'm still working on it and haven't built it/used it yet because I'm getting errors; https://github.com/omersusin/Sprobbler** | — | [GitHub](https://github.com/omersusin/Sprobbler) | `—` |
-| **SyrianSegoe** | A Next-Gen Windows System Font Setting Tool | [GitHub](https://github.com/SyrianTurk/Syriansegoe) | `Windows, Segoe, font, Microsoft` |
-| **BatteryRecorder** | Battery Recorder is a lightweight Android tool that records and tracks you… | [GitHub](https://t.me/popCLOUDS/12251) | `Android, Tools, Utilities, Battery, UsageTracker` |
-| **Comfer** | Transform your Android experience with Comfer, the ultimate minimalist And… | [GitHub](https://t.me/popCLOUDS/12246) | `Android, Tools, Utilities, Launcher, customisation` |
-| **Volume Scroll** | Volume scroll is an app that allows you to scroll through content using th… | [GitHub](https://t.me/popCLOUDS/12240) | `Android, Foss, Tools, Utilities, Scroll` |
-| **M3 Play** | M3 Play is a feature-packed Android music player built for speed, customiz… | [GitHub](https://t.me/M3Play_updates) | `Android, Music` |
-| **kite** | A Modern Video & Audio Downloader for Android | [GitHub](https://github.com/zenzer0s/kite) | `Android, Media_downloader` |
-| **June** | 📖 An open-source multimedia life capsule for expressive, private journalin… | [GitHub](https://github.com/DenserMeerkat/June) | `android, journal, dairy` |
-| **Lectro** | A modern, jetpack based Android app to manage your class schedule, track a… | [GitHub](https://github.com/Pankaj-Meharchandani/Lectro) | `Lectro, Productivity, Android, OpenSource` |
-| **32steps** | Override Android's default volume steps with custom step counts. Includes… | [GitHub](https://github.com/nulldio/32steps) | `Android, Music, Equalizer` |
-| **klyx** | Klyx is a lightweight, high-performance code editor for Android. | [GitHub](https://github.com/klyx-dev/klyx) | `android, blueprints, editor, material, compose, kotlin` |
-| **Rivo Phone** | Rivo is a Google dialer like UI which is Foss, modern, feature-rich dialer… | [GitHub](https://t.me/popCLOUDS/12141) | `Android, Foss, Dialer, Phone, Caller` |
-| **Calc-OS** | A feature-packed, Material Design 3 Calculator OS for Android. Includes St… | [GitHub](https://github.com/hyboxteam/Calc-OS) | `android, calculator` |
-| **YoukiDex** | YoukiDEX is an Android application that provides a full desktop-like exper… | [GitHub](https://t.me/popCLOUDS/12124) | `Android, Foss, Tools, Utilities, Desktop, Taskbar, DesktopMode` |
-| **Pokédex:** | React native application that utilizes the Pokeapi | [GitHub](https://github.com/INCENDIOCODM/Pokedex) | `android, pokédex, pokemon` |
-| **AuraNinja — Ambient Sound & Focus Studio** | A powerful ambient sound and focus app that lets you mix nature sounds, bi… | [GitHub](https://t.me/popCLOUDS/12094) | `Android, FOSS, Ambient, Focus` |
-| **Click Switch – Focus & Reaction Training Game** | A minimal reflex-based game where you must follow the text instead of the… | [GitHub](https://t.me/popCLOUDS/12084) | `Android, Game, FOSS, OfflineGame` |
-| **It's been a while since we've had a giveaway!** Today, in about an hour, we'll be giving away **three Icon Packs = 90 Promo Codes**. Check it out! After the timer runs out, the promo codes will appear on the website!** | **Get a promo code:** https://pashapumadesign.com/#t=giveaway | [GitHub](https://pashapumadesign.com/#t=giveaway) | `t` |
-| **KnoxPatch** | LSPosed module to get Samsung apps/features working again in your rooted G… | [GitHub](https://telegra.ph/Supported-apps-03-25) | `Android, magisk, xposed` |
-| **Podium — Modern Podcast Experience** | A clean and modern open-source podcast app built with Kotlin and Jetpack C… | [GitHub](https://t.me/popCLOUDS/12063) | `Android, FOSS, OpenSource, MaterialYou, PodcastApp` |
-| **TimeFlow — Minimal Progress Tracking App** | A clean and modern Android app designed to help you track your daily progr… | [GitHub](https://t.me/popCLOUDS/12054) | `AndroidApps, FOSS, OpenSource, Productivity, TimeManagement` |
-| **Dithra** | Android application that allows you to apply dithering effects to your ima… | [GitHub](https://github.com/IlasDev/Dithra) | `Android, Photo_Editor` |
-| **HumanCrop** | High-performance desktop app designed for the automated batch processing o… | [GitHub](https://github.com/roymejia2217/HumanCrop) | `Windows, image, photo` |
-| **KKND** | a lightweight Android application that checks whether a device may be root… | [GitHub](https://github.com/juanma0511/Kknd_Root_Detector) | `root, android, kotlin` |
-| **Rush** | ​Search, time-sync, and save song lyrics locally for offline access. | [GitHub](https://github.com/shub39/Rush) | `android, Lyrics, Rush` |
-| **LeanType — AI Keyboard with Privacy Focus** | LeanType is a powerful open-source Android keyboard that combines privacy… | [GitHub](https://t.me/popCLOUDS/11989) | `Android, FOSS, Keyboard, AI, Productivity` |
-| **ReDD Focus — Reduce Digital Distractions** | ReDD Focus is a unique Android accessibility tool designed to make distrac… | [GitHub](https://t.me/popCLOUDS/11982) | `Android, Productivity, Focus, DigitalWellbeing, FOSS, OpenSource` |
-| **BeeProtego** | a lightweight cybersecurity toolkit designed for malware scanning, threat… | [GitHub](https://t.me/popCLOUDS/11966) | `Security, Windows, Cyber` |
-| **Kalenget** | A minimal and elegant Android calendar widget that lets you quickly check… | [GitHub](https://t.me/popCLOUDS/11964) | `Android, Widget, Productivity` |
-| **Offline Translator** | A translator app that performs on-device translation of text and images wi… | [GitHub](https://t.me/popCLOUDS/11958) | `Android, Productivity, Translator` |
-| **Episteme Reader** | Episteme Reader is an offline-first, privacy-focused document and e-book r… | [GitHub](https://github.com/Aryan-Raj3112/episteme) | `Android, Reader` |
-| **SwiftSlate** | System-wide AI text assistant for Android — powered by Gemini and custom p… | [GitHub](https://github.com/Musheer360/SwiftSlate) | `Android, Ai, Gemini` |
-| **RuView** | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human… | [GitHub](https://github.com/ruvnet/RuView) | `Wifi, Security, Scan, Windows, MAC` |
-| **Material Notes** | A simple, private, and local note-taking app that brings the Material Desi… | [GitHub](https://github.com/maelchiotti/LocalMaterialNotes) | `Android, Productivity` |
-| **Fake call** | Fake call is an app which simulates fake calls, works with any dialer app… | [GitHub](https://github.com/DDOneApps/FakeCall) | `Android, FakeCaller, Tools, Dialer` |
-| **StellarDrift** | An endless space survival game — made entirely by AI, coded in pure Java +… | [GitHub](https://github.com/omersusin/StellarDrift) | `Android, Game` |
-| **ZKM** | Zuan Kernel Manager App For  Root Device Android With Material 3 Expressiv… | [GitHub](https://github.com/ZUANVFX01/ZKM) | `Android, KernelManager, Zkm` |
-| **BlockAds** | Block ads system-wide on Android using local VPN-based DNS filtering. No r… | [GitHub](https://github.com/pass-with-high-score/blockads-android) | `Android, AdBlock` |
-| **Handboard** | An accessibility-focused Android keyboard designed for people who use thei… | [GitHub](https://github.com/omersusin/Handboard) | `Android, Keyboard, Accessibility` |
-| **Just keep in mind that I'm vibe coding just because I'm bored and I have nothing to do. The source is open anyway, so you can contribute to it: https://github.com/omersusin/Blinker** | Current APK: https://t.me/popmodschat/787166 | [GitHub](https://github.com/omersusin/Blinker) | `—` |
-| **ClassiPod** | A local music player app designed to capture the essence of the iPod Class… | [GitHub](https://t.me/popCLOUDS/11821) | `Android, MusicPlayer, OfflinePlayer` |
-| **StorageFixer** | Fixes Android 16 QPR1+ storage permission bugs on AOSP-based ROMs. | [GitHub](https://github.com/omersusin/StorageFixer) | `Android, Root, Xposed, Tools` |
-| **SecureFolderFS** | Powerful, secure, modern way to keep your files protected. | [GitHub](https://github.com/securefolderfs-community/SecureFolderFS) | `Windows, FileManager` |
-| **Wa Incognito** | WAIncognito is an extension for WhatsApp Web that focuses on privacy and c… | [GitHub](https://github.com/tomer8007/whatsapp-web-incognito) | `Extension, WhatsApp, Foss, Chrome` |
-| **Lossless Cut** | LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremel… | [GitHub](https://github.com/mifi/lossless-cut) | `Video, Editor, Windows, Linux, MacOS` |
-| **New-WEB** | A privacy-focused, premium Chrome Extension (Manifest V3) that replaces th… | [GitHub](https://github.com/Hayagriva0/New-WEB) | `Extension, Firefox, Chrome, Edge, Newtab` |
-| **Browser Data Migrator** | Browser Data Migrator is a powerful open-source tool designed for power us… | [GitHub](https://github.com/omersusin/FirefoxTransfer) | `Android, Tools, Root, Migration` |
-| **SlipNet** | Android VPN client with DNS tunneling (DNSTT & Slipstream), NaiveProxy, SS… | [GitHub](https://github.com/anonvector/SlipNet) | `Android, Network, DNS, VPN` |
-| **D**ynamic Music Pill** | A dynamic, elegant, and highly customizable music widget for GNOME Shell.… | [GitHub](https://t.me/popCLOUDS/11694) | `Linux, Widget, Customisation` |
-| **CopyCat-Clipboard** | Copycat Clipboard is an intuitive clipboard manager designed to enhance yo… | [GitHub](https://github.com/raj457036/CopyCat-Clipboard) | `Utilities, Android, Linux, MacOS, Windows` |
-| **Updatium** | Updatium helps you to install apps and update them directly from their rel… | [GitHub](https://github.com/omeritzics/Updatium) | `Android, Utilities, ApkInstaller, GitHubTracker` |
-| **Blue Light Filter** | A module to protect your eyes from harmful blue light directly at the disp… | [GitHub](https://github.com/NoneBaiano/BlueLightFIlter) | `Android, Root, Modules` |
-| **Nullclaw** | Fastest, smallest, and fully autonomous AI assistant infrastructure writte… | [GitHub](https://github.com/nullclaw/nullclaw) | `AI, AI_assistant` |
-| **Extension Box** | An open-source, modular system monitoring app for Android. Track battery h… | [GitHub](https://github.com/omersusin/ExtensionBox) | `current, Android, Utilities` |
-| **Molly** | Enhanced and security-focused fork of Signal with Material You for Android | [GitHub](https://github.com/mollyim/mollyim-android) | `android, signal, materialyou` |
-| **PaperKnife** | Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compre… | [GitHub](https://t.me/popCLOUDS/11567) | `Android, Web, PDF` |
-| **LinOffice** | LinOffice lets you run Microslop Office on Linux by automatically installi… | [GitHub](https://github.com/eylenburg/linoffice) | `Linux, Office` |
-| **apkgit** | A Material 3 client to update apps from GitHub | [GitHub](https://github.com/Andrey4ik21pro1/apkgit) | `Android, Updater, Github` |
-| **Telephoto** | A lightweight, privacy-first alternative to Google Photos — powered by Tel… | [GitHub](https://github.com/ASRumon/Telephoto) | `Android, Bot, Storage` |
-| **Astronia** | Astronia is a lightweight and modern M3U8 video player for Android. | [GitHub](https://github.com/antoniegil/Astronia) | `Android, Player` |
-| **Material You Calculator** | An elegant, Android-native calculator and currency converter app, built wi… | [GitHub](https://github.com/metzger100/calculator) | `Android, MD3, Calculator` |
-| **ApkBu**ilder** | An Android development‑focused tool that lets you build and manage APK fil… | [GitHub](https://github.com/silvadev13/ApkBuilder) | `requirements, Android_Developement, Android, Termux` |
-| **Network Checker** | Network Checker — A curated set of network diagnostic and testing tools | [GitHub](https://github.com/mirarr-app/network-checker) | `Android, Windows, Linux, Network, Utilities` |
-| **Echo** | Time travelling audio recorder for Android. | [GitHub](https://github.com/mafik/echo) | `Android, Utilities` |
-| **ToolNeuron** | ToolNeuron is the most advanced offline-first AI assistant for Android, fe… | [GitHub](https://github.com/Siddhesh2377/ToolNeuron) | `features, Android, AI, Offline` |
-| **Kipty** | Android app that transcribes audio to help English learners follow podcast… | [GitHub](https://github.com/Vinnih-1/Kipty) | `Android, AI, Audio, Transcriber` |
-| **NothingXpert** | A small LSPosed/Xposed module that adds useful features to your Nothing Ph… | [GitHub](https://t.me/NothingXpert) | `Android, Nothing, Xposed, Modules` |
-| **yoink** | A simple, open-source media downloader powered by yt-dlp | [GitHub](https://github.com/coah80/yoink) | `Downloader, Website` |
-| **Sucrose** | Sucrose is a free and open-source wallpaper engine that lets you create an… | [GitHub](https://t.me/popCLOUDS/11431) | `Windows, Wallpaper, Customization, Engine` |
-| **MAList** | A simple project for local storage of your watchlist: movies, TV shows, an… | [GitHub](https://github.com/Phnem/MAList) | `Android, Local, Productivity, List` |
-| **🚨 Nvidia Accused of Using Pirated Books to Train Its AI Models** | Nvidia is being sued over claims that it knowingly used pirated books and… | [GitHub](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books) | `—` |
-| **LifeDots** | LifeDots transforms your home screen into a meaningful reminder of time's… | [GitHub](https://github.com/humonious17/LifeDots) | `Android, Customization` |
-| **SealPlus** | Your go-to Android app for downloading videos & audio from YouTube, Instag… | [GitHub](https://github.com/MaheshTechnicals/Sealplus) | `Android, Downloader, Ytdlp, Youtube` |
-| **We're giving away 150 promo codes for the TMPAD: Game Mode Booster app!** | We are giving away 150 promo codes for [TMPAD: Game Mode Booster](https://… | [GitHub](https://www.youtube.com/watch?v=1P4o2uKxpTA&utm_source=omer) | `708f2a223297` |
-| **Punch-hole Download Progress** | Xposed module that shows download progress as a ring around the camera cut… | [GitHub](https://github.com/hxreborn/punch-hole-download-progress) | `Android, Xposed, Modules, Customization` |
-| **librefind** | Discover and replace proprietary apps with FOSS alternatives | [GitHub](https://github.com/jksalcedo/librefind) | `Android, Utilities` |
-| **FaceDown** | Showcase repository for FaceDown: A sensor-based focus timer. Demonstratin… | [GitHub](https://github.com/arekbauer/FaceDown) | `Android, Productivity, Timer` |
-| **material-homepage** | A minimal, focused browser homepage and new tab | [GitHub](https://github.com/MrSIHAB/material-homepage) | `browser, homepage, MD3, newtab, Extension` |
-| **ADB D**evice Manager** | A powerful Windows+Android app for full Android device control through two… | [GitHub](https://github.com/Shrey113/Adb-Device-Manager-2) | `Android, Windows, ADB, Media` |
-| **Compressor** | Lightning fast, ad free, super lightweight native video compressor for And… | [GitHub](https://github.com/JoshAtticus/Compressor) | `Android, XVideos, Compressor, Utilities` |
-| **Scanly** | Scanly is a Fast document OCR scanner for Android | [GitHub](https://github.com/Azyrn/Scanly) | `Android, Documents, Scanner` |
-| **SoundCrowd** 🎵** | A free, open-source and lightweight music player for Android in modern mat… | [GitHub](https://t.me/popCLOUDS/11339) | `Android, Streaming, Music, Multimedia` |
-| **Pawgram** 📱** | Optimized Instagram Alpha fork built for smooth performance on Android dev… | [GitHub](https://github.com/helloskykoder/PawGram) | `Android, Instagram, Client` |
-| **WebToApp** | A native Android application that converts any website URL into a standalo… | [GitHub](https://t.me/popCLOUDS/11323) | `Android, AI, PWA, Tools` |
-| **docspace** | A simple, open-source Android app to keep your important files organized a… | [GitHub](https://t.me/fossclouds/296) | `Android, File, Manager, Privacy` |
-| **SkyStream** | SkyStream is a modern, cross-platform media streaming client inspired by C… | [GitHub](https://t.me/popCLOUDS/11312) | `Android, Media, Streaming` |
-| **TermuxHub** | Android application that indexes Termux tools using metadata. | [GitHub](https://github.com/maazm7d/TermuxHub) | `Android, Index, Learning` |
-| **TypeAssist** | TypeAssist is a powerful Android Accessibility Service that acts as an int… | [GitHub](https://t.me/popCLOUDS/11283) | `Android, AI, Productivity, Tools` |
-| **Varisankya** | Varisankya is a modern, high-performance Android application designed to h… | [GitHub](https://github.com/aarshps/varisankya-android) | `Android, Utilities` |
-| **Randwabot** | Clawdbot is a personal AI assistant you run on your own devices. It answer… | [GitHub](https://github.com/clawdbot/clawdbot) | `AI, Bot` |
-| **star** | star is the successor to the famous [Winlator](https://t.me/popMODS/3539)… | [GitHub](https://github.com/jacojayy/star) | `Android, Emulator` |
-| **ImageFlow** | This application is designed for converting videos into animated GIF and W… | [GitHub](https://github.com/GS90/ImageFlow) | `Linux, Utilities` |
-| **PAIOS** | Run Gemini Nano 100% offline. A powerful, private, & open-source AI interf… | [GitHub](https://t.me/popCLOUDS/11201) | `Android, AI, Local` |
-| **Google is working on a new Play Store feature called **“Try Before You Buy.”** With this system, users will be able to play premium (paid) games for a limited time without purchasing them first. This allows players to see whether they actually enjoy a game before spending money on it.** | According to early findings, the feature will be optional for developers a… | [GitHub](https://www.androidauthority.com/google-play-store-try-before-you-buy-apk-teardown-3630383) | `—` |
-| **Picarta AI** | Picarta AI is an image location search engine that utilizes Artificial Int… | — | `Website` |
-| **GitNote** | Android note app which integrate Git. You can use this app with other desk… | [GitHub](https://github.com/wiiznokes/gitnote) | `Android, Tools` |
-| **URBoard** | URBoard is a minimalist, beautiful, and highly customizable personal dashb… | [GitHub](https://t.me/urboardproject) | `Chrome, Extension, Customization` |
-| **ZenTree Tabs** | ZenTree Tabs is a modern Chrome Extension that organizes your tabs into a… | [GitHub](https://github.com/shuknuk/zentreeTabs) | `Chrome, Extension` |
-| **TabletQS** | Tablet UI style split QS-notification panel on mobile DPI | [GitHub](https://github.com/cybr47/TabletSplitQS) | `Android, XPosed, Modules` |
-| **aihub** | All-in-one Kotlin app that aggregates multiple AI assistants in a single t… | [GitHub](https://github.com/SilentCoderHere/aihub) | `Android, AI, Hub` |
-| **LightSession for ChatGPT** | Keep ChatGPT fast by keeping only the last N messages in the DOM. Local-on… | [GitHub](https://github.com/11me/light-session) | `Extension, Tools, AI` |
-| **Circle to Search** | CircleToSearch with multi search engine support for all android | [GitHub](https://github.com/AKS-Labs/CircleToSearch) | `Android, CTS, Search, Tools` |
-| **SpotiFLAC** | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no acco… | [GitHub](https://github.com/afkarxyz/SpotiFLAC) | `Linux, Windows, MacOS, Music, Downloader` |
-| **NothingLand** | NothingLand is a project that recreates a Dynamic Island–style interactive… | [GitHub](https://github.com/TheSerphh/NothingLand) | `Android, Dynamicİsland, Nothing` |
-| **Lyricify** | An advanced Android music tool that fetches accurate metadata and lyrics f… | [GitHub](https://t.me/popCLOUDS/11112) | `Android, Lyrics, Utilities` |
-| **Kaorios Toolbox** | Yet a great toolbox for SuperUsers | [GitHub](https://github.com/Wuang26/Kaorios-Toolbox) | `Android, Root, Shizuku, Tools` |
-| **city-roads** | city-roads is a browser-based mapping tool that draws every road in a sele… | [GitHub](https://github.com/anvaka/city-roads) | `Website, Utilities, Mapping` |
-| **Instagram CLI** | Instagram CLI is the world's first open-source command-line interface (CLI… | [GitHub](https://github.com/supreme-gg-gg/instagram-cli) | `typescript, idk` |
-| **zenshin.** | A poorly written web and electron based anime list manager with media stre… | [GitHub](https://m.youtube.com/watch?v=cpMpWohodUc) | `Windows, Linux, Web` |
-| **BoostX** | BoostX is a minimal yet powerful sound enhancement tool that allows users… | [GitHub](https://github.com/AumGupta/BoostX) | `Android, Tools` |
-| **Local Desktop** | Local Desktop is a free, open-source Android application that lets you run… | [GitHub](https://github.com/localdesktop/localdesktop) | `Android, Tools` |
-| **AppControlX** | A powerful Android application for controlling app behavior, battery optim… | [GitHub](https://github.com/risunCode/AppControl-X) | `Android, Root, Shizuku, Tools` |
-| **BatStats** | Detailed Stats will not show some of the stats (dependent on device). The… | [GitHub](https://github.com/mlm-games/BatStats) | `Android, Root, Shizuku, Tools` |
-| **Raise** | A Material You alarm app that aims to be impossible to ignore, using puzzl… | [GitHub](https://t.me/AJsStuff) | `Android, Clock` |
-| **0xDABmusic** | 0xDABmusic is a high-performance, native music player built with Go and Wa… | [GitHub](https://dab.0xarchit.is-a.dev) | `Linux, Windows, MacOS, Music` |
-| **SPOTIFY'S ENTIRE 300TB LIBRARY JUST GOT LEAKED!** | — | [GitHub](https://annas-archive.org/blog/backing-up-spotify.html) | `Spotify, AnnasArchive, Torrents, TechNews, DataHoarder` |
-| **App Group** | App Group lets you organize, customize, and launch your apps. Create group… | [GitHub](https://github.com/iandiv/AppGroup) | `Windows, Tools` |
-| **Self Attendance** | Self Attendance is a first-of-its-kind calendar-based attendance tracking… | [GitHub](https://github.com/xtractiion/self.attendance) | `Android, Productivity, attendance` |
-| **Sukko** | Open source KWGT alternative | [GitHub](https://github.com/sadellie/sukko) | `Android, Customization` |
-| **OpenScreen** | OpenScreen is a free, open‑source alternative to Screen Studio that lets y… | [GitHub](https://github.com/siddharthvaddem/openscreen) | `Utilities, Linux, Windows, MacOS` |
-| **Github Store** | Github Store is a cross‑platform “play store” for GitHub releases. It disc… | [GitHub](https://github.com/rainxchzed/Github-Store) | `Android, Store` |
-| **Hyper Bridge** | Hyper Bridge bridges standard Android notifications into the pill-shaped U… | [GitHub](https://github.com/D4vidDf/HyperBridge) | `Android, MIUI, HyperOS, Customization` |
-| **Dissent** | Dissent is a third-party Discord client designed for a smooth, native expe… | [GitHub](https://github.com/diamondburned/dissent) | `Social, Linux, Windows` |
-| **Game Hub** | Game Hub brings the simplicity of the classic OxygenOS 11 Game Space to mo… | [GitHub](https://github.com/FeDeveloper95/Game-Hub) | `Android, Tools` |
-| **Essentials** | Essentials is a collection of useful tools, tweaks, and enhancements desig… | [GitHub](https://t.me/tidwib) | `Android, Utilities` |
-| **Unblock Jam** | Classic game "Rush Hour" - private & open source. A private and open sourc… | [GitHub](https://github.com/vayun-mathur/unblock-jam) | `Android, Game` |
-| **CuteGIF** | CuteGIF is a simple and easy-to-use video to GIF tool for Android. | [GitHub](https://github.com/tasy5kg/CuteGIF) | `Android, Media, GIF, Tools` |
-| **Noisem** | Noisem allows you to edit your images in a fun way. It has LUTs of vintage… | [GitHub](https://github.com/mirarr-app/Noisem) | `Android, Media, Tools` |
-| **StoryPad** | StoryPad is a beautiful, privacy-first, open source journal & diary app de… | [GitHub](https://github.com/theachoem/storypad) | `Android, iOS, Productivity` |
-| **DroidRun** | 1DroidRun is a powerful framework for controlling Android and iOS devices… | [GitHub](https://github.com/droidrun/droidrun) | `Linux, MacOS, Windows, Automation, AI` |
-| **Momentum** | Android App to make montages easily | [GitHub](https://github.com/shub39/Momentum) | `Android, Media, Utilities` |
-| **Assistant Chooser** | Assistant Chooser allows users to easily set and manage their default assi… | [GitHub](https://github.com/Ayaanh001/Assistant-Chooser) | `Android, Utilities` |
-| **PlayTorrio** | PlayTorrio is an all-in-one media center application that brings together… | [GitHub](https://github.com/ayman707-ux/PlayTorrio) | `download, Inactive, Streaming, Linux, Windows, MacOS` |
-| **Misuzu Music** | A cross-platform local music player that supports automatic matching of ly… | [GitHub](https://github.com/MCDFsteve/MisuzuMusic) | `Player, Linux, Windows, MacOS` |
-| **Aniverse** | A anime streaming application built with Flutter. Streams anime content fr… | [GitHub](https://github.com/abhishekpeddada/aniverse) | `Anime, Android, Entertainment` |
-| **Prism** | Prism is a stunning, open-source weather app built with Flutter that bring… | [GitHub](https://t.me/billubuilder) | `Android, Weather` |
-| **Traffic Light** | Traffic Light is an open-source tool to track your network speed and data… | [GitHub](https://github.com/leekleak/traffic-light) | `Android, Network, Utilities` |
-| **OrionStore** | The ultimate home for modded apps. OrionStore offers instant access to You… | [GitHub](https://github.com/RookieEnough/Orion-Store) | `Android, Store, Mods` |
-| **Kelivo** | A Flutter LLM Chat Client | [GitHub](https://kelivo.psycheas.top) | `Android, iOS, AI` |
-| **CleanSweep** | CleanSweep is a powerful and private application for Android that helps yo… | [GitHub](https://github.com/loopotto/CleanSweep) | `Android, File, Cleaner, Manager` |
-| **BrowserOS** | BrowserOS is an open-source chromium fork that runs AI agents natively. Yo… | [GitHub](https://browseros.com) | `AI, Agent, Browser, Linux, MacOS, Windows` |
-| **Spot SponsorBlock** **(SponsorBlock for Spotify)** | Spot SponsorBlock is an open-source crowdsourced browser extension to skip… | [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) | `Extension, Music, Utilities` |
-| **PennyWise** | PennyWise is a modern expense management app that helps you track your inc… | [GitHub](https://t.me/fitx_updates) | `Android, Expense, Tracker, Linux, Tools` |
-| **AnghamiPlus** | AnghamiPlus is a sophisticated Xposed module that enhances your Anghami mu… | [GitHub](https://t.me/Kero309x_Chat) | `Android, Music, Xposed, LSPatch, Modules` |
-| **Summary Expressive** | A modern, BYOK and FOSS android app to summarize videos(YouTube, BiliBili)… | [GitHub](https://github.com/kid1412621/SummaryExpressive) | `Android, AI, Tools` |
-| **RepoHub** | RepoHub simplifies software installation on Linux, Windows, and macOS with… | [GitHub](https://github.com/yusufipk/RepoHub) | `Website, Windows, MacOS, Linux, Tools` |
-| **Language Dex** | Language Dex is a personal, customizable vocabulary trainer that lets you… | [GitHub](https://github.com/arthurcose/language-dex) | `Android, Learning, Language, Games` |
-| **Taison** | Taison is a personal fork of [Mihon](https://t.me/popMODS/4589), the open… | [GitHub](https://github.com/Gent8/Taison) | `Android, Reader, Manga` |
-| **Ubuntu Chroot Installer** 😀** | A comprehensive Android Linux environment featuring Ubuntu 24.04 with a bu… | [GitHub](https://github.com/ravindu644/Ubuntu-Chroot) | `Android, Root, Chroot` |
-| **Hey guys, Google's celebrating Play Points' 3rd Anniversary and giving away some cool gifts! only works in india but I haven't tested** | Here's my aka @rajarshikhatua link to join:  https://playpoints.withgoogle… | [GitHub](https://playpoints.withgoogle.com/perks/intl/en_in/events/google-play-points-third-anniversary/?invite-code=DBUFR2vQQVzBcCsq4LQMWB) | `—` |
-| **RecordMaster** | Material expressive Record app inspired by the Google Pixel Recorder app | [GitHub](https://github.com/PranshulGG/RecordMaster) | `Android, Utilities` |
-| **Masterkey** | MasterKey is a secure and private password manager that keeps all your sen… | [GitHub](https://github.com/PSHTeam/masterkey_core) | `Android, iOS, Security, Vault` |
-| **NerdSteam** | Discover trending games, player and price statistics, and detailed insight… | [GitHub](https://github.com/khanshoaib3/nerd-steam) | `Android, Steam` |
-| **Vanadium WebView & Browser Installer** | A Magisk/KernelSU module that changes the system WebView with Vanadium Web… | [GitHub](https://t.me/VanadiumGroup) | `Android, Root, Modules` |
-| **Paiesque** | Paiesque is an Android app that calculates your Personal Activity Intellig… | [GitHub](https://f-droid.org/packages/org.ojrandom.paiesque) | `Android, Health, Fitness, Privacy` |
-| **Awesome Nothing** | Awesome Nothing is a curated hub that indexes everything related to the No… | [GitHub](https://github.com/spike0en/awesome_nothing) | `Android, Nothing, CMF, İndex` |
-| **Furtive** | Privacy first. No accounts. No Google services. Full access to your GPS se… | [GitHub](https://github.com/ethicnology/furtive) | `Android, GPS, Tracking, Utilities` |
-| **mpvExtended** | mpvExtended is a front-end for the versatile media player mpv, built on th… | [GitHub](https://github.com/marlboro-advance/mpvEx) | `Android, Media, Player` |
-| **Sozo for AndroidTV** | Sozo is crafted with a perfect blend of simplicity and state-of-the-art el… | [GitHub](https://github.com/professorDeveloper/sozo-tv) | `Anime, Movie, AndroidTV` |
-| **ShizuWall** | A lightweight, privacy focused Android firewall application that blocks ne… | [GitHub](https://github.com/AhmetCanArslan/ShizuWall) | `Android, Shizuku, Network` |
-| **Public APIs** | Public APIs is a curated directory of free, open APIs for developers. It c… | [GitHub](https://github.com/public-apis/public-apis) | `Development` |
-| **Seeneva: smart comic reader** | Fully open source smart comic book reader with the ability to use OCR and… | [GitHub](https://github.com/Seeneva/seeneva-reader-android) | `Android, Comic, Reader` |
-| **Hacker AI** | Provides advanced AI and integrated tools to help security teams conduct c… | — | `AI, Website` |
-| **MovieBox Hooker (XPosed Module)** | MovieBox Hooker is an advanced Xposed Framework module built to unlock VIP… | [GitHub](https://github.com/Kero309x/MovieboxHooker) | `Android, Root, Xposed, Modules, Tools` |
-| **Coffre** | Coffre is a simple and intuitive Android application designed to help you… | [GitHub](https://github.com/N3Shemmy3/Coffre) | `Android, Utilities, Finance` |
-| **gotohp** | Unofficial Google Photos Desktop GUI Client. | [GitHub](https://github.com/xob0t/gotohp) | `requires, Media, Linux, MacOS` |
-| **OnePlus Archive** | OnePlus Archive is a firmware repository for OnePlus phones offering stock… | [GitHub](https://github.com/spike0en/oneplus_archive) | `Android, OnePlus, Firmware` |
-| **Glassy MaterialYou Icons** | Giveaway!** | [GitHub](https://t.me/popmodschat/725131) | `—` |
-| **AnyAPK** | __AnyAPK is a lightweight Android application installer that bypasses Goog… | [GitHub](https://github.com/sam1am/anyapk) | `Android, Utilities` |
-| **UndeadWallpaper** | UndeadWallpaper is a free, balls-to-the-wall Android app that brings your… | [GitHub](https://github.com/maocide/UndeadWallpaper) | `Android, Customization` |
-| **QuickBall** | A floating ball that provides quick access to system functions like volume… | [GitHub](https://github.com/chayanforyou/QuickBall) | `Android, Utilities` |
-| **Chitralaya** | __ | [GitHub](https://github.com/AKS-Labs/CloudGallery) | `Cloud, Android` |
-| **WinBoat** | WinBoat is a simple tool that lets you run Windows applications on Linux a… | [GitHub](https://github.com/TibixDev/winboat) | `Linux, Tools` |
-| **PixiEditor** | PixiEditor is a universal 2D editor that was made to provide you with tool… | [GitHub](https://github.com/PixiEditor/PixiEditor) | `Windows, Linux, MacOS, Editor, Graphic, Design` |
-| **Desktop-TUI** | A desktop environment without graphics, terminal-driven, minimalist, and n… | [GitHub](https://github.com/Julien-cpsn/desktop-tui) | `install, Windows, Linux, MacOS` |
-| **GitNuro  - Multiplatform Git Client** | The main goal of GitNuro is to provide a multiplatform open source Git cli… | [GitHub](https://github.com/JetpackDuba/Gitnuro) | `downloadinstall, features, Learning, Linux, Windows, MacOS` |
-| **Art of Manliness** | Art of Manliness is a men’s lifestyle platform that focuses on helping peo… | — | `Website, Android, iOS, SelfDevelopment` |
-| **OldTwitter** | Browser extension to return the old Twitter layout from 2015 (and option t… | [GitHub](https://github.com/dimdenGD/OldTwitter) | `Extension, Social` |
-| **Sticky Notes for Figma** | A simple sticky notes tool for Figma. | [GitHub](https://github.com/alexwidua/figma-sticky-notes) | `Design, Extension` |
-| **The Rickroll Programming Language** | Rick Roll Language is a Rick Astley oriented, dynamic, strong, esoteric pr… | [GitHub](https://github.com/orgs/Rick-Lang) | `Programming, Fun` |
-| **CopyFish** | Copyfish is a free browser extension that performs OCR on screenshots, ima… | [GitHub](https://github.com/A9T9/Copyfish) | `Extension, Utilities, OCR` |
-| **Giphy Trending** | This sample Android app presents the Giphy trending animated gifs for shar… | [GitHub](https://github.com/ryanw-mobile/giphy-trending) | `Android, Media` |
-| **Reef** | Reef is an open-source Android app that helps you take control of your scr… | [GitHub](https://github.com/PranavPurwar/Reef) | `Android, Productivity` |
-| **Claude Enhanced** | This extension adds a bunch of QOL/Utility features to Claude.ai, like Sea… | [GitHub](https://github.com/lugia19/Claude-Enhanced) | `features, Extension, Tools, AI` |
-| **AppVaultX** | AppVaultX is an Android “app vault” that lets you securely store, organize… | [GitHub](https://t.me/smartpack_kmanager) | `Android, Root, Tools` |
-| **Quitter** | Record your quitting journey | [GitHub](https://t.me/popCLOUDS/10435) | `Android, Windows, Linux, Utilities` |
-| **guys, this project needs help from devs to add a download feature to Instagram. Many other modded apps already have this feature, but none of them work with the official Instagram version where you get regular updates from the Play Store. The dev is currently unable to figure out how to implement it.** | so if you’re a developer and can help the community. here’s the GitHub lin… | [GitHub](https://github.com/ReSo7200/InstaEclipse) | `—` |
-| **Zenime - Ad free anime streaming platform** | Zenime is an open-source anime streaming service that uses a custom API, b… | [GitHub](https://github.com/itzzzme/zenime) | `general, Website, Streaming, Media, Anime` |
-| **NewSync** | NewSync is a feature-rich browser extension that brings synchronized lyric… | [GitHub](https://github.com/ban-heesoo/NewSync) | `installation, Extension` |
-| **Mind Mint** | Mind Mint is an Android application designed to help you stop doomscrollin… | [GitHub](https://github.com/gtxPrime/Mind-Mint) | `Android, Productivity` |
-| **Jezail** | Jezail is a powerful, all-in-one Android application that runs entirely on… | [GitHub](https://github.com/zahidaz/jezail) | `Android, Tools` |
-| **Tessel – A tile game** | Tessel is a colorful tile placement game. Place tiles with matching colors… | [GitHub](https://github.com/gvtulder/tessel) | `Android, Online, Games` |
-| **SteamBrew/Millennium** | SteamBrew/Millennium is a mod manager for the Steam desktop client. It let… | [GitHub](https://github.com/SteamClientHomebrew/Millennium) | `Windows, Linux, Tools, Gaming` |
-| **Apocalypse** | Apocalypse is an Android app that lets you preview and download media from… | [GitHub](https://github.com/MisfiT2020/Apocalypse) | `Android, Media, Downloader` |
-| **Nuvio Media Hub** | A modern media hub built with React Native and Expo, featuring comprehensi… | [GitHub](https://github.com/tapframe/NuvioStreamsAddon) | `Android, iOS, Media` |
-| **oxproxion** | oxproxion is a versatile and user-centric Android chat application designe… | [GitHub](https://github.com/stardomains3/oxproxion) | `Android, AI` |
-| **Restoid** | Restoid gives you control over your app backups through a clean and simple… | [GitHub](https://github.com/hddq/restoid) | `Android, Root, Tools, Backup` |
-| **Duolingo Max** | Gives Duolingo Max features for free | [GitHub](https://github.com/apersongithub/Duolingo-Unlimited-Hearts) | `installation, Extension, Tools` |
-| **Spek** | Spek is a free, open-source spectrogram viewer that helps you analyze audi… | [GitHub](https://github.com/alexkay/spek) | `Linux, MacOS, Windows, Audio, Tools` |
-| **Just Delete Me** | Just Delete Me maps out the account deletion procedures for many platforms… | [GitHub](https://github.com/AmanoTeam/JustDeleteMe) | `Website, Android, Security, Tools` |
-| **PlugBrain** | PlugBrain is an app that encourages regular breaks from distracting apps b… | [GitHub](https://github.com/msbelaid/PlugBrain) | `Android, Productivity` |
-| **PrivacyFlip** | PrivacyFlip automatically manages your device's privacy features based on… | [GitHub](https://github.com/dorumrr/privacyFlip) | `Android, Root, Privacy, Tools` |
-| **YouTube Comment Search (Continued)** | YCS is a lightweight continuation of YouTube Comment Search that runs dire… | [GitHub](https://github.com/pc035860/YCS-cont) | `Extension, Tools` |
-| **Refined GitHub** | Browser extension that simplifies the GitHub interface and adds useful fea… | [GitHub](https://github.com/refined-github/refined-github) | `install, highlights, Extension, Tools` |
-| **AdNauseam** | AdNauseam is a lightweight browser extension that blends software tool and… | [GitHub](https://github.com/dhowe/AdNauseam) | `Extension, AdBlocker` |
-| **Android Code Studio** | An IDE to develop real, Gradle-based Android applications on Android devic… | [GitHub](https://github.com/AndroidCSOfficial/android-code-studio) | `Android, Development, Tools` |
-| **Volume Key Track Control** | An Xposed module that allows to skip and play/pause track with volume keys | [GitHub](https://github.com/Hepolise/VolumeKeyTrackControlModule) | `Android, Xposed, Modules, Root` |
-| **Flattery** | WearOS launcher designed to look like the Apple Watch launcher. | [GitHub](https://github.com/agronick/Flattery) | `WearOS, Customization` |
-| **RedditEnhancer** | RedditEnhancer is a privacy-friendly browser extension that lets you clean… | [GitHub](https://github.com/joelacus/RedditEnhancer) | `download, features, Extension` |
-| **Keybr** | Keybr is a smart typing trainer that goes beyond static drills. It records… | [GitHub](https://github.com/aradzie/keybr.com) | `Website` |
-| **HTTP on Fire** | No-code Android HTTP server builder. Create dynamic servers instantly, hos… | [GitHub](https://github.com/zahidaz/HTTPOnFire) | `Android, Tools` |
-| **Aesir** | **Aesir** is a revolutionary cross-platform GUI application that transform… | [GitHub](https://github.com/daglaroglou/Aesir4) | `Linux, Android, Tools` |
-| **RapidRAW** | A beautiful, non-destructive, and GPU-accelerated RAW image editor built w… | [GitHub](https://github.com/CyberTimon/RapidRAW) | `Windows, Linux, MacOS, Tools, Media, Editing` |
-| **Emoji Encoder/Decoder** | Encode arbitrary data inside a single emoji (or any Unicode character) usi… | — | `Website, Tools` |
-| **LTE Cleaner FOSS** | Free & open-source Android cleaner that removes logs, temporary files, and… | [GitHub](https://github.com/MDP43140/LTECleanerFOSS) | `Android, Tools, Cleaning` |
-| **GitSync** | GitSync is a cross-platform git client for Android and iOS that aims to si… | [GitHub](https://github.com/ViscousPot/GitSync) | `Android, MacOS, iOS, Tools` |
-| **Ludi** | Ludi is a Kotlin multiplatform app(Android + Desktop) For browsing & disco… | [GitHub](https://github.com/mr3y-the-programmer/Ludi) | `Android, MacOS, Windows, Linux, Utilities` |
-| **Podcaster** | A podcast listening app that showcases using Jetpack Media 3 in a real, of… | [GitHub](https://github.com/mr3y-the-programmer/Podcaster) | `Android, Media, Podcast` |
-| **GopherTube** | GopherTube is a terminal-based YouTube client that lets you search, previe… | [GitHub](https://github.com/KrishnaSSH/GopherTube) | `installation, Linux, Media` |
-| **AnswerGit** | AnswerGit is a platform that allows you to analyze Git repositories and as… | [GitHub](https://answergit.vercel.app) | `Website, Tools, AI` |
-| **FairScan** | FairScan is an Android app to scan documents. It aims to be simple and res… | [GitHub](https://fairscan.org) | `Android, Utilities` |
-| **Gurk** | Signal Messenger client for terminal | [GitHub](https://github.com/boxdot/gurk-rs) | `installation, usage, Linux, MacOS, Windows, Social` |
-| **Network Switch** | A modern Android application that enables users to toggle between 4G and 5… | [GitHub](https://github.com/aunchagaonkar/NetworkSwitch) | `installation, Android, Utilities, Network` |
-| **RESL = Runtime Evaluated Serialization Language** | RESL is a modern configuration and serialization language with variables,… | [GitHub](https://decipher3114.github.io/resl) | `—` |
-| **Karing** | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | [GitHub](https://github.com/KaringX/karing) | `install, features, Android, Windows, MacOS, iOS, Utilities, Network` |
-| **Newelle** | Newelle is an open‑source desktop AI assistant for GNOME that provides a n… | [GitHub](https://github.com/topics/newelle-extension) | `Linux, Utilities` |
-| **Ampersand** | Ampersand is a research project, and also an app. It wants to do one thing… | [GitHub](https://github.com/NyaomiDEV/Ampersand) | `Android, Utilities` |
-| **WhatAnime** | WhatAnime is a powerful image recognition tool designed specifically for a… | [GitHub](https://github.com/JanYoStudio/WhatAnime) | `Android, Utilities` |
-| **Shiru** | BitTorrent streaming software with no paws in the way—watch anime in real-… | [GitHub](https://github.com/RockinChaos/Shiru) | `Android, Linux, Windows, MacOS, Streaming, Entertaiment, Anime` |
-| **Audionyx** | An app that lets you listen remotely to what's happening around your phone… | [GitHub](https://t.me/popCLOUDS/10119) | `Android, Audio, Utilities` |
-| **HMA-OSS** | An Xposed module to intercept applist and some settings detections. | [GitHub](https://github.com/frknkrc44/HMA-OSS) | `Android, Root, XPosed, Modules` |
-| **Atomic - Periodic Table** | A periodic table for all your science needs for both schoolwork and fun! | [GitHub](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) | `download, Android, Utilities, Science` |
-| **Boostify** | Boostify is a modern, Xposed module that supercharges WhatsApp with smart… | [GitHub](https://github.com/wizdom13/Boostify) | `boostify, Android, Root, XPosed, Modules` |
-| **WhatsCLI** | A command-line WhatsApp client written in Go and highly riceable with Lua… | [GitHub](https://github.com/ArturCSegat/whats-cli) | `installation, features, Social, MacOS, Windows, Linux` |
-| **İmage Search** | An Android app using the Unsplash API to search, view, zoom, and download… | [GitHub](https://github.com/androidwithabhishek/Image-Search-App) | `screenshots, Android, Media` |
-| **AdbPad** | AdpPad is a GUI software to test android apps using adb. | [GitHub](https://github.com/kaleidot725/AdbPad) | `Windows, MacOS, Tools` |
-| **IntruderSelfie** | IntruderSelfie silently snaps a front-camera photo every time the screen i… | [GitHub](https://github.com/tharunbirla/IntruderSelfie) | `Android, Tools` |
-| **Choona - Guitar Tuner** | Guitar tuner application for Android with support for custom tunings. | [GitHub](https://github.com/rohankhayech/Choona) | `Android, Entertainment` |
-| **SpeakThat!** | SpeakThat! is an Android app that reads your notifications aloud, helping… | [GitHub](https://github.com/mitchib1440/SpeakThat) | `Android, Utilities` |
-| **PixelPlay** | PixelPlay is a modern, offline-first music player for Android, built with… | [GitHub](https://t.me/thevelopersupport) | `Android, Music, Player` |
-| **InstallerX Revived (Community Edition)** | A modern and functional Android app installer. (You know some birds are no… | [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) | `key, Android, Root, Utilities` |
-| **Fluffy - Android TV File Manager** | A fast, modern file manager with powerful archive support and an Android T… | [GitHub](https://github.com/mlm-games/Fluffy) | `Android, TV, Media` |
-| **Dominator music** | Open Source M3 YouTube Music client forked from InnerTune | [GitHub](https://github.com/DominatorStufs/DominatorMusic) | `Android, Music` |
-| **Coreply** | Coreply is an open-source Android app designed to make texting faster and… | [GitHub](https://discord.gg/zCsQKmTFTk) | `Android, AI, Tools, Writing` |
-| **KonaBess** | A GPU overclock & undervolt tool for various Snapdragon chips | [GitHub](https://t.me/adreno_konabess) | `Android, Root, Tools` |
-| **OpenCut** | The open-source CapCut alternative | — | `Website, Media, Editor` |
-| **WhatsMicFix** | Improves the quality and level of audio sent via WhatsApp when the microph… | [GitHub](https://github.com/D4vRAM369/WhatsMicFix) | `Android, Root, Xposed, Modules` |
-| **WinApps** | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) a… | [GitHub](https://github.com/winapps-org/winapps) | `installation, officially, Linux, Tools` |
-| **Repertoire** | Repertoire is a cross-platform application designed for musicians, dancers… | [GitHub](https://github.com/Adithya-Jayan/MyRepertoirApp) | `Android, Linux, Windows, Web, Entertaiment` |
-| **WebLibre** | WebLibre is an independent browser project built on the foundation of Mozi… | [GitHub](https://github.com/FaFre/WebLibre) | `Android, Browser` |
-| **Clippy (Unofficial)** | Clippy by FireCube (Not by Microsoft) brings back the infamous Clippit int… | [GitHub](https://github.com/FireCubeStudios/Clippy) | `Windows, Tools` |
-| **BadLock** | An alternative, user-friendly client for managing Samsung Good Lock module… | [GitHub](https://github.com/HimaSnehith/BadLock---An-efficient-alternative-to-GoodLock-FineLock) | `Android, Tools` |
-| **GameNative** | GameNative allows you to play games you own on Steam directly on Android d… | [GitHub](https://github.com/utkarshdalal/GameNative) | `Android, Tools` |
-| **Flux** | A lightweight Android productivity app built with Material 3. | [GitHub](https://github.com/chindaronit/Flux) | `Android, Productivity` |
-| **Wplace 🌍** | Wplace (aka “Worldplace”) is a real-time, collaborative pixel-art canvas o… | — | `PixelArt, Collaboration, MapCanvas, rPlace, Fandom` |
-| **Telegram Downloader** | Instantly save any video (MP4, MKV), photo, music (MP3), or document direc… | — | `Website, Extension, Utilities` |
-| **Shizuku Package Installer** | A lightweight yet powerful package installer for Android. | [GitHub](https://github.com/vvb2060/PackageInstaller) | `Android, Tools, Root` |
-| **SetBox** | SetBox is a powerful application that allows you to easily modify Android… | [GitHub](https://github.com/YasserNull/setbox) | `Android, Tools, Root` |
-| **MouseDroid** | Cross platform application that transforms your android phone in an input… | [GitHub](https://t.me/popCLOUDS/9910) | `Android, Tools` |
-| **Android 17: Cinnamon Bun** | https://www.androidauthority.com/android-17-codename-3585116/ | [GitHub](https://www.androidauthority.com/android-17-codename-3585116) | `—` |
-| **Shappky** | Shappky, short for Shell App Killer, is an app that stops background appli… | [GitHub](https://t.me/popCLOUDS/9906) | `Android, Tools, Root` |
-| **Smart Cleaner for Android** | Smart Cleaner helps you free up space and manage your device. It can remov… | [GitHub](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) | `Android, Cleaner, Tool` |
-| **GLM AI** | — | [GitHub](https://github.com/zai-org/GLM-4.5) | `AI` |
-| **Infamick** | Infamick is a powerful system utility script for rooted Android devices. I… | [GitHub](https://t.me/popCLOUDS/9861) | `Android, Root, Modules, Optimization` |
-| **Frogue** | 3D FPS with Boss Fights and Randomized Weapons | [GitHub](https://github.com/necrashter/frogue) | `Android, Desktop, Games` |
-| **Nothing K** | A digital vault for storing passwords with symmetric cryptography. Nothing… | [GitHub](https://github.com/cuadratico/NothingK) | `Android, Tools` |
-| **Giveaway Ended!** | 🏆 **OneUI Widgets Giveaway!** | [GitHub](https://t.me/popmodschat/678511) | `—` |
-| **Sine** | Sine is a community-driven mod/theme manager for all Firefox-based browser… | [GitHub](https://github.com/CosmoCreeper/Sine) | `Linux, Windows, MacOS, Browser, Customization` |
-| **Mitool for Android** | An application that transforms Xiaomi's official tools into a flexible mob… | [GitHub](https://github.com/offici5l/MiTools) | `Android, Hyperos, Tools` |
-| **RvKernel Manager** | Material Expressive Design Kernel Manager for Android 12+ | [GitHub](https://github.com/Rve27/RvKernel-Manager) | `Android, Root, Tools` |
-| **FlipperDroid** | FlipperDroid transforms a modern Android phone into a flexible and portabl… | [GitHub](https://github.com/Jeremiznoo/FlipperDroid) | `Android, Tools` |
-| **Winlay** | — | [GitHub](https://github.com/a3x-xyz/Winlay) | `Android, Tools` |
-| **Github Profile Analyser** | A serverless web app built with Cloudflare Workers to fetch and visualize… | [GitHub](https://github.com/0xarchit/github-profile-analyzer) | `Website, Tools` |
-| **Glow - System Analysis Software** | Glow is a powerful system analysis tool designed to provide an intuitive o… | [GitHub](https://github.com/turkaysoftware/glow) | `Windows, Tools` |
-| **Return YouTube Trending** | An extension to replace Shorts tab with Trending. Developed with ChatGPT a… | [GitHub](https://github.com/Dr-Sauce/ReturnYouTubeTrending) | `install, Android, iOS, Extension` |
-| **Tangential** | A Location-based event triggering Android application, that enables users… | [GitHub](https://github.com/CosmoSailors/Tangential) | `Android, Utilities, Location` |
-| **Just Chatting** | An app focused on a great Twitch chat experience. | [GitHub](https://github.com/outadoc/just-chatting) | `Android, iOS, Social` |
-| **AppLock** | AppLock is a modern, open-source Android app locker designed to protect yo… | [GitHub](https://github.com/PranavPurwar/AppLock) | `Android, Privacy, Security` |
-| **Tomato** | Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expr… | [GitHub](https://github.com/nsh07/Tomato) | `Android, Productivity` |
-| **WebScraper** | It is a toolkit containing scripts for webscraper in two ways one is with… | [GitHub](https://github.com/0xarchit/duckduckgo-webscraper) | `installation, DevTools, Script, Utilities` |
-| **Ultimatum** | Ultimatum is a chromium fork with webextensions support on Android, anti-d… | [GitHub](https://t.me/ultimatumBrowserGroup) | `Android, Browser, Chromium` |
-| **NouTube** | YouTube and YouTube Music in a single app. No ads, plays in the background | [GitHub](https://github.com/nonbili/NouTube) | `Android, Media` |
-| **Scroll2PDF** | Its a open-source windows software built in python that can convert any sc… | [GitHub](https://github.com/0xarchit/Scroll-To-Pdf) | `Windows, Utilities, Productivity` |
-| **[Oxidiko](https://github.com/Oxidiko/Oxidiko) is a one‑tap login system that actually respects you. 🔒 it’s secure, privacy‑first, and completely serverless — your data stays locked in your browser, not on some shady server farm. no tracking, no selling your soul, no bs. just one tap and you’re in. oh — and it’s open source, so you can check the code and help developing it. this is login for people who value their privacy and their sanity.** | Buy me a ko-fi: https://ko-fi.com/oxidiko | [GitHub](https://github.com/Oxidiko/Oxidiko) | `—` |
-| **OneURL** | A URL-Shortener with OneUI-Design. | [GitHub](https://github.com/Lemkinator/OneUrl) | `Android, Utilities` |
-| **Torrent Search** | An android app to search and download torrents from multiple providers. | [GitHub](https://github.com/prajwalch/TorrentSearch) | `Android, Tools` |
-| **AYA** | AYA is a desktop application for easily controlling android devices, which… | [GitHub](https://aya.liriliri.io) | `Windows, MacOS, Linux, Tools` |
-| **Booming Music** | Booming Music is a modern, local music player for Android that focuses on… | [GitHub](https://github.com/mardous/BoomingMusic) | `Android, Music` |
-| **HyperUnlocked** | A Magisk/KernelSU/APatch module made to unlock all high-end features possi… | [GitHub](https://github.com/ukriu/HyperUnlocked) | `some, Android, Root, Modules, Xiaomi` |
-| **App Manager GUI** | A multiplatform tool using ADB to effortlessly manage Android apps: extrac… | [GitHub](https://github.com/BlassGO/AppManager-GUI) | `first, features, Windows, Linux, Tools` |
-| **GPS Rider** | GPS Rider is a powerful Android app and Xposed module that allows you to c… | [GitHub](https://github.com/dvhamham/gps-rider) | `Android, Xposed, Utilities` |
-| **Paperwise PDF Maker** | A simple, private, and open-source app to scan images and create PDF docum… | [GitHub](https://github.com/prateek54353/PaperWise) | `Android, Linux, Windows, MacOS, Utilities` |
-| **GodSVG** | GodSVG is a structured SVG editor[**.**](https://godsvg.com/) Unlike other… | [GitHub](https://github.com/MewPurPur/GodSVG) | `Android, Linux, Windows, MacOS, Tools, Design` |
-| **Procrastaint** | Procrastaint is a todo list app that lets users create time-based tasks by… | [GitHub](https://github.com/Pahina0/Procrastaint) | `Android, Productivity` |
-| **NoWakeLock** | NoWakeLock empowers you to take control of your Android device's wakelocks… | [GitHub](https://t.me/nowakelock) | `Android, Root, Tools` |
-| **Trayy** | Trayy is a Windows utility that allows you to send applications to the sys… | [GitHub](https://github.com/alirezagsm/Trayy) | `Windows, Utilities` |
-| **Voxa** | Voxa is a sleek, lightweight, native macOS Discord client built using Swif… | [GitHub](https://github.com/voxa-org/Voxa) | `MacOS, Social` |
-| **GooseDroid - Chaos Engine** | GooseDroid is a Magisk/KernelSU module that brings random, chaotic, goose-… | [GitHub](https://github.com/Edxlweiss/GooseDroid) | `Android, Root, Modules` |
-| **StatusApp** | Get WhatsApp status & Instagram Feed-Reel photo & video. Chat with any Wha… | [GitHub](https://github.com/kartiknagar333/StatusApp) | `Android, Media, Utilities` |
-| **Pocsaw** | Pockaw is a free and simple budgeting app designed to help you manage your… | [GitHub](https://github.com/layground/pockaw) | `Android, Linux, Windows, MacOS, Tools` |
-| **YouLy+** | YouLy+ is a browser extension that enhances your YouTube Music experience… | [GitHub](https://github.com/ibratabian17/YouLyPlus) | `installation, Extension, Music` |
-| **DeepWiki** | DeepWiki provides up-to-date documentation you can talk to, for every repo… | [GitHub](https://deepwiki.com) | `Android, Utilities` |
-| **OTP Helper** | An open-source application that allows you to copy OTP and codes from SMS… | [GitHub](https://github.com/jd1378/otphelper) | `Android, Utilities` |
-| **Snipping Lens** | Snipping Lens is a cross-platform application that automatically detects w… | [GitHub](https://t.me/popCLOUDS/9640) | `Desktop, Windows, Linux, Utilities` |
-| **nNotes** | Smart, Minimal Notes App | [GitHub](https://github.com/Bhavukverma17/nNotes) | `Android, Productivity` |
-| **TVGarden – Live TV Streaming Client** | TVGarden for TV is an unofficial Android TV app that brings the fantastic… | [GitHub](https://github.com/gmb7886/TVGardenforTV) | `android, livetv, streaming` |
-| **Ineffable Hub** | Ineffable Hub is an all-in-one Android personalization toolkit designed fo… | [GitHub](https://t.me/Flexify_updates) | `Android, Customization` |
-| **Singularity** | Fork and Reborn version of [BlackHole](https://t.me/popMODS/3643) | [GitHub](https://github.com/atinba/Singularity) | `Android, Music` |
-| **Memno — Save Links as Notes with Metadata Previews** | Memno is a sleek and minimal mobile app (built with Flutter) for quickly s… | [GitHub](https://t.me/popCLOUDS/9598) | `android, productivity, bookmark` |
-| **️Apk Editor Monet - Android APK Modification Tool** | Apk Editor Monet is a modified version of the popular APK Editor Pro for A… | [GitHub](https://github.com/WaifuPX-DG/Apk-Editor-Monet) | `android, tool` |
-| **SDK Monitor** | SDK Monitor shows you which Android API levels your installed apps are tar… | [GitHub](https://github.com/bernaferrari/SDKMonitor) | `Android, Tools` |
-| **olmOCR** | A toolkit for converting PDFs and other image-based document formats into… | — | `Website, AI, Tools` |
-| **Taskfolio - Android task management app** | Taskfolio is a simple and intuitive task management app designed to seamle… | [GitHub](https://github.com/opatry/taskfolio) | `android, task, manager` |
-| **RikkaHub** | A native Android LLM chat client that supports switching between different… | [GitHub](https://discord.gg/9weBqxe5c4) | `Android, AI, Productivity` |
-| **No need root, you can do with [LSPatch](https://t.me/popMODS/4326) as well or you can use this LSPatch (https://github.com/JingMatrix/LSPatch/releases)** | — | [GitHub](https://github.com/JingMatrix/LSPatch) | `—` |
-| **Spotify Plus** | Spotify Plus is an Xposed module that adds beautiful lyrics to Spotify | [GitHub](https://t.me/popCLOUDS/9557) | `Android, Root, Xposed, LsPatch, NonRoot` |
-| **Scrcpy-GUI** | An unofficial beginner-friendly user interface for the Scrcpy Project. | [GitHub](https://github.com/GeorgeEnglezos/Scrcpy-GUI) | `Windows, Utilities` |
-| **pairipfix** | This LSPosed module bypasses the "Get this app from Play" screen that appe… | [GitHub](https://github.com/ahmedmani/pairipfix) | `Android, Xposed, Modules` |
-| **Alternate - Local Caller ID Detector** | A privacy-focused React Native app that helps you identify unknown callers… | [GitHub](https://github.com/BioHazard786/Alternate) | `Android, Utilities` |
-| **Nanobrowser** | Nanobrowser is an open-source AI web automation tool that runs in your bro… | [GitHub](https://github.com/nanobrowser/nanobrowser) | `AI, Browser, Extension` |
-| **Shots Studio** | Shots Studio turns your chaotic screenshot gallery into an intelligent, or… | [GitHub](https://t.me/popCLOUDS/9521) | `Android, Utilities` |
-| **Pixabay Android App** | Pixabay Android App is a feature-rich mobile application that lets you eff… | [GitHub](https://github.com/ahmadrezagh671/Pixabay_Android_App) | `Android, Pixabay, ImageSearch` |
-| **Bolt Kernel Flasher** | Bolt Kernel Flasher is a modern Android application designed to easily fla… | [GitHub](https://t.me/boltKernelFlasher) | `Android, Root` |
-| **PlusPlusBattery** | PlusPlusBattery is a lightweight battery info and health estimation tool s… | [GitHub](https://github.com/dijia1124/PlusPlusBattery) | `Android, Root` |
-| **Downlodr** | Downlodr is a powerful, user-friendly video downloading solution that supp… | [GitHub](https://github.com/Talisik/Downlodr) | `Windows, VideoDownloader, ElectronApp, YouTubeDL, FFmpeg` |
-| **React Bits** | React Bits is a large collection of animated React components made to spic… | — | `Website, Design` |
-| **Digitally** | A hybrid counter/habit tracker app built for Android devices using Kotlin… | [GitHub](https://github.com/nicanor-jay/digitally) | `features, Android, Productivity, Habits` |
-| **GreaseMilkyway** | GreaseMilkyway is an Android accessibility service designed to help people… | [GitHub](https://github.com/kasnder/GreaseMilkyway) | `Android, Productivity` |
-| **JITA - Just in Time Assistant** | JITA is a comprehensive productivity and task management application for A… | [GitHub](https://github.com/mansour0303/Jita_App) | `Android, Productivity` |
-| **Spotizerr** | a music downloader which combines the best of two worlds: Spotify's catalo… | [GitHub](https://github.com/Xoconoch/spotizerr) | `installation, Utilities, Tools, Music, Windows, Linux, MacOS` |
-| **Packet** | A partial implementation of Google's Quick Share protocol that lets you se… | [GitHub](https://github.com/nozwock/packet) | `Linux, Tools` |
-| **Waifu Walls** | A must-have wallpaper app for every weeb! Waifu Walls brings you a collect… | [GitHub](https://github.com/ronitkrshah/waifu-walls) | `Android, Theming` |
-| **Launchpad Search - Shortcuts** | Launchpad Search can replace your digital assistant and give you full cont… | [GitHub](https://github.com/jaxparrow07/launchpad-search) | `Android, Customization` |
-| **SwitchAI** (formerly [VoiceGPT](https://t.me/popMODS/4657))** | SwitchAI lets you seamlessly choose your preferred AI assistant. With a si… | [GitHub](https://github.com/WSTxda/SwitchAI) | `Android, AI` |
-| **WikWok** | WikWok is a beautiful and functional app that transforms your Wikipedia re… | [GitHub](https://github.com/terrakok/WikWok) | `installation, Learning, Android, Linux, Windows, MacOS` |
-| **Zed** | Zed is a high-performance, multiplayer code editor from the creators of At… | [GitHub](https://github.com/zed-industries/zed) | `Linux, Windows, MacOS, Web, Coding` |
-| **Revengi** | Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair,… | [GitHub](https://github.com/RevEngiSquad/revengi-app) | `downloads, screenshots, features, Tools, Android, Linux, Windows, Website, Bot` |
-| **Ice** | Ice is a powerful menu bar management tool. While its primary function is… | [GitHub](https://github.com/jordanbaird/Ice) | `install, featuresroadmap, MacOS, Utilities` |
-| **Google AI Edge Gallery** | The Google AI Edge Gallery is an experimental app that puts the power of c… | [GitHub](https://github.com/google-ai-edge/gallery) | `Android, Local, AI` |
-| **Brisk** | Brisk is a high-performance download manager, built from scratch without e… | [GitHub](https://github.com/BrisklyDev/brisk) | `package, Linux, Windows, MacOS, Downloader` |
-| **JTV-GO Server** | **Access JioTV Go - streamlined for quick access and optimal performance! | [GitHub](https://t.me/popCLOUDS/9327) | `Android, Livetv, Stream, Entertaiment` |
-| **Sentinel Lens – Facial Recognition Surveillance App** | Sentinel Lens is a facial recognition surveillance app that sends Telegram… | [GitHub](https://github.com/dev-diaries41/sentinel-lens) | `Android, Security, Tools` |
-| **Terabox Downloader Unlimited** | This Downloader will give you fast download url from a Terabox shared link. | — | `Website, Tools` |
-| **CrapF*cker** | CrapFixer is a modern, simple, and effective tool to clean up unnecessary… | [GitHub](https://t.me/popCLOUDS/9317) | `Windows, Utilities` |
-| **DeskFrame** | A customizable, frameless folder viewer for your desktop minimal, snappy,… | [GitHub](https://github.com/PinchToDebug/DeskFrame) | `Windows, Tools` |
-| **NullFlix** | NullFlix is a free, web-based movie streaming platform built with Next.js… | [GitHub](https://v0-nullflix.vercel.app) | `Website, Streaming` |
-| **spotify-qt** | An unofficial Spotify client using Qt as a simpler, lighter alternative to… | [GitHub](https://github.com/kraxarn/spotify-qt) | `installing, Linux, Windows, Music` |
-| **APK Extractor - A Simple Modern APK Extractor App** | The APK Extractor enables you to Backup and Restore your installed App. | [GitHub](https://github.com/Domilopment/apk-extractor) | `highlights, Android, Tools` |
-| **YASB Reborn (Yet Another Status Bar)** | YASB Reborn is a highly customizable Windows status bar written in Python,… | [GitHub](https://github.com/amnweb/yasb-themes) | `windows, statusbar, customization` |
-| **VS Code Fork Extension Installer** | VS Code Fork Extension Installer | [GitHub](https://github.com/soulspark666/VSCode-Fork-Extension-Installer) | `installation, chrome, extension, vscode` |
-| **AppSumo** | A platform that offers lifetime deals on software and digital tools for en… | — | `Website, Deals, LifetimeDeals` |
-| **Piko** | An open-source project offering ReVanced patches specifically for Twitter/… | [GitHub](https://t.me/popCLOUDS/9225) | `Android, ReVanced, Twitter` |
-| **Igatha** | An open-source SOS signaling and recovery app designed for war zones and d… | [GitHub](https://github.com/nizarmah/igatha) | `Android, iOS, SOS` |
-| **Complexity** | Supercharge your favourite AI Chat web apps. | [GitHub](https://github.com/pnd280/complexity) | `Extension, Desktop, Android, AI` |
-| **LLMs** | Discover the power of AI with our Kotlin Multiplatform app. Choose from th… | [GitHub](https://t.me/popCLOUDS/9177) | `Website, Android, AI` |
-| **Cumsung** | Cumsung is a simple, no-frills app that lets you mute the camera shutter s… | [GitHub](https://github.com/ericswpark/camsung) | `Android, Utilities` |
-| **MotionEaseTune** | A simple application that can prevent you from motion sickness via 100Hz s… | [GitHub](https://github.com/BHznJNs/MotionEaseTune) | `Android, Audio, Utilities` |
-| **Tiny8Bit** | Chips is a collection of 8-bit chip and system emulators implemented as st… | [GitHub](https://github.com/floooh/chips) | `Website, Emulator, 8bit, RetroComputing` |
-| **Codedex** | Codédex is an interactive platform that teaches programming through a gami… | — | `Website, Learning` |
-| **HuntGames** | HuntGames is an Android memory editor and analysis on ARM64 devices. This… | [GitHub](https://t.me/HuntGames77) | `Android, Root, Tools` |
-| **Nobook** | Nobook is a lightweight Android application to browse facebook. | [GitHub](https://github.com/ycngmn/Nobook) | `Android, Social` |
-| **Crude** | All in one app and workflow launcher. | [GitHub](https://github.com/KusStar/krude-extensions) | `Android, Customization` |
-| **Eros Samsung Flasher** | Eros is a lightweight Android app (3MB) designed to flash firmware on Sams… | [GitHub](https://t.me/ErosMobileTool) | `Android, Samsung, Tools` |
-| **LiTube** (Also check [YouTube-lite](https://github.com/HydeYYHH/YouTube-lite))** | LiTube e is a lightweight Android WebView wrapper for YouTube, offering ma… | [GitHub](https://github.com/HydeYYHH/YouTube-lite) | `Android, Media, YouTube` |
-| **Govd** | A Telegram bot for downloading media from various platforms. | [GitHub](https://github.com/govdbot/govd) | `Telegram, Bot, Media` |
-| **SysAdmin** | SysAdmin is an open-source mobile application that puts the power of Linux… | [GitHub](https://github.com/prathameshkhade/SysAdmin) | `screenshots, Android, Tools` |
-| **Drawpile** | Drawpile is a Free, Libre and Open Source program that lets you draw, pain… | [GitHub](https://github.com/drawpile/Drawpile) | `Android, Linux, Windows, MacOS, Drawing` |
-| **Breeze Shell** | Breeze is an alternative context menu for Windows 10 and Windows 11. | [GitHub](https://github.com/std-microblock/breeze-shell) | `Windows, Utilities` |
-| **OpenTracks** | __OpenTracks__ is a sport tracking application that completely respects yo… | [GitHub](https://github.com/OpenTracksApp/OpenTracks) | `Android, Healthcare` |
-| **Biometric Bypass** | This LSPosed (Xposed) module streamlines face unlock by skipping the confi… | [GitHub](https://github.com/rafareborn/biometric-bypass) | `Android, Root, Xposed, Modules` |
-| **Music Time for Spotify** ( Spotify Premium)** | Music Time for Spotify is a VS Code extension that discovers the most prod… | [GitHub](https://github.com/swdotcom/swdc-vscode-musictime) | `vscode, extention, spotify` |
-| **Openleaf** | Openleaf is a minimalist, browser-based rich text editor that lets you sta… | [GitHub](https://github.com/AashishRichhariya/openleaf) | `features, Website, Utilities` |
-| **LLM.pdf** | A fully offline, self-contained AI that runs inside a PDF. No internet, no… | [GitHub](https://github.com/EvanZhouDev) | `AI` |
-| **Kanshi.** | Anime, Manga, & Novel Recommender (Website and Android Application). Also… | [GitHub](https://github.com/u-Kuro/Kanshi-Anime-Recommender) | `Android, Website, Tools` |
-| **AstraCrypt - Encrypt Your Data** | AstraCrypt - is a free, powerful and open-source encryption app that has e… | [GitHub](https://github.com/gromif/AstraCrypt) | `Android, Utilities` |
-| **SmartScan - Image organisation & search app** | SmartScan is an innovative app powered by a CLIP model that automatically… | [GitHub](https://github.com/dev-diaries41/smartscan) | `Android, Media, Tools` |
-| **Zero Width Shortener (ZWS)** | Shorten URLs with invisible spaces. | [GitHub](https://github.com/zws-im/zws) | `Website, URL, URLShortener` |
-| **Scrcpy Android** | A port of Scrcpy program for android devices. | [GitHub](https://github.com/zwc456baby/ScrcpyForAndroid) | `Android, Utilities` |
-| **Anikku** | Discover and watch anime, cartoons, series, and more – easier than ever on… | [GitHub](https://github.com/komikku-app/anikku) | `features, Android, Entertaiment, Reader` |
-| **Write On - Simple Notepad** | A clean, intuitive note-taking open source app with Material You design. | [GitHub](https://github.com/3zpnix/WriteOn) | `Android, Productivity` |
-| **Aisleron Shopping List** | Streamline your shopping with this intuitive, easy-to-use shopping list ap… | [GitHub](https://github.com/aisleron/aisleron) | `Android, Utilities` |
-| **Tuneify** | A cool Music streaming app in React Native. | [GitHub](https://github.com/estd20xx/Tuneify) | `Android, Music` |
-| **JADX is a powerful open-source tool that enables users to decompile Android applications, converting Dalvik bytecode into readable Java source code. This facilitates in-depth analysis and understanding of APK, DEX, AAR, AAB, and ZIP files, offering developers and security researchers enhanced transparency and control over application code.** | — | [GitHub](https://t.me/popCLOUDS/9014) | `Windows, MacOS, Linux, Decompiler, OpenSource, Utilities` |
-| **A-Z Resources for students** | A comprehensive collection of resourced, aimed at assisting students, rece… | [GitHub](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | `Learning, Coding, Guides` |
-| **OpenAPK is a curated repository of open-source Android application and games, updated weekly. it offers users enhanced privacy, improved security, and greater control by providing transparent and customisable apps options. Developers can list their open-source apps to reach a broader audience of FOSS enthusiasts** | — | [GitHub](https://github.com/mobilenetworkltd/openapk) | `Website, Android, OpenSource, Privacy, Security, Utilities` |
-| **Nokia Design Archive** | A graphic and interactive platform that allows you to explore behind-the-s… | — | `research, Website, Education` |
-| **Galaxy Buds Client** | Galaxy Buds Client is an unofficial manager for configuring and controllin… | [GitHub](https://t.me/popCLOUDS/8981) | `Android, Linux, Windows, MacOS, Utilities` |
-| **wuziqi** | A simple Wuziqi game for android | [GitHub](https://github.com/iacobo/wuziqi) | `Android, Games, Game` |
-| **OnL👀k** | Seamlessly integrate with any website or web app running on React + Tailwi… | [GitHub](https://github.com/onlook-dev/onlook) | `Desktop, Windows, Linux, MacOS, Utilities` |
-| **Instagram Unfollowers** | A nifty tool that lets you see who doesn't follow you back on Instagram. | [GitHub](https://github.com/davidarroyo1234/InstagramUnfollowers) | `Website, Social` |
-| **Bypass WhatsApp **`Unofficial App`** Warning** | __Because rooting your device mean you're cooking malware in your basement… | [GitHub](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) | `—` |
-| **EdgeSeek** | An open-source application to enhance your experience by enabling intuitiv… | [GitHub](https://github.com/LSafer/edgeseek) | `Android, OpenSource, Customization` |
-| **rQuickShare** | Rust implementation of NearbyShare/QuickShare from Android for Linux and m… | [GitHub](https://github.com/Martichou/rquickshare) | `Linux, MacOS, Utilities` |
-| **️ How to Pass **Strong Integrity** on Android (Step-by-Step Guide)** | This tutorial will help you successfully pass **Basic**, **Device**, and *… | [GitHub](https://github.com/PerformanC/ReZygisk) | `—` |
-| **Gemini Code** | A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pr… | [GitHub](https://github.com/raizamartin/gemini-code) | `installation, setup, usage, Android, Linux, Windows, AI, Tools` |
-| **SuperX** | Video downloader for Android with web browser and player. M3U8 and MPD sup… | [GitHub](https://github.com/alexch33/super-video-downloader) | `Android, Media, Downloader` |
-| **PixelLauncherEnhanced** | An Xposed module to unleash the full potential of your launcher!! | [GitHub](https://github.com/Mahmud0808/PixelLauncherEnhanced) | `Android, Customization, Xposed, Root` |
-| **GiveAway Time 🎁** | At 16:00 UTC±00:00 (After the timer expires on our website) We will give a… | [GitHub](https://pashapumadesign.com/giveaway/pixlinear-you-promo-codes) | `—` |
-| **Invoke AI** | A leading creative engine built to empower professionals and enthusiasts a… | [GitHub](https://github.com/invoke-ai/InvokeAI) | `Desktop, Windows, Linux, MacOS, AI, Utilities` |
-| **DroidPad** | Create Customizable Control Interfaces for Bluetooth Low Energy, WebSocket… | [GitHub](https://github.com/umer0586/DroidPad) | `Android, Controls, Bluetooth` |
-| **Karui ToDo** | An open source Google Tasks alternative to quickly jot down things to do. | [GitHub](https://github.com/ronynn/karui) | `Android, Notes, Productivity` |
-| **Hydra Launcher** | Hydra is a game launcher with its own embedded bittorrent client. | [GitHub](https://github.com/hydralauncher/hydra) | `Windows, Linux, Gaming` |
-| **Morphic** | An AI-powered search engine with a generative UI. | [GitHub](https://github.com/miurla/morphic) | `Website, AI` |
-| **FakeTraveler** | Fake where your phone is located (Mock location for Android) | [GitHub](https://github.com/mcastillof/FakeTraveler) | `android, material3, locationmock, maps` |
-| **Oblivion - Unofficial Warp Client for Android** | Provides secure, optimized internet access through a user-friendly Android… | [GitHub](https://github.com/bepass-org/oblivion) | `Android, Tools, Connectivity` |
-| **ApkToolGUI** | a tool for reverse engineering 3rd party, closed, binary Android apps. It… | [GitHub](https://t.me/popCLOUDS/8884) | `Windows, Utilities` |
-| **Persepolis** | Persepolis is a download manager written in Python. Persepolis is a sample… | [GitHub](https://github.com/persepolisdm/persepolis) | `Desktop, Windows, Linux, MacOS, Tools` |
-| **RiseMediaPlayer** | ** | [GitHub](https://github.com/Rise-Software/Rise-Media-Player) | `Windows, Media, Player` |
-| **ChatSutra** | A multilingual AI assistant by TWO AI. Free to use, ultrafast and availabl… | — | `android, wensite, AI` |
-| **Zimly** | an app to synchronize localmedia and documents | [GitHub](https://github.com/zimly/zimly-backup) | `android, material3, backup, aws` |
-| **Readest** | A modern, feature-rich ebook reader designed for avid readers offering sea… | [GitHub](https://github.com/readest/readest) | `Android, iOS, Windows, Linux, MacOS, Utilities` |
-| **Delta** | an app to create hotspots on stock Android with more functionalities like… | [GitHub](https://github.com/supershadoe/delta) | `android, material3, hotspot` |
-| **FSearch** | a fast file search utility, inspired by Everything Search Engine. | [GitHub](https://github.com/cboxdoerfer/fsearch) | `Linux, Utilities` |
-| **Oxygen Customizer** | Oxygen Customizer is an open-source Android application aimed at providing… | [GitHub](https://github.com/DHD2280/Oxygen-Customizer) | `Android, Root, Customization` |
-| **Killed by Microsoft** | A full list of dead products which are killed by Microsoft | — | `Website` |
-| **HyperSploit** | HyperSploit is a user-friendly, standalone utility designed to bypass Hype… | [GitHub](https://t.me/popCLOUDS/8757) | `Tools, Windows, MacOS, Linux` |
-| **Flying Carpet** | Send and receive files between Android, iOS, Linux, macOS, and Windows ove… | [GitHub](https://github.com/spieglt/FlyingCarpet) | `Android, iOS, Windows, Linux, Utilities, MacOS, File_transfer` |
-| **SpeakGPT** | An advanced and highly intuitive open-source AI assistant that utilizes th… | [GitHub](https://github.com/AndraxDev/speak-gpt) | `Android, AI` |
-| **End of Life Date** | endoflife.date is a platform that aggregates and presents end-of-life (EOL… | [GitHub](https://github.com/endoflife-date/endoflife.date) | `Website` |
-| **YouTube Pro** | All in one YouTube App with downloader , background player and many more f… | [GitHub](https://github.com/prateek-chaubey/YTPRO) | `Android, YouTube, Videos` |
-| **CryptPad - Secure and Privacy-Focused Collaboration** | ** | [GitHub](https://github.com/cryptpad) | `windows, collaboration` |
-| **GhostGMS** | A universal Magisk module that disables unnecessary GMS background process… | [GitHub](https://t.me/veloxineologysupport) | `Android, Root, Modules, Optimization, Battery, Performance` |
-| **MiCTS** | Trigger Circle To Search feature on your android device. Supports android… | [GitHub](https://github.com/parallelcc/micts) | `Circle_To_Search, Android, Utilities, Special` |
-| **Clip Buddy** | Clip Buddy is a lightweight video player app built for Android using Kotli… | [GitHub](https://github.com/memeusix/Clip-Buddy_Video_Player) | `android, media` |
-| **Ekspensify - Finance tracking app** | Welcome to Ekspensify, your personal finance tracking app made with Kotlin… | [GitHub](https://github.com/memeusix/Ekspensify) | `android, finance` |
-| **Wispar** | Stay up-to-date with articles in your field of study! | [GitHub](https://github.com/Scriptbash/Wispar) | `Android, iOS, Productivity` |
-| **Bim!** | Bim! is an open-source, multiplayer online mobile game for Android devices… | [GitHub](https://github.com/j-jorge/bim) | `Android, Games` |
-| **XPTranslateText** | XPTranslateText is an Xposed module designed to automatically translate te… | [GitHub](https://t.me/popCLOUDS/8683) | `Android, Xposed, Modules, Root` |
-| **Tsacdop/Tsacdop-Fork** | Tsacdop-Fork is a fork of Tsacdop, a podcast player developed with Flutter… | [GitHub](https://github.com/lojcs/tsacdop) | `Android, Media, Entertainment` |
-| **Chemist Lab** | A comprehensive simulation lab for exploring chemical elements | [GitHub](https://github.com/MrMR-711/Web-Chemistry-Lab) | `Android, Website, Learning` |
-| **Hyprland Material You** | ** | [GitHub](https://github.com/koeqaife/hyprland-material-you) | `installation, Linux, Theming, Utilities` |
-| **Stratum** | A free open-source two factor authentication app for Android. It features… | [GitHub](https://github.com/stratumauth/app) | `Android, Security, Tools` |
-| **Mue** | A fast, open and free-to-use browser extension that gives a new, fresh and… | [GitHub](https://github.com/mue/mue) | `Extension, Personlization` |
-| **FoodYou** | FoodYou is a simple calorie-tracking app designed with Material You aesthe… | [GitHub](https://github.com/maksimowiczm/FoodYou) | `Android, Health, Utilities` |
-| **MSEdgeRedirect** | A tool to redirect Windows's news, widgets, weather, search and more to yo… | [GitHub](https://github.com/rcmaehl/MSEdgeRedirect) | `Windows, Utilities` |
-| **Hitomi Downloader** | Desktop utility to download images/videos/music/text from various websites… | [GitHub](https://github.com/KurtBestor/Hitomi-Downloader) | `Windows, MacOS, Utilities, Extension` |
-| **Safe Eyes** | Protect your eyes from eye strain using this simple and beautiful, yet ext… | [GitHub](https://github.com/slgobinath/SafeEyes) | `installation, Linux, Utilities` |
-| **Lively Wallpaper** | Free and open-source software that allows users to set animated desktop wa… | [GitHub](https://github.com/rocksdanister/lively) | `features, Windows, Personilation` |
-| **Notex - Note-Taking App** | Cloud-based note-taking and task management app. 📝 Open-source and ready f… | [GitHub](https://github.com/GPSxtreme/notex-flutter) | `android, note` |
-| **ByeDPI - App to bypass censorship on Android** | Android application that runs a local VPN service to bypass DPI (Deep Pack… | [GitHub](https://t.me/popCLOUDS/8563?single) | `android, vpn, proxy` |
-| **Revanced Xposed** | An Xposed (Lsposed) module, which integrates Revanced patches into YouTube… | [GitHub](https://github.com/chsbuffer/RevancedXposed) | `Android, Root, Xposed, Modules` |
-| **Text Grab** | A quick app to grab any on screen text using the Optical Character Recogni… | [GitHub](https://github.com/TheJoeFin/Text-Grab) | `Windows, Productivity, Tools` |
-| **DroidCrypt - A file and text encryption tool for Android** | File and text encryption in Android offers crucial benefits in protecting… | [GitHub](https://github.com/umutcamliyurt/DroidCrypt) | `Android, Tools` |
-| **FamiStudio NES Music Editor** | FamiStudio is a simple music editor for the Nintendo Entertainment System… | [GitHub](https://github.com/BleuBleu/FamiStudio) | `Android, Linux, Windows, MacOS, iOS, Audio, Editor` |
-| **System App Nuker** | A simple and efficient module that allows you to remove pre-installed syst… | [GitHub](https://t.me/systemapp_nuker) | `Android, Root, Tools, Debloat, Modules` |
-| **Maid - Mobile Artificial Intelligence Distribution** | Maid is a cross-platform free and an open-source application for interfaci… | [GitHub](https://github.com/Mobile-Artificial-Intelligence/maid) | `Android, AI, Tools` |
-| **Pluvia** | A lightweight unofficial Steam client for Android with the ability to play… | [GitHub](https://discord.gg/3tcEdhMG3e) | `Android, Utilities` |
-| **ShonenX** | A modern, feature-rich anime streaming application built with Flutter, off… | [GitHub](https://github.com/Darkx-dev/ShonenX) | `Android, Windows, Anime, Entertainment` |
-| **Plotwist** | Open-source easy management and reviews about movies, series and animes. | [GitHub](https://github.com/plotwist-app/plotwist) | `Website, Entertainment` |
-| **EchoWave** | Built on the resources of the Simple-Tube and Muzza open source project, E… | [GitHub](https://t.me/by_BabelSoftware) | `Android, Music, Media, Player, Productivity` |
-| **Bootloader Unlock: Wall of Shame** | A list containing phone manufacturers and their policies on unlocking the… | [GitHub](https://github.com/melontini/bootloader-unlock-wall-of-shame) | `universal, Android, Utilities` |
-| **Google Shortcuts Launcher** | Google Shortcuts Launcher provides a seamless way to integrate powerful Go… | [GitHub](https://t.me/WSTprojects) | `Android, Utilities, Tools` |
-| **Mirror2RearUltra** | Rear screen mirroring plugin/app for Xiaomi Mi 11 Ultra. | [GitHub](https://github.com/tpkarras/Mirror2RearUltra) | `Android, Tools` |
-| **Venera** | A comic reader that support reading local and network comics. | [GitHub](https://github.com/venera-app/venera) | `Android, Linux, Windows, MacOS, iOS, Reader` |
-| **ZipXtract** | A fully open-source Android application designed to handle a wide range of… | [GitHub](https://github.com/WirelessAlien/ZipXtract) | `Android, Utilities` |
-| **PodAura - All-in-one Android podcast app** | All-in-one Android podcast app for RSS, media dl & play. MVI arch, Materia… | [GitHub](https://t.me/popCLOUDS/8422) | `android, podcast` |
-| **VES - Image and Photo Compare** | VES-Image-Compare is an Android application created to provide a straightf… | [GitHub](https://github.com/VincentEngel/VES-Image-Compare) | `Android, Media, Utilities` |
-| **Rememory** | A powerful clipboard manager designed to boost your productivity by saving… | [GitHub](https://github.com/hpavlo/Rememory) | `Windows, Utilities, Productivity` |
-| **traced it** | An easy-to-use app for short text notes, with a timestamp for each entry,… | [GitHub](https://github.com/traced-it/traced-it-android) | `Android, Productivity` |
-| **ReTerminal** | ReTerminal is a sleek, Material 3-inspired terminal emulator | [GitHub](https://github.com/RohitKushvaha01/ReTerminal) | `Android, Tools` |
-| **Sly** | Sly is a friendly image editor that requires no internet connection or pre… | [GitHub](https://t.me/popCLOUDS/8373) | `Android, Linux, Windows, MacOS, Media, Editor` |
-| **Codename Goose** | An open-source, extensible AI agent that goes beyond code suggestions | [GitHub](https://github.com/block/goose) | `Desktop, Linux, MacOS, AI` |
-| **Onit-AI** | An open-source AI chat assistant that lives in your desktop! | [GitHub](https://github.com/synth-inc/onit) | `MacOS, AI, Utilities` |
-| **PicView** | a fast, free and fully customizable picture viewer & editor for Windows 10… | [GitHub](https://github.com/Ruben2776/PicView) | `Windows, Utilities` |
-| **DockDoor** | DockDoor is a macOS application that adds a much-needed feature to your Ma… | [GitHub](https://github.com/ejbills/DockDoor) | `MacOS, Utilities` |
-| **AI Logo Generator** | An open source logo generator – create professional logos in seconds with… | — | `Website, AI, Design, Tools` |
-| **Whisky** | Whisky is a modern Wine wrapper for macOS designed to simplify running Win… | [GitHub](https://getwhisky.app) | `MacOS, Tools` |
-| **Toolbox** | It's a toolbox (as the name suggests) that brings together several tools i… | [GitHub](https://github.com/Koizeay/Toolbox) | `Android, iOS, Tools` |
-| **Snake QR** | An implementation of a simple snake game inside a QR code, playable on win… | [GitHub](https://github.com/EimaMei/snake-qr) | `Windows, Games` |
-| **Nothing Archive** | A comprehensive collection of unmodified stock firmware images and OTA upd… | [GitHub](https://github.com/spike0en/nothing_archive) | `downloads, Android, Firmware, NothingOS, Nothing, CMFbyNothing` |
-| **Universal Android ROM Flasher** | A next-gen Android flashing tool with multi-device support and enhanced sa… | [GitHub](https://github.com/PHATWalrus/universal-flasher) | `installation, usage, requirements, Windows, MacOS, Linux, Tools` |
-| **Rivo** | Rivo is a modern, feature-rich dialer app built using Flutter. Designed fo… | [GitHub](https://github.com/user-grinch/RivoPhoneApp) | `Android, Utilities` |
-| **TouchHLE** | A high-level emulator for iPhone OS apps. It runs on modern desktop operat… | [GitHub](https://github.com/touchHLE/touchHLE) | `Android, MacOS, Windows, Utilities` |
-| **RXResu** | Reactive Resume is a free, open-source resume builder designed to streamli… | [GitHub](https://github.com/AmruthPillai/Reactive-Resume) | `Website, AI` |
-| **Scan Bridge** | A Material You app featuring scanning of documents, photos, and more over… | [GitHub](https://github.com/Chrisimx/ScanBridge) | `Android, Utilities` |
-| **Logline** | An open-source Android app that provides a seamless movie browsing experie… | [GitHub](https://github.com/Patch4Code/Logline) | `Android, Streaming, Tools` |
-| **Thor** | Thor is an Android App Manager and App Installer utility | [GitHub](https://github.com/trinadhthatakula/Thor) | `Android, Root, Tools` |
-| **LLPlayer** | A video player focused on subtitle-related features such as dual subtitles… | [GitHub](https://github.com/umlx5h/LLPlayer) | `Windows, Desktop, Utilities, AI` |
-| **Linux on PDF** | Linux running inside a PDF file via a RISC-V emulator, which is based on T… | [GitHub](https://github.com/ading2210/linuxpdf) | `Desktop, Utilities` |
-| **Loras-dev** | An open source real-time AI image generator. Powered by Flux through Toget… | — | `Website, AI, Tools` |
-| **Spotify AdBlocker (Spotify AB)** | Spotify AB  provides a tool to block ads and trackers in the Spotify deskt… | [GitHub](https://github.com/An0n-00/SpotifyAB) | `Windows, Music, Tools` |
-| **Cust Termux** | A termux fork for android tv, packed with more features along with Jio TV… | [GitHub](https://t.me/popCLOUDS/8228) | `Android, TV, Utilities` |
-| **Noterly** | Simple notification reminders for Android devices. | [GitHub](https://github.com/tomc128/noterly) | `Android, Productivity, Tools` |
-| **NTH-KBD** (Nothing keyboard)** | Enjoy a Nothing-inspired keyboard app, based on FUTO keyboard. | [GitHub](https://github.com/arunk140/nth-kbd) | `Android, Tools, Nothing` |
-| **Simple Tube** | SimpleTube is a supercharged fork of [InnerTune](https://t.me/popMODS/2855… | [GitHub](https://github.com/samyak2403/Simple-Tube) | `Android, Music` |
-| **What to Watch** | WhatToWatch is the simplest and fastest way to discover movies, series, an… | [GitHub](https://github.com/theo-mesnil/WhatToWatch) | `Android, Media, Utilities` |
-| **Snatchy** | Snatchy is a lightweight Android app designed to effortlessly download and… | [GitHub](https://github.com/BERLINx03/snatchy) | `Android, Social, Media, Tools` |
-| **WallWidgy.me** | ** | [GitHub](https://github.com/not-ayan/wallwidgy) | `Wallpapers, OpenSource, UI` |
-| **ReadOut** | A cross-platform app, that seamlessly integrates book discovery, audiobook… | [GitHub](https://t.me/popCLOUDS/8189) | `Android, Desktop, Tools` |
-| **Snake Wall** | A Snake Game live Wallpaper inspired by Nothing's Snake Game Widget. | [GitHub](https://github.com/Kalpu-24/SnakeWall) | `Android, Games, Nothing` |
-| **BootAnimix** | BootAnimix is a delightful Python-based application for transforming video… | [GitHub](https://github.com/BootAnimix/script) | `Android, Tools, Personalization` |
-| **Learn Anything** | Organize world's knowledge, explore connections and curate learning paths. | [GitHub](https://github.com/learn-anything/learn-anything) | `Website, Productivity` |
-| **Payload Dumper** | A simple tool to dump Android payload.bin from full OTA URL or local | [GitHub](https://github.com/rcmiku/Payload-Dumper-Compose) | `Android, Tools` |
-| **DaedalOS** | A Web-based operating system, similar to windows, yet contains some good f… | [GitHub](https://github.com/DustinBrett/daedalOS) | `Website, Windows, MacOS, iOS, Android, utilities, tools` |
-| **Z**asper** | Zasper is an IDE designed from the ground up to support massive concurrenc… | [GitHub](https://github.com/zasper-io/zasper) | `windows, linux, mac, ide` |
-| **Pixelix** | Experience high-performance Pixelfed interactions on Android with a custom… | [GitHub](https://github.com/daniebeler/pixelix) | `Social, Android, utilities` |
-| **Open Genmoji** | Open Genmoji attempts to recreate Apple's Genmoji feature, but with open t… | [GitHub](https://github.com/EvanZhouDev/open-genmoji) | `tutorial, Customization, Ai, Tools` |
-| **Musikus** | A fork/continuation of PracticeTime. it helps you during practicing your i… | [GitHub](https://t.me/popCLOUDS/8075) | `Android, Utilities` |
-| **GhostIDE** | GhostIDE is a lightweight and efficient Integrated Development Environment… | [GitHub](https://t.me/ghost_web_ide) | `Android, Development, Tools` |
-| **DOOM On PDF** | Yes, that's correct. Doom can be run on a PDF file!  Just open the pdf usi… | [GitHub](https://github.com/ading2210/doompdf) | `Android, iOS, PC, Windows, game` |
-| **Arnis** | Generate any location from the real world in Minecraft Java Edition with a… | [GitHub](https://github.com/louis-e/arnis) | `question, Windows, Linux, Tools` |
-| **FullMoon** | The simplest way to use private LLMs: This program works fully offline and… | [GitHub](https://github.com/mainframecomputer/fullmoon-ios) | `IOS, MacOS, AI, AI_Models, llama` |
-| **czkawka** | A simple, fast and free app to remove unnecessary files from your computer. | [GitHub](https://github.com/qarmin/czkawka) | `Desktop, Windows, linux, Mac, Utilities` |
-| **FaFa Runner** | FaFa Runner is an exciting gaming project that delivers a captivating expe… | [GitHub](https://github.com/fafarunner/fafarunner) | `Games, Android, iOS, Linux, Windows` |
-| **yami - An open-source music player with simple UI** | Yami is a lightweight, open-source, cross-platform Python music player foc… | [GitHub](https://github.com/DevER-M/yami) | `installation, Desktop, Music` |
-| **Cronica** | Cronica is a minimalist watchlist app that reminds you about upcoming rele… | [GitHub](https://github.com/egger/cronica) | `Utilities, iOS, MacOS` |
-| **Scira (Formerly MiniPerplx)** | A minimalistic AI-powered search engine that helps you find information on… | — | `Website, AI, Tools` |
-| **FacePoke** | FacePoke is an online AI-powered tool that allows you to edit and animate… | — | `Website, Ai, Tools` |
-| **SideStore** | Sideload apps on iOS devices | [GitHub](https://github.com/SideStore/SideStore) | `Sideloading, iOS, AltStore, AppStoreAlternative` |
-| **Undo Close Tabs** | Allows you to restore the tab you just closed with a single click—plus it… | [GitHub](https://github.com/M-Reimer/undoclosetab) | `Extension` |
-| **HeartRate** | An Android application to measure your heart rate using your phone's camer… | [GitHub](https://github.com/6SUPER6SONIC6/HeartRate) | `Android, Health, Fitness, OpenSource` |
-| **AliasVault** | An end-to-end encrypted password and alias manager that protects your priv… | [GitHub](https://github.com/lanedirt/AliasVault) | `Docker, Windows, Linux, RaspberryPI` |
-| **Net Switch: Isolate Apps from Internet Access** | Net Switch is a Magisk/KernelSU/APatch module to isolate apps from accessi… | [GitHub](https://github.com/Rem01Gaming/net-switch) | `Android, Modules, Root` |
-| **Dotomo** | This intuitive note-taking tool efficiently transforms bedtime thoughts in… | [GitHub](https://github.com/arashmidus/dotomo) | `IOS, Utilities, AI, notes` |
-| **ALN - AirPods Like Normal** | Access AirPods' Apple-exclusive features on linux and android! | [GitHub](https://xdaforums.com/t/app-root-for-now-airpodslikenormal-unlock-apple-exclusive-airpods-features-on-android.4707585) | `Android, Linux, Utilities, AirPods, Sound` |
-| **Parabolic** | Download web video and audio | [GitHub](https://github.com/NickvisionApps/Parabolic) | `Linux, Windows, Tools` |
-| **FeedDeck** | FeedDeck is an open source RSS and social media feed reader, inspired by T… | [GitHub](https://github.com/feeddeck/feeddeck) | `Android, iOS, Linux, Windows, MacOS, Productivity` |
-| **AnyWebView** | Allows user to switch WebView implementations on any android device. | [GitHub](https://github.com/neoblackxt/AnyWebView) | `android, root, lsposed` |
-| **QRshare** | A lightweight app to share links, contacts, and text through QR codes. Und… | [GitHub](https://github.com/mrwm/QRshare) | `android, qr` |
-| **MiniReview** | MiniReview is a curated platform that helps users discover top-rated Andro… | — | `Android, iOS, Games, Utilities` |
-| **DNSNet** | Allows you to take more control over what internet traffic goes in and out… | [GitHub](https://github.com/t895/DNSNet) | `android, dns` |
-| **Ghostty** | Ghostty is a fast, feature-rich, and cross-platform terminal emulator that… | [GitHub](https://github.com/ghostty-org/ghostty) | `Linux, MacOS` |
-| **SoundRemote** | An Android app that, when paired up with SoundRemote server, allows to cap… | [GitHub](https://t.me/popCLOUDS/7866) | `android, desktop, sound` |
-| **Youtube Times** | A Firefox Extension that replaces the undescriptive youtube time with the… | [GitHub](https://github.com/RandomGamingDev/yt-times) | `Browser, Extension, Utilities` |
-| **StyleBot** | Stylebot is a browser extension that lets you change the appearance of the… | [GitHub](https://github.com/ankit/stylebot) | `Extension, Customization` |
-| **Boring Notch** | Boring Notch is an app that transforms your MacBook's notch into a dynamic… | [GitHub](https://github.com/TheBoredTeam/boring.notch) | `MacOS, Customization, Utilities` |
-| **Merry Christmas to you, Friends.** | The gifts are already under Tree, and these are 130 promo codes for 4 Best… | [GitHub](https://pashapumadesign.com/#gsc.tab=0&t=giveaway) | `Christmas, MerryChristmas, Giveaways, gsc` |
-| **TeleVip (Xposed module)** | A Xposed module for modifying Telegram | [GitHub](https://t.me/popCLOUDS/7825) | `Android, Xposed, Root` |
-| **MMAudio** | **Generating synchronized audio from video/text | [GitHub](https://github.com/hkchengrex/MMAudio) | `Desktop, AI` |
-| **GreasyFork** | Greasy Fork is a platform that hosts user scripts—small programs designed… | [GitHub](https://github.com/greasyfork-org/greasyfork) | `Browser, Tweaking, Linux, Windows, MacOS` |
-| **CerebrasCoder** | An open-source app that generates websites with Llama3.3-70b as fast as yo… | [GitHub](https://cerebrascoder.com) | `utilities, AI, website` |
-| **DarkSky** | Presenting DarkSky, a cutting-edge Windows BlueSky client. Constructed wit… | [GitHub](https://t.me/popCLOUDS/7811) | `windows, socialmedia, client` |
-| **Global Icon Pack** | An Xposed module for applying icon packs globally. Some launchers support… | [GitHub](https://github.com/RichardLuo0/global-icon-pack-android) | `android, root, xposed` |
-| **Viper4Windows** | Unofficial version of Viper4Android, made for Windows. | [GitHub](https://github.com/masudcloud/Viper4Windows) | `Windows, Utilities` |
-| **FilmSimulator** | FilmSimulator is a cross-platform mobile app designed for Android and iOS.… | [GitHub](https://github.com/YahiaAngelo/Film-Simulator) | `Android, iOS, Media` |
-| **Mangal** | The most advanced CLI manga downloader in the entire universe! | [GitHub](https://github.com/metafates/mangal) | `Android, Linux, Windows, MacOS` |
-| **NewPipe ▶️** | NewPipe is a 3rd party client that supports many services like Youtube, Pe… | [GitHub](https://github.com/TeamNewPipe/NewPipe) | `Android, Linux, Stream` |
-| **Astroluma** ⭐️** | A feature-rich, user-friendly dashboard designed to help you manage multip… | [GitHub](https://github.com/Sanjeet990/Astroluma) | `Linux, Productivity` |
-| **FetchIt** | FetchIt is an Android application for easy downloading of media files from… | [GitHub](https://github.com/tharunbirla/FetchIt) | `Android, Media, Tools` |
-| **No Login** | This extension let's you to access social media websites without logging i… | [GitHub](https://github.com/MartinBraquet/no-login) | `Extension, Productivity` |
-| **Flare** | The ultimate next generation open-sourced AI powered decentralized social… | [GitHub](https://github.com/DimensionDev/Flare) | `Android, iOS, Social` |
-| **Wallet** | Wallet is designed to store card information locally on the device, ensuri… | [GitHub](https://github.com/sidhant947/Wallet) | `Android, Utilities` |
-| **p0ntus Mail** | p0ntus Mail is an open-source email and password manager (with Vaultwarden… | [GitHub](https://github.com/ihatenodejs/pontus-mail) | `Online, Services` |
-| **Well, the **new site is open for you.** | By the way, GiveAways are already available, the next one will start in ~… | — | `site, Giveaways, Wallpapers, icons, Android, iOS, PC` |
-| **Sapio** | Sapio, an anagram of "Open Source API," provides a compatibility matrix sh… | [GitHub](https://github.com/jonathanklee/sapio) | `Android, Tools` |
-| **RSAF** | RSAF is an Android document provider for the wonderful rclone. It allows a… | [GitHub](https://github.com/chenxiaolong) | `Android, Tools` |
-| **Cherrygram** | Cherrygram is a feature-rich, third-party Telegram client offering a ton o… | [GitHub](https://github.com/arsLan4k1390/Cherrygram) | `Android, Telegram, Client` |
-| **GMaps WV** | GMaps WV is a WebView wrapper for using Google Maps without exposing your… | [GitHub](https://github.com/Divested-Mobile/Maps) | `Android, Tools` |
-| **Curd** | A cli application to stream anime with Anilist integration and Discord RPC… | [GitHub](https://github.com/Wraient/curd) | `Windows, Linux` |
-| **Method Call** | An Android automation application that works specifically by mapping phone… | [GitHub](https://github.com/coleblvck/MethodCall) | `Android` |
-| **Gucken** | Gucken is a Terminal User Interface which allows you to browse and watch y… | [GitHub](https://github.com/Commandcracker/gucken) | `Android, Linux, Windows` |
-| **Librera Reader** | Librera Reader is a lightweight, free ebook reader app for Android that go… | [GitHub](https://github.com/foobnix/LibreraReader) | `Reader, Android, Comics, Books` |
-| **Overmorrow** | Your minimalist, colorful weather companion with a clean, vibrant, and ope… | [GitHub](https://github.com/bmaroti9/Overmorrow) | `Weather, Android, Minimalism, Privacy` |
-| **Fli.so** | a lightning-fast URL shortener built with SvelteKit and PocketBase. Clean… | — | `Website, Utilities` |
-| **Sticker Baker** | A versatile and feature-packed sticker creation tool for messaging apps, d… | [GitHub](https://github.com/cbh123/stickerbaker) | `AI, Stickers, Customization` |
-| **v0 by Vercel** | Vercel's AI Products consist of tools that help users generate code and im… | — | `website, ai` |
-| **EchoirX** | A successor for [FluidAC](https://t.me/popMODS/5998), aims to provide high… | [GitHub](https://github.com/imjyotiraditya/Echoir) | `Android, Music` |
-| **CityHop Cafe** | You can travel the world from the comfort of your desk at CityHop Cafe, wh… | — | `Website, VirtualTravel, Relaxation, OpenSource, LoFi` |
-| **HIFI TUI** | HIFI TUI is a privacy-focused, cross-platform, self-hostable Tidal instanc… | [GitHub](https://github.com/sachinsenal0x64/hifi-tui) | `Music, Terminal, Privacy, SelfHosted` |
-| **Muzza: The Ultimate Material 3 YouTube Music Client for Android** | The most advanced YouTube Music client for Android—sleek, feature-packed,… | [GitHub](https://github.com/Maloy-Android/Muzza) | `Android, YouTubeMusic, MusicPlayer` |
-| **QuickEdit - Photo Editor** | A lightweight and user-friendly photo editor for Android. Built with Jetpa… | [GitHub](https://github.com/Abizer-R/QuickEdit-Photo-Editor) | `Android, PhotoEditor, Utilities` |
-| **FFUpdater - Updater for privacy friendly browser** | FFUpdater is an updater for privacy-friendly browsers. It installs and upd… | [GitHub](https://github.com/Tobi823/ffupdater) | `Android, Utilities, Browser, Mail` |
-| **Link Extractor** | Modern Chrome Web Extension and Firefox Browser Addon to easily extract, p… | [GitHub](https://github.com/cssnr/link-extractor) | `Browser, Extension` |
-| **Cache Cleaner** | Modern extension to easily clean selected cache items specific sites or th… | [GitHub](https://github.com/cssnr/cache-cleaner) | `Browser, Extension` |
-| **Find My IP** | __Find My IP is a straightforward Android app designed to fetch and option… | [GitHub](https://github.com/maksimowiczm/find-my-ip) | `android, tool, Utilities, Location` |
-| **Flowtide** | It is a beautiful, smart New Tab page for your browser. Magic Search is th… | [GitHub](https://github.com/thingbomb/flowtide) | `Browser, Extension` |
-| **Wattesigma?🗿** | A skibidi browser made for sigmas. Built on the goofy ahh Godot game engin… | [GitHub](https://t.me/popCLOUDS/7460) | `compiling, Windows, Browser` |
-| **Joplin** | A great app to take notes and make to-do lists, eazy to use and also packe… | [GitHub](https://github.com/laurent22/joplin) | `windows, desktop, linux, mac, utilities` |
-| **Dead Man's Switch Python Script** | This Python script acts as a Dead Man's Switch, sending reminder emails ba… | [GitHub](https://github.com/yusufipk/dead-man-message) | `Online, Tools` |
-| **Modern Android Lock Screen Project** | Malsp is a preset for KLCK that brings the Google Pixel lock screen experi… | [GitHub](https://t.me/popCLOUDS/7395) | `Android, Customization` |
-| **Missing Core** | A Nothing-inspired music player. | [GitHub](https://github.com/MissingCore/Music) | `Android, MusicPlayer, nothing` |
-| **Mutable** - **hide* content across the web and save your sanity** | Take control of the websites you browse every day and eliminate the conten… | [GitHub](https://github.com/IdreesInc/Mutable) | `Extension, iOS, MacOS` |
-| **Win11 Edit Menu Enabler and Default Program Setter** | This program enables the **"**Edit**"** option in the right-click context… | [GitHub](https://github.com/osmanonurkoc/edit_menu_configurator) | `Windows, Utilities` |
-| **Tiny Music Player** | A open source Music player without crap and super tiny (20kb <, No GUI) | [GitHub](https://github.com/martinmimigames/tiny-music-player) | `Android, MusicPlayer` |
-| **Gesturefy** | Gesturefy is a pure mouse gesture extension, which means it's only suited… | [GitHub](https://github.com/Robbendebiene/Gesturefy) | `Extension` |
-| **Notally**X** | a lightweight and open sourced note taking apps for android | [GitHub](https://github.com/PhilKes/NotallyX) | `Android, Notes` |
-| **SpoPlus Extension** | Extension that allows you to customize and personalize the web version of… | [GitHub](https://github.com/gerwld/spoplus-extension) | `Extension` |
-| **Human Benchmark** | Human Benchmark is a mobile application designed to test and improve your… | [GitHub](https://github.com/PrintN/Human-Benchmark) | `Android, Utilities` |
-| **Sidebery** | Firefox extension for managing tabs and bookmarks in sidebar. | [GitHub](https://github.com/mbnuqw/sidebery) | `Extension, Productivity` |
-| **Augmented Steam** | Augmented Steam is a browser extension that improves your experience on th… | [GitHub](https://github.com/IsThereAnyDeal/AugmentedSteam) | `Extension` |
-| **LinkHub** | a open sourced android app to save link effortlessly | [GitHub](https://github.com/AmrDeveloper/LinkHub) | `Android, Clipboard` |
-| **VolumeLockr** | VolumeLockr allows you to control your Android device volume levels and se… | [GitHub](https://github.com/jonathanklee/VolumeLockr) | `Android, Tools` |
-| **Geo Share** | An Android app to turn Google Maps URLs into geo: URLs. | [GitHub](https://github.com/jakubvalenta/geoshare) | `Android, Tools, Maps` |
-| **Figura - A Free MacOS (14+) Native Background Remover** | A sleek, free native macOS app that removes backgrounds from images with a… | [GitHub](https://t.me/popCLOUDS/7305) | `MacOS, Tools` |
-| **Pywalfox** | Pywalfox is a Firefox theme generator that dynamically changes the browser… | [GitHub](https://github.com/Frewacom/pywalfox) | `Extension, Windows, Linux, MacOS` |
-| **Medio - A Free MacOS Diff Checker** | A fast, native and free macOS text comparison tool with real-time diff hig… | [GitHub](https://github.com/nuance-dev/medio) | `MacOS, Tools` |
-| **Achico - A Free MacOS Native File Compression App** | A lightweight, native macOS app that intelligently compresses files while… | [GitHub](https://github.com/nuance-dev/achico) | `MacOS, Tools` |
-| **Tasks.org** | A open source task and reminder for android | [GitHub](https://github.com/tasks/tasks) | `Android, Task, Reminder` |
-| **Metrolist: The Ultimate Music Player for Android** | A powerful, feature-packed music player—simple, fast, and customizable. En… | [GitHub](https://github.com/mostafaalagamy/Metrolist) | `Android, MusicPlayer, Audio, OpenSource` |
-| **Tabby - Window & Tab Manager** | Tabby is an open-source window & tab manager that can manage great amounts… | [GitHub](https://github.com/Bill13579/tabby) | `Firefox, Extension` |
-| **Retrom** | Host your game collection centrally, play on any device, and manage emulat… | [GitHub](https://github.com/JMBeresford/retrom) | `installation, Linux, Windows, MacOS, Gaming, Tools` |
-| **Hurmet** | A web-based rich text editor endowed with live calculations. With it, you… | — | `utilities, web, text` |
-| **AIDE - Your Coding Pal 👨‍💻** | An Open Source AI-native code editor. It is a fork of VS Code, yet it is b… | [GitHub](https://github.com/codestoryai/aide) | `Code, Linux, IDE, VScode, Windows, MacOS, programming, coding` |
-| **Sozo** | Synchronize anime and manga with the help of AniList in real time. You can… | [GitHub](https://t.me/sozo_disscussion) | `Android, Anime, Reader` |
-| **Mochi Ai** ✨** | A Built-different AI video generation model from Genmo, Allows you to gene… | — | `Ai, video, generate, innovate` |
-| **Seanime** | Seanime is a free, open-source and self-hosted media server built around A… | [GitHub](https://github.com/5rahim/seanime) | `features, Windows, Tools` |
-| **Music Sleep Timer Plus** | Music Sleep Timer Plus is an Android app that allows you to set a timer to… | [GitHub](https://t.me/popCLOUDS/7224) | `Android, Tools` |
-| **Seems like Mozilla working on another browser for mobile.** | https://github.com/mozilla-mobile/reference-browser | [GitHub](https://github.com/mozilla-mobile/reference-browser) | `—` |
-| **TubeSync** | Sync YouTube playlists offline. Because YT Music is....? | [GitHub](https://t.me/popCLOUDS/7222) | `Android, Music` |
-| **Stirling-PDF** | Stirling-PDF is a robust, locally hosted web-based PDF manipulation tool u… | [GitHub](https://github.com/Stirling-Tools/Stirling-PDF) | `Windows, Tools` |
-| **File Explorer** | A full-featured and lightweight file managing app written in kotlin with J… | [GitHub](https://github.com/Raival-e/File-Explorer-Compose) | `Android, FileExplorer` |
-| **Scarbir.com is a website dedicated to providing honest reviews of affordable true wireless earphones (for example; best under $100, best under $50, best under $25)** | — | — | `Website, Guides` |
-| **Frigoligo** | Your article with you | [GitHub](https://github.com/casimir/frigoligo) | `features, Android, Article` |
-| **Bolt.new** | Prompt, run, edit, and deploy full-stack web applications. | [GitHub](https://github.com/stackblitz/bolt.new) | `Website, Online, Tools` |
-| **Screenshot Tile No Root** | This is a tools to take screenshot without root by using accessibility ser… | [GitHub](https://github.com/cvzi/ScreenshotTile) | `Android, Screenshot` |
-| **TeleWatch** | Telewatch is a Telegram client for Android watches. | [GitHub](https://t.me/popCLOUDS/7181) | `Android, Watches, Social` |
-| **Tess** - **Hackable, Simple, Rapid & Beautiful** | terminal for the new era of technology.** | [GitHub](https://t.me/popCLOUDS/7180) | `Linux, Windows, Tools` |
-| **Mirarr** | This is a movie app that aims to simplify the process of watching movies a… | [GitHub](https://github.com/mirarr-app/mirarr) | `Android, IOS, Windows, Linux` |
-| **X to Voice** | Open-source tool that analyzes your X/Twitter profile data to generate a c… | — | `Online, AI` |
-| **BiliDownOut** | BiliDownOut is a tool designed to export videos downloaded from the BiliDo… | [GitHub](https://f-droid.org/packages/cn.a10miaomiao.bilidown) | `Android, Tools` |
-| **GPRM : GitHub Profile ReadMe Maker** | Best Profile Generator, Create your perfect GitHub Profile ReadMe in the b… | [GitHub](https://github.com/VishwaGauravIn/github-profile-readme-maker) | `Website, Tools` |
-| **Cleaner Royall: The Most Advanced Root Cleaner for Android** | The best cleaning app ever made—ultra-fast, lightweight, and powerful. Roo… | [GitHub](https://github.com/araafroyall/Cleaner-Royall) | `Android, Utilities, Cleaner, Performance` |
-| **Photes. io** | Photes is an AI-powered tool that transforms photos into well-structured t… | — | `Website, Tools` |
-| **Frosty** | A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and… | [GitHub](https://github.com/tommyxchow/frosty) | `Android, iOS, Social, Root, Modules` |
-| **Animetail** | Full-featured player and reader, based on Tachiyomi Mihon. | [GitHub](https://github.com/Dark25/Animetail2) | `Android` |
-| **VideoLingo - Connect the World, Frame by Frame** | VideoLingo is an all-in-one video translation, localization, and dubbing t… | [GitHub](https://github.com/Huanshere/VideoLingo) | `Online, AI, Translation` |
-| **AnLinux** | Run Linux on Android without root access. Supports 2 Desktop Environments,… | [GitHub](https://github.com/EXALAB/AnLinux-Adfree) | `Android, Linux, Tools` |
-| **Splitcat** | Simple flutter app for spliting and merging files with predefined applicat… | [GitHub](https://github.com/vogonwann/splitcat) | `Android, Windows, Linux, Tools` |
-| **Clippy** | Clippy is a simple app that allows you to copy links directly from the And… | [GitHub](https://github.com/WSTxda/Clippy) | `Android, Utilities` |
-| **Aer - Fork of **[**Anemo**](https://t.me/popMODS/5187)** | Private storage utility for android with support for external storage medi… | [GitHub](https://github.com/nain-F49FF806/anemo-aer) | `Android, privacy` |
-| **JumpCutter - Speed Up Video Playback by Cutting Silence** | JumpCutter is a tool that automatically cuts out silence from videos, spee… | [GitHub](https://github.com/WofWca/jumpcutter) | `Browser, Productivity, Utilities` |
-| **GPTMobile** | Your all in one chat assistant - Chat with multiple LLMs at once and an Ma… | [GitHub](https://github.com/Taewan-P/gpt_mobile) | `Android, AI` |
-| **GeoNotes** | A simple and lightweight app to create and manage georeferenced notes (tex… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/de.hauke_stieler.geonotes) | `Android, Utilities` |
-| **Paranoid's Pal - Privacy Lock** | It’s important to lock your Android device when you aren’t using it so tha… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.paranoid.privacylock) | `Android, Privacy` |
-| **Server Box** | A Flutter project which provide charts to display Linux server status and… | [GitHub](https://github.com/lollipopkit/flutter_server_box) | `Network, Tools, Android, MacOS, iOS, Windows, Linux` |
-| **Gamedge** | An Android application for browsing video games and checking the latest ga… | [GitHub](https://github.com/mars885/gamedge) | `Android, Utilities` |
-| **Vernet** | Network Analyzer and Monitoring Tool | [GitHub](https://t.me/popCLOUDS/7001) | `Network, Tools, Android, Linux, Windows, MacOS` |
-| **OpenDocument Reader** | View OpenOffice and LibreOffice documents on the go. Now available for And… | [GitHub](https://f-droid.org/packages/at.tomtasche.reader) | `Android, iOS, Tools` |
-| **Tool Telegram** | Send messages on telegram as a bot, easily. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/dev.trindadedev.tooltelegram) | `Android, Tools` |
-| **Pazzword - The most intelligent password evaluator app** | It analyzes passwords using the open source library 'nbvcxz', a Java adapt… | [GitHub](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword) | `Android, Tools` |
-| **Papermark - The open-source DocSend alternative.** | Papermark is the open-source document-sharing alternative to DocSend, feat… | [GitHub](https://github.com/mfts/papermark) | `getting, Linux, Windows, MacOS` |
-| **chatAir - Chat and Collaboration Tool** | A versatile chat application for real-time collaboration and communication… | [GitHub](https://t.me/popCLOUDS/6949) | `Android, ChatApp, AI` |
-| **Keysh - Handle volume buttons on Android** | App for handling volume button presses. Works when the screen is off. The… | [GitHub](https://f-droid.org/packages/io.github.hufrea.keysh) | `Android, Tools` |
-| **NeatLauncher - A neat and convenient launcher without icons.** | The home app (the launcher) to replace ugly home apps that are too colourf… | [GitHub](https://f-droid.org/en/packages/de.theiling.neatlauncher) | `Android, Customization` |
-| **Deal With It** | GIF emoji generator. All done artisanally and securely in your browser. | [GitHub](https://github.com/klimeryk/dealwithit) | `Website, Online, Fun` |
-| **Kurumi - Unofficial Anilist Client** | Kurumi is an unofficial anilist client application. Are you tired of getti… | [GitHub](https://github.com/subrotokumar/kurumi) | `Android` |
-| **Speedy - Combine multiple internet connections to maximize your speed.** | If you are in a place that you have multiple internet connections ( WiFi,… | [GitHub](https://github.com/RezaRafia/Speedy) | `Windows, Linux, MacOS, Tools` |
-| **Komikku** | A free and open source manga reader which is based off TachiyomiSY & Mihon… | [GitHub](https://github.com/komikku-app/komikku) | `Android` |
-| **Meshenger - P2P Voice/Video phone App for local networks.** | Direct voice- and video phone calls. No need for accounts or access to the… | [GitHub](https://f-droid.org/packages/d.d.meshenger) | `Android, Utilities` |
-| **wBlock - The next-generation ad blocker for Safari.** | wBlock is a powerful content blocker for macOS that cuts through the noise… | [GitHub](https://t.me/popCLOUDS/6865) | `MacOS, Tools` |
-| **DeskPad - A virtual monitor for screen sharing** | Certain workflows require sharing the entire screen (usually due to switch… | [GitHub](https://github.com/Stengo/DeskPad) | `MacOS, Tools` |
-| **APK Explorer & Editor** | Unlock Your APKs! | [GitHub](https://github.com/apk-editor/APK-Explorer-Editor) | `tools, utilities, android` |
-| **MultiLocale** | A simple app that enables you to add additional (or "unsupported") languag… | [GitHub](https://t.me/popCLOUDS/6843) | `Android, Root` |
-| **ShowCase** | ShowCase (formerly Movie DB) is a fully open-source android application fo… | [GitHub](https://f-droid.org/packages/com.wirelessalien.android.moviedb) | `Android, Utilities` |
-| **Timed Shutdown Android app (No Root)** | An app for android that will automatically shutdown your phone after a tim… | [GitHub](https://github.com/maforn/TimedShutdownAndroid) | `Android, Utilities` |
-| **Blitz AI** | Blitz AI is an android application built with jetpack Compose which utiliz… | [GitHub](https://t.me/blitzzAI) | `supported, Android, Productivity, AI` |
-| **Spotify Downloader** | App that allows you to download your favorite playlists at the touch of ju… | [GitHub](https://github.com/C0ntrolDev/spotify_downloader) | `Android, Music` |
-| **JsonList** | A Material You Android application for previewing JSON files in a user-fri… | [GitHub](https://slavce14.github.io/redirect?link=jsonlist-izzy) | `Android, Tools` |
-| **Grit** | A simple ToDo list and Habit Tracker | [GitHub](https://f-droid.org/packages/com.shub39.grit) | `Android, Productivity` |
-| **Clapgrep** | Ever had a folder full of PDF files, where you knew, somewhere in there, i… | [GitHub](https://flathub.org/apps/de.leopoldluley.Clapgrep) | `Linux, Utilities` |
-| **Chance** | Create custom dice | [GitHub](https://github.com/jameshnsears/Chance) | `Android, Utilities, iOS, Media, Social` |
-| **AnymeX** | Welcome to AnymeX, your ultimate destination for a seamless anime and mang… | [GitHub](https://t.me/AnymeX_Update) | `Android, Anime, Manga` |
-| **Azyx** | Your ultimate companion for watching anime and reading manga, all in one p… | [GitHub](https://t.me/repobusket/991) | `Android, Anime` |
-| **Qwotable** | Qwotable is a simple Android application filled with quotable stuff. Besid… | [GitHub](https://github.com/Lijucay/Qwotable) | `Android, Activities` |
-| **TIDY - Find your photos, Fast and Offline** | **TIDY** is an offline semantic Text-to-Image and Image-to-Image search ap… | [GitHub](https://github.com/slavabarkov/tidy) | `search, photos, offline, android, AI` |
-| **LabNex - Android app for GitLab** | LabNex is an open-source Android app for GitLab. You can use it with GitLa… | [GitHub](https://play.google.com/store/apps/details?id=com.labnex.app.premium) | `Android, Utilities` |
-| **Watomatic - Auto reply for WhatsApp so you can stop using it** | Watomatic sends an automated reply to everyone contacting you on WhatsApp.… | [GitHub](https://github.com/adeekshith/watomatic) | `Android, Tools` |
-| **Stride** | Task menagement application with in-built git integration. | [GitHub](https://f-droid.org/en/packages/org.stridetasks.stride) | `Android, Tools, Tracker, Fitness, Health, StepCounter` |
-| **Open Scanner - Fast, free document scanning app for iPhone**.** | Open Scanner scans your receipts, notes, textbooks, and anything else you… | [GitHub](https://github.com/pencilresearch/OpenScanner) | `iOS, Tools` |
-| **DigiPaws** | DigiPaws is an open-source Android productivity utility designed to help u… | [GitHub](https://t.me/fossclouds/179) | `Android, Productivity` |
-| **NeoStumbler** | NeoStumbler is an Android application for collecting locations of cell tow… | [GitHub](https://github.com/mjaakko/NeoStumbler) | `Android, Tools` |
-| **Nekome** | ** | [GitHub](https://github.com/Chesire/Nekome) | `Android` |
-| **Feed Flow** | Feed Flow is a minimalistic RSS Reader available on Android, iOS and macOS… | [GitHub](https://www.f-droid.org/tr/packages/com.prof18.feedflow) | `RSS, Desktop, android` |
-| **Password To Remember | PTR** | PTR is a great tool for android devices that generates strong, yet memorab… | [GitHub](https://github.com/v4lpt/pwg) | `Android, Security` |
-| **Mindful** | Mindful is a free and open-source app designed to help you regain control… | [GitHub](https://play.google.com/store/apps/details?id=com.mindful.android) | `Android, Productivity` |
-| **F*cks Given** | F*cks Given lets you keep track of the things that made you care. Whenever… | [GitHub](https://play.google.com/store/apps/details?id=rocks.poopjournal.fucksgiven) | `Android` |
-| **Visual Code Space** | Visual Code Space is a **powerful** and **feature-rich** code editor desig… | [GitHub](https://github.com/Visual-Code-Space/Visual-Code-Space) | `Android` |
-| **MemLoader (formerly XLoad)** | Load objects directly into RAM to reduce I/O operations and improve access… | [GitHub](https://github.com/iamlooper/MemLoader) | `notes, credits, Android, Root, Modules` |
-| **Material You NewTab** | Experience a sleek NewTab or homepage theme for your browser, inspired by… | [GitHub](https://github.com/XengShi/materialYouNewTab) | `Extension` |
-| **Jetflix** **- Your New Movie-Obsessed BFF** | Jetflix is your one-stop shop for discovering your next cinematic obsessio… | [GitHub](https://github.com/yasinkacmaz/jetflix) | `movies, android` |
-| **2Fast** | 2fast (acronym for two factor authenticator supporting TOTP) is a free, op… | [GitHub](https://t.me/popCLOUDS/6615) | `Windows` |
-| **BiglyBT** | BiglyBT for Android is an ad-free, fully featured open source bittorrent c… | [GitHub](https://f-droid.org/packages/com.biglybt.android.client) | `Android` |
-| **MeRead** | A concise and easy-to-use RSS reader built with Flutter and designed with… | [GitHub](https://github.com/gvenusleo/MeRead) | `Android` |
-| **dex2oat optimizer** | An ART optimization module to accelerate app launches and improve system p… | [GitHub](https://github.com/iamlooper/dex2oat-optimizer) | `notes, credits, Android, Root, Modules` |
-| **GreenStash** | GreenStash is a simple FOSS android app to help you plan and manage your s… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.starry.greenstash) | `Android` |
-| **Lemuroid** | Lemuroid is an open-source emulation project for Android based on Libretro… | [GitHub](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | `Android` |
-| **Ryu** | A simple way to enjoy and watch anime on iOS | [GitHub](https://github.com/cranci1/Ryu) | `IOS` |
-| **Lisa** | A Desktop application, for streaming and downloading your favourite Anime… | [GitHub](https://github.com/Cosmicoppai/LiSA) | `Windows` |
-| **Grocery Genius** | Grocery Genius is a free, customizable shopping list app with a modern des… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.rendox.grocerygenius) | `features, Android, Utilities` |
-| **MemeUI Enhancer** | Enhances MIUI/HyperOS for better battery backup and performance. | [GitHub](https://github.com/iamlooper/MemeUI-Enhancer) | `notes, credits, Android, Root, Modules` |
-| **Arru - Your expenses tracker** | Arru is an app for expenditure tracking/analysis. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.kssidll.arru) | `Android, Utilities` |
-| **TextBin** | A modern, responsive web app and FOSS alternative to Pastebin. It provides… | — | `Website` |
-| **Simple Keyboard - Simply keyboard and nothing more** | This keyboard is created for those who only need a keyboard and nothing mo… | [GitHub](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod) | `Android, Keyboard` |
-| **Cirno** | Cirno is an application freezer that runs on all platforms with Android 12… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/nep.timeline.cirno) | `Android, XPosed, Modules, Root` |
-| **WhatSave** | An application that helps you save WA statuses in the easiest way. | [GitHub](https://github.com/mardous/WhatSave) | `Android, Tools` |
-| **Lost Media Archive** | — | — | `Website` |
-| **BCL and ACC** | **ACC** is an Android software mainly intended for extending battery servi… | [GitHub](https://github.com/VR-25/acc) | `Android, Root, Modules` |
-| **Extinguish** | Extinguish turns your screen off but keeps your device awake (not going to… | [GitHub](https://t.me/fossclouds/158) | `Android, Utilities` |
-| **mpvKt** | A media player for Android based on mpv-android aiming to provide a nicer… | [GitHub](https://github.com/abdallahmehiz/mpvKt) | `Android, Player` |
-| **Capter** | A simple cross-platform screenshot tool made in Rust | [GitHub](https://t.me/popCLOUDS/6508) | `Linux, MacOS, Windows, Tools` |
-| **Bookracy** | Bookracy is a open-source project that aims to provide a platform for shar… | [GitHub](https://discord.com/invite/bookracy) | `Website, Ebooks` |
-| **LinUtil** **- Your Linux Toolbox for Efficiency** | **LinUtil** is a distro-agnostic toolbox written in Rust, designed to simp… | [GitHub](https://github.com/ChrisTitusTech/linutil) | `linux, utilities, terminal` |
-| **Uwidgets** | The standalone .NET application features customizable widgets such as a cl… | [GitHub](https://t.me/fossclouds/137) | `Windows, Customization` |
-| **Recording Studio** | Capture your sound with style! | [GitHub](https://github.com/Leonidius20/RecordingStudio) | `android, utilities, tools, audio` |
-| **Native Alpha** | full screen Web Apps with shortcuts and custom settings | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.cylonid.nativealpha) | `Android, Tools` |
-| **WeatherMaster** | WeatherMaster is developed with pure HTML, CSS, JavaScript, and Java. Desi… | [GitHub](https://github.com/PranshulGG/WeatherMaster) | `Android, Weather` |
-| **Blommee** | **An experimental cross-platform open Source Music player designed to brin… | [GitHub](https://github.com/HemantKArya/BloomeeTunes) | `Android, Music` |
-| **freeDictionary** | Remember Owl2? It's back, better than ever!🦉 | [GitHub](https://github.com/yamin8000/freeDictionaryApp) | `android, utilities, tools, productivity` |
-| **Fogplix** | Fogplix Anime is an application where you can watch or download over ten t… | [GitHub](https://t.me/popCLOUDS/6429) | `Android, AndroidTV` |
-| **Re-Malwack** | A revival of Malwack magisk module, yet it is also updated regularly and e… | [GitHub](https://github.com/ZG089/Re-Malwack) | `Android, Magisk, module, ad_block, adblock, ad_blocker, adblocker` |
-| **NumberHub** | Remember Unitto? It's Back! | [GitHub](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Myzel394/NumberHub) | `android, utilities, tools, productivity` |
-| **Pixelspoof** | A module for LSPosed that lets you spoof all device-specific properties of… | [GitHub](https://github.com/RisenID/PixelSpoof) | `Android, xposed, root` |
-| **A**wery** | Imagine the perfect app where you can customize everything, with tons of f… | [GitHub](https://github.com/MrBoomDeveloper/Awery) | `Android` |
-| **Pixel Studio Enabler** | Enables Pixel Studio App for all devices (A13+) systemlessly. | [GitHub](https://t.me/popCLOUDS/6339) | `Android, xposed, root` |
-| **Smart Pixels (XPosed Module)** | Smart Pixels is a battery-saving function found on some devices. It works… | [GitHub](https://github.com/frknkrc44/SmartPiXelsPosed) | `Android, Xposed, Modules, Root` |
-| **WhiteHole** | **Android app** to **auto-backup your photos using Telegram.** **Creates a… | [GitHub](https://github.com/beradeep/whitehole) | `android, photos, telegram, client, backup` |
-| **Findroid** | ** | [GitHub](https://github.com/jarnedemeulemeester/findroid) | `android, media, movies, series, music, cilent` |
-| **Dirol Reader** | **Smart news feed** from **Telegram channels in one place**. | [GitHub](https://github.com/therxmv/Dirol-Reader) | `android, telegram, client, productivity, utilities` |
-| **Xtreme DL Manager** **(XDM)** | **XDM** is a **download manager** that **boosts download speeds** by **up… | [GitHub](https://github.com/subhra74/xdm) | `downloads, windows, linux, mac, chrome, edge, firefox, utilities, tools` |
-| **PasteBar** | **Limitless Clipboard Manager** | — | `windows, mac, utilities, tools, productivity` |
-| **Walker** | A highly extendable application launcher that doesn't hold back on feature… | [GitHub](https://github.com/abenz1267/walker) | `installation, Linux, utilities, tools` |
-| **Screenbox Media Player** | **Screenbox** is a **sleek**, **fast player** works seamlessly on **Window… | [GitHub](https://github.com/huynhsontung/Screenbox) | `windows, video, music` |
-| **BraveGPT** | A script file can run AI to Brave Search and you Ask from any site. BraveG… | [GitHub](https://github.com/KudoAI/bravegpt) | `installation, android, desktop, script` |
-| **WinDiskWriter** | A macOS app that creates bootable USB drives for Windows. Patches Windows… | [GitHub](https://github.com/TechUnRestricted/WinDiskWriter) | `macOS, Tools` |
-| **LittleLink** | The DIY self-hosted LinkTree alternative. LittleLink has more than 100 bra… | [GitHub](https://github.com/sethcottle/littlelink) | `Website` |
-| **Magpie** | A lightweight window scaling tool that comes equipped with various efficie… | [GitHub](https://github.com/Blinue/Magpie) | `magpie, Windows, Tools, Gaming` |
-| **FadCrypt** | Advanced and elegant Windows app encryption – powerful, customizable, open… | [GitHub](https://github.com/anonfaded/FadCrypt) | `windows, privacy` |
-| **YouTube Music Desktop App** | Looking for a better way to enjoy YouTube Music on your desktop? The YouTu… | [GitHub](https://t.me/popCLOUDS/6318) | `available, translation, build, Windows, Music` |
-| **AB Download Manager** | AB Download Manager is a desktop app which lets you manage and organize yo… | [GitHub](https://github.com/amir1376/ab-download-manager) | `Windows, Linux` |
-| **TriPeaks** | An open source solitaire game with multiple playing options. | [GitHub](https://github.com/mimoguz/tripeaks-gdx) | `Android, game` |
-| **(Enhanced post)__ [File Navigator](https://t.me/popMODS/4801)** | Are you tired of cluttered files on your device? Seeking a streamlined way… | [GitHub](https://github.com/w2sv/FileNavigator) | `Android, Tools` |
-| **CleanSnap** | ** | — | `Website, AI` |
-| **SubTypo** | A Wonderful Android App to edit videos' subtitles files, with Material des… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.teixeira.subtitles) | `Android, Tools, video` |
-| **Share Paste O₂** | Share Paste is a [privatebin](https://privatebin.net/) client for android. | [GitHub](https://github.com/nain-F49FF806/sharepaste.oo) | `Android, Tools` |
-| **Android Easter Eggs Collection (AEEC)** | A wonderful collection of Android Easter Eggs in one App! beginning from A… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.dede.android_eggs) | `Android` |
-| **You Have Mail** | Small application to notify you when you receive an email in your email ac… | [GitHub](https://f-droid.org/packages/dev.lbeernaert.youhavemail) | `Android, Tools` |
-| **OuterTune** | A lightweight YouTube Music Client, with material UI design, and ability t… | [GitHub](https://appteka.store/app/a98r183248) | `Android, Tools, Music` |
-| **MicroG RE** | MicroG RE, The Best replacement for the original MicroG App, with material… | [GitHub](https://www.apkmirror.com/apk/wstxda/microg-re-microg-services-redesign-revanced) | `Android, Tools` |
-| **Island** | A sandbox environment, allowing you to clone selected apps and run them in… | [GitHub](https://github.com/oasisfeng/island) | `Android` |
-| **Book's** **Story** | **__Dive into the world of adventure as you discover your favorite book's… | [GitHub](https://github.com/Acclorite/book-story) | `Android, Reader` |
-| **Refreezer** | An alternative Deezer music streaming & downloading client, based on Freez… | [GitHub](https://github.com/DJDoubleD/refreezer) | `deezer, Android, Music` |
-| **Aard 2** | Aard 2 is a dictionary and offline Wikipedia reader supporting multiple la… | [GitHub](https://github.com/itkach/aard2-android) | `Android` |
-| **Screenstream** | A user-friendly Android application that allows users to easily share thei… | [GitHub](https://github.com/dkrivoruchko/ScreenStream) | `Android` |
-| **BoxBuddy** | An unofficial GUI for managing your Distroboxes. Written with GTK4 + Libad… | [GitHub](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) | `Linux, Tools` |
-| **Wike** | Wike** is a Wikipedia reader for the GNOME Desktop. Provides access to all… | [GitHub](https://github.com/hugolabe/Wike) | `Linux` |
-| **Lucida** | Lucida is an all in one solution to download music from every popular plat… | — | `Website` |
-| **ImageGlass** | **ImageGlass is a lightweight software designed for seamless viewing of im… | [GitHub](https://github.com/d2phap/ImageGlass) | `Windows` |
-| **Distrobox** | Use any linux distribution inside your terminal. Enable both backward and… | [GitHub](https://github.com/89luca89/distrobox) | `installation, Linux, Tools` |
-| **Docmost** | **An open-source collaborative wiki and documentation platform, serving as… | [GitHub](https://github.com/docmost/docmost) | `screenshots, Tools, Productivity` |
-| **Shake Alarm Clock** | **An alarm clock app for Android which allows you to dismiss the ringing a… | [GitHub](https://play.google.com/store/apps/details?id=in.basulabs.shakealarmclock) | `Android` |
-| **Taiga** | ** | [GitHub](https://github.com/erengy/taiga) | `Windows` |
-| **Fluxtube** | A powerful and ad-free YouTube client built using Flutter. Watch YouTube v… | [GitHub](https://apt.izzysoft.de/packages/com.fazilvk.fluxtube) | `Android` |
-| **Keyboard GPT** | ** | [GitHub](https://github.com/Mino260806/KeyboardGPT) | `Android, Root, NoRoot, LSPosed` |
-| **GoAwayEdge** | ** | [GitHub](https://github.com/valnoxy/GoAwayEdge) | `Windows` |
-| **FocusPodcast** | FocusPodcast helps you manage and play podcasts and virtual podcasts/audio… | [GitHub](https://github.com/allentown521/FocusPodcast) | `Android, Podcast` |
-| **OpenDevin** | — | — | `Windows, macOS, Linux` |
-| **TagStudio** | TagStudio is a photo & file organization application with an underlying sy… | [GitHub](https://github.com/TagStudioDev/TagStudio) | `current, Windows, macOS, Linux` |
-| **BenchSuite** | An Android app that serves as a wrapper, offering a variety of benchmarks. | [GitHub](https://github.com/iamlooper/BenchSuite) | `screenshots, Android, Tools` |
-| **LastMinute** | LastMinute is a travel website where you can find amazing late travel deal… | — | `Website` |
-| **Mica For Everyone!** | Mica For Everyone is a tool to customize system backdrop on Win32 apps usi… | [GitHub](https://github.com/MicaForEveryone/MicaForEveryone) | `Windows, Tools` |
-| **openScale** | Open-source weight and body metrics tracker, with support for Bluetooth sc… | [GitHub](https://github.com/oliexdev/openScale) | `Android, Tools` |
-| **KeyStoreViewer** | Quickly view MD5, SHA1, and Public Keys for App Signatures. | [GitHub](https://github.com/qdsfdhvh/KeyStoreViewer) | `Android, Tools` |
-| **Unyo - Anime streaming and Manga reader desktop app without ads.** | Unyo is a desktop application (inspired from Dantotsu) where you can watch… | [GitHub](https://github.com/K3vinb5/Unyo) | `Windows, Linux` |
-| **Farfalle- Open-source AI-powered search engine. (Perplexity Clone)** | Run local LLMs (llama3, gemma, mistral, phi3), custom LLMs through LiteLLM… | [GitHub](https://github.com/rashadphz/farfalle) | `use, Website, Windows, macOS, Linux, Android` |
-| **Taisei** | A free and open-source Touhou(Danmaku/Bullet Hell) Project fangame. | [GitHub](https://t.me/popCLOUDS/6093) | `Linux, Windows, Mac` |
-| **Mythic** | An open-source Epic Games Launcher alternative and normal game launcher fo… | [GitHub](https://github.com/MythicApp/Mythic) | `MacOS` |
-| **tillywork** | Manage projects, streamline marketing and sales, and create your product r… | [GitHub](https://github.com/tillywork/tillywork) | `Website` |
-| **KeyPunch** | Practice your typing skills | [GitHub](https://github.com/bragefuglseth/keypunch) | `Linux` |
-| **AirBattery** | Get battery usage of all devices on Mac and show them on the Dock / Status… | [GitHub](https://github.com/lihaoyun6/AirBattery) | `installation, MacOS` |
-| **OpenRecall** | OpenRecall is a fully open-source, privacy-first alternative to proprietar… | [GitHub](https://github.com/openrecall/openrecall) | `get, why, Windows, MacOS, Linux` |
-| **Fossify Keyboard** | Your go-to solution for effortless and efficient typing. Experience a seam… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/org.fossify.keyboard) | `Android` |
-| **Anx Reader** | ** | [GitHub](https://t.me/AnxReaderDiscussion) | `Android` |
-| **Groq** | Insanely fast Artificial Intelligence interface that uses five different o… | — | `Android, Mod` |
-| **Happy #WorldEmojiDay !** | Just open sourced my Noto Emoji fork called Noto Emoji Plus! | [GitHub](https://github.com/RadekBledowski/noto-emoji-plus) | `WorldEmojiDay` |
-| **Xash 3D** | Xash 3D is an open source app to run GoldSrc engine based games in android… | [GitHub](https://github.com/FWGS/xash3d-fwgs) | `Android` |
-| **NLSound** | ** | [GitHub](https://github.com/Briclyaz/NLSound_module_QCom) | `Android, Magisk, KSU` |
-| **Play NotePad** | ** | [GitHub](https://play.google.com/store/apps/details?id=com.mshdabiola.playnotepad) | `Android, NotePad` |
-| **AI Uncensored** | AI Uncensored is an Artificial Intelligence with no filters, designed for… | — | `Website, AI` |
-| **EeveeSpotify** | This tweak makes Spotify think you have a Premium subscription, granting f… | [GitHub](https://github.com/whoeevee/EeveeSpotify) | `how, restrictions, lyrics, iOS` |
-| **WhatsApp MaterialYou Guide!** | __Use material you colors in WhatsApp__ [ROOT REQUIRED] | [GitHub](https://github.com/mywalkb/LSPosed_mod) | `—` |
-| **FadCam** | A cam recorder that allows seamless background video recording, even when… | [GitHub](https://github.com/anonfaded/FadCam) | `Android` |
-| **Logger** | Logger is a Flutter-based Android app that enables you to view and export… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.logger.app) | `Android, Tools` |
-| **Calculator You** | Calculator You is a beautiful calculator for solving simple tasks. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.marktka.calculatorYou) | `what, Android, Tools` |
-| **Capy Reader** | A smallish RSS reader with support for Feedbin and local feeds. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.capyreader.app) | `Android` |
-| **Streamflix** - Stream for free!** | Streamflix is an Android TV and mobile app to stream movies and TV shows f… | [GitHub](https://github.com/stantanasi/streamflix) | `Android` |
-| **SoundTap - Android Volume Media Controller App** | SoundTap is a simple and intuitive Android app that allows users to contro… | [GitHub](https://play.google.com/store/apps/details?id=fr.angel.soundtap) | `Android, Tool` |
-| **Rhythia** | **Rhythm-based aim game | [GitHub](https://github.com/David20122/sound-space-plus) | `Linux, Windows` |
-| **GlassDown** | GlassDown is a Flutter-built client for APKMirror website. By using method… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.sinneida.glass_down2) | `Android` |
-| **Tarnhelm - The magic to clean sharing links up.** | Tarnhelm can help you clean the tracking parameters in the links shared fr… | [GitHub](https://play.google.com/store/apps/details?id=cn.ac.lz233.tarnhelm) | `Android, Xposed, Modules` |
-| **Animity** | Animity is an anime streaming app that provides high-quality streaming of… | [GitHub](https://github.com/kl3jvi/animity) | `Android` |
-| **Miruro** | Miruro is a cutting-edge anime streaming platform2. It's powered by the Co… | [GitHub](https://github.com/Miruro-no-kuon/Miruro) | `Website` |
-| **SWOB** | SWOB (SMSWithoutBorders aka SMS without Borders) is a platforms which enab… | [GitHub](https://github.com/smswithoutborders/SMSWithoutBorders-App-Android) | `Android` |
-| **BleOta - Upload firmware over Bluetooth** | Open source application for upload firmware over Bluetooth. Additionally s… | [GitHub](https://play.google.com/store/apps/details?id=com.vovagorodok.ble_ota_app) | `Android, iOS` |
-| **Photok** | Photok is a free Photo-Safe. It stores your photos & videos encrypted on y… | [GitHub](https://github.com/leonlatsch/Photok) | `Android` |
-| **Cleaner** for Android - One-tap phone cleaner** | Cleaner is an Android app that helps you free up space and manage your dev… | [GitHub](https://github.com/D4rK7355608/com.d4rk.cleaner) | `Android` |
-| **Lab+ for Gitlab** | Lab+ for Gitlab is your unofficial Companion for Gitlab. | [GitHub](https://github.com/thelooter/labplus_for_gitlab) | `Android` |
-| **DataBackup** | DataBackup is a rooted app that allows you to back up your apps, folders/f… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.xayah.databackup) | `support, Android, Root` |
-| **Phiola** | Fast audio player, recorder, converter for Windows, Linux & Android. | [GitHub](https://github.com/stsaz/phiola) | `Music, Android, Windows, Linux` |
-| **WifiList (FOSS)** | View your saved WiFi passwords on Android 11 and later without root! | [GitHub](https://github.com/jaredcat/WiFiList) | `Android` |
-| **TailScale** | Tailscale is a mesh VPN alternative that makes it easy to connect your dev… | [GitHub](https://github.com/tailscale/tailscale-android) | `Android` |
-| **Yōkai** | A free and open source manga reader | [GitHub](https://github.com/null2264/yokai) | `Android` |
-| **Yosu** | Yosu is an application that lets you download videos/tracks from YouTube,… | [GitHub](https://github.com/jerry08/Yosu) | `Android, Tools` |
-| **PenPot** - The open-source design tool** | Penpot is the first open-source design tool for design and code collaborat… | — | `Web, Design` |
-| **Material** **World Clock v2** | World Clock is a Flutter app that displays the current time and weather fo… | [GitHub](https://t.me/popCLOUDS/5810) | `Android, Linux, Windows, MacOS` |
-| **Project Based Learning** | A list of programming tutorials in which aspiring software developers lear… | [GitHub](https://github.com/practical-tutorials/project-based-learning) | `c, cc, clojure, dart, elixir, erlang, f, go, haskell, html, java, javascript, kotlin, lua, ocaml, php, python, r, ruby, rust, scala, swift, additional, Resources` |
-| **Tournant** | Recipe manager for Android (with Gourmand compatibility) | [GitHub](https://github.com/Zimbelstern/Tournant) | `Android` |
-| **OSS Card Wallet** | OSS Card Wallet is an Open Source app to scan and store all your cards. Yo… | [GitHub](https://play.google.com/store/apps/details?id=com.akylas.cardwallet) | `Android, Tools` |
-| **Flocuss** | Sync your bookmarks privately across browsers and devices | [GitHub](https://github.com/nextcloud/bookmarks) | `Android, IOS, Extension` |
-| **Material Photo Widget** | Material Photo Widget is as simple as it can be: a home screen widget to d… | [GitHub](https://t.me/popCLOUDS/5725) | `Android` |
-| **Echo Music [Nightly]** | An Extension (Spotify, Youtube Music, Deezer Music) based Music Player for… | [GitHub](https://github.com/brahmkshatriya/echo) | `Android, Music` |
-| **Ollama** | The Ollama app even supports multimodal input. That means you can input an… | [GitHub](https://github.com/JHubi1/ollama-app) | `Android` |
-| **Petals** | The Open Source app Petals aims to help its users to either quit weed, red… | [GitHub](https://github.com/LeoColman/Petals) | `Android` |
-| **SpotX** | Spotify adblocker with experemental features and more | [GitHub](https://github.com/SpotX-Official/SpotX) | `Windows, MacOS, Linux` |
-| **Url Sanitiser** | Don't like those tracking GET queries from the big brothers? Here, this ap… | [GitHub](https://t.me/popCLOUDS/5692) | `Android` |
-| **Easy Notes** | Lightweight android notes app with Material You. | [GitHub](https://t.me/popCLOUDS/5684) | `android` |
-| **Winfetch** | 🛠 A command-line system information utility written in PowerShell. Like Ne… | [GitHub](https://github.com/lptstr/winfetch) | `Windows` |
-| **Open WebUI** | Open WebUI is an extensible, feature-rich, and user-friendly self-hosted W… | [GitHub](https://github.com/open-webui/open-webui) | `how, Linux, Windows, MacOS` |
-| **Omni** | A useful and handy minimalist toolbox. It comes with an up-to-date materia… | [GitHub](https://github.com/AkaneFoundation/Omni) | `Android` |
-| **FitBook** | A Flutter application designed to help you keep track of your daily calori… | [GitHub](https://github.com/brandonp2412/FitBook) | `Android` |
-| **Superfile** | Pretty fancy and modern terminal file manager | [GitHub](https://superfile.netlify.app/getting-started/installation) | `Linux, Windows, MacOS` |
-| **Notifier** | This app will transfer notifications from selected apps on your phone to y… | [GitHub](https://github.com/Yanndroid/Notifer) | `Android` |
-| **Password Monitor** | Ensure your password safety by scanning for potential breaches. | [GitHub](https://github.com/StellarSand/Password-Monitor) | `Android` |
-| **MqttDroid** | It provides a friendly interface to create and edit custom devices with us… | [GitHub](https://github.com/LightJockey/MqttDroid) | `Android` |
-| **FluentWeather** | A beautiful & modern UWP weather app for Windows. This app lets you see th… | [GitHub](https://github.com/Gabboxl/FluentWeather) | `Windows, Weather` |
-| **ShizuTools** | Contains some easy-to-use tools to go beyond the level of control allowed… | [GitHub](https://github.com/legendsayantan/ShizuTools) | `Android` |
-| **Pi Installer** | is short for "Package Installer". It is just a Package Installer and its f… | [GitHub](https://github.com/SanmerApps/PI) | `Android` |
-| **mpv-android** | mpv-android is a video player for Android based on libmpv. | [GitHub](https://play.google.com/store/apps/details?id=is.xyz.mpv) | `Android` |
-| **MMRL** | MMRL is a highly configurable app allows you to manage modules effortlessl… | [GitHub](https://t.me/popCLOUDS/5510) | `Android, Root` |
-| **Kenko** | Kenko is a workout journal which will provide you with appropriate progres… | [GitHub](https://t.me/popCLOUDS/5505) | `Android` |
-| **EasySync** | Synchronize your phone with your WebDAV server, the easy way. | [GitHub](https://play.google.com/store/apps/details?id=com.phpbg.easysync&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `faq, Android` |
-| **GitJournal** | GitJournal is a note taking app focused on privacy and data portability. I… | [GitHub](https://apps.apple.com/us/app/gitjournal/id1466519634?uo=4) | `community, Android, Linux, MacOS` |
-| **Karbonized** | Karbonized is a user-friendly app designed to help you create stunning vis… | [GitHub](https://github.com/yossthedev/karbonized) | `Linux, Windows, MacOS` |
-| **Tauri** | Tauri is a framework for building tiny, blazingly fast binaries for all ma… | [GitHub](https://github.com/tauri-apps/tauri) | `getting, Android, Linux, Windows, MacOS, iOS` |
-| **Yet Another Mi-FreeForm** **(Squared)** | Yet Another Mi-FreeForm is a fork of famous Mi-FreeForm Xposed module | [GitHub](https://github.com/kaii-lb/YAMFsquared) | `Android, Xposed, Modules` |
-| **ntfy.sh**** | Send push notifications to your phone or desktop via PUT/POST** | ntfy (pronounced "notify") is a simple HTTP-based pub-sub notification ser… | [GitHub](https://ntfy.sh/docs/subscribe/phone) | `ntfy, Android, iOS, Linux` |
-| **Accrescent** | A novel Android app store focused on security, privacy, and usability. | [GitHub](https://github.com/accrescent/accrescent) | `Android` |
-| **Omnivore** | Omnivore is a complete, open source read-it-later solution for people who… | [GitHub](https://github.com/omnivore-app/omnivore) | `Android, iOS, Extension` |
-| **ActivityWatch** | Records what you do so that you can know how you've spent your time. All i… | [GitHub](https://addons.mozilla.org/en-US/firefox/addon/aw-watcher-web) | `Android, Linux, Windows, Extension` |
-| **Lidarr** | Lidarr is a music collection manager for Usenet and BitTorrent users. It c… | [GitHub](https://lidarr.audio/discord) | `Linux, Windows` |
-| **CarCareKiosk** | CarCareKiosk is an online platform that offers a vast library of free how-… | — | `Website` |
-| **NewsBlur** | NewsBlur is a personal news reader that brings people together to talk abo… | [GitHub](https://github.com/samuelclay/NewsBlur) | `newsblur, features, Android, iOS` |
-| **Cofi** | Free and open-source coffee brew timer. Customizable time settings and an… | [GitHub](https://github.com/rozPierog/Cofi) | `download, screenshots, Android, Utilities` |
-| **Kitsune** | Unofficial android app for [Kitsu.io](https://kitsu.io/). Discover new Ani… | [GitHub](https://github.com/Drumber/Kitsune) | `download, screenshots, features, Android` |
-| **UnitsTool** | An application to convert units | [GitHub](https://play.google.com/store/apps/details?id=com.unitstool) | `Android, Utilities` |
-| **Raise To Answer** | Simply hold your phone to your ear to answer an incoming call. When the ap… | [GitHub](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) | `Android, Utilities` |
-| **Bitwarden Authenticator** | Bitwarden Authenticator allows you easily store and generate two-factor au… | [GitHub](https://t.me/popCLOUDS/5385) | `permissions, Android, Security, Utilities` |
-| **Rectify** ([Enhanced Post](https://t.me/popMODS/3264))** | Rectify11 improves the consistency of Windows 11 by modifying system files… | [GitHub](https://discord.gg/rectify11-community-1077324213142175744) | `permissions, Windows` |
-| **Ani-Cli** | A cli to browse and watch anime (alone AND with friends). This tool scrape… | [GitHub](https://github.com/pystardust/ani-cli) | `tier, Android, IOS, Windows, MacOS, Linux, Anime` |
-| **Anemo** | A private local storage utility application for android. | [GitHub](https://github.com/2bllw8/anemo) | `android` |
-| **Akuse** | Simple and easy to use anime streaming desktop app without ads. | [GitHub](https://t.me/popCLOUDS/5338) | `Windows, Anime` |
-| **Screen Time** | Screen Time is an app that displays your screen time in a permanent notifi… | [GitHub](https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime) | `Android, Utilities` |
-| **Conway's Game of Life** | The Game of Life, also known simply as "Life", is a cellular automaton dev… | [GitHub](https://github.com/Efimj/GameOfLife) | `design, key, Android, Games` |
-| **📝 Shkiper** | The skipper is designed to make your life easier and organize your daily a… | [GitHub](https://t.me/popCLOUDS/5317) | `Android` |
-| **Lyricistant** | Lyricistant is a writing app geared toward helping you write lyrics, poetr… | [GitHub](https://github.com/wardellbagby/lyricistant) | `download, Android` |
-| **Voyage** | __Voyage__ is a lightweight nostr client for Android with a Reddit-like UI. | [GitHub](https://t.me/popCLOUDS/5308) | `some, supported, Android` |
-| **QuickNovel** | Adfree FOSS Android app for downloading novels. It also functions as an Ep… | [GitHub](https://github.com/LagradOst/QuickNovel) | `Android, Anime, Reader` |
-| **Macchina - Neofetch clone written in Rust** | Macchina lets you view system information, like your kernel version, uptim… | [GitHub](https://github.com/Macchina-CLI/macchina) | `Linux, Windows, Mac, Android` |
-| **Reciper** - __Your Ultimate Kitchen Companion!** | Reciper - __Simple but Powerful Recipe Management App built with ❤️ and Fl… | [GitHub](https://t.me/popCLOUDS/5291) | `Android` |
-| **finelock.app** | Good Lock and Good Guardians (previously Galaxy Labs) are great official t… | — | `Website, Android, OneUI` |
-| **Fusor.net** | **An open-source nuclear fusion reactor website that is accessible to ever… | — | `Website` |
-| **timeto.me** | You must set a timer for each activity, like eating, working, reading, etc. | [GitHub](https://apps.apple.com/us/app/id6448869727) | `Android, iOS` |
-| **Nekoflix** | Nekoflix, your all-in-one destination for anime and manga enthusiasts! Wit… | [GitHub](https://nekoflix-landing-page.vercel.app) | `Android, Stream, Anime` |
-| **Ente Photos** | Encrypted photo storage - backup, organize and share your photos and videos | [GitHub](https://web.ente.io) | `Android, IOS, Web, Windows, Linux` |
-| **AutoDND** | Just a simple tool to turn on/off DND(Do Not Disturb) automatically when u… | [GitHub](https://t.me/popCLOUDS/5228) | `Android` |
-| **Lumi AI** | A friendly AI sidekick with a human-like personality. | [GitHub](https://github.com/iamlooper/Lumi-AI) | `screenshots, Android, AI` |
-| **OpenPaperView** | Thats purpose is to browse, search in, download and display or send OpenPa… | [GitHub](https://github.com/bwt/OpenPaperView) | `Android` |
-| **Xed Editor** | is a versatile text editor designed specifically for Android devices, offe… | [GitHub](https://github.com/RohitKushvaha01/Xed-Editor) | `Android` |
-| **Flick** | A movie app built entirely with Jetpack Compose and Material 3 | [GitHub](https://github.com/f33lnothin9/flick) | `screenshots, features, Utilities` |
-| **GitHub Web IDE** | This extension enhances GitHub repositories by adding a convenient dropdow… | [GitHub](https://github.com/zvizvi/Github-Web-IDE) | `github, Extension` |
-| **GPThemes** | **GPThemes is a Chrome extension designed to improve the visual experience… | [GitHub](https://github.com/itsmartashub/GPThemes) | `Extension` |
-| **USB HID Client** | Android app that allows you to easily use your phone as a keyboard, mouse… | [GitHub](https://t.me/popCLOUDS/5205) | `Android, Root` |
-| **Launch Chat** | Start a WhatsApp, Signal or Telegram chat without saving a number as a con… | [GitHub](https://github.com/vinaygopinath/launch-chat) | `Android` |
-| **VHEditor-Android** | This project uses https://github.com/cdr/code-server as its core engine, a… | [GitHub](https://github.com/vhqtvn/VHEditor-Android) | `Android` |
-| **Bluetooth LE Spam** | This project focuses on utilizing the built-in Bluetooth Low Energy (BLE)… | [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam) | `screenshots, functionality, disclaimer, Android, Utilities` |
-| **Disky - Find your biggest diskspace thiefes!** | A filesystem analyzer that can show you the usage of your storage! | [GitHub](https://github.com/newhinton/disky) | `screenshots, features, Android, Utilities` |
-| **SensorBox - record all your sensors to csv files** | The SensorBox provides easy way to access sensors in Android phone and Wea… | [GitHub](https://github.com/Foxpace/SensorBox) | `features, Android, Utilities` |
-| **Home Assistant** | Home Assistant for Android lets you control all your devices in your Home… | [GitHub](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android` |
-| **AppErrorsTracking** | AppErrorsTracking is a Xposed Module tailored for Android developers. It e… | [GitHub](https://t.me/fossclouds/83) | `Android, SuperUser, Xposed` |
-| **Pineapple Lock Screen** | Pineapple Lock Screen (OSS version) is a small, simple, clean, and fast ap… | [GitHub](https://github.com/BLumia/pineapple-lock-screen) | `Android` |
-| **HeyForm** | HeyForm is an open-source form builder that allows anyone to create engagi… | [GitHub](https://github.com/heyform/heyform) | `Web, SelfHost` |
-| **Ricochlime** | Ricochlime is a game where you attack the advancing monsters with your ric… | [GitHub](https://github.com/adil192/ricochlime) | `Games, Android, IOS, Windows, MacOS, Web` |
-| **NekoBox** | 1sing-box / universal proxy toolchain for Android | [GitHub](https://play.google.com/store/apps/details?id=moe.nb4a) | `Android` |
-| **Raven** | Raven is a News aggregator / News reader app. | [GitHub](https://github.com/ksh-b/raven) | `Android, News, Reader` |
-| **Linux Icons** | The Blue-Red Linux KDE Theme offers a visually appealing contrast that enh… | [GitHub](https://github.com/White9shadow/blu-red-icons) | `Linux` |
-| **🤖 Power Tools Bot** | power tools is a free, opensource telegram bot interface which allows you… | [GitHub](https://github.com/fam-tree-dev/power-tools) | `Bot` |
-| **Veil** | is creating an encrypted equivalent of the cash economy, where privacy is… | [GitHub](https://github.com/steel97/veil_wallet) | `Android` |
-| **Wake On Lan** | This app let's you control your devices using Wake on Lan. Multiple device… | [GitHub](https://t.me/popCLOUDS/5126) | `Android` |
-| **MemoryGuardian** | A small Android application specifically designed to safeguard user privac… | [GitHub](https://github.com/hashemi-hossein/memory-guardian) | `Android` |
-| **traewelldroid** | Träwelldroid is a free check-in service for recording your public transpor… | [GitHub](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | `Android` |
-| **🔐 Mauth** | Mauth (pronounced Moth) is a Two-Factor Authentication app with support fo… | [GitHub](https://t.me/fossclouds/44) | `features, Android, Authenticator` |
-| **KeyPass** | KeyPass is an exceptional open-source and offline password manager that pu… | [GitHub](https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass) | `Android` |
-| **SimpleReminder** | Do you know the feeling when something crosses your mind you certainly wan… | [GitHub](https://github.com/felixwiemuth/SimpleReminder) | `Android` |
-| **Noto** | Noto is yet another Note taking app with a fluid UI and a modern looking i… | [GitHub](https://t.me/popCLOUDS/5056) | `Android, FOSS` |
-| **Auto Airplane Mode** | Schedule airplane mode based on your settings, e.g. by date/time. | [GitHub](https://github.com/MBach/AutoAirplaneMode) | `Android, Root, ADB` |
-| **OpenNote** | **OpenNote is a modern Android note-taking application built entirely with… | [GitHub](https://github.com/YangDai2003/OpenNote-Compose) | `features, Android, FOSS, windows, mac, linux, notes, GayNiggers` |
-| **Etopa** | Etopa is a two-factor-authentication app, which runs as a web server and c… | [GitHub](https://www.amazon.com/gp/mas/dl/android?p=de.ltheinrich.etopa) | `Android` |
-| **Bura** | Modern fully-featured weather app with graphs and thoughtful data visualiz… | [GitHub](https://t.me/fossclouds/36) | `Android, Weather` |
-| **Metadata Remover - Remove any image's metadata fast and easily.** | Protect your privacy by removing metadata from your photos, before sharing… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/rocks.poopjournal.metadataremover) | `android` |
-| **Metadator- An Android ID3 metadata editor built with Jetpack Compose and Material 3** | A simple yet complete metadata editor for your songs powered by TagLib and… | [GitHub](https://github.com/BobbyESP/Metadator) | `android` |
-| **AppLaunch** | AppLaunch is Alpha-stage project which aims to allow user launch apps from… | [GitHub](https://github.com/fluid-developer/AppLaunch) | `Android, Root` |
-| **Sui** | Sui provides Java APIs, [Shizuku API](https://github.com/RikkaApps/Shizuku… | [GitHub](https://github.com/RikkaApps/Shizuku-API) | `Android, Root` |
-| **Positional** | An app to get more information about your position. | [GitHub](https://github.com/mtrewartha/positional) | `Android, FOSS` |
-| **Keep It Up** | An app to monitor websites and hosts on the internet, notifying you of any… | [GitHub](https://github.com/ibbaa/keepitup) | `Android` |
-| **PageKeeper** | PageKeeper is an innovative bookmark management application that revolutio… | [GitHub](https://play.google.com/store/apps/details?id=com.desarrollodroide.pagekeeper) | `Android` |
-| **CashSense** | A mobile app designed to help users manage their finances effectively. | [GitHub](https://github.com/f33lnothin9/cashsense) | `Android` |
-| **SendAnywhere** | Easy, Quick File Transfer, but with ads.. | [GitHub](https://github.com/estmob/SendAnywhere-Android-SDK) | `Android, Linux, Windows, IOS, MacOS, Web` |
-| **Piley** | A small To-Do app that uses piles to manage your tasks. | [GitHub](https://github.com/justdeko/piley-server) | `Android` |
-| **🗃️ Flut Renamer** | **__Flut Renamer__** is a powerful yet easy-to-use tool designed to help u… | [GitHub](https://github.com/sun-jiao/renamer) | `screenshots, Android, IOS, Windows, MacOS, Linux, Utilities` |
-| **Floating Timer** | The Floating Timer app features both a countdown timer and stopwatch that… | [GitHub](https://play.google.com/store/apps/details?id=xyz.tberghuis.floatingtimer) | `Android` |
-| **Minimum Launcher - Minimalist App Launcher for Effortless Efficiency.** | **__Minimum Launcher__** is an elegant and efficient app launcher designed… | [GitHub](https://github.com/JunioJsv/minimum) | `Android, Launcher` |
-| **Neo-Wellbeing** **[Alpha]** | Open source "Digital Wellbeing" replacement at alpha stage. Has some cool… | [GitHub](https://github.com/NeoApplications/Neo-Wellbeing) | `android, root, module` |
-| **Comatose** | Force your device to enter deep sleep sooner | [GitHub](https://github.com/tytydraco/Comatose) | `android, root, adb` |
-| **AnimeTV for Android TV & Google TV** | AnimeTV is Android TV application for watching your favorite anime series… | [GitHub](https://github.com/amarullz/AnimeTV) | `features, donation, Android, TV, Anime` |
-| **NewPass** | NewPass is a secure password management application designed to generate a… | [GitHub](https://github.com/6eero/NewPass) | `Android` |
-| **Look4Sat: __Satellite tracker** | Satellite positions and passes are calculated relative to your location. T… | [GitHub](https://t.me/popCLOUDS/4917) | `Android` |
-| **MyMap.ai** | MyMap.ai is a digital tool that helps you create mind maps. A mind map is… | — | `Website, AI` |
-| **Securify** | Yet another detection app to detect Magisk or KernelSU. | [GitHub](https://github.com/RabahX/Securify) | `Android` |
-| **Buddha Quotes** | Buddha Quotes is a collaborative project to create a Free and Open Source… | [GitHub](https://github.com/BanDev/BuddhaQuotes) | `Android` |
-| **ViTune (**[**ViMusic**](https://t.me/popMODS/1867)** fork)** | An Android application for streaming music from YouTube Music | [GitHub](https://github.com/25huizengek1/ViMusic) | `Android, Music` |
-| **Five Prayers** | Five Prayers Android provide a set of tools needed by any muslim around th… | [GitHub](https://play.google.com/store/apps/details?id=com.hbouzidi.fiveprayers) | `Android` |
-| **Medium Unlocker** | Medium Unlocker is a web tool designed to access Medium articles without a… | [GitHub](https://github.com/inulute/medium-unlocker) | `Web` |
-| **JamesDSP** | Cross-platform Audio Effect / Digital Signal Processing library | [GitHub](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `features, Android, Root` |
-| **Dev Tiles** | Android Quick Settings tiles for developers. Works on Android 7.0+. | [GitHub](https://github.com/mustafa01ali/Dev-Tiles) | `usage, Android` |
-| **Layout Editor** | Use Layout Editor to easily build Android app layouts by dragging UI eleme… | [GitHub](https://github.com/itsvks19/LayoutEditor) | `features, Android` |
-| **AniVu** | AniVu, an all-in-one tool for RSS anime subscription and updates, bit torr… | [GitHub](https://t.me/popCLOUDS/4814) | `Android` |
-| **POW** | Say hello to Purr, the all-in-one resolution changer for Android devices,… | [GitHub](https://play.google.com/store/apps/details?id=com.draco.purr) | `Android, ADB, Root` |
-| **Quick Tiles** | Android Quick Settings Tiles. A Quick Tile App, To Freely Choose Any Tiles… | [GitHub](https://github.com/asdoi/QuickTiles) | `Android` |
-| **UpNext GPT** - Your playlist powered by ChatGPT.** | GPT powered playlist App for Android. Supports Apple Music, Spotify, and Y… | [GitHub](https://github.com/dokar3/upnext-gpt) | `Android` |
-| **ScreenPlay** | ScreenPlay is an Open Source cross-platform app for displaying Live Wallpa… | — | `Windows, Linux, MacOS` |
-| **MIO KITCHEN** | An Open-Source Android Tool project created with Python , This tool contai… | [GitHub](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) | `Linux, Windows, MacOS` |
-| **MedTimer** **- Med reminders and history with full offline privacy** | MedTimer is an open-source medication reminder app designed to help you ma… | [GitHub](https://github.com/Futsch1/medTimer) | `Android` |
-| **Summary You** | Summarize YouTube-Videos & Articles with AI | [GitHub](https://github.com/talosross/SummaryYou) | `Android` |
-| **Cuberite for Android™ - An easy way to run a Minecraft server on your phone.** | Cuberite is a Free and Open Source (FOSS) game server compatible with Mine… | [GitHub](https://github.com/cuberite/android) | `Android` |
-| **Snappr** | Snappr is a minimalist note-taking and bookmarking app designed to help yo… | [GitHub](https://github.com/Iamlooker/Snappr) | `Android` |
-| **Private DNS Quick Toggle** | Quick settings tile to switch active private DNS server | [GitHub](https://github.com/karasevm/PrivateDNSAndroid) | `Android` |
-| **osu!lazer** | A free-to-win rhythm game. Rhythm is just a click away! | — | `Android, MacOS, Linux, iOS, Windows` |
-| **🎨 Paleta** | Find the dominant color palette from any image and manage palettes with Pa… | [GitHub](https://github.com/nate-xyz/paleta) | `Linux` |
-| **FreeOTP Plus** | FreeOTP Plus forked the same functionality of FreeOTP provided by RedHat. | [GitHub](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus) | `Android` |
-| **Aegis** | Aegis Authenticator is a free, secure and open source 2FA app for Android.… | [GitHub](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) | `Android` |
-| **File Centipede** | File centipede is an All-In-One internet file upload/download manager, Bit… | [GitHub](https://github.com/filecxx/FileCentipede) | `features, Extension` |
-| **HideDroid - An Android App for preserving user privacy** | HideDroid is an Android app that allows the per-app anonymization of colle… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/it.unige.hidedroid) | `Android` |
-| **little-rat** | Small Chrome extension to monitor (and optionally block) other extensions'… | [GitHub](https://t.me/popCLOUDS/4623) | `Extension` |
-| **STREAMit!** | STREAMit! is a free and ad-free Movies/TV Shows streaming app. No sign up… | [GitHub](https://github.com/sinnedpenguin/streamit) | `features, Website` |
-| **Moonlight** | Moonlight for Android is an open source client for NVIDIA GameStream and S… | [GitHub](https://play.google.com/store/apps/details?id=com.limelight) | `Android` |
-| **Wasted** | Lock a device and wipe its data on emergency by PanicKit, tile, shortcut o… | [GitHub](https://github.com/x13a/Wasted) | `Android` |
-| **MediTrack** | A simple medication tracking app, that supports tracking medicines for you… | [GitHub](https://github.com/AdamGuidarini/MediTrak) | `adding, Android` |
-| **Emojied 🌐** | An open-source URL-shortener service that uses emojis in the shortened lin… | [GitHub](https://github.com/sekunho/emojied) | `Website` |
-| **ExplainShell** | Discover ExplainShell, an innovative web-based tool that demystifies shell… | — | `Website` |
-| **MdgWa** (Neko xD)** | An Xposed module to customize your WhatsApp. | [GitHub](https://github.com/ItsMadruga/MdgWa) | `Android, Root, Lsposed` |
-| **GigaBrain** | GigaBrain is an innovative platform designed to streamline the process of… | — | `Website, Extension` |
-| **Trekarta** -__Offline Outdoor Map** | Trekarta (former MapTrek) is designed for hiking, geocaching, off-roading,… | [GitHub](https://github.com/andreynovikov/trekarta) | `Android, Maps` |
-| **Chord Reader 2** | — | [GitHub](https://github.com/AndInTheClouds/chordreader2) | `Android` |
-| **Neer - Water Reminder** | The Water Reminder App is a simple application designed to help users stay… | [GitHub](https://github.com/criticalAY/Neer) | `Android` |
-| **FlickBoard** | FlickBoard is a flicking-style keyboard, in the style of MessagEase and Th… | [GitHub](https://play.google.com/store/apps/details?id=se.nullable.flickboard) | `Android` |
-| **Stitch** | Yet another app to create awesome longshots. | [GitHub](https://github.com/ekibun/Stitch) | `Android` |
-| **Alexandria 𓂀** | Alexandria is an open source application for downloading and converting EB… | [GitHub](https://github.com/aloussase/alexandria-app) | `Android, EBook` |
-| **Linkora** | **An Android project that focuses on making link organization simpler. Fro… | [GitHub](https://github.com/sakethpathike/Linkora) | `features, screenshots, Android` |
-| **AutoEq** | AutoEq is a tool for creating equalizer settings which give a neutral soun… | [GitHub](https://github.com/jaakkopasanen/AutoEq) | `usage, Android, IOS, Windows, Linux, MacOS` |
-| **SimpleAppDowngrader [ROOT]** | Downgrades installed apps with an apk-file | [GitHub](https://github.com/GaryOderNichts/SimpleAppDowngrader) | `Android` |
-| **Open-Sora Plan** | — | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | `AI` |
-| **Flixclusive** | A modern streaming service app that provides users with a convenient way t… | [GitHub](https://t.me/popCLOUDS/4513) | `Android` |
-| **KeyGuard for BitWarden** | **[The news I posted](https://t.me/popMODS/4828?single) made me remember t… | [GitHub](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) | `Android` |
-| **ghfetch** | ghfetch is a CLI tool to fetch GitHub user information and show like neofe… | [GitHub](https://github.com/orangekame3/ghfetch) | `quick, usage, obtaining, Windows, Linux` |
-| **DailyAL** | **Unofficial flutter-based client for MyAnimeList. | [GitHub](https://github.com/JICA98/DailyAL) | `Android` |
-| **QtScrcpy** | QtScrcpy supports displaying and controlling Android devices via USB or ov… | [GitHub](https://github.com/barry-ran/QtScrcpy) | `Windows, Linux, MacOS` |
-| **Zty.pe** | — | — | `Website, Game, Android` |
-| **Gauguin** | Gauguin is a Sudoku-like game where you solve grids via calculation and lo… | [GitHub](https://play.google.com/store/apps/details?id=org.piepmeyer.gauguin) | `Android` |
-| **Wormhole** | iyox Wormhole is a file-sharing application for the magic-wormhole protoco… | [GitHub](https://github.com/iyox-studios/iyox-Wormhole) | `Android, Tools` |
-| **File Navigator** | The missing link between Android and a well-structured file system. | [GitHub](https://t.me/popCLOUDS/4451) | `Android` |
-| **Playnite** | An open source video game library manager and launcher with support for 3r… | [GitHub](https://t.me/popCLOUDS/4446?single) | `Windows` |
-| **BlockTheSpot** | A multi-purpose adblocker and skip-bypass for the Spotify for Windows (64… | [GitHub](https://github.com/mrpond/BlockTheSpot) | `Windows` |
-| **Vectras VM** | Virtual machines on Android to try Operating Systems on the go. | [GitHub](https://github.com/epicstudios856/Vectras-VM-Android) | `Android` |
-| **Dollphone Icon Pack** | Dollphone is an icon pack that is very cute, but isn’t too hyper. The icon… | [GitHub](https://t.me/popCLOUDS/4423) | `Android, Customization` |
-| **TrustDevice Fingerprint** | A lightweight library for determining device uniqueness and risk identific… | [GitHub](https://github.com/trustdecision/trustdevice-android) | `1, Android, Security, Utilities` |
-| **Minimalistic Price Converter** | Minimalistic price converter that allows you to convert prices of fiat shi… | [GitHub](https://t.me/popCLOUDS/4413?single) | `Android` |
-| **HeliBoard** | **HeliBoard** is an __up-to-date__ fork of [OpenBoard](https://github.com/… | [GitHub](https://github.com/openboard-team/openboard) | `Android, Keyboard, AI` |
-| **ThemeSong for YouTube Music (Enhancer)** | Enhancer for YouTube Music™. Dynamic Themes, Visualizers, Side Panel Mini… | [GitHub](https://github.com/KristofferTroncoso/ThemeSong) | `Windows, Extension` |
-| **Kotlin Quiz** | Kotlin Quiz is an engaging Android application that allows users to test t… | [GitHub](https://github.com/NiranjanNlc/Kotilin-Quiz) | `Android` |
-| **Cinny | Yet another matrix client** | A Matrix client focusing primarily on simple, elegant and secure interface… | [GitHub](https://github.com/cinnyapp/cinny-desktop) | `Windows, Mac, Linux` |
-| **Outline Keeper** | An application for managing Outline VPN servers. | [GitHub](https://t.me/popCLOUDS/4384?single) | `Android` |
-| **HyperCeiler | Make HyperOS/MIUI Great Again!** | HyperCeiler is a LSPosed module that have a lot of system modifications an… | [GitHub](https://t.me/popCLOUDS/4379) | `Android, LSPosed` |
-| **KDE Connect** | **KDE Connect** is a handy __cross-platform__ tool which provides the abil… | — | `Android, Linux, MacOS, iOS, Windows` |
-| **Snaptick** | Snaptick is a free daily task planner app designed to help users increase… | [GitHub](https://t.me/popCLOUDS/4373) | `Android` |
-| **Suntimes** | Android app (and widget collection) that displays sunlight and moonlight t… | [GitHub](https://t.me/popCLOUDS/4360?single) | `Android` |
-| **Stack Wallet** | ** | [GitHub](https://github.com/cypherstack/stack_wallet) | `Android` |
-| **Compass** | **Simple and beautiful compass for Android** | [GitHub](https://t.me/popCLOUDS/4348?single) | `Android` |
-| **SiYuan** | SiYuan is a privacy-first personal knowledge management system, support fi… | [GitHub](https://github.com/siyuan-note/siyuan-android) | `Android` |
-| **Saber** | Saber is the notes app built for handwriting. | [GitHub](https://play.google.com/store/apps/details?id=com.adilhanney.saber) | `Android, Linux, IOS` |
-| **PixEz** | PixEz is a third-party pixiv client built Flutter. Pixiv is a popular Japa… | [GitHub](https://play.google.com/store/apps/details?id=com.perol.play.pixez) | `Android` |
-| **Green Pass PDF Wallet** | This app is a simple to use PDF Wallet. That means it takes over the task… | [GitHub](https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android` |
-| **whoBIRD** | The ultimate birding companion that can recognize birds by their sounds, a… | [GitHub](https://github.com/woheller69/whoBIRD) | `Android` |
-| **MovieLab** | MovieLab is an open source movie tracker and movie finder where you can fi… | [GitHub](https://github.com/ErfanRht/MovieLab) | `Android` |
-| **Tubular** | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. | [GitHub](https://github.com/polymorphicshade/Tubular) | `to, Android` |
-| **MoeMemos** | An app to help you capture thoughts & ideas, syncs with self-hosted Memos… | [GitHub](https://play.google.com/store/apps/details?id=me.mudkip.moememos) | `Android` |
-| **TorrServe** | Application for downloading torrents as HTTP files. | [GitHub](https://t.me/popCLOUDS/4286) | `Android` |
-| **Materialgram** | Telegram Desktop fork with Material Design and other improvements, which i… | [GitHub](https://t.me/popCLOUDS/4278) | `Windows` |
-| **Stundenplan** | **Stundenplan** is an alternative, customizable client for **Untis Timetab… | [GitHub](https://t.me/popCLOUDS/4272) | `Android` |
-| **Mastify** | Mastify is an open-source Mastodon Android client which is fully developed… | [GitHub](https://github.com/whitescent/Mastify) | `Android` |
-| **Hey, @Alph4 here, sorry for the self promotion.** | **I'm looking to get my first paid translation job**, If you need an **Ita… | [GitHub](https://alph4.eu.org) | `—` |
-| **Wi-Fi Info** | A powerful network toolset packed into an Android app, which gathers and d… | [GitHub](https://t.me/popCLOUDS/4258) | `Android, Tools` |
-| **Introducing Sudo for Windows!** | https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/ | [GitHub](https://github.com/microsoft/sudo) | `—` |
-| **Text Tools Pro - Ultimate toolbox for manipulating text the easy way!** | Text Tools Pro lets you send custom messages with a trigger. Want to quick… | [GitHub](https://t.me/popCLOUDS/4250) | `Android` |
-| **LibreWolf** - A custom version of Firefox, focused on privacy, security and freedom.** | This project is a custom and independent version of Firefox, with the prim… | — | `Windows` |
-| **Geto** | Apply custom settings to your apps | [GitHub](https://t.me/popCLOUDS/4237) | `installation, Android, Root` |
-| **Boorusama** | Boorusama is an unofficial, feature-rich client for [Danbooru](https://git… | [GitHub](https://github.com/danbooru/danbooru) | `Android` |
-| **AlternativeUnlockXposed** | This app provides an reliable way to run something when providing a specif… | [GitHub](https://t.me/popCLOUDS/4219?single) | `Android, Root, Lsposed` |
-| **LoliSnatcher Driod** ** ** (Let's Go, LoliGang)** | A booru client with support for batch downloading, written in Dart/Flutter… | [GitHub](https://t.me/popCLOUDS/4202?single) | `Android` |
-| **Simplewall **- **Open-Source firewall app.** | This is Simplewall. A simple tool to configure Windows Filtering Platform… | [GitHub](https://github.com/henrypp/simplewall) | `Windows` |
-| **Our Giveaway bot is now open-source!** | __Hi popMODS community! I have finally decided to open-source my giveaway… | [GitHub](https://github.com/XelXen/GiveawayBot) | `—` |
-| **BeatInspector** | BeatInspector is meant to help music producers analyze other tracks for re… | [GitHub](https://t.me/popCLOUDS/4177) | `Android` |
-| **Kanji Dojo** | Learn & practice writing Japanese characters | [GitHub](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) | `Android` |
-| **Install with options** | An app with a simple purpose: more advanced app installs without needing t… | [GitHub](https://github.com/zacharee/InstallWithOptions) | `Android, ADB, Shizuku` |
-| **Plugin-VoiceGPT** | Version: 1.0 | [GitHub](https://github.com/WSTxda/Plugin-VoiceGPT) | `—` |
-| **CopyManga** | CopyManga is a third-party app for accessing manga from CopyManga, a Chine… | [GitHub](https://github.com/fumiama/copymanga) | `Android` |
-| **Pocket Broomball** | The world's first broomball video game, made with Godot Engine for iOS, An… | [GitHub](https://play.google.com/store/apps/details?id=com.salvai.broomball) | `Android, Web, Linux, IOS` |
-| **Material You redesign of **[**aShell**](https://t.me/popMODS/3182)** | You remember [aShell](https://t.me/popMODS/3182)? yeah, aShell is a way fo… | [GitHub](https://github.com/DP-Hridayan/ashell) | `Android, ADB, Shizuku` |
-| **FastLyrics** | FastLyrics is an app that downloads lyrics for the song, you're listening… | [GitHub](https://github.com/QuickLyric/QuickLyric) | `Android, Music` |
-| **cuscon** | This icon pack makes your home screen varied and dynamic. As there is no b… | [GitHub](https://github.com/MiepHD/cuscon) | `Android` |
-| **KOReader** | KOReader is an ebook reader application that supports a wide range of form… | [GitHub](https://github.com/koreader/koreader) | `installation, Android, Linux, eBook, eBookReader` |
-| **Daily Diary** | Jot down whatever you want throughout the day, and the app will reset the… | [GitHub](https://t.me/popCLOUDS/4127) | `Android, Linux` |
-| **Valv** | Valv is an encrypted gallery vault for Android devices. You can encrypt im… | [GitHub](https://t.me/popCLOUDS/4129) | `Android` |
-| **Binary Eye** | Binary Eye is an open source barcode scanner app for Android devices. It i… | [GitHub](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye) | `Android` |
-| **Countdate** | Countdate is an app that lets you count the days until a specific date. Yo… | [GitHub](https://t.me/popCLOUDS/4120) | `Android` |
-| **EarTrumpet** | A better volume control for Windows. | [GitHub](https://github.com/File-New-Project/EarTrumpet) | `Desktop, Windows` |
-| **Everyday Tasks** | Track and log your tasks with EverydayTasks and create schedules for repet… | [GitHub](https://t.me/popCLOUDS/4097) | `Android` |
-| **CuteCalc** ** ** (Yeah, Like You)** | CuteCalc is a lightweight, fast and open-source Android calculator app wri… | [GitHub](https://github.com/sosauce/CuteCalc) | `Android` |
-| **AdClose** | AdClose is an Android ad-blocking tool based on the Xposed framework. It a… | [GitHub](https://t.me/popCLOUDS/4089) | `Android, Root, Modules` |
-| **IFixIt** | ifixit is a website that helps you fix your own stuff, such as phones, lap… | — | `Website` |
-| **Fossify Messages** | Fossify Messages is your trusted messaging companion, designed to enhance… | [GitHub](https://github.com/FossifyOrg/Messages) | `Android` |
-| **Recurring Expense Tracker** | A Material You recurring expense tracker, allowing you to keep track of yo… | [GitHub](https://github.com/DennisBauer/RecurringExpenseTracker) | `Android` |
-| **Tuner - Open-Source Instrumentals tuning app.** | This is Tuner, the Open-Source Instrumentals android application that can… | [GitHub](https://play.google.com/store/apps/details?id=de.moekadu.tuner) | `Android` |
-| **Wojak Paradise** | Wojak Paradise is a website dedicated to the art and culture of wojaks, wh… | — | `Website` |
-| **MusicSearch** | An Android app for browsing songs, artists, and anything related to them u… | [GitHub](https://github.com/lydavid/MusicSearch) | `Android, MacOS, Linux, Windows, Music` |
-| **Classic Power Menu** | Classic Power Menu is a Power Menu Replacement for Android 11+, with the m… | [GitHub](https://t.me/popCLOUDS/4058) | `Android` |
-| **Habo - Open-Source Habit Tracking App** | Introducing Habo, the open-source habit tracker app that helps you create… | [GitHub](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360?itsct=apps_box_badge&itscg=30200) | `Android, iOS` |
-| **Mihon** | Mihon is a free and open source manga reader for Android 8.0 and above. | [GitHub](https://github.com/mihonapp/mihon) | `Android` |
-| **Wger Workout manager** | wger is a free, open-source flutter application that manages and tracks/lo… | [GitHub](https://t.me/popCLOUDS/4014?single) | `Android, Linux, Health` |
-| **Waydroid** | Waydroid is a software that allows you to run Android applications on Linu… | [GitHub](https://github.com/waydroid/waydroid) | `waydroid, Linux` |
-| **Loop Habit Tracker** | Loop is a mobile app that helps you create and maintain good habits, allow… | [GitHub](https://play.google.com/store/apps/details?id=org.isoron.uhabits&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1) | `Android` |
-| **Fossify Phone** | Empower your calls, safeguard your data. Fossify Phone redefines the mobil… | [GitHub](https://github.com/FossifyOrg/Phone) | `Android` |
-| **Falling Blocks** | Manoeuvre a block between the colors to get the highest score. | [GitHub](https://play.google.com/store/apps/details?id=org.sajeg.fallingblocks&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android, Windows, Linux` |
-| **Guesslron** | An app that lets you use your phone as a ruler | [GitHub](https://github.com/mobeil1/GuessIron) | `Android` |
-| **PiliPala** | PiliPala is a third-party Bilibili client developed in Flutter. | [GitHub](https://github.com/guozhigq/pilipala) | `Android` |
-| **Firefox Love** | Previously, [in this post, I explained why you shouldn't use Chrome and/or… | [GitHub](https://github.com/fork-maintainers/iceraven-browser) | `smartcookieweb, Guides, Android` |
-| **PocketPlan** | PocketPlan is a lightweight, simplistic Android App designed to take care… | [GitHub](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003) | `Android` |
-| **E**nte Auth** | ente's Auth app helps you generate and store 2 step verification (2FA) tok… | [GitHub](https://play.google.com/store/apps/details?id=io.ente.auth) | `Android, IOS` |
-| **️ **Resso to shut down in India on Jan 31 2024** | ByteDance’s music streaming app, Resso, will shut its service in India eff… | [GitHub](https://www.billboard.com/business/streaming/bytedance-shuts-down-resso-music-streaming-service-india-1235580540) | `—` |
-| **Jammer** | Play songs from cli on Windows with youtube and soundcloud support | [GitHub](https://github.com/jooapa/jammer) | `usage, Windows` |
-| **Home Medkit** | Home Medicine Kit is an application designed to conveniently store and man… | [GitHub](https://apps.rustore.ru/app/ru.application.homemedkit) | `Android` |
-| **LBRY** - Content Freedom** | LBRY (pronounced "library") is a blockchain-based file-sharing and payment… | [GitHub](https://github.com/lbryio/lbry-sdk) | `Android, IOS, Web, Linux, Windows, MacOS` |
-| **Food Expiration Dates** | Have you ever forgotten to eat a food item before its expiration date? Thr… | [GitHub](https://github.com/lorenzovngl/FoodExpirationDates) | `Android` |
-| **LibrePass** | LibrePass is an open-source and secure password manager. | [GitHub](https://github.com/LibrePass/LibrePass-Android) | `Android` |
-| **Peristyle** | Peristyle is created to be an extremely simple and sophisticated wallpaper… | [GitHub](https://github.com/Hamza417/Peristyle) | `features, Android` |
-| **BetterCounter** | Track good and bad habits (eg: exercising, smoking, drinking...) | [GitHub](https://play.google.com/store/apps/details?id=org.kde.bettercounter) | `Android` |
-| **Free TV** | Open-Source application that does not require registration and all content… | [GitHub](https://t.me/popCLOUDS/3836) | `Android, TV` |
-| **URL to PDF Converter** | URL to PDF Converter is an open source Android application that allows use… | [GitHub](https://t.me/popCLOUDS/3834) | `Android` |
-| **Fossify File Manager** | Tired of file managers that slow you down and invade your privacy? Unlock… | [GitHub](https://t.me/popMODS/4195) | `Android, Website, iOS, Linux, MacOS, Windows, News, AI` |
-| **Pulse Browser** | An experimental Firefox fork that enhances focus and increases work produc… | [GitHub](https://github.com/pulse-browser/browser) | `Windows, MacOS, Linux` |
-| **️**APatch** - Android Kernel and System Patcher** | APatch is an application that allows the modification of the Android kerne… | [GitHub](https://github.com/bmax121/APatch) | `Android, Root, Magisk, Modules` |
-| **Flux News** | A simple Newsreader for the miniflux backend. This newsreader sync with th… | [GitHub](https://github.com/KevinCFechtel/FluxNews) | `download, screenshots, features, Android` |
-| **OpenComicVine** | Comic Vine client for Android, website on comics. | [GitHub](https://www.androidfilehost.com/?w=files&flid=337913) | `Android` |
-| **Standard Notes** | Standard Notes is a secure and private notes app. It syncs your notes secu… | [GitHub](https://t.me/popCLOUDS/3806) | `Android, IOS, Linux, MacOS` |
-| **Floorp** | — | [GitHub](https://t.me/popCLOUDS/3650) | `Linux, macOS, Windows` |
-| **Mova(Movies App)** | With this app, you can easily find information about your favorite films a… | [GitHub](https://github.com/tolgaprm/Mova-MovieApp) | `Android` |
-| **F**ossify Gallery** | Gallery with Photo editor. No Ads, Open-source, Private. No strings attach… | [GitHub](https://t.me/popCLOUDS/3780) | `Android` |
-| **Untracker** | App to help you remove tracking information before sharing links. | [GitHub](https://github.com/zhanghai/Untracker) | `Android` |
-| **️**Passky** | Passky is simple password manager, which works on a zero trust architectur… | [GitHub](https://github.com/Rabbit-Company/Passky-Android) | `Android, PasswordManage` |
-| **Immich** | This is a client app for the self-hostable Immich Server (which can be fou… | [GitHub](https://github.com/immich-app/immich) | `PhotoGallery, BackupTool` |
-| **WiFi Analyzer** | Optimize your WiFi network using WiFi Analyzer (open-source) by examining… | [GitHub](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) | `Android` |
-| **Open** **Video Editor** | Open Video Editor lets you edit your videos. It supports HDR and allows to… | [GitHub](https://github.com/devhyper/open-video-editor) | `Android` |
-| **Acode** | A powerful and versatile code editing tool designed specifically for Andro… | [GitHub](https://github.com/deadlyjack/Acode) | `Android, CodeEditor` |
-| **([EP](https://t.me/popMODS/1374)) **Cloudstream** | CloudStream is an app that allows you to stream and download movies, TV se… | [GitHub](https://github.com/recloudstream/cloudstream) | `Android, Media, Streaming` |
-| **Winget.run** | An open-source website to view, discover, install and get more information… | [GitHub](https://github.com/microsoft/winget-cli) | `Website, Desktop, Windows` |
-| **AppCopier** | It allows you to back up and restore your most important Windows 11 prefer… | [GitHub](https://github.com/builtbybel/Appcopier) | `Windows` |
-| **EtchDriod** | EtchDroid is an open-source application that helps you write images to USB… | [GitHub](https://play.google.com/store/apps/details?id=eu.depau.etchdroid) | `Android` |
-| **Dime** | A 100% free personal finance tracker built with iOS design guidelines in m… | [GitHub](https://github.com/rarfell/dimeapp) | `iOS` |
-| **AppTeka** | Appteka is an alternative store for Android. It also can extracts APKs, ar… | [GitHub](https://t.me/popCLOUDS/3684) | `Android` |
-| **Plexus** | Plexus is a crowd sourced project that tries to remove fear of app compati… | [GitHub](https://github.com/techlore/Plexus-app) | `Android, Website` |
-| **Exodus** | — | [GitHub](https://t.me/popCLOUDS/3668) | `Android, Security` |
-| **Trale** | Trale – a simple body weight diary app respecting your privacy. | [GitHub](https://t.me/popCLOUDS/3662?single) | `Android, screenshots, Health` |
-| **Railway** | Railway lets you look up travel information for many different railways, a… | — | `features, Linux` |
-| **A1Memory Management** | A1Memory is a memory management module for Android devices that optimizes… | [GitHub](https://github.com/OneB1ank/A1Memory) | `important, custom, terminal, frequently, default, Android, Root, Modules` |
-| **Markor** | Markor is a TextEditor for Android. This project aims to make an editor th… | [GitHub](https://t.me/popCLOUDS/3656) | `Android` |
-| **Notify** | Notify is a simple note application. It features a clean and simple Materi… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.aritra.notify) | `Android` |
-| **Play Deals** | Play deals is a simple app that puts together and notifies about the paid… | [GitHub](https://github.com/psuzn/Play-Deals) | `Android, Linux, Windows, macOS` |
-| **Use Bing or Bard in your search engines** | These browser add-ons (for Chromium and Firefox) use the popular artificia… | [GitHub](https://github.com/Dj0ulo/OptiSearch) | `Web, Extension` |
-| **Flutter Markdown Editor** | Markdown Editor app allows easy markdown file creation and editing. It ope… | [GitHub](https://github.com/adityar224/FlutterMarkdownEditor) | `Android` |
-| **Pinokio - The AI Browser for Creative Minds** | Pinokio is an AI platform that lets you create amazing things with various… | [GitHub](https://pinokio.computer) | `AI, macOS, Linux, Windows` |
-| **OneMoreSecret** | OneMoreSecret is a standalone security layer for your data (e.g. passwords… | [GitHub](https://github.com/stud0709/OneMoreSecret) | `Android` |
-| **NeverTooManyBooks** | NeverTooManyBooks is a book collection application, to keep track of your… | [GitHub](https://t.me/popCLOUDS/3584) | `Android` |
-| **ImprovedTube** | ImprovedTube is a browser extension that allows you to customize and enhan… | [GitHub](https://github.com/code-charity/youtube) | `WebExtension` |
-| **IYPS(Is Your Password Safe?)** | This app analyzes password patterns, predicts potential cracking times, an… | [GitHub](https://github.com/StellarSand/IYPS) | `Android` |
-| **Android Enhancer | Revolutionary Android Optimizer** | Android Enhancer is a specialized tool designed to optimize the performanc… | [GitHub](https://github.com/iamlooper/Android-Enhancer) | `screenshots, download, credits, Android, Root, Modules` |
-| **PlayIntegrityFix & PlayIntegrityFixNext** | ** | [GitHub](https://t.me/playintegrityfix) | `Android, Root, Modules` |
-| **Blazed Cloud** | Simple, minimalistic file backup provider built with Flutter and Pocketbase | [GitHub](https://play.google.com/store/apps/details?id=com.chancesoftwarellc.blazedcloud) | `Android` |
-| **CalcYou, Unitto, and yetcalc** | CalcYou, Unitto, and Yetcalc are free and open source calculator apps for… | [GitHub](https://github.com/Yet-Zio/yetCalc) | `features, Android, Calculator, AsYouWish` |
-| **Audiotube** | A youtube music client for Linux. | [GitHub](https://t.me/popMODS/4447) | `Linux` |
-| **Jerboa** | Jerboa is a native-android client for Lemmy, built using the native Androi… | [GitHub](https://f-droid.org/packages/com.jerboa) | `Android` |
-| **Infomaniak Workspace** | Infomaniak Workspace is an online service that gives you access to your em… | [GitHub](https://www.infomaniak.com/en/ksuite) | `Workspace, Android, IOS, Windows, MacOS, Linux` |
-| **DetoxDroid** | DetoxDroid is an app that helps you use your phone in a more mindful way,… | [GitHub](https://f-droid.org/en/packages/com.flx_apps.digitaldetox) | `Android, Produactivit` |
-| **Privacy.sexy** | An open-source website and tool to enforce privacy and security on Windows… | — | `Website, Desktop, Windows, MacOS, Linux` |
-| **Smart AutoClicker** | Smart AutoClicker is an Android application allowing to automate repetitiv… | [GitHub](https://github.com/Nain57/Smart-AutoClicker) | `Android` |
-| **Li-Ri** - An arcade game** | Li-Ri is an arcade game. | [GitHub](https://github.com/petitlapin/Li-ri) | `Android, MacOS, Linux` |
-| **Mercurius** | A powerful and beautiful diary app for Android and Windows. | [GitHub](https://github.com/Cierra-Runis/mercurius) | `Android, Windows` |
-| **SmartMouse** | SmartMouse is an app that aims to make a smartphone usable as a normal com… | [GitHub](https://github.com/VirtCode/SmartMouse) | `Android` |
-| **Cosmic IDE** | Cosmic IDE is a powerful and feature-rich IDE for JVM development on Andro… | [GitHub](https://github.com/Cosmic-Ide/Cosmic-IDE) | `Android` |
-| **Disable Target API Block** | ** | [GitHub](https://github.com/buttercookie42/DisableTargetAPIBlock) | `Android, Root, Modules` |
-| **WADBS** | WADBS (short or Wireless Android Debugging Bridge Switch) is an app that a… | [GitHub](https://github.com/Smooth-E/wireless-adb-switch) | `Android` |
-| **🍪 SmartCookieWeb-Preview** | SmartCookieWeb-Preview is an Android web browser that offers a fast, custo… | [GitHub](https://matrix.to/#/#smartcookieweb:matrix.org) | `smartcookieweb, Android` |
-| **Alga** | A powerful tool app for all developers. | [GitHub](https://github.com/laiiihz/alga) | `supported, Android` |
-| **Pojav** **Launcher** - Minecraft Java on Android** | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk.… | [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) | `setting, Android, iOS` |
-| **Beatbump** | Another privacy-respecting alternative frontend for YouTube Music which pr… | [GitHub](https://github.com/snuffyDev/Beatbump) | `instances, Website` |
-| **Chrono** | A modern and powerful clock, alarms, timer and stopwatch app for Android! | [GitHub](https://github.com/vicolo-dev/chrono) | `Android` |
-| **The detectability of LSPosed by third-party apps raises privacy and security concerns, reflecting unprofessionalism. This issue arises as developers created a native detection project, removed it later, and witnessed the emergence of forks of the original project. Unfortunately, my attempts to address this matter led to expulsion and a ban from their group. Advocating against this unfair and unprofessional practice is crucial, emphasizing its implications for privacy and security. (Kindly refrain from using vulgar language.)** | [Anti Magisk & Xposed by LSPosed dev canyie ](https://blog.canyie.top/2021… | [GitHub](https://github.com/xfqwdsj/XposedDetector) | `—` |
-| **Stack** | Stack is an Android application that lets you browse stackoverflow.com and… | [GitHub](https://github.com/tylerbwong/stack) | `Android` |
-| **Rofi - Rofi: A window switcher, application launcher and dmenu replacement** | Rofi is a simple yet powerful app launcher, window switcher, device contro… | [GitHub](https://github.com/davatorium/rofi) | `Features, Linux` |
-| **Trail Sense** | Trail Sense is a tool, and just like any other tool that you bring into th… | [GitHub](https://github.com/kylecorry31/Trail-Sense) | `table, Android, Maps` |
-| **Files - Explore a beautiful File Manager** | Introducing Files, the ultimate Windows file manager app. Its sleek and in… | [GitHub](https://github.com/files-community/Files) | `Windows` |
-| **Léon - The URL Cleaner** | Léon is an open source Android app that cleans up URLs before sharing them… | [GitHub](https://github.com/svenjacobs/leon) | `Android` |
-| **Dumb for Genius** | Genius's website for lyrics sucks, it's full of trackers and ads. So Dumb… | [GitHub](https://github.com/rramiachraf/dumb) | `Website` |
-| **Psychphinder** | Psychphinder is an app made in Flutter to search for your favorite quotes… | [GitHub](https://github.com/daih27/psychphinder) | `Android, Windows, Linux` |
-| **Xplorer - A customizable, modern and cross-platform File Explorer.** | Xplorer is a modern file explorer built from ground-up to be fully customi… | [GitHub](https://t.me/popCLOUDS/3341) | `Windows, Linux, macOS` |
-| **🎨 ColorBlendr** | An Xposed module to modify material you colors on your device. | [GitHub](https://t.me/IconifyDiscussion) | `Android, Root, Modules` |
-| **WiFi Widget** | Android FOSS app providing a configurable widget for the monitoring of you… | [GitHub](https://play.google.com/store/apps/details?id=com.w2sv.wifiwidget) | `Android` |
-| **🎧 Zen Music** | __Zen Music Player__ is a Material You Themed music player for Android. It… | [GitHub](https://t.me/popCLOUDS/3291) | `screenshots, Android, Music` |
-| **Vesktop** | Vesktop is a cross-platform 3rd party Discord client for desktop aiming to… | [GitHub](https://github.com/Vendicated/Vencord) | `installing, Desktop, Linux, Windows` |
-| **OSS Document Scanner** | The OSS Document Scanner is an Open Source app to scan all your documents.… | [GitHub](https://play.google.com/store/apps/details?id=com.akylas.documentscanner) | `Android` |
-| **OpenSubtitles** | The most famous website to download subtitles for movies and shows. | — | `Website, Web` |
-| **Hi, as you know, the world is always moving forward** | same as simple mobile tools | [GitHub](https://github.com/fossifyorg) | `—` |
-| **Showly** - An Android Shows Tracker!** | Showly OSS is a Shows Tracker forked from Showly with all the trackers rem… | [GitHub](https://github.com/1RandomDev/showly-oss) | `Android` |
-| **️ **PlainApp** - Manage your phone on the web!** | PlainApp is an open-source application that allows you to manage your phon… | [GitHub](https://github.com/ismartcoding/plain-app) | `features, Android` |
-| **ArmCord** | ArmCord is a custom desktop client designed to enhance your Discord experi… | [GitHub](https://github.com/ArmCord/ArmCord) | `how, features, Desktop, Windows, Linux` |
-| **mmm.page** | A dead simple website creator, free and without ads. | — | `Website, Design` |
-| **OpenTabletDriver** | An cross-platform opensource drawing tablet driver alternative to your pro… | [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | `Windows, Linux, macOS` |
-| **Paper** | Note management done right. | [GitHub](https://github.com/dev-xero/paper-app) | `Android` |
-| **Currencies** | Currencies is a simple and straightforward currency converter. It is not i… | [GitHub](https://play.google.com/store/apps/details?id=de.salomax.currencies) | `Android` |
-| **Blocker** | Blocker is a component controller for Android applications that currently… | [GitHub](https://github.com/lihenggui/blocker) | `Android` |
-| **YTerMusic** | YTerMusic is a terminal based Youtube Music Player. It's aims to be as fas… | [GitHub](https://github.com/ccgauche/ytermusic) | `Linux` |
-| **YoutubeDownloader** | YoutubeDownloader is an application that lets you download videos from You… | [GitHub](https://github.com/Tyrrrz/YoutubeDownloader) | `Windows` |
-| **Astron** - High definition video player** | YouTube videos without ads, downloads 4K quality videos, and supports back… | [GitHub](https://t.me/popCLOUDS/3149) | `Android` |
-| **Jitsi Meet** | Jitsi Meet is a set of Open Source projects which empower users to use and… | [GitHub](https://github.com/jitsi/jitsi-meet) | `Android, IOS` |
-| **[Universal GMS Doze 1.9.1 released](https://t.me/popCLOUDS/3134)** | Changelog: | [GitHub](https://github.com/gloeyisk/universal-gms-doze) | `—` |
-| **Transistor - Simple Radio App** | Transistor is an app with a minimalistic approach for listening to radio p… | [GitHub](https://codeberg.org/y20k/transistor) | `Android` |
-| **Kvaesitso** | Kvaesitso is a launcher application for Android which replaces the device'… | [GitHub](https://github.com/MM2-0/Kvaesitso) | `Android` |
-| **Tokei** | Tokei - Open source movie and TV streaming app with super speed, | [GitHub](https://t.me/popCLOUDS/3100) | `Android` |
-| **FreePaint** | A FOSS vector graphics drawing app for Android. | [GitHub](https://github.com/pastthepixels/FreePaint) | `Android` |
-| **Table Habit** | Table Habit" is an app that helps you establish and track your own micro h… | [GitHub](https://t.me/popCLOUDS/3076) | `Android` |
-| **Audire** (also check [Audile](https://t.me/popMODS/4162))** | __Audire__ identifies the music playing near you and shows you details on… | [GitHub](https://github.com/alexmercerind/audire) | `Android` |
-| **Sense** | OpenAI client for Android that supports ChatGPT and Image Generation. | [GitHub](https://github.com/F0x1d/Sense) | `Android` |
-| **DNS Manager** | App that helps you manage and seamlessly switch between dns servers withou… | [GitHub](https://t.me/popCLOUDS/3037) | `Android` |
-| **Openreads** | Openreads is the best app for keeping track of your books that is free, op… | [GitHub](https://play.google.com/store/apps/details?id=software.mdev.bookstracker) | `Android` |
-| **Muffon** | Muffon is a cross-platform music streaming client for desktop, which helps… | [GitHub](https://t.me/popCLOUDS/3028?single) | `Windows, Linux, MacOS` |
-| **Alibi** | Alibi keeps recording in the background and saves the last 30 minutes at y… | [GitHub](https://play.google.com/store/apps/details?id=app.myzel394.alibi) | `Android` |
-| **LockQR: Effortless QR Code Generation, Free and Shareable** | LockQR is a powerful and user-friendly QR code app that enables you to gen… | [GitHub](https://github.com/sagardhadke/LockQR) | `Android` |
-| **Tool Shells** | Is an application to edit the apk. | [GitHub](https://github.com/kakathic/Tool-Shells) | `Android` |
-| **Translate You** | Privacy focused translator app built with MD3. | [GitHub](https://f-droid.org/packages/com.bnyro.translate) | `you, Android` |
-| **GMS Flags** | GMS Flags is a tool for changing parameters in Google services to activate… | [GitHub](https://t.me/popCLOUDS/2978) | `Android, Root` |
-| **Birday __- __**__A FOSS app to keep track of birthdays and events without Facebook, alarms or Google Calendar.** | This is an open source app to remember birthdays and other events in a fas… | [GitHub](https://t.me/popCLOUDS/2976) | `Android` |
-| **Nostros** | Nostros is a nostr client for Android and nostr is a protocol that allows… | [GitHub](https://github.com/KoalaSat/nostros) | `Android` |
-| **AppFlowy** | AppFlowy - An open source cross platform alternative to Notion | [GitHub](https://github.com/AppFlowy-IO/AppFlowy) | `Windows, Linux, MacOS, Android, iOS` |
-| **Graded** - __Grade tracker** | Simplify your school grade management with Graded. Our app streamlines the… | [GitHub](https://apps.apple.com/us/app/graded-grade-tracker/id644468128) | `Android, IOS` |
-| **HuggingChat** | Open-source alternative to ChatGPT by [HuggingFace](https://huggingface.co… | [GitHub](https://huggingface.co) | `Web` |
-| **Notification Sender** | NotiSender - Open source notification mirroring app with super connectivit… | [GitHub](https://t.me/popCLOUDS/2891?single) | `Android` |
-| **You can now delete your Threads profile separately from your Instagram account.** | Here's how to delete your Threads profile via the Threads app: | [GitHub](https://t.me/basiqsrepository/185?single) | `Threads, ProfileDeletion, Meta, Instagram, Social, TechTips` |
-| **Moshidon** | Moshidon is a beautiful md3 client for [mastadon](https://joinmastodon.org… | [GitHub](https://github.com/sk22/megalodon) | `Android` |
-| **Athena** | Athena is an advanced Android firewall app designed with Material You styl… | [GitHub](https://github.com/SebaUbuntu/Athena) | `Android, Root, Tools` |
-| **FluffyChat** | FluffyChat is an open source, nonprofit and cute md3 matrix client written… | [GitHub](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat) | `Android, iOS, Linux` |
-| **Simple App Launcher** | Simple App Launcher is fully opensource, provides customizable colors and… | [GitHub](https://play.google.com/store/apps/details?id=com.simplemobiletools.applauncher) | `Android` |
-| **TimeR Machine** | TimeR Machine is a free interval timer for not just workout and exercise,… | [GitHub](https://play.google.com/store/apps/details?id=io.github.deweyreed.timer.google) | `Android` |
-| **Alkaa** | Alkaa is an open-source project. Tasks with simplicity.Manage your tasks q… | [GitHub](https://t.me/popCLOUDS/2816?single) | `Android` |
-| **SnapEnhance** | SnapEnhance is an xposed module that enhances your snapchat experience by… | [GitHub](https://github.com/rhunk/SnapEnhance) | `Android` |
-| **FairEmail** | Fully featured, open source, privacy oriented email app for Android | [GitHub](https://play.google.com/store/apps/details?id=eu.faircode.email) | `Android` |
-| **We are holding a logo redesign contest.** | **The logo must:** | [GitHub](https://play.google.com/store/apps/details?id=com.amaze.fileutilities) | `—` |
-| **SPIC - Simple Play Integrity Checker** | A Simple Play Integrity Checker which uses Google Play Integrity API to ch… | [GitHub](https://t.me/popCLOUDS/2786) | `Android` |
-| **️ **Notepher** - A note-taking mini app right inside Telegram!** | **NotepherBot is an intuitive note-taking Telegram Mini App designed to ef… | [GitHub](https://github.com/deptyped/notepher-bot) | `Android, IOS, Windows, MacOS, Linux, Web, Bot` |
-| **MTManager** | **MTManager is a powerful two column style file manager for Android, espec… | — | `Android` |
-| **Organic Maps** | Organic Maps is a free Android & iOS offline maps app for travellers, tour… | [GitHub](https://play.google.com/store/apps/details?id=app.organicmaps) | `Android, IOS, Maps` |
-| **Animiru** | Animiru is an unofficial fork of Aniyomi, which is yet another unofficial… | [GitHub](https://github.com/beemdevelopment/Aegis) | `animiru, Android` |
-| **Telegram's cloud storage probably won't be unlimited anymore.** 😭** | The Telegram team changed the phrasing and the order of the previously kno… | [GitHub](https://t.me/TGBlogLeaks/243) | `News, Telegram` |
-| **Hail** | Hail is a beautiful md3 app that helps you disable or freeze apps that tak… | [GitHub](https://github.com/aistra0528/Hail) | `Android` |
-| **Ultimate Vocal Remover GUI** | GUI for a Vocal Remover that uses Deep Neural Networks. | [GitHub](https://github.com/Anjok07/ultimatevocalremovergui) | `installation, Windows, macOS, Linux` |
-| **Battery Tool** (Greenify reborn, or something like this)** | Battery Tool helps you save battery by stopping apps that are running in t… | [GitHub](https://github.com/Domi04151309/BatteryTool) | `Android` |
-| **Easy Effects** | Easy Effects is an advanced audio manipulation tool. It includes an equali… | [GitHub](https://github.com/wwmm/easyeffects) | `Linux` |
-| **Cashew** - A budget app for you!** | Cashew is a full-fledged, feature-rich application designed to empower use… | [GitHub](https://github.com/jameskokoska/Cashew) | `key, Android, Money` |
-| **Filester** - A simple file uploader for android** | Filester lets you share files with everyone, everywhere, whenever you want… | [GitHub](https://t.me/popCLOUDS/2716) | `Android` |
-| **LazyGIt** | Git for people that are lazy...? | [GitHub](https://github.com/jesseduffield/lazygit) | `features, Android, Linux, MacOS, Windows` |
-| **Kizzy** | A Discord Rich Presence manager for Android fully written in Kotlin. | [GitHub](https://github.com/dead8309/Kizzy) | `Android` |
-| **Sav PDF** **Viewer** **Pro** | Sav PDF Viewer Pro is a simple PDF viewer. | [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro) | `Android` |
-| **SysctlGUI** | A GUI application for Android sysctl to edit kernel variables | [GitHub](https://github.com/Lennoard/SysctlGUI) | `Android` |
-| **Linux Command Library** (Mobile+CLI+Web)** | LinuxCommandLibrary is a GitHub repository created by Simon Schubert that… | [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary) | `Linux, Android, Web` |
-| **Mousai** and **SongRec** | Mousai and SongRec  do an excellent job of music recognition, allowing use… | [GitHub](https://github.com/marin-m/SongRec) | `installation, Linux, AsYouWish` |
-| **Wonderous** | Wonderous will educate and entertain as you uncover information about some… | [GitHub](https://github.com/gskinnerTeam/flutter-wonderous-app) | `Android` |
-| **Rays** | **Rays (Record All Your Stickers), A tool to record, search and manage sti… | [GitHub](https://github.com/SkyD666/Rays-Android) | `FOSS, Android` |
-| **Nicotine+ for Soulseek** | **Nicotine+ is an advanced multiplatform client for the Soulseek P2P proto… | [GitHub](https://github.com/nicotine-plus/nicotine-plus) | `nicotine, FOSS, Windows, Linux, MacOS, Music` |
-| **Soul Searching** | ** | [GitHub](https://github.com/enteraname74/SoulSearching) | `ii, Android, Music` |
-| **Gradience** | Material You for GNOME Linux. | [GitHub](https://github.com/GradienceTeam/Gradience) | `Gradience, Linux, FOSS` |
-| **Aluminum** | **Material You Anilist client, supporting forums. | [GitHub](https://github.com/Emplexx/Aluminium) | `Android, Anime` |
-| **Save On Device** | An Android app that allows you to save files on your device from other app… | [GitHub](https://play.google.com/store/apps/details?id=name.lmj001.savetodevice) | `Android` |
-| **🗃️ Amaze File Utilities** | From the developers of open source app Amaze File Manager. An open source… | [GitHub](https://github.com/TeamAmaze/AmazeFileUtilities) | `Android` |
-| **NextDNS and NextDNS Manager** | NextDNS is a cloud-based firewall for the modern internet that works on an… | [GitHub](https://github.com/doubleangels/NextDNSManager) | `Android` |
-| **Oinkoin** | Oinkoin Money Manager makes managing personal finances easy and secure. It… | [GitHub](https://github.com/emavgl/oinkoin) | `Android` |
-| **Audile** | Audile is a music recognition application, that can help you quickly and a… | [GitHub](https://github.com/aleksey-saenko/MusicRecognizer) | `Android` |
-| **AniStream** | An Android app to watch anime on your phone without ads.AniStream parses w… | [GitHub](https://github.com/jerry08/AniStream) | `Android, Windows, Anime, Streaming` |
-| **ADB⚡OTG - **__Android Debug Bridge** | You can use ADB commands by connecting your Android smartphone to your sma… | [GitHub](https://github.com/KhunHtetzNaing/ADB-OTG) | `Android` |
-| **Nora** | **Nora is an elegant music player built using Electron and React. | [GitHub](https://t.me/popCLOUDS/2528) | `Windows, Linux, Android, Social` |
-| **📖 JS-Dict** | Japanese-English dictionary app powered by Jisho.org. | [GitHub](https://t.me/popCLOUDS/2518) | `Android` |
-| **Anime Scrap** | Anime Scrap is a simple [Open Source](https://en.m.wikipedia.org/wiki/Free… | [GitHub](https://github.com/fakeyatogod/AnimeScrap) | `Android` |
-| **Quote Unquote** | A free and open-source Android app. The app is a widget that provides quot… | [GitHub](https://play.google.com/store/apps/details?id=com.github.jameshnsears.quoteunquote&hl=en) | `Android` |
-| **Feeder** | Feeder is a fully free/libre feed reader. It supports all common feed form… | [GitHub](https://github.com/spacecowboy/Feeder) | `Android` |
-| **ForceDoze** | ForceDoze allows you to forcefully enable Doze right after you turn off yo… | [GitHub](https://github.com/theblixguy/ForceDoze) | `Android, Utilities` |
-| **CoinWatch** | CoinWatch is a cryptocurrency app providing real-time coin prices, price h… | [GitHub](https://play.google.com/store/apps/details?id=dev.shorthouse.coinwatch&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `FOSS, Android` |
-| **Linky** | ** | [GitHub](https://github.com/kwsong0113/imagine) | `iOS` |
-| **Komorebi** | You want tilling manager experience like linux users? i got chu | [GitHub](https://github.com/LGUG2Z/komorebi) | `getting, Windows` |
-| **PhoneProfilesPlus** | ** | [GitHub](https://apkpure.com/p/sk.henrichg.phoneprofilesplus) | `Android` |
-| **[Looks like a competitor to Magisk and KernelSU is coming](https://github.com/abcz316/SKRoot-linuxKernelRoot)** | SKRoot - SuperKernelRoot - Linux kernel level perfect hidden ROOT demonstr… | [GitHub](https://github.com/abcz316/SKRoot-linuxKernelRoot) | `—` |
-| **️ **Super Productivity** | Organize your daily tasks at one place while making time tracking a lot le… | [GitHub](https://github.com/johannesjo/super-productivity) | `heavy_check_mark, Android, MacOS, Windows` |
-| **LibreTorrent** | ** | [GitHub](https://www.androidfilehost.com/?w=files&flid=246723) | `Android` |
-| **Lunar Launcher** | Lunar Launcher is an app that lets you customize your Android home screen… | [GitHub](https://github.com/iamrasel/lunar-launcher) | `Android, Root` |
-| **Antimine Minesweeper** | Antimine is a minesweeper-like puzzle game. The objective is to flag the s… | [GitHub](https://github.com/lucasnlm/antimine-android) | `FOSS, Android, Games` |
-| **Moosync** | ** | [GitHub](https://moosync.app) | `Windows, Linux, MacOS` |
-| **🦆 Squawker** | An open-source anonymous Twitter/X client | [GitHub](https://t.me/popCLOUDS/2392) | `FOSS, Android` |
-| **Dontotsu** | ** | [GitHub](https://github.com/rebelonion/Dantotsu) | `dantotsu, Android` |
-| **muffed** | Muffed is a decentralised reddit alternative that works on the Lemmy/Activ… | [GitHub](https://t.me/popCLOUDS/2375) | `Android` |
-| **Mangayomi** | ** | [GitHub](https://github.com/kodjodevf/mangayomi) | `Android, IOS, Windows, Linix, MacOS` |
-| **ApolloTv** | ** | [GitHub](https://github.com/ApolloTv-team/ApolloTv) | `Android` |
-| **([Enhanced Post](https://t.me/popMODS/4066)) **FreeTube | FreeTube Cordova** | FreeTube and FreeTube Cordova are privacy-focused YouTube players, blockin… | [GitHub](https://t.me/popCLOUDS/2229) | `download, FOSS, Android, Windows, macOS, Ubuntu, Linux, Web` |
-| **Waistline** | Waistline is a libre calorie counter and weight tracker app for Android. I… | [GitHub](https://play.google.com/store/apps/details?id=com.waist.line) | `FOSS, Android` |
-| **Habit Builder** | Habit Builder is a simple, beautiful app that provides you with the right… | [GitHub](https://play.google.com/store/apps/details?id=com.ofalvai.habittracker) | `FOSS, Android` |
-| **SimpleLogin | Anti-Spam** | **SimpleLogin is an open source solution to protect your email inbox. It a… | [GitHub](https://github.com/simple-login/app) | `Android, Web` |
-| **([Continuous of ViMusic](https://t.me/popMODS/1867)) **RiMusic** | A multilingual Android application for streaming music from YouTube Music | [GitHub](https://github.com/fast4x/RiMusic) | `FOSS, Android, Music` |
-| **LocalPilot** - Use GitHub Copilot locally on your Macbook with one-click.** | LocalPilot is an open-source AI autocompletion tool that allows users to u… | [GitHub](https://github.com/danielgross/localpilot) | `installation, Mac, Developing` |
-| **Gramophone** | A media3 music player with up-to-date md3 phonograph designs. | [GitHub](https://github.com/AkaneTan/Gramophone) | `screenshots, FOSS, Android, Music` |
-| **🎵 AntiiQ** - A Music Player for Music Collectors and Enthusiasts.** | AntiiQ as in "Antique" is an offline Android music player which started as… | [GitHub](https://codeberg.org/coleblvck/AntiiQ) | `FOSS, Android, Music` |
-| **UnlockMaster** | Are you tired of mindlessly unlocking your phone, only to find yourself lo… | [GitHub](https://t.me/popCLOUDS/2242) | `FOSS, Android, Wellbeing` |
-| **FreeTube** | FreeTube is an open source desktop YouTube player built with privacy in mi… | [GitHub](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect) | `download, FOSS, Windows, macOS, Ubuntu, Linux, Web` |
-| **DeepNotes** | DeepNotes is an open source, end-to-end encrypted infinite canvas note-tak… | [GitHub](https://t.me/popCLOUDS/2212) | `Windows, Linux, MacOS, FOSS` |
-| **Food-E** | **Food-E is a food additives database app. Contains comprehensive informat… | [GitHub](https://t.me/popCLOUDS/2201) | `Android, FOSS` |
-| **VueTube** | A simple and open source video streaming client aimed to recreate ALL the… | [GitHub](https://vuetube.app/discord) | `Android, FOSS` |
-| **Friendly Adblock for YouTube** | A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Oper… | [GitHub](https://github.com/0x48piraj/fadblock) | `features, Web` |
-| **WinPaletter** **- Windows Customization Tool** | WinPaletter is an advanced Windows customization tool. You can customize a… | [GitHub](https://github.com/Abdelrhman-AK/WinPaletter) | `Windows` |
-| **([Enhanced Post](https://t.me/popMODS/2977)) **Gyawun (Formerly Vibe Music)** | A Flutter application for streaming music from Jio Saavn and YouTube Music | [GitHub](https://github.com/sheikhhaziq/gyavun) | `Android` |
-| **TagSpaces** | TagSpaces is a free, no vendor lock-in, open source application for organi… | [GitHub](https://t.me/popCLOUDS/2179) | `Android, Windows, Web` |
-| **Aria2App** | Aria2App is your portable server-grade download manager backed by aria2 di… | [GitHub](https://play.google.com/store/apps/details?id=com.gianlu.aria2app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android` |
-| **MACsposed** | MACsposed is an Xposed module that blocks the MAC address randomizer on An… | [GitHub](https://play.google.com/store/apps/details?id=com.berdik.macsposed) | `Android` |
-| **AndroidIDE** | An IDE to develop real, Gradle-based Android applications on Android devic… | [GitHub](https://androidide.com/docs/installation) | `Android` |
-| **Thorium - The fastest browser on Earth** | **A Chromium-based browser with privacy-friendly tweaks and patches, resul… | [GitHub](https://github.com/Alex313031/Thorium) | `features, Windows, Linux, macOS, Android` |
-| **Namida** | **A Beautiful and Feature-rich Music & Video Player with Youtube Support,… | [GitHub](https://github.com/namidaco/namida) | `Android` |
-| **OpenLib - download any ebook for free** | OpenLib is an Android client for the shadow library ([Anna's Archive](http… | [GitHub](https://github.com/dstark5/Openlib) | `Android` |
-| **Farhan** | Farhan is an open source application that offers many ways to eliminate ma… | [GitHub](https://github.com/tahaak67/Farhan) | `Android` |
-| **Scoop** | ** | [GitHub](https://t.me/popMODS/870) | `Windows` |
-| **Memerize** | Memerize is a handy meme viewer app for Reddit and Lemmy | [GitHub](https://github.com/SuhasDissa/MemerizeApp) | `Android` |
-| **Digilog TV** | A free and open-source TV news app, inspired by Linux Mint's Hypnotix. | [GitHub](https://github.com/aldrinzigmundv/digilogtv) | `Android, iOS` |
-| **Modded Youtube Music** | ** | [GitHub](https://github.com/th-ch/youtube-music) | `Windows, Linux, macOS` |
-| **Collapse Launcher** | ** | [GitHub](https://github.com/CollapseLauncher/Collapse) | `Windows` |
-| **Arcticons You** | Arcticons You is a line-based icon pack for Android devices with Material… | [GitHub](https://f-droid.org/packages/com.donnnno.arcticons.you) | `Android` |
-| **TrackerControl** | TrackerControl is an Android app that detects and controls hidden data col… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/net.kollnig.missioncontrol) | `Android` |
-| **️ **Mindustry** | **An open-ended factory management game with RTS and tower defense element… | [GitHub](https://github.com/Anuken/Mindustry) | `Android, Windows, Linux, Games` |
-| **RootBeer** | A tasty root checker library and sample app. We've scoured the internets f… | [GitHub](https://t.me/popCLOUDS/2067) | `Android, Root, Magisk` |
-| **Google Photos unlimited backup module** | Adds Photos features and unlimited original backup. Based from Pixelify Gi… | [GitHub](https://github.com/cuynu/gphotos-unlimited-zygisk) | `Android, Root, Magisk, Module` |
-| **CatBox** | **CatBox is a universal proxy program for Android using sing-box. It was a… | [GitHub](https://github.com/AntiNeko/CatBoxForAndroid) | `Android` |
-| **Iconify - Customize Boring Android UI** | Iconify is an open-source android mobile application, aimed at providing u… | [GitHub](https://t.me/popCLOUDS/2063) | `Android, Root, Magisk` |
-| **Arc** - Your browser, your way.** | Arc is a chromium based browser for mac which helps you in effortlessly or… | — | `iOS, MacOS` |
-| **MusicX** | MusicX is a music player app made using Jetpack Compose and follows Materi… | [GitHub](https://github.com/Vaibhav2002/MusicX) | `Android, Music, Video, Local, Streaming` |
-| **DSU Sideloader** | A simple app made to help users easily install GSIs via DSU's Android feat… | [GitHub](https://t.me/popCLOUDS/1986) | `Android` |
-| **👨‍💻 Squircle CE** | A fast multi-language code editor and file manager for Android | [GitHub](https://play.google.com/store/apps/details?id=com.blacksquircle.ui) | `Android` |
-| **BiliYou** | A third-party Bilibili client with Material You | [GitHub](https://streamflix.in/download) | `Android` |
-| **RealSR-NCNN-Android (Open-Source SuperImage alternative)** | RealSR BigImage | [GitHub](https://github.com/tumuyan/RealSR-NCNN-Android) | `how, Android` |
-| **rabbitGram Desktop** | **rabbitGram Desktop is a full-featured open source Telegram Desktop clien… | [GitHub](https://github.com/rabbitGramDesktop/rabbitGramDesktop) | `Windows` |
-| **FlixQuest** (formerly Cinemax)** | FlixQuest (formerly Cinemax) is a free and open source Android app for str… | [GitHub](https://github.com/BeamlakAschalew/cinemax) | `Android` |
-| **Cross Platform Disk Test (CPDT)** | Measuring storage performance (SSD, HDD, USB Flash etc.) and RAM speed acr… | [GitHub](https://github.com/maxim-saplin/CrossPlatformDiskTest) | `Android, Windows, Linux, macOS` |
-| **Midnight Commander - FOSS Text-Based File Manager** | **Midnight Commander is a free and open-source text-based file manager. It… | — | `Android, Root, Guides, Linux, Windows` |
-| **RetroArch** | RetroArch is an open-source project that makes use of a powerful developme… | [GitHub](https://t.me/popCLOUDS/1947) | `Android` |
-| **Keyspace - your all-in-one online digital identity solution.** | ** | [GitHub](https://github.com/Keyspace-cloud/android) | `features, Android` |
-| **GitTouch** | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), bu… | [GitHub](https://github.com/git-touch/git-touch) | `Android` |
-| **Health Sync** | A versatile app that allows you to seamlessly synchronize your health data… | — | `Android` |
-| **Gopeed** | **GoPeed is a cross-platform download manager that is open source, native,… | [GitHub](https://t.me/popCLOUDS/1904) | `Android, IOS, Windows, MacOS, Linux` |
-| **AnkiDroid** | A semi-official port of the open source Anki spaced repetition flashcard s… | [GitHub](http://www.amazon.com/gp/product/B004L1G7T2/ref=mas_pm_ankidroid_flashcards) | `Android` |
-| **KeyClu** - Simple and handy overview of applications shortcuts.** | KeyClu helps you access all the shortcuts of your current app right throug… | [GitHub](https://github.com/Anze/KeyCluCask) | `macOS` |
-| **Malwack** - Your Ultimate Defense Against Digital Pests** | **Say goodbye to the headaches of malware, spyware, and intrusive ads on y… | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/Malwack) | `Root, Magisk` |
-| **Ventoy** | **Ventoy is an open source tool to create bootable USB drive for ISO/WIM/I… | [GitHub](https://t.me/popCLOUDS/1879) | `Windows, Linux` |
-| **Addy.io** | Addy.io (formerly AnonAddy) allows you to create temporary aliases that se… | [GitHub](https://github.com/anonaddy/anonaddy) | `Website, Web` |
-| **Ditonton Yuk** | Ditonton Yuk is an application that helps users to view detailed informati… | [GitHub](https://github.com/triagung128/ditonton-yuk) | `iphone, Android` |
-| **Delta İcon Pack** | Delta includes thousands of hand-designed icons and supports 20+ launchers… | — | `Android, Linux, iOS, Windows` |
-| **Fulguris Browser** | Fulguris is a web browser for Android. Through a customizable interface it… | [GitHub](https://github.com/nift4/Jellyfish) | `Android` |
-| **Latest** | This is Latest, a small utility app for the Mac. Latest is a free and open… | [GitHub](https://github.com/mangerlahn/Latest) | `macOS` |
-| **Ocean** | An isometric, colorful Role Playing Game with scientific value made in Uni… | [GitHub](https://github.com/ginogeorgiev/WerDuBist) | `Windows, Games` |
-| **Thunder** | **An open source, cross-platform Lemmy client built with [Flutter](https:/… | [GitHub](https://github.com/thunder-app/thunder) | `Android, IOS` |
-| **Twire** | **Twire is an open source, ad-free Twitch browser and stream player for An… | [GitHub](https://github.com/twireapp/Twire) | `Android` |
-| **Xtra For Twitch** | **Xtra for Twitch is a Twitch client focused on providing the best viewing… | [GitHub](https://t.me/popCLOUDS/1847) | `Android` |
-| **Upscayl - Cross-Platform AI Upscaling** | **Upscayl is a Free and Open Source cross-platform AI Image Upscaler appli… | [GitHub](https://github.com/upscayl/upscayl) | `Windows, macOS, Linux, Web` |
-| **Feudal Tactics - Medieval Strategy Game** | A medieval strategy game with countless unique and challenging levels. You… | [GitHub](https://github.com/Sesu8642/FeudalTactics) | `Android, Games` |
-| **Super Retro Mega Wars** | Play against your friends, with each of you can competing by playing a dif… | [GitHub](https://github.com/retrowars/retrowars) | `Android, Games` |
-| **Unlucky** | Unlucky is a LibGDX Android RPG game based on RNG (random number generator… | [GitHub](https://github.com/mingli1/Unlucky) | `Android, Games` |
-| **BetterBatteryStats** | Monitor battery behaviour with Better Battery Stats | [GitHub](https://github.com/asksven/BetterBatteryStats) | `Android` |
-| **([Enhanced Post](https://t.me/popMODS/2059)) 💾 **DataBackup** | **A free and open source backup app with Material You design, Cloud integr… | [GitHub](https://github.com/XayahSuSuSu/Android-DataBackup) | `Android` |
-| **Vector Pinball** | A free and open source pinball game, with simple vector graphics, a physic… | [GitHub](https://github.com/dozingcat/Vector-Pinball) | `Android` |
-| **Skiff Workspace ✉️🗒️☁️🗓️** | Tired of Google? Here's an open-source project, Skiff, hosting an end-to-e… | [GitHub](https://t.me/+AXtVO6WYNKozZDMx) | `Android, Windows` |
-| **📽️🔧 Cobalt Tools** | **Your one stop for all your social media downloading needs! Download vide… | [GitHub](https://github.com/wukko/cobalt) | `Web, Website, Tools` |
-| **️ **Prognoza** | Prognoza is a multi-platform weather app with widgets and offline support. | [GitHub](https://github.com/davidtakac/prognoza) | `Android` |
-| **Authenticator Pro** | A free open-source two factor authentication app for Android. It features… | [GitHub](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro) | `Android, WearOS` |
-| **Enable the Employee Menu in any Instagram version** | **Useful for trying new features, enabling hidden settings, flexing them o… | [GitHub](https://github.com/xHookman/IGExperimentsPatcher) | `Android` |
-| **Libre Sudoku** | LibreSudoku is a powerful FOSS sudoku app for Android with Material 3 desi… | [GitHub](https://t.me/popCLOUDS/1767) | `Android, Games` |
-| **MellowMusic** | MellowMusic** is a convenient music player to play online music. | [GitHub](https://github.com/you-apps/MellowMusic) | `Android` |
-| **Connect You** | **Connect You is a Contacts/SMS app built with Material Design 3 (You). | [GitHub](https://github.com/you-apps/ConnectYou) | `Android` |
-| **Kanade** | Kanade** is a simple app that allows you to extract apk from your apps lis… | [GitHub](https://github.com/alexrintt/kanade) | `Android` |
-| **ListenBrainz** | **ListenBrainz keeps track of music you listen to and provides you with in… | [GitHub](https://github.com/metabrainz/listenbrainz-android) | `Android` |
-| **‍♂️ **Aware: Mindfulness & Wellbeing** | Aware** is a free non-profit app for mental health, wellbeing and inner de… | [GitHub](https://github.com/29ki/29k) | `documentation, Android` |
-| **Cider** | **A new cross-platform Apple Music experience based on Electron and Vue.js… | [GitHub](https://github.com/ciderapp/Cider) | `Windows, Linux` |
-| **PhotonCamera** **(Beta)** | **PhotonCamera uses advanced algorithms for capturing and processing raw i… | [GitHub](https://github.com/eszdman/PhotonCamera) | `Android` |
-| **MapSCII - The Whole World In Your Console.** | A JavaScript based Vector Tile to Braille & ASCII Map Renderer for your co… | [GitHub](https://github.com/rastapasta/mapscii) | `Windows, Linux, Android` |
-| **WallFlow** | ** A wallpaper app for Android with beautiful wallpapers from wallhaven.cc… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.ammar.wallflow) | `Android` |
-| **Forest** | Track your daily step count, stay healthy and fight the climate change | [GitHub](https://github.com/bk20dev/forest) | `Android` |
-| **File Converter** | File** Converter is a very simple tool which allows you to convert and com… | [GitHub](https://github.com/Tichau/FileConverter) | `Windows` |
-| **ReLabs - unofficial XDA Forums app** | An unofficial XDA Forums app for Android (still work in progress, not ever… | [GitHub](https://github.com/theimpulson/ReLabs) | `Android` |
-| **QRServ** | **QRServ is a file sharing application that utilises its own HTTP server t… | [GitHub](https://github.com/uintdev/qrserv) | `Android, Windows, Linux` |
-| **‍🍳 **KitchenOwl** | **KitchenOwl is a smart self-hosted grocery list and recipe manager. Easil… | [GitHub](https://github.com/TomBursch/kitchenowl) | `Android, IOS` |
-| **Record You** | **Record You is a voice and screen recorder app built with Material Design… | [GitHub](https://github.com/you-apps/RecordYou) | `Android` |
-| **SongSync** | **Android app to download lyrics (.lrc files) for songs in your music libr… | [GitHub](https://github.com/Lambada10/SongSync) | `Android, Music` |
-| **Styx Browser** | **A very lightweight, fast, minimalist browser with variety of features an… | [GitHub](https://t.me/popCLOUDS/1627) | `Android` |
-| **Windy** | Windy** is a material design inspired weather app built with Flutter. It p… | [GitHub](https://t.me/popCLOUDS/1621) | `Android` |
-| **BatteryTile** | **An Android Quick Settings tile that displays the current battery state a… | [GitHub](https://t.me/popCLOUDS/1616) | `Android` |
-| **⏱ **Pomatez** | **Stay Focused. Take a Break. | [GitHub](https://snapcraft.io/pomatez) | `Windows, MacOS, Linux` |
-| **🔋 𝙎𝙏𝙍𝙋 𝙐𝙇𝙏𝙍𝘼 ✗ 𝘽𝘼𝙏𝙏𝙀𝙍𝙔** | Unleash Your Device's True Potential – It's Not Just a Battery Saver, It's… | [GitHub](https://t.me/popCLOUDS/1581) | `Android, Modules` |
-| **Broccoli** | **Broccoli is a free eco-friendly recipe app for building your recipe coll… | [GitHub](https://github.com/flauschtrud/broccoli) | `Android` |
-| **Drinkable** | ** Explore and create cocktails with ingredients from home. | [GitHub](https://github.com/MOIMOB/drinkable) | `Android` |
-| **Waterfly III** | Waterfly** III is an unofficial app for your own instance of Firefly III,… | [GitHub](https://github.com/dreautall/waterfly-iii) | `waterfly, Android` |
-| **Beat Feet** | Jump your way through cities, each automatically generated from the beat o… | [GitHub](https://github.com/beat-feet/beat-feet) | `Android` |
-| **Simple MP (Simple Music Player)** | Simple MP (Simple Music Player) is music player based on material you desi… | [GitHub](https://github.com/lighttigerXIV/SimpleMP-Compose) | `unciv, Android` |
-| **URL Radio** | **URL Radio is a radio app that allows you to listen to many radio station… | [GitHub](https://github.com/jamal2362/URL-Radio) | `Android` |
-| **Pachli** | Pachli** is a full-featured Android client for Mastodon, with a cooperativ… | [GitHub](https://github.com/pachli/pachli-android) | `Android` |
-| **Unciv** - **Civ V remake for Android & Desktop** | **An open source, mod-friendly Android and Desktop remake of Civ V, made w… | [GitHub](https://github.com/yairm210/Unciv) | `unciv, Android, Windows, Games` |
-| **Safe Space** | **Safe space is an app that creates a separate place on your android devic… | [GitHub](https://github.com/aashishksahu/SafeSpace) | `Android` |
-| **Protonup-Qt** | Install** and manage Wine- and Proton-based compatibility tools for Steam… | [GitHub](https://github.com/DavidoTek/ProtonUp-Qt) | `Linux` |
-| **ffshare** | **An android app to compress image, video and audio files through ffmpeg b… | [GitHub](https://github.com/caydey/ffshare) | `Android` |
-| **Todopad** | **This is an elegant and fully featured todo app with a minimal and easy t… | [GitHub](https://github.com/TheAlphaApp/flutter_riverpod_todo_app) | `Android` |
-| **mucke - Music Player** | A music player for local files with unique custom playback options.  mucke… | [GitHub](https://github.com/moritz-weber/mucke) | `Android` |
-| **Rethink DNS + Firewall + VPN for Android** | In** other words, Rethink DNS + Firewall has three primary modes, VPN, DNS… | [GitHub](https://github.com/celzero/rethink-app) | `Android, Web, iOS` |
-| **AudioShare - play your Windows computer's audio on your phone.** | **This app allows you to play your Windows computer's audio on your phone.… | [GitHub](https://github.com/mkckr0/audio-share) | `usage, Android` |
-| **Termux_XFCE** | **A script for Termux, that sets up a desktop environment called XFCE, in… | [GitHub](https://github.com/phoenixbyrd/Termux_XFCE) | `readme, Android` |
-| **Pixel Dungeon** | Pixel Dungeon is a challenging and addictive game falls under the umbrella… | [GitHub](https://github.com/watabou/pixel-dungeon) | `Android, Games` |
-| **Round Sync** | Round Sync is a open source cloud file manager, powered by rclone. | [GitHub](https://github.com/newhinton/Round-Sync) | `Android, FOSS` |
-| **Unstoppable Wallet** | Unstoppable wallet is purposely built as a decentralized management tool f… | [GitHub](https://github.com/horizontalsystems/unstoppable-wallet-android) | `Android` |
-| **Ana** | Notebook on a foreign language is an app that helps you learn languages by… | [GitHub](https://github.com/kolserdav/ana) | `screenshots, Android` |
-| **Activity Manager** | Advanced activities and shortcuts launcher. Discover activities of install… | [GitHub](https://github.com/sdex/ActivityManager) | `Android` |
-| **IGExperiments** | Allow you to enable developer options in Instagram! | [GitHub](https://t.me/popCLOUDS/1224) | `Android` |
-| **CAPod - Companion app for AirPods on Android** | **A companion app that adds support for AirPod specific features to Androi… | [GitHub](https://t.me/popCLOUDS/1243) | `Android` |
-| **Another notes app** | Another notes app, like there have been tens of thousands before. This app… | [GitHub](https://github.com/maltaisn/another-notes-app) | `Android, Web` |
-| **Privacy Friendly Pedometer** | The Privacy Friendly Pedometer stores the user's step count per hour. The… | [GitHub](https://github.com/SecUSo/privacy-friendly-pedometer) | `Android` |
-| **Codec Info** | ** Codec Info is a simple tool for developers that provides detailed listi… | [GitHub](https://github.com/Parseus/codecinfo) | `Android` |
-| **Converter** **NOW** | **A simple, immediate and fast unit converter! | [GitHub](https://github.com/ferraridamiano/ConverterNOW) | `Android, Windows, Linux` |
-| **Remove Paywall** | **RemovePaywall is a useful tool for those who don’t subscribe to certain… | — | `Web` |
-| **BlackHole** | ** An Open-Source Music Player App for all your needs! . | [GitHub](https://github.com/Sangwan5688/BlackHole) | `Android, IOS, MacOS, Media, Utilities` |
-| **WallpaperExport** | **With the help of this app, you can now save and share your stock wallpap… | [GitHub](https://github.com/cvzi/WallpaperExport) | `Android` |
-| **LinkSheet** | **LinkSheet restores the Url-App-Chooser that was removed in Android 12+ i… | [GitHub](https://github.com/1fexd/LinkSheet) | `Android` |
-| **Image Toolbox** | **Image toolbox is the app which based on modern tech stack using Clean Ar… | [GitHub](https://github.com/T8RIN/ImageToolbox) | `Android` |
-| **MIUI Bootloader Unlock without PC (Phone-To-Phone)** | **Note: We are not responsible for any data loss or corrupt devices. Proce… | [GitHub](https://github.com/RohitVerma882/termux-miunlock) | `instructions, Android, MIUI, Guides` |
-| **AniHyou** | **Another unofficial Android AniList client, an app for anime and manga tr… | [GitHub](https://github.com/axiel7/AniHyou-android) | `Android` |
-| **Dark Mode Live Wallpaper** | **A live wallpaper for Android 10+ that respects dark theme mode. | [GitHub](https://github.com/cvzi/darkmodewallpaper) | `Android` |
-| **Key mapper** | Boring phone? Unleash your keys! | [GitHub](https://github.com/keymapperorg/KeyMapper) | `Android` |
-| **Medito - Meditation & Sleep** | **Medito is a free meditation app by Medito Foundation, a non-profit organ… | [GitHub](https://github.com/meditohq/medito-app) | `Android, IOS` |
-| **Super TuxKart** | — | [GitHub](https://github.com/supertuxkart/stk-code) | `Android, Windows, MacOS, Linux, Games` |
-| **AI Study Assistant** | **__AI chatbot, Lecture Summarizer, Essay Writer and Questions Generator._… | [GitHub](https://github.com/mhss1/AIStudyAssistant) | `Android` |
-| **DAVx⁵ - CalDAV/CardDAV Synchronization and Client** | **DAVx⁵ is a CalDAV/CardDAV management and synchronization app for Android… | [GitHub](https://f-droid.org/tr/packages/at.bitfire.davdroid) | `Android` |
-| **K-9 Mail** | **K-9 Mail is an open-source email client for Android. | [GitHub](https://f-droid.org/repository/browse/?fdid=com.fsck.k9) | `Android` |
-| **AlwaysOn for Android™** | **AlwaysOn is an app for every device with an AMOLED or OLED display. It a… | [GitHub](https://github.com/Domi04151309/AlwaysOn) | `Android` |
-| **ToDark** **- Task Management Application** | **This application allows you to manage your tasks. | [GitHub](https://github.com/DarkMooNight/ToDark) | `Android` |
-| **Winlator** | **Winlator is an Android application that lets you to run Windows (x86_64)… | [GitHub](https://github.com/brunodev85/winlator) | `Android` |
-| **Stable Diffusion AI (SDAI)** | **Stable Diffusion AI is an easy-to-use app that lets you quickly generate… | [GitHub](https://github.com/ShiftHackZ/Stable-Diffusion-Android) | `features, Android, Web` |
-| **Daily You** | **Daily You is an app made to store memories of the passing days. Log ever… | [GitHub](https://github.com/ptrLx/OneShot) | `Android` |
-| **Gallery** | **Light-weight Media Gallery app for Android made with Jetpack Compose | [GitHub](https://github.com/IacobIonut01/Gallery) | `Linux, Android, Gallery, Privacy, MaterialYou` |
-| **LiChess** | **Lichess is a free, open source, and ad-free online chess platform that a… | [GitHub](https://github.com/lichess-org/lichobile) | `Linux, Android` |
-| **Lutris** | **Lutris is an open gaming platform for Linux. Lutris helps you install an… | [GitHub](https://github.com/lutris/lutris) | `Linux` |
-| **Basic Call Recorder (BCR)** | **BCR is a simple Android call recording app for rooted devices or devices… | [GitHub](https://github.com/chenxiaolong/BCR) | `features, non, usage, permissions, Android` |
-| **SmartTube** (a.k.a SmartTube Next)** | SmartTube Android TV app is a free and open source player for YouTube cont… | [GitHub](https://github.com/yuliskov/SmartTubeNext) | `installation, features, updating, compatibility, device, Android` |
-| **Perplexity AI** | **Perplexity AI is an AI-powered search engine and chatbot that utilizes a… | — | `Android` |
-| **Next Player** | **Next Player is an Android native video player written in Kotlin. It prov… | [GitHub](https://play.google.com/store/apps/details?id=dev.anilbeesetti.nextplayer) | `screenshots, features, supported, Android` |
-| **Just Video Player** | **Android video player based on Media3 (formerly ExoPlayer), compatible wi… | [GitHub](https://github.com/moneytoo/Player) | `download, screenshots, features, supported, Android` |
-| **Kafka for ****archive.org** | — | — | `Android` |
-| **RustDesk** | **Yet another remote desktop software, written in Rust. Works out of the b… | [GitHub](https://github.com/rustdesk/rustdesk) | `snapshots, Android, Windows, MacOS, Linux` |
-| **Serenity** | **Serenity is a audio player which focuses on playing Music, Meditation an… | [GitHub](https://t.me/popCLOUDS/872) | `Android` |
-| **SimpMusic** | **A simple music app using YouTube Music for backend | [GitHub](https://github.com/maxrave-dev/SimpMusic) | `screenshot, Android` |
-| **Added New 10 wallpapers.** | **Google Play (free, no ads) :** https://play.google.com/store/apps/detail… | — | `—` |
-| **Harmony Music** | **An app for music streaming made with Flutter(currently supports Android… | [GitHub](https://github.com/anandnet) | `Android` |
-| **Bluetooth Volume Manager** | **BVM gives your Android device the ability to have individual music and v… | [GitHub](https://github.com/d4rken-org/bluemusic) | `screenshots, Android` |
-| **PipePipe** | **A diverged fork of NewPipe with more services, client features and bug f… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/InfinityLoop1309.NewPipeEnhanced) | `new, screenshots, Android` |
-| **Todoify** | **a material design, closed source offline based todo, notetaking app for… | [GitHub](https://github.com/MGAndroidProjects/Todoify-Releases) | `screenshots, Android` |
-| **Cromite** | **Cromite is a Chromium fork based on Bromite with built-in support for ad… | [GitHub](https://github.com/uazo) | `Android` |
-| **‍♀️ **AyuGram4A** | **ExteraGram with privacy features | [GitHub](https://github.com/AyuGram/AyuGram4A) | `preview, Android` |
-| **SpMp** | **YouTube Music client with a focus on language and metadata customisation… | [GitHub](https://github.com/toasterofbread) | `Android` |
-| **️ **Breezy Weather** (ex Geometric Weather)** | A complete weather app, supporting various providers and Material You. | [GitHub](https://github.com/breezy-weather/breezy-weather) | `Android` |
-| **Vigilante** | **An app that focuses on your privacy and alerts you when a third-party ap… | [GitHub](https://t.me/popCLOUDS/819) | `Android` |
-| **Kotatsu** | **Kotatsu is a free and open source manga reader for Android. | [GitHub](https://t.me/popCLOUDS/799) | `Android` |
-| **Logseq - __A privacy-first, open-source platform for knowledge management and collaboration** | __** Logseq is a software that helps you write and organize your notes in… | [GitHub](https://github.com/logseq/logseq) | `table, Android, Windows, Linux` |
-| **Florae 🌱** | **Keep track of the care to your plants. | [GitHub](https://github.com/aeri/Florae) | `Android` |
-| **promotional post** | **📅13 June 2023: Team Lead course Demo Day.** | — | `—` |
-| **Bottles** | **An open-source program to run Windows software and games on Linux! | [GitHub](https://github.com/bottlesdevs/Bottles) | `shortcuts, faq, notices, Linux` |
-| **TimePlanner** | **Plan the tasks of your day with this app. | [GitHub](https://github.com/v1tzor/TimePlanner) | `Android` |
-| **Touchable, interactive hologram** | Darth Vader is coming 🤖 | [GitHub](https://twitter.com/pascal_bornet/status/1560159595582181376) | `—` |
-| **Custom WSABuilds ( Windows Subsystem Android)** | **MustardChef’s WSABuilds GitHub project is a repository that provides cus… | [GitHub](https://github.com/MustardChef/WSABuilds) | `requirements, Windows` |
-| **LibChecker** | **This app is used to view the third-party libraries used by applications… | [GitHub](https://github.com/LibChecker/LibChecker) | `Android` |
-| **Octogram** | **Sadly, the development of Owlgram, a well-known Telegram client for Andr… | [GitHub](https://github.com/OctoGramApp/OctoGram) | `Android` |
-| **Rectify11 İnstaller** | — | [GitHub](https://github.com/MishaProductions/Rectify11Installer) | `projects, Windows` |
-| **Lyricify - A fantastic app to provide scroll lyrics for Spotify** | Lyricify** is a software project that aims to provide scroll lyrics for  S… | [GitHub](https://github.com/WXRIW/Lyricify-App) | `Android, Windows` |
-| **Remove YouTube Suggestions - extension** | **Spend less time on YouTube. Customize YouTube's user interface to be les… | [GitHub](https://github.com/lawrencehook/remove-youtube-suggestions) | `Web` |
-| **Symphony** | **Just another good Material You music player. | [GitHub](https://github.com/zyrouge/symphony) | `Android` |
-| **Extirpater** | **An high-performance free space eraser for Android. **When you delete a f… | [GitHub](https://github.com/Divested-Mobile/Extirpater) | `Android` |
-| **Focus Launcher** | **Focus Launcher is a minimalist Android Launcher | [GitHub](https://github.com/mslalith/focus_launcher) | `features, built, Android` |
-| **GPTZero** | GPTZero is a classification model that predicts whether a document was wri… | — | `Web` |
-| **Owl2** | **A flutter client for the OwlBot dictionary. | [GitHub](https://github.com/yamin8000/Owl2) | `Android` |
-| **Mull Fenix: A GitHub project to build a customized and privacy-enhanced version of Firefox for Android.** | **Mull Fenix is a fork of Relan’s fennecbuild repository, which allows com… | [GitHub](https://github.com/Divested-Mobile/Mull-Fenix) | `Android` |
-| **Pazzword** | **Evaluate and generate password quickly. | [GitHub](https://github.com/cyb3rko/pazzword) | `Android` |
-| **Colors AI** | **Generate beautiful color palettes using AI. | [GitHub](https://github.com/tsinis/colors_ai) | `Android` |
-| **GPT + DALL-E + WhatsApp = AI Assistant 🚀** | This WhatsApp bot uses OpenAI's GPT and DALL-E 2 to respond to user inputs. | [GitHub](https://github.com/askrella/whatsapp-chatgpt) | `—` |
-| **Weather** | **Stay ahead of the storm with our intuitive weather app. Get accurate and… | [GitHub](https://github.com/sunilpaulmathew/Weather) | `Android` |
-| **Tasky** | **A material you to-do list app. | [GitHub](https://github.com/thatsmanmeet/Tasky) | `Android` |
-| **The reason why you should hurry for this is;** | I got 25 codes and it expires until Friday 😂😂😂 | [GitHub](https://play.google.com/store/apps/details?id=in.sunilpaulmathew.ashell) | `—` |
-| **AI Code Translator** | **Use AI to translate code from one language to another. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) | `Android` |
-| **FDE.AI** | **FeraDroid Engine (FDE) - an All-in-One ultimate optimizer for all device… | [GitHub](https://t.me/popCLOUDS/605) | `Android` |
-| **Spooky 🎃** | **First journal with Material 3 design! Spooky is a minimalist design appl… | [GitHub](https://play.google.com/store/apps/details?id=com.juniorise.spooky) | `Android` |
-| **LogFox** | **Yet another LogCat reader for Android | [GitHub](https://github.com/F0x1d/LogFox) | `Android` |
-| **Rain** | **Open-source weather app powered by [Open-Meteo](https://open-meteo.com/). | [GitHub](https://open-meteo.com) | `Android` |
-| **Wallme-Wallpaper** | **Open-source wallpaper app powered by Reddit and Wallhaven. | [GitHub](https://github.com/Alaory/WallMe-Wallpaper) | `Android` |
-| **Clipious** | **Private YouTube client based on the Invidious frontend. | [GitHub](https://github.com/lamarios/clipious) | `Android` |
-| **Taskade - AI Lists, Notes, Chat - A free productivity app that lets you chat with your tasks 📝🤖** | **Taskade is a task management and collaboration app that supports all you… | — | `Android` |
-| **My Brain** | **Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Dia… | [GitHub](https://f-droid.org/packages/com.mhss.app.mybrain) | `Android` |
-| **PDFgear - A free PDF editor that lets you chat with PDFs 📚**🤖** | PDFgear is a PDF editing software that has an **AI technology called PDF C… | [GitHub](https://t.me/popCLOUDS/531) | `Windows` |
-| **Aniyomi - Tachiyomi for anime** | **Aniyomi is a Tachiyomi fork designed to watch anime. | — | `Android` |
-| **well, ChatGPT integration is coming to Telegram soon** | — | [GitHub](https://t.me/adurovleaks/90) | `—` |
-| **Integrating ChatGPT into your browser deeply, everything you need is here** **-  A Chrome Extension** | **✨ Features | [GitHub](https://github.com/josStorer/chatGPTBox) | `credit, Web` |
-| **Ambient Music Mod - Port of Now Playing from Pixels to other Android devices** | **Ambient Music Mod is a Shizuku or root app that ports Now Playing from P… | [GitHub](https://github.com/KieronQuinn/AmbientMusicMod) | `installation, Android` |
-| **Motrix - A full-featured download manager** | **Motrix is a full-featured download manager that supports downloading HTT… | [GitHub](https://github.com/agalwood/Motrix) | `Linux, MacOS` |
-| **Neverinstall | Run any app from your browser** | **Have you ever wished you could run any desktop app from your browser wit… | — | `Web` |
-| **United Sets** | **An open-sourced program that groups windows into tabs, inspired by the u… | [GitHub](https://github.com/FireCubeStudios/UnitedSets) | `Windows` |
-| **ChatGPT for Browsers** | **Display ChatGPT response alongside search engine results | [GitHub](https://github.com/wong2/chat-gpt-google-extension) | `Web` |
-| **TetherFI - share your internet without the need of an hotspot plan** | **Sadly some internet providers don't allow hotspot or charge additional c… | [GitHub](https://github.com/pyamsoft/tetherfi) | `Android` |
-| **Tusky** **- Mastodon Client** | **Tusky is a beautiful Android client for [Mastodon](https://github.com/ma… | [GitHub](https://github.com/mastodon/mastodon) | `Android` |
-| **SleepZz: Your Sleep assistant.** | A simple app helps you to determine the optimal waking up times with the t… | [GitHub](https://github.com/ahmedtohamy1/SleepZz) | `Android` |
-| **Termux-Games** | Play Games on Termux** 🎮 | [GitHub](https://github.com/khansaad1275/Termux-Games) | `Android` |
-| **VpnHood!** | Fast and Secure Free VPN | [GitHub](https://github.com/vpnhood/VpnHood) | `Android, Windows` |
-| **SystemUI Tuner - tweak hidden Android settings.** | **SystemUI Tuner allow you to toggle Android settings that for some reason… | [GitHub](https://github.com/zacharee/Tweaker) | `Android` |
-| **SophiApp - the best Windows tweaker** | **SophiApp is an open-source tweaker for Windows 10 and 11. It has more th… | [GitHub](https://t.me/sophia_chat) | `Android` |
-| **SuperImage - upscale **photos using your android's GPU** | — | [GitHub](https://github.com/Lucchetto/SuperImage) | `Android` |
-| **Have you ever thought that you can use YouTube as an unlimited cloud storage?** | Yes, this is real and it is already working. | [GitHub](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | `—` |
-| **Spowlo - A Spotify songs downloader made with Jetpack Compose, Material You and the spotDL python library** | The developer announced that he will be recreating the app and that the ap… | [GitHub](https://github.com/BobbyESP/Spowlo) | `Android` |
-| **Auxio - simple Material You music player** | — | [GitHub](https://github.com/OxygenCobalt/Auxio) | `Android` |
-| **Connect You - Material You Contacts app** | — | [GitHub](https://github.com/Bnyro/ConnectYou) | `Android` |
-| **Paisa - Expense Manager** | — | [GitHub](https://github.com/RetroMusicPlayer/Paisa) | `Android` |
-| **Magisk Delta - Magisk fork with unofficial features** | — | [GitHub](https://t.me/magiskdelta) | `Android` |
-| **Myne - Ebook downloader from Project Gutenberg** | Myne is an app that allows you to download many ebooks from authors that d… | [GitHub](https://github.com/Pool-Of-Tears/Myne) | `Android` |
-| **Wikipedia App for Android** | **Do you ever spend hours reading Wikipedia just because you're bored or y… | [GitHub](https://github.com/wikimedia/apps-android-wikipedia) | `Android` |
-| **MIUI Launcher Mod** | **MIUI Launcher Mod is modified with many features added and ui changes. | [GitHub](https://github.com/Mods-Center/Miui_Launcher_Mod) | `Android, MIUI` |
-| **MIUI Monet - Material You for MIUI** | **MIUI Monet is a magisk module that themes all the MIUI apps with Materia… | [GitHub](https://github.com/MIUI-Monet-Project/Module) | `Android, MIUI` |
-| **Wall You - open-source wallpaper app** | **Wall You is an open-source wallpaper app that fetches wallpapers from Wa… | [GitHub](https://github.com/Bnyro/WallYou) | `Android` |
-| **[LocalSend** | ](https://localsend.org/)Share files to nearby devices. Free, open source,… | [GitHub](https://github.com/localsend/localsend) | `Android, Windows, Linux, macOS, iOS` |
-| **Ferdium - all your services in one place** | **Ferdium is a multi-platform program that aggregates all your services (l… | [GitHub](https://github.com/ferdium/ferdium-app) | `Windows, MacOS, Linux` |
-| **Flow Launcher - Quick file search & app launcher for Windows with community-made plugins** | — | [GitHub](https://github.com/Flow-Launcher/Flow.Launcher) | `system, Windows` |
-| **PlayStoreMod - enable hidden flags of Play Store** | **PlayStoreMod is an app that can be used to enable hidden features and ne… | [GitHub](https://github.com/assembleDebug/PlayStoreMod) | `Android` |
-| **Vibe Music - music streaming app** | Vibe Music is an app that allows you to listen to music with YouTube Music… | [GitHub](https://github.com/sheikhhaziq/vibemusic) | `Android` |
-| **MRepo - Magisk module repo and manager** | **MRepo is a new app that substitutes the dead Magisk module repo, it is v… | [GitHub](https://github.com/ya0211/MRepo) | `Android` |
-| **Amarok - hide apps and files** | **Amarok is an app that allows you to hide apps and files using root or sh… | [GitHub](https://github.com/deltazefiro/Amarok-Hider) | `Android` |
-| **WingetUI - GUI for winget** | **WingetUI is a very useful Windows app that allows you to install and upd… | [GitHub](https://github.com/marticliment/WingetUI) | `Android` |
-| **YouTube AdAway - adblocker for YouTube** | **YouTube AdAway is a LSposed module for Android that blocks ads and enabl… | [GitHub](https://github.com/wanam/YouTubeAdAway) | `Android` |
-| **Oversec - privacy for all apps** | **Oversec is an advanced encryption app. By sharing a key to the person wi… | [GitHub](https://github.com/oversecio/oversec) | `Android` |
-| **Inure - elegant app manager** | **Inure is an elegant android app manager that supports both rooted and no… | [GitHub](https://github.com/Hamza417/Inure) | `Android` |
-| **ChatGPT Android - unofficial ChatGPT app** | **ChatGPT Android is an app that uses ChatGPT API to make accessing the AI… | [GitHub](https://github.com/skydoves/chatgpt-android) | `Android` |
-| **Buckwheat - App that helps you spend money wisely** | **Buckwheat is an app that helps you spend money wisely, tracking every ex… | [GitHub](https://github.com/danilkinkin/buckwheat) | `Android` |
-| **Jetispot** __PR Merge Preview** | This is Jetispot with https://github.com/iTaysonLab/jetispot/pull/28 merge… | [GitHub](https://github.com/iTaysonLab/jetispot) | `—` |
-| **ShareX** - **Screen capture, file sharing and productivity tool** | **ShareX is a free and open source program that lets you capture or record… | [GitHub](https://github.com/ShareX/ShareX) | `Windows` |
-| **Folder İcons for PC** | https://github.com/sameerasw/folder-icons/ | [GitHub](https://github.com/sameerasw/folder-icons) | `—` |
-| **[Check this if you love Google-ish Calculator](https://github.com/Darkempire78/OpenCalc)** | — | [GitHub](https://github.com/Darkempire78/OpenCalc) | `—` |
-| **TeleSpeed : Lsposed module to enhance your telegram client download speed.** | Requirements | [GitHub](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) | `—` |
-| **Obtainium App - Get Android App Updates Directly From the Source**.** | Obtainium allows you to install and update Open-Source Apps directly from… | [GitHub](https://github.com/ImranR98/Obtainium) | `Android` |
-| **Better Discord **-  **Better Discord enhances Discord desktop app with new features.** | **BetterDiscord is a client modification for Discord. This allows you to a… | [GitHub](https://github.com/BetterDiscord/BetterDiscord) | `manual, Windows, Linux, MacOS` |
-| **İn2White - This 365- Gigapixel monster is the world largest panoramic photo** | **Have you ever wondered about the world's largest sized photo? | — | `Web` |
-| **International Student Identity Card (ISIC)** | The **International Student Identity Card** (**ISIC**) is an international… | — | `—` |
-| **AirGuard - protect yourself from AirTags** | **AirGuard is an app for Android that **scans for Apple AirTags in the bac… | [GitHub](https://github.com/seemoo-lab/AirGuard) | `Android` |
-| **•Update** | •Update | [GitHub](https://one.google.com/join/ai-student?utm_source=gemini&utm_medium=bts-campus-qrcode&utm_id=a7721bf9-2a0c-43e2-b4ab-0be4dd31d0df&g1_landing_page=5) | `GODSPEED, app, update, photos, rui, gallery, universal, Android` |
-| **Teta (Beta) - App Builder** | **With Teta, you can build cross-platform mobile apps in no time, using ou… | — | `Android, MacOS` |
-| **Tipi- A personal homeserver for everyone** | **Tipi is a personal homeserver orchestrator. It is running docker contain… | [GitHub](https://github.com/meienberger/runtipi) | `Linux` |
-| **Termux Surveillance** | **A simple surveillance tool that can be interacted with SMS. | [GitHub](https://github.com/tuhinpal/termux-surveillance) | `Android` |
-| **Mailvelope** | Mailvelope is a browser extension for Google Chrome and Firefox that allow… | [GitHub](https://github.com/mailvelope/mailvelope) | `Web` |
-| **Noice: Natural calming noise** | **__Noice is an app that allows you to create personalised sound environme… | — | `Android` |
-| **Loom** | **Loom is one of the most essential Chrome extensions. It is a video messa… | — | `—` |
-| **Boundo: System Tool Set** | **A tools bundle bound to do things for you | [GitHub](https://github.com/cliuff/boundo) | `Android` |
-| **Buffer** | **Buffer is a great tool for scheduling and sharing content on social medi… | — | `Web` |
-| **UIzard.io** | **Uizard is a rapid, AI-powered prototyping tool used for designing wirefr… | — | `Web` |
-| **TwiF*cker** | **Yet Another Adkiller for Twitter. | [GitHub](https://github.com/LSPosed/LSPatch) | `Android` |
-| **XDowngrader (XPosed Module)** | **XDowngrader downgrades any app by allowing you to install the APK of an… | [GitHub](https://t.me/LSPosedArchives) | `Android` |
-| **Heale**rgram (XPosed Module)** | An Xposed module to heal your Telegram addiction. | [GitHub](https://github.com/LSPosed/LSPosed) | `Android, FOSS` |
-| **Revan**cify** | A simple and direct YouTube and YouTube Music Revanced Installer script. | [GitHub](https://github.com/decipher3114/Revancify) | `Android, Tools` |
-| **InviZ**ible Pro** | InviZible Pro is an open-source app that **protects your privacy, unblocks… | [GitHub](https://github.com/Gedsh/InviZible) | `Android` |
-| **Seal - Video and Audio downloader powered by yt-dlp and MD3** | Seal is an audio and video downloader that provides a GUI to the famous yt… | [GitHub](https://github.com/JunkFood02/Seal) | `Android` |
-| **Xtra - Open-source Twitch player and browser for Android** | **Xtra is an open-source player and browser for Twitch. It supports ad-blo… | [GitHub](https://github.com/crackededed) | `Android` |
-| **microsoft open sourced their emojis but the nicer looking one on left is just png because its 3d render and they said "its all in figma" 🤡** | [Get it on Figma ](https://www.figma.com/community/file/113825494224967774… | [GitHub](https://github.com/microsoft/fluentui-emoji) | `—` |
-| **YouTu**be Vanced Extended** | Hi, when we released Vanced 15.05.54, people were upset because it used th… | [GitHub](https://github.com/inotia00/VancedManager) | `Android` |
-| **[Hey** | I think you interest Material You Termux | [GitHub](https://github.com/DevMoxxie/termux-monet) | `—` |
-| **[​​](https://telegra.ph/file/c968570052fa59a700d8d.jpg)🎧 **How to cut a voice or minus from a track without complex programs** | Let's use the VocalRemover service, which is able to separate text from mu… | — | `Web` |
-| **Monet-Generator** | Create Monet Themes for Telegram, Telegram X, Plus Messenger and MiXplorer… | [GitHub](https://t.me/ESICAChannel) | `—` |
-| **Silen**ce - Block unknown callers** | By default numbers not in your contacts are blocked. | [GitHub](https://github.com/x13a) | `Android` |
-| **Magisk v25.1 (25100)** | ⚡__Magisk Beta__ | [GitHub](https://github.com/topjohnwu/Magisk) | `Android` |
-| **Musif**y - **Music Streaming and Downloading app made in Flutter!** **( Material You )** | **Features** | [GitHub](https://github.com/gokadzev/Musify) | `Android` |
-| **You.c**om** - Google Search Engine alternative** | [You.com](http://You.com/) is the search engine you control — your time, s… | — | `Android, Web` |
-| **ReVanced v17.22.36 (****1529734592****)** | ⚡__ReVanced is an unofficial continuation of Vanced and unaffiliated with… | [GitHub](https://github.com/revanced/revanced-documentation) | `—` |
-| **popGR**AM - [extera](https://t.me/exteragram) based Telegram client by us** | popGRAM, a simple, battery-friendly extera-based Telegram client | [GitHub](https://github.com/itsv1eds/popGram) | `Android` |
-| **MIUI **- Ads Helper** | MIUI - Ads Helper helps to enable/disable ads or recommendations in MIUI. | [GitHub](https://t.me/popmodschat/57085) | `Android` |
-| **GODSPEED #RESURRECT #OF #MADNESS #PRO #MAGISK #PADI** | — | — | `GODSPEED, RESURRECT, OF, MADNESS, PRO, MAGISK, PADI, MODULE` |
-| **Koler** - Just a phone app.** | Koler is an open source MVVM android app. Designed with the user in mind.… | [GitHub](https://t.me/popmodschat/55805) | `Android` |
-| **Thud.** - Read news without the fuss** | Thud. is a free and open source news reader for Android and iOS inspired b… | [GitHub](https://telegra.ph/Thud-Features-05-29) | `Android, IOS` |
-| **popWALLS is back! (also now open source)** | [Source | [GitHub](https://github.com/n3rd3x3/popWALLS) | `—` |
-| **Neo S**tore **- A quick material F-Droid client.** | **Features** | [GitHub](https://github.com/NeoApplications/Neo-Store) | `Android` |
-| **Hello to Everyone.** | I am @decipher3114. I am a beginner in Software development. I use Windows… | [GitHub](https://github.com/decipher3114/WSAUtils) | `—` |
-| **App M**anager - A full-featured package manager and viewer for Android** | App manager is an advanced package manager for Android which offers tons o… | [GitHub](https://github.com/MuntashirAkon/AppManager) | `Android` |
-| **Spotu**be - A free Spotify client** | Spotube is a Flutter based lightweight spotify client. It utilizes the pow… | [GitHub](https://github.com/KRTirtho/spotube) | `Android` |
-| **Genia**lly **- A Tool for Creating Infographics and Animated Presentations** | Genially is a web-based tool, available in a free version, that allows you… | [GitHub](https://www.profweb.ca/en/publications/digital-tools/genially-a-tool-for-creating-infographics-and-animated-presentations) | `Web` |
-| **Read **You - RSS Reader (Material You)** | Read You is a copy of Reeder, in order to give Android an RSS reader simil… | [GitHub](https://github.com/Ashinch) | `Android` |
-| **Strat**osphere - Tweak Module to improve ur experience and Power on your device.** | Focused on Maximizing user experience, multiple profiles Changeable in-app… | [GitHub](https://github.com/CRANKV2/CRV2) | `Android` |
-| **Thano**x - Thanos for your apps** | Thanox is an app that lets you gain very granular control over your apps.… | [GitHub](https://github.com/Tornaco/Thanox) | `Android` |
-| **Neko **| A Free, Open source unofficial manga reader for MangaDex** | This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This conta… | [GitHub](https://github.com/CarlosEsco/Neko) | `Android` |
-| **Pixel** Launcher Mod | Customize your Pixel Launcher!** | Pixel Launcher Mods is a root app for Android 12+ that enables you to add… | [GitHub](https://github.com/KieronQuinn/PixelLauncherMods) | `Android` |
-| **Retro** Music Player | Material You Design Music Player for Android music lovers** | **Download, Features and Captures | [GitHub](https://telegra.ph/Retro-Music-Player-Features-04-12) | `Android` |
-| **Upgra**deAll** | Check updates for Android apps, Magisk modules and more! | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) | `Android` |
-| **Scoop | Catches a stack trace when an app crashes unexpectedly.** | Scoop catches and saves the stack traces of crashing apps and displays all… | [GitHub](https://github.com/TacoTheDank/Scoop) | `guide, Android` |
-| **Buoy **| An extension to the built in Android Battery Saver** | **Description** | [GitHub](https://github.com/tytydraco/Buoy) | `Android` |
-| **Googl**e Arts & Culture launches ‘Giga Manga’ web app that lets you create manga characters using AI** | Giga Manga is an online experiment that allows you to create unique manga… | — | `Web` |
-| **THEME GENERATOR FOR TELEGRAM ANDROID** | ❗Requires: Android 12+ | [GitHub](https://github.com/c3r5b8/Telegram-Monet) | `apps` |
-| **LibreTube | YouTube Vanced Alternative 1** | Alternative YouTube frontend for Android | [GitHub](https://github.com/TeamPiped/Piped) | `Android, Website` |
-| **Waifu**PX** | WAIFUPX is an Android application free of any type of advertising, The mai… | [GitHub](https://github.com/WaifuPX-DG/WaifuPX) | `Android` |
-| **Be aware of apps that uses sensible hardware access. Get notified every time with Privacy Dots.** | Powerful app that indicates whether other apps or services uses your locat… | — | `—` |
-| **IOS-P**ILL | Magisk Module** | Change your stock AOSP pill to IOS style pill! | [GitHub](https://github.com/siimsek) | `—` |
-| **De-Bl**oater** | De-Bloater is an application using the power of Magisk to de-bloat unwante… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.sunilpaulmathew.debloater) | `Android` |
-| **POP-ZRAM** | Magisk Module** | Enable ZRAM with 4GB in your device! | [GitHub](http://t.me/siimsek) | `Android` |
-| **Googl**e Product Sans Font for Android 12** | This module helps you to install Google Product Sans Font systemlessly thr… | [GitHub](https://t.me/popmods/377) | `Android` |
-| **Kille**rgram | Remove sponsored Telegram's messages** | An Android Xposed module to remove sponsored messages of Telegram. | [GitHub](https://github.com/shatyuka/Killergram) | `Android` |
-| **Magisk v24.3 | Stable Version** | Changelog | [GitHub](https://t.me/popmods/355) | `Android` |
-| **Fox M**agisk Module Manager | **Magisk Module Repository** | The official Magisk is dropping support to download online modules... | [GitHub](https://github.com/Fox2Code/FoxMagiskModuleManager) | `Android` |
-| **Flutter Random Face Generator** | ** | [GitHub](https://github.com/aristofun/py-agender) | `Android, Windows` |
-| **AlternativeTo | Find alternatives for every software.** | **AlternativeTo** is a website which lists alternatives to web-based softw… | — | `Website` |
-| **Snapdrop** | Android app for [Snapdrop.net](https://snapdrop.net/) - The easiest way to… | [GitHub](https://github.com/RobinLinus/snapdrop) | `Windows, macOS, Android, iOS, Web` |
-| **SpotiFlyer** | ** | [GitHub](https://github.com/Shabinder/SpotiFlyer) | `Android` |
-| **Aves•** | Aves is a gallery and metadata explorer app. It is built for Android, with… | [GitHub](https://github.com/deckerst/aves) | `Android` |
-| **Magisk BootloopSaver** | Protect your system from bootloop caused by Magisk modules. In case the da… | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver) | `—` |
-| **FlorisBoard v0.3.14-beta13 (69)** | ⚡️__FlorisBoard is a free and open-source keyboard for Android 6.0+ device… | [GitHub](https://github.com/florisboard/florisboard) | `Android` |
-| **Cache App Limiter** | __Description__ | [GitHub](https://github.com/Nixsuki/Cache-App-Limiter) | `Android` |
+- 🔄 **Last Automatically Synchronized:** `2026-08-23 05:05 UTC`
 
 ---
 
@@ -34613,6 +32959,1661 @@ Platform(s); #Android
 
 
 ---
+
+<details id="quick-index">
+<summary><h2>📋 Quick Directory Index (1647 Apps Table) — <i>Click to expand full list</i></h2></summary>
+
+| App / Project | Description | Repository | Categories |
+|:---|:---|:---|:---|
+| **Croc** | croc is a simple, secure, and fast command-line file transfer tool that al… | [GitHub](https://github.com/schollz/croc) | `Windows, Mac, linux` |
+| **Neuronpedia** | Neuronpedia is an open-source AI interpretability platform for exploring a… | — | `Website, AI, Learning` |
+| **Early test** | Kindly test it and report bugs, recommendations, enhancements. Google logi… | [GitHub](https://github.com/omersusin/piTube) | `—` |
+| **tg-logging-handler** | tg-logging-handler is a logging.Handler that delivers Python log records t… | [GitHub](https://github.com/0xarchit/tg-logging-handler) | `library, python, logging, dev` |
+| **Clash Flac** | ClashFLAC is a Stream high-resolution audio previews, search across millio… | [GitHub](https://github.com/ajisth69/clashflac) | `Website, Stream, Flac, Lyrics` |
+| **Switcher 5G** | The fastest way to switch your Android network mode — no root required. A… | [GitHub](https://t.me/popCLOUDS/13521) | `android, shizuku, 5g, utilities` |
+| **AttendSmartly** | AttendSmartly is a clean, open-source Android app that helps students effo… | [GitHub](https://github.com/agupta07505/AttendSmartly) | `Android, attendence, student, productivity` |
+| **Just A Link** | Just A Link is a serverless, zero-database "Link-in-bio". User profiles (n… | [GitHub](https://github.com/jaival-11/justalink) | `Website, Portfolio` |
+| **Smooth Optimizer** | Optimizes your Android device for smoother scrolling and animations. | [GitHub](https://github.com/NoneBaiano/SmoothOptimizer) | `Android, Root, Modules` |
+| **Clipsync** | ClipSync is a fast, open-source clipboard synchronization app that lets yo… | [GitHub](https://github.com/WinShell-Bhanu/Clipsync) | `macos, android, clipboard` |
+| **Aerial** | A simple, private, and open-source internet radio app that lets you explor… | [GitHub](https://github.com/shapeshed/aerial) | `Android, Radio, Music, Material3Expressive` |
+| **Root My Galaxy** | Root My Galaxy is a lightweight utility that enables temporary, exploit-ba… | [GitHub](https://github.com/BuSung-dev/Root-My-Galaxy) | `Samsung, Root, Tools` |
+| **Omniget** | OmniGet is an open-source, all-in-one desktop application for downloading,… | [GitHub](https://github.com/tonhowtf/omniget) | `Windows, Linux, Mac, DownloadManager, MediaDownloader, Study` |
+| **Vox Music** | Vox Music isn't just an offline music player—it's a nostalgic trip back to… | [GitHub](https://github.com/SachinXpert/VoxMusic) | `Android, Music, Player` |
+| **Revanced & Morphe Builder** | ReVanced & Morphe Builder is an automated build system for creating the la… | [GitHub](https://github.com/nullcpy/rvb) | `apps, web, android, revanced, morphe` |
+| **SpatialFlow** | SpatialFlow delivers a next-generation music experience on Android, blendi… | [GitHub](https://github.com/MythicalSHUB/SpatialFlow) | `android, ytMusicClient, SpatialFlow` |
+| **DeepDoze-Enforcer** | DeepDoze Enforcer is a lightweight Magisk/KernelSU module that instantly f… | [GitHub](https://github.com/Azyrn/DeepDoze-Enforcer) | `android, root, magisk, ksu, doze, BatterySaver` |
+| **Clash Dev Analyser** | A deterministic engine to analyze GitHub developers and repositories in re… | [GitHub](https://github.com/ajisth69/dev-analyzer) | `Website, GitHub, Analyser, DevProfileChecker` |
+| **meron** | Meron is a modern, open-source mail and RSS client that combines IMAP/SMTP… | [GitHub](https://github.com/nonbili/meron) | `android, windows, ios, linux, msStore, iosAppStore, SnapStore` |
+| **VaultExplorer** | VaultExplorer lets you mount, browse, and manage VeraCrypt and LUKS encryp… | [GitHub](https://github.com/R0b0To/VaultExplorer) | `android, veracrypt, luks, decrypt, fuckyouMadarcod` |
+| **DekuSMS-Android** | Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations | [GitHub](https://github.com/dekusms/DekuSMS-Android) | `Android, SMS` |
+| **Pearpass** | PearPass is an open-source, privacy-first password and identity manager th… | [GitHub](https://github.com/tetherto/pearpass-app-mobile) | `ios, android, PaaswordManager, pearpass, FuckNiggerisPaasword` |
+| **Tsuzuku** | A private, offline-first Android habit tracker, focus timer, and minimal l… | [GitHub](https://github.com/agupta07505/Tsuzuku) | `Android, Productivity, Launcher, NiggaSax` |
+| **Spotui** | Spotui is an Android Spotify clone built with Jetpack Compose that connect… | [GitHub](https://github.com/Spotui/Spotui) | `Android, Spotify, Client` |
+| **Spectre** | Spectre is an Android app for observing and interacting with the wireless… | [GitHub](https://t.me/popCLOUDS/13309) | `Android, Foss, Tools, Utilities, Sensors, DeviceScanners` |
+| **SmartIsland** | Smart Island is a modern, open-source implementation of Android's Dynamic… | [GitHub](https://github.com/agupta07505/SmartIsland) | `Android, Customization, DynamicIsland` |
+| **Clashdrive** | Clashdrive is an open-source Telegram-based cloud platform featuring paral… | [GitHub](https://github.com/ajisth69/Clashdrive) | `Website, Telegram, TGClient, Privacy, Storage, Tools, Utilitied` |
+| **Axis** | Axis is an open-source desktop application built with HTML, CSS, JavaScrip… | [GitHub](https://github.com/PR0Gorib/Axis) | `Linux, Windows, Tools` |
+| **Arrow Escape** | Arrow Escape is a grid-based puzzle game where players slide arrows out of… | [GitHub](https://github.com/gtxPrime/arrow-escape) | `android, game` |
+| **HoldSpace** | HoldSpace is a lightweight, zero-distraction shortcut launcher for Windows… | [GitHub](https://github.com/anuroopkdas/HoldSpace) | `Windows, Utilities` |
+| **ReFra** | ReFra is a modern, open-source Android gallery app built with Jetpack Comp… | [GitHub](https://github.com/IacobIonut01/ReFra) | `android, gallery, chut` |
+| **GitSwitch** | GitSwitch is a fast, lightweight desktop application built with Tauri and… | [GitHub](https://github.com/iput-object/GitSwitch) | `Git, Client, Linux, Windows, MacOS` |
+| **Kill My Apps** | Kill My Apps is a lightweight utility designed to terminate background pro… | [GitHub](https://github.com/dedeadend/KillMyApps) | `Android, Hibernator, Root, Shizuku` |
+| **dmt** | A beautiful, privacy-friendly offline music player with smart library mana… | [GitHub](https://t.me/dmtpanda) | `android, musicplayer, offline, dmt, FuckNigger` |
+| **Puzzle** | The ultimate collection of puzzle challenge games available for Android ,… | [GitHub](https://github.com/sidhant947/Puzzle) | `android, mac, windows, linux, web, puzzle, games` |
+| **Shevery** | A modernized fork of Shizuku Manager with a Jetpack Compose + Material 3 E… | [GitHub](https://github.com/HmnDev-Tech/shevery) | `Android, ADB, Root, Tools` |
+| **Screen-Recorder** | A pristine OneUI-style screen recorder with mic and internal audio toggles. | [GitHub](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder) | `android, screenrecorder, scamsung, BijliVibhagKiMakichut` |
+| **SmokingYou** | A clean and open-source Android app designed to help you quit smoking by t… | [GitHub](https://github.com/mem2sp/SmokingYou) | `MaterialYou, Health, QuitSmoking, Wellness` |
+| **screen-x** | ScreenX is a modern, high-performance screen recording utility built for A… | [GitHub](https://github.com/gtxPrime/screen-x) | `android, screenrecorder` |
+| **IStanPdf** | IStanPdf is an offline Android utility for PDF and DOCX operations. There… | [GitHub](https://github.com/vasuki-re/IStanPdf) | `android, pdf, imageToPdf, PdfToimage, chut` |
+| **Solipsism** | Rail-first Android browser with Material 3 Expressive UI, privacy tools, D… | [GitHub](https://github.com/Kenneth-Cho-InfoSec/Solipsism) | `android, browser, Solipsism, touchniggers` |
+| **ctxline-claude** | A lightweight, zero-config statusline for Claude Code.Monitor context usag… | [GitHub](https://github.com/MithunWijayasiri/ctxline-claude) | `web, cLaude, cLaudecode, statusline, TelegramUnbannedinIndia` |
+| **MediaGrab** | Free, open-source media downloader for Android. Grab images, video, and au… | [GitHub](https://github.com/omersusin/MediaGrab) | `Android, Downloader` |
+| **Ever Haptics** | Ever Haptics is an Android app that adds haptic feedback across apps and s… | [GitHub](https://t.me/EverlastingAndroidTweak) | `Android, Haptics, Tools, Utilities, Foss, CallRecorder` |
+| **GitAtlas** | GitAtlas is a fluid Liquid Glass GitHub client featuring smart recommendat… | [GitHub](https://github.com/Koustubh12345/GitAtlas) | `Android, Github, Client` |
+| **TenSei Upscale** | A sleek, intuitive Android application for upscaling and enhancing image q… | [GitHub](https://github.com/Koustubh12345/TenSei-Upscale-image) | `Android, Tools, Upscale` |
+| **odysseus** | A self-hosted AI workspace -- meant to be the self-hosted version of the U… | [GitHub](https://github.com/pewdiepie-archdaemon/odysseus) | `quick, windows, mac, linux, odysseus, gayniggers` |
+| **dotzlauncherPRO** | Dotz Launcher Pro is a sleek and minimalist Android launcher featuring a u… | [GitHub](https://github.com/amalsnair535/dotzlauncherPRO) | `android, launcher, dotzlauncerPro, NiggaLauncher` |
+| **Council of High Intelligence** | Simulate a network of expert agents representing different philosophies an… | [GitHub](https://github.com/0xNyk/council-of-high-intelligence) | `installation, AI, Skills, ClaudeCode, Codex` |
+| **Flow** | Flow is a YouTube client built with Jetpack Compose and Material 3. | [GitHub](https://github.com/A-EDev/Flow) | `android, youtube, client, flow, innertube, ytClient` |
+| **Metiq** | A lightweight and privacy-friendly noise app designed to help you focus, s… | [GitHub](https://github.com/metiq-xyz/android-app) | `Android, Sleep, Focus, Study, Relaxation` |
+| **NewPipe Material** | NewPipe Material is a Youtube Client which keeps the core NewPipe experien… | [GitHub](https://github.com/wizdom13/NewPipe_Material) | `Android, YouTube, NewPipe, Player` |
+| **QuaX** | QuaX is a cleaner, calmer way to browse X, built around control, privacy,… | [GitHub](https://github.com/Teskann/QuaX) | `Android, X, Client, Social` |
+| **BatSlop** | BatSlop is a tiny joke browser extension for people tired of the endless “… | [GitHub](https://github.com/2001db8/BatSlop) | `Extension` |
+| **Clashgram** | Clashgram is a highly optimized, privacy-focused hybrid web and native cli… | [GitHub](https://github.com/ajisth69/clashgram) | `Web, Desktop, Telegr, Client` |
+| **Notekar** | NoteKar is a privacy-first timestamp logger for capturing moments instantl… | [GitHub](https://t.me/popCLOUDS/12919) | `Android, Productivity, Notes` |
+| **OmniTools** | A privacy‑first web toolbox for everyday tasks images, PDFs, video, text,… | [GitHub](https://github.com/iib0011/omni-tools) | `SelfHosted, WebTools, Docker` |
+| **Linksi** | A Material 3 Android app to save, organize, and rediscover links. Appears… | [GitHub](https://github.com/AsukaAzure/Linksi) | `Android, Productivity` |
+| **I gave up. Deepseek is absolute shit about coding. I even did an AI job. I researched, guided and gave it everything that needed but it feels like it's making mistakes intentionally. Because for example it fixes the current issue in the first commit, then it breaks it in the second commit. You'll probably say it's hallucinating but nope.** | If anyone is interested in this project and wants it, let me know. And I'l… | [GitHub](https://github.com/omersusin/CrossStick) | `—` |
+| **Beam** | Beam is a lightweight battery monitor. It pins a live power, current, volt… | [GitHub](https://github.com/montafra/beam) | `Android, Battery, Monitor, Charge` |
+| **Code On The Go** | Build Android apps on Android phones, without needing a PC or Internet acc… | [GitHub](https://github.com/appdevforall/CodeOnTheGo) | `Android, IDE, App, Development, Coding` |
+| **OpenScholarXIV** | OpenScholarXIV is an open-source, aesthetic, minimal and AI powered app th… | [GitHub](https://github.com/ScholarXIV/OpenScholarXIV) | `Android, Education` |
+| **Muxcard** | Muxcard is a fully working computer that is literally the size of a credit… | [GitHub](https://github.com/krauseler/muxcard) | `—` |
+| **WhatsWrap** | Wrap for your WhatsApp chats — get cool, fun stats and insights from your… | [GitHub](https://github.com/gtxPrime/whats-wrap) | `WhatsWrap, ChatAnalytics, OpenSourceProject, DataVisualization, WhatsAppStats` |
+| **NFile** | NFile is designed to provide a highly aesthetic file management experience… | [GitHub](https://t.me/popCLOUDS/12835) | `Android, Files, FileManager, Tools, Utilities` |
+| **WHPH - Work Hard Play Hard** | WHPH is a comprehensive productivity app offering a unified experience to… | [GitHub](https://whph.ahmetcetinkaya.me) | `Android, Productivity, HabitTracker, TaskManager` |
+| **Hortay** | A Twitter-style reader for Telegram channels. Read your subscribed channel… | [GitHub](https://github.com/LyoSU/hortay-android) | `Android, Reader, Telegram` |
+| **muzik-Player** | Muzik Player is a UI/UX exploration project focused on delivering a premiu… | [GitHub](https://github.com/rajsriv/muzik-Player) | `Android, MusicPlayer, OfflinePlayer, localFirst` |
+| **openclaw-android** | Run OpenClaw on Android with a single command — no proot, no Linux | [GitHub](https://github.com/AidanPark/openclaw-android) | `AI, Android, homelab, Openclaw` |
+| **Reality** | A free and open-source productivity OS that combines AI-driven daily plann… | [GitHub](https://github.com/pawanwashudev-official/Reality) | `android, productivity, Reality` |
+| **looper** | Advance music player for the linux and android with lyrics support for off… | [GitHub](https://github.com/SthrNilshaaa/looper) | `android, linux, looper, music, offline` |
+| **Wallhavend** | A clean and lightweight Android application that automatically changes you… | [GitHub](https://github.com/Attacktive/Wallhavend-android) | `Android, Wallpapers, Wallhaven` |
+| **Sparkle** | Open-Source tool to optimize Windows and boost gaming performance | [GitHub](https://github.com/thedogecraft/sparkle) | `Windows, Tools, Tweak` |
+| **HydroTracker** | Stay hydrated with HydroTracker, a beautifully crafted open-source water t… | [GitHub](https://github.com/dev778g-me/HydroTracker) | `Android, MaterialYou, Hydration, Health, Tracker` |
+| **Equalizer314**:** | Equalizer314 is a free, open-source, system-wide parametric equalizer and… | [GitHub](https://github.com/bearinmindcat/Equalizer314) | `android, equalizer, Equalizer314` |
+| **pauseCat** | Increase productivity with paws-itive breaks | [GitHub](https://github.com/0xarchit/pauseCat) | `windows, productivity, break, pauseCat` |
+| **Deutsia Radio** | Privacy-focused radio player supporting clearnet, Tor, and I2P networks | [GitHub](https://github.com/deutsia/deutsia-radio) | `Android` |
+| **ShutApp** | ShutApp lets you control your Windows and Linux computers from your Androi… | [GitHub](https://github.com/S2009-dev/ShutApp) | `Android, Utilities` |
+| **Nextup Resource** | Nextup Resources puts 50+ courses, 700+ FOSS Android apps, AI tools, ebook… | [GitHub](https://github.com/shreyagarwal72/nextup-resource) | `Website, Learning, Tools, Android, AI, Resources, Courses, Free` |
+| **U**niversal Installer** | A modern Android app for installing and managing APK packages with split A… | [GitHub](https://github.com/pass-with-high-score/universal-installer) | `android, installer, package, shizuku` |
+| **Safe Haven** | SafeHaven is an Android app store that is focused on trust, source visibil… | [GitHub](https://github.com/phsycologicalFudge/SafeHaven-Store) | `Android, Tools, Utilities, AppStore, GithubStore, Store` |
+| **Secure OTP** | A smart, battery-efficient Android utility app built with Kotlin that auto… | [GitHub](https://github.com/26JATIN/SecureOTP) | `Android, Tools, Utilities, OTPExtractor, OTP` |
+| **Vyxel Apps** | The GitHub-powered Android app store. Discover, install, and update Androi… | [GitHub](https://t.me/popCLOUDS/12589) | `Android, Tools, Utilities, AppStore, GitHub, GitHubAppStore` |
+| **Secure Screen** | SecureScreen is a **__NO ROOT__**  Kotlin Android app that prevents screen… | [GitHub](https://github.com/adikul1023/SecureScreen) | `Android, Security, ScreenshotBlocker, Privacy` |
+| **Med** | Med helps you keep track of your medicines and medical history with ease.… | [GitHub](https://github.com/FeDeveloper95/Med) | `Health, Tracker` |
+| **cux** | Claude account switcher for uninterrupted sessions. Run multiple Claude Co… | [GitHub](http://cux.inulute.com) | `AI, Tools` |
+| **Colota** | Colota sends your location to your own server over HTTP(S). It works offli… | [GitHub](https://github.com/dietrichmax/colota) | `Android, GPS, Tracking, Tracker` |
+| **Stash** | Your Spotify + YouTube Music library & daily mixes, offline in lossless FL… | [GitHub](https://github.com/rawnaldclark/Stash) | `android, flac, hi, lossless, material3, music` |
+| **CustomAnimator** | Change DPI and Animation Speeds easily without digging you developer optio… | [GitHub](https://github.com/AhmetCanArslan/CustomAnimator) | `DPIChanger, AnimationTweaks` |
+| **Expensy** | Expensy is a clean, fast, and fully offline expense manager built with Flu… | [GitHub](https://github.com/mina-android/Expensy) | `android, expenses` |
+| **OnionMedia** | Open-Source Mediaconverter and -downloader | [GitHub](https://github.com/onionware-github/OnionMedia) | `Converter, Downloaer, tool, windows, Foss` |
+| **brat Sticker Bot** | With that bot, you can create brat stickers with /b command. | [GitHub](https://github.com/mamiiblt/tg-brat-bot) | `Bot, Fun` |
+| **Zenith** | A clean and modern digital wellbeing application built with Material Desig… | [GitHub](https://github.com/1372Slash/Zenith) | `FOSS, MaterialYou, DigitalWellbeing, Productivity` |
+| **LCLD** | LCLD is a lightweight, open-source Android utility designed for remote dev… | [GitHub](https://github.com/pawanwashudev-official/LCLD) | `android, LCLD` |
+| **Privacium** | A simple app for discovering tools that respects your privacy. | [GitHub](https://github.com/kaleedtc/Privacium) | `android, open, privacy, privacium` |
+| **Grafyx** | Grafyx is a high-performance, CLI-driven code knowledge graph tool designe… | [GitHub](https://github.com/0xarchit/grafyx) | `Windows, Linux, MacOS, Tools, Utilities` |
+| **Skreenup** | Skreenup is a minimal app that wraps your screenshots in beautiful device… | [GitHub](https://github.com/Pankaj-Meharchandani/Skreenup) | `android, skreenup` |
+| **ferrot** | A clean and minimal downloader for video and audio on Android. | [GitHub](https://github.com/strigate/ferrot) | `android, video, ferrot` |
+| **RateFlip** | RateFlip is a minimal currency converter for Android built with React Nati… | [GitHub](https://github.com/MithunWijayasiri/RateFlip) | `android, rateflip` |
+| **AniZen** | a solo-built anime and movie application for Android. While based on the A… | [GitHub](https://github.com/salmanbappi/AniZen) | `Anime, Movie, Stream, Android, Foss` |
+| **DSB Material** | Material You alternative to the DSB Mobile app. | [GitHub](https://github.com/WollyDev24/DSB_Material) | `android, dsb, school` |
+| **Kagi** | 🔑 A Fast Minimal and Secure Local Password Manager. | [GitHub](https://github.com/koiverse/Kagi) | `windows, linux, macos, kagi, paasword, local` |
+| **ObtainiumPlus** | AI-assisted development fork of Obtainium with extra features. | [GitHub](https://github.com/thejaustin/ObtainiumPlus) | `android, ObtainuimPlus` |
+| **Dynamic** **SideBar** | Dynamic SideBar is a premium productivity tool designed for Windows 11. It… | [GitHub](https://github.com/rajsriv/Dynamic-sideBar-for-windows) | `windows, customisation, productivity, DynamicSideBar` |
+| **Better Nothing Music Visualizer** | A powerful upgrade for Nothing Phone users that transforms the Glyph Inter… | [GitHub](https://github.com/Aleks-Levet/better-nothing-music-visualizer) | `NothingOS, Glyph, Visualizer, Android, FOSS` |
+| **Smart-Edge** | Smart Edge is an open-source Android control center with a smooth, customi… | [GitHub](https://github.com/Imtiaz-Official/Smart-Edge) | `Android, Utilities` |
+| **trudido** | Simple tasks. Secure notes. Made in Europe. | [GitHub](https://github.com/dominikmuellr/trudido) | `android, flutter, Notes, Todo` |
+| **Everlasting Android Tweak** | Everlasting Android Tweak is the true heart of Android, powerful, feature… | — | `Android, Tools, Utilities, Tweaks, Tuner` |
+| **Cashiro** | Cashiro is a comprehensive financial tracking manager that Turn bank SMS a… | [GitHub](https://github.com/ritesh-kanwar/Cashiro) | `android, budget, expense, material3, local` |
+| **BarraCUDA** | Open-source CUDA compiler targeting multiple GPU architectures. Compiles .… | [GitHub](https://github.com/Zaneham/BarraCUDA) | `NVIDIA, CUDA, GPU` |
+| **MiroFish** | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. | [GitHub](https://github.com/666ghj/MiroFish) | `AI, Financial_forecasting, Future_prediction, Public_opinion_analysis, Social_prediction, Swarm_intelligence` |
+| **LastWave** | A lastfm playlist generator, | [GitHub](https://github.com/AmanRajAryan/LastWave) | `Android, Music, lastfm` |
+| **Revision-Master** | Revision Master - A smart, offline-first study app with AI-generated flash… | [GitHub](https://github.com/mkr-infinity/Revision-Master) | `ai, aistudy, revision, study, android` |
+| **Dynamic Island For Windows:** | A sleek, fluid, and highly customizable Dynamic Island for Windows built w… | [GitHub](https://github.com/rajsriv/dynamic-island-for-windows) | `windows, dynamic` |
+| **I'm  also vibe coding an app that converts Spotify listens to LastFM scrobbles. Imagine you're using Spotify for 5 years, and today you meet LastFM, then you want or wish to convert your Spotify listen records to scrobbles. This app doing that.  Repo link is here but I'm still working on it and haven't built it/used it yet because I'm getting errors; https://github.com/omersusin/Sprobbler** | — | [GitHub](https://github.com/omersusin/Sprobbler) | `—` |
+| **SyrianSegoe** | A Next-Gen Windows System Font Setting Tool | [GitHub](https://github.com/SyrianTurk/Syriansegoe) | `Windows, Segoe, font, Microsoft` |
+| **BatteryRecorder** | Battery Recorder is a lightweight Android tool that records and tracks you… | [GitHub](https://t.me/popCLOUDS/12251) | `Android, Tools, Utilities, Battery, UsageTracker` |
+| **Comfer** | Transform your Android experience with Comfer, the ultimate minimalist And… | [GitHub](https://t.me/popCLOUDS/12246) | `Android, Tools, Utilities, Launcher, customisation` |
+| **Volume Scroll** | Volume scroll is an app that allows you to scroll through content using th… | [GitHub](https://t.me/popCLOUDS/12240) | `Android, Foss, Tools, Utilities, Scroll` |
+| **M3 Play** | M3 Play is a feature-packed Android music player built for speed, customiz… | [GitHub](https://t.me/M3Play_updates) | `Android, Music` |
+| **kite** | A Modern Video & Audio Downloader for Android | [GitHub](https://github.com/zenzer0s/kite) | `Android, Media_downloader` |
+| **June** | 📖 An open-source multimedia life capsule for expressive, private journalin… | [GitHub](https://github.com/DenserMeerkat/June) | `android, journal, dairy` |
+| **Lectro** | A modern, jetpack based Android app to manage your class schedule, track a… | [GitHub](https://github.com/Pankaj-Meharchandani/Lectro) | `Lectro, Productivity, Android, OpenSource` |
+| **32steps** | Override Android's default volume steps with custom step counts. Includes… | [GitHub](https://github.com/nulldio/32steps) | `Android, Music, Equalizer` |
+| **klyx** | Klyx is a lightweight, high-performance code editor for Android. | [GitHub](https://github.com/klyx-dev/klyx) | `android, blueprints, editor, material, compose, kotlin` |
+| **Rivo Phone** | Rivo is a Google dialer like UI which is Foss, modern, feature-rich dialer… | [GitHub](https://t.me/popCLOUDS/12141) | `Android, Foss, Dialer, Phone, Caller` |
+| **Calc-OS** | A feature-packed, Material Design 3 Calculator OS for Android. Includes St… | [GitHub](https://github.com/hyboxteam/Calc-OS) | `android, calculator` |
+| **YoukiDex** | YoukiDEX is an Android application that provides a full desktop-like exper… | [GitHub](https://t.me/popCLOUDS/12124) | `Android, Foss, Tools, Utilities, Desktop, Taskbar, DesktopMode` |
+| **Pokédex:** | React native application that utilizes the Pokeapi | [GitHub](https://github.com/INCENDIOCODM/Pokedex) | `android, pokédex, pokemon` |
+| **AuraNinja — Ambient Sound & Focus Studio** | A powerful ambient sound and focus app that lets you mix nature sounds, bi… | [GitHub](https://t.me/popCLOUDS/12094) | `Android, FOSS, Ambient, Focus` |
+| **Click Switch – Focus & Reaction Training Game** | A minimal reflex-based game where you must follow the text instead of the… | [GitHub](https://t.me/popCLOUDS/12084) | `Android, Game, FOSS, OfflineGame` |
+| **It's been a while since we've had a giveaway!** Today, in about an hour, we'll be giving away **three Icon Packs = 90 Promo Codes**. Check it out! After the timer runs out, the promo codes will appear on the website!** | **Get a promo code:** https://pashapumadesign.com/#t=giveaway | [GitHub](https://pashapumadesign.com/#t=giveaway) | `t` |
+| **KnoxPatch** | LSPosed module to get Samsung apps/features working again in your rooted G… | [GitHub](https://telegra.ph/Supported-apps-03-25) | `Android, magisk, xposed` |
+| **Podium — Modern Podcast Experience** | A clean and modern open-source podcast app built with Kotlin and Jetpack C… | [GitHub](https://t.me/popCLOUDS/12063) | `Android, FOSS, OpenSource, MaterialYou, PodcastApp` |
+| **TimeFlow — Minimal Progress Tracking App** | A clean and modern Android app designed to help you track your daily progr… | [GitHub](https://t.me/popCLOUDS/12054) | `AndroidApps, FOSS, OpenSource, Productivity, TimeManagement` |
+| **Dithra** | Android application that allows you to apply dithering effects to your ima… | [GitHub](https://github.com/IlasDev/Dithra) | `Android, Photo_Editor` |
+| **HumanCrop** | High-performance desktop app designed for the automated batch processing o… | [GitHub](https://github.com/roymejia2217/HumanCrop) | `Windows, image, photo` |
+| **KKND** | a lightweight Android application that checks whether a device may be root… | [GitHub](https://github.com/juanma0511/Kknd_Root_Detector) | `root, android, kotlin` |
+| **Rush** | ​Search, time-sync, and save song lyrics locally for offline access. | [GitHub](https://github.com/shub39/Rush) | `android, Lyrics, Rush` |
+| **LeanType — AI Keyboard with Privacy Focus** | LeanType is a powerful open-source Android keyboard that combines privacy… | [GitHub](https://t.me/popCLOUDS/11989) | `Android, FOSS, Keyboard, AI, Productivity` |
+| **ReDD Focus — Reduce Digital Distractions** | ReDD Focus is a unique Android accessibility tool designed to make distrac… | [GitHub](https://t.me/popCLOUDS/11982) | `Android, Productivity, Focus, DigitalWellbeing, FOSS, OpenSource` |
+| **BeeProtego** | a lightweight cybersecurity toolkit designed for malware scanning, threat… | [GitHub](https://t.me/popCLOUDS/11966) | `Security, Windows, Cyber` |
+| **Kalenget** | A minimal and elegant Android calendar widget that lets you quickly check… | [GitHub](https://t.me/popCLOUDS/11964) | `Android, Widget, Productivity` |
+| **Offline Translator** | A translator app that performs on-device translation of text and images wi… | [GitHub](https://t.me/popCLOUDS/11958) | `Android, Productivity, Translator` |
+| **Episteme Reader** | Episteme Reader is an offline-first, privacy-focused document and e-book r… | [GitHub](https://github.com/Aryan-Raj3112/episteme) | `Android, Reader` |
+| **SwiftSlate** | System-wide AI text assistant for Android — powered by Gemini and custom p… | [GitHub](https://github.com/Musheer360/SwiftSlate) | `Android, Ai, Gemini` |
+| **RuView** | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human… | [GitHub](https://github.com/ruvnet/RuView) | `Wifi, Security, Scan, Windows, MAC` |
+| **Material Notes** | A simple, private, and local note-taking app that brings the Material Desi… | [GitHub](https://github.com/maelchiotti/LocalMaterialNotes) | `Android, Productivity` |
+| **Fake call** | Fake call is an app which simulates fake calls, works with any dialer app… | [GitHub](https://github.com/DDOneApps/FakeCall) | `Android, FakeCaller, Tools, Dialer` |
+| **StellarDrift** | An endless space survival game — made entirely by AI, coded in pure Java +… | [GitHub](https://github.com/omersusin/StellarDrift) | `Android, Game` |
+| **ZKM** | Zuan Kernel Manager App For  Root Device Android With Material 3 Expressiv… | [GitHub](https://github.com/ZUANVFX01/ZKM) | `Android, KernelManager, Zkm` |
+| **BlockAds** | Block ads system-wide on Android using local VPN-based DNS filtering. No r… | [GitHub](https://github.com/pass-with-high-score/blockads-android) | `Android, AdBlock` |
+| **Handboard** | An accessibility-focused Android keyboard designed for people who use thei… | [GitHub](https://github.com/omersusin/Handboard) | `Android, Keyboard, Accessibility` |
+| **Just keep in mind that I'm vibe coding just because I'm bored and I have nothing to do. The source is open anyway, so you can contribute to it: https://github.com/omersusin/Blinker** | Current APK: https://t.me/popmodschat/787166 | [GitHub](https://github.com/omersusin/Blinker) | `—` |
+| **ClassiPod** | A local music player app designed to capture the essence of the iPod Class… | [GitHub](https://t.me/popCLOUDS/11821) | `Android, MusicPlayer, OfflinePlayer` |
+| **StorageFixer** | Fixes Android 16 QPR1+ storage permission bugs on AOSP-based ROMs. | [GitHub](https://github.com/omersusin/StorageFixer) | `Android, Root, Xposed, Tools` |
+| **SecureFolderFS** | Powerful, secure, modern way to keep your files protected. | [GitHub](https://github.com/securefolderfs-community/SecureFolderFS) | `Windows, FileManager` |
+| **Wa Incognito** | WAIncognito is an extension for WhatsApp Web that focuses on privacy and c… | [GitHub](https://github.com/tomer8007/whatsapp-web-incognito) | `Extension, WhatsApp, Foss, Chrome` |
+| **Lossless Cut** | LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremel… | [GitHub](https://github.com/mifi/lossless-cut) | `Video, Editor, Windows, Linux, MacOS` |
+| **New-WEB** | A privacy-focused, premium Chrome Extension (Manifest V3) that replaces th… | [GitHub](https://github.com/Hayagriva0/New-WEB) | `Extension, Firefox, Chrome, Edge, Newtab` |
+| **Browser Data Migrator** | Browser Data Migrator is a powerful open-source tool designed for power us… | [GitHub](https://github.com/omersusin/FirefoxTransfer) | `Android, Tools, Root, Migration` |
+| **SlipNet** | Android VPN client with DNS tunneling (DNSTT & Slipstream), NaiveProxy, SS… | [GitHub](https://github.com/anonvector/SlipNet) | `Android, Network, DNS, VPN` |
+| **D**ynamic Music Pill** | A dynamic, elegant, and highly customizable music widget for GNOME Shell.… | [GitHub](https://t.me/popCLOUDS/11694) | `Linux, Widget, Customisation` |
+| **CopyCat-Clipboard** | Copycat Clipboard is an intuitive clipboard manager designed to enhance yo… | [GitHub](https://github.com/raj457036/CopyCat-Clipboard) | `Utilities, Android, Linux, MacOS, Windows` |
+| **Updatium** | Updatium helps you to install apps and update them directly from their rel… | [GitHub](https://github.com/omeritzics/Updatium) | `Android, Utilities, ApkInstaller, GitHubTracker` |
+| **Blue Light Filter** | A module to protect your eyes from harmful blue light directly at the disp… | [GitHub](https://github.com/NoneBaiano/BlueLightFIlter) | `Android, Root, Modules` |
+| **Nullclaw** | Fastest, smallest, and fully autonomous AI assistant infrastructure writte… | [GitHub](https://github.com/nullclaw/nullclaw) | `AI, AI_assistant` |
+| **Extension Box** | An open-source, modular system monitoring app for Android. Track battery h… | [GitHub](https://github.com/omersusin/ExtensionBox) | `current, Android, Utilities` |
+| **Molly** | Enhanced and security-focused fork of Signal with Material You for Android | [GitHub](https://github.com/mollyim/mollyim-android) | `android, signal, materialyou` |
+| **PaperKnife** | Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compre… | [GitHub](https://t.me/popCLOUDS/11567) | `Android, Web, PDF` |
+| **LinOffice** | LinOffice lets you run Microslop Office on Linux by automatically installi… | [GitHub](https://github.com/eylenburg/linoffice) | `Linux, Office` |
+| **apkgit** | A Material 3 client to update apps from GitHub | [GitHub](https://github.com/Andrey4ik21pro1/apkgit) | `Android, Updater, Github` |
+| **Telephoto** | A lightweight, privacy-first alternative to Google Photos — powered by Tel… | [GitHub](https://github.com/ASRumon/Telephoto) | `Android, Bot, Storage` |
+| **Astronia** | Astronia is a lightweight and modern M3U8 video player for Android. | [GitHub](https://github.com/antoniegil/Astronia) | `Android, Player` |
+| **Material You Calculator** | An elegant, Android-native calculator and currency converter app, built wi… | [GitHub](https://github.com/metzger100/calculator) | `Android, MD3, Calculator` |
+| **ApkBu**ilder** | An Android development‑focused tool that lets you build and manage APK fil… | [GitHub](https://github.com/silvadev13/ApkBuilder) | `requirements, Android_Developement, Android, Termux` |
+| **Network Checker** | Network Checker — A curated set of network diagnostic and testing tools | [GitHub](https://github.com/mirarr-app/network-checker) | `Android, Windows, Linux, Network, Utilities` |
+| **Echo** | Time travelling audio recorder for Android. | [GitHub](https://github.com/mafik/echo) | `Android, Utilities` |
+| **ToolNeuron** | ToolNeuron is the most advanced offline-first AI assistant for Android, fe… | [GitHub](https://github.com/Siddhesh2377/ToolNeuron) | `features, Android, AI, Offline` |
+| **Kipty** | Android app that transcribes audio to help English learners follow podcast… | [GitHub](https://github.com/Vinnih-1/Kipty) | `Android, AI, Audio, Transcriber` |
+| **NothingXpert** | A small LSPosed/Xposed module that adds useful features to your Nothing Ph… | [GitHub](https://t.me/NothingXpert) | `Android, Nothing, Xposed, Modules` |
+| **yoink** | A simple, open-source media downloader powered by yt-dlp | [GitHub](https://github.com/coah80/yoink) | `Downloader, Website` |
+| **Sucrose** | Sucrose is a free and open-source wallpaper engine that lets you create an… | [GitHub](https://t.me/popCLOUDS/11431) | `Windows, Wallpaper, Customization, Engine` |
+| **MAList** | A simple project for local storage of your watchlist: movies, TV shows, an… | [GitHub](https://github.com/Phnem/MAList) | `Android, Local, Productivity, List` |
+| **🚨 Nvidia Accused of Using Pirated Books to Train Its AI Models** | Nvidia is being sued over claims that it knowingly used pirated books and… | [GitHub](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books) | `—` |
+| **LifeDots** | LifeDots transforms your home screen into a meaningful reminder of time's… | [GitHub](https://github.com/humonious17/LifeDots) | `Android, Customization` |
+| **SealPlus** | Your go-to Android app for downloading videos & audio from YouTube, Instag… | [GitHub](https://github.com/MaheshTechnicals/Sealplus) | `Android, Downloader, Ytdlp, Youtube` |
+| **We're giving away 150 promo codes for the TMPAD: Game Mode Booster app!** | We are giving away 150 promo codes for [TMPAD: Game Mode Booster](https://… | [GitHub](https://www.youtube.com/watch?v=1P4o2uKxpTA&utm_source=omer) | `708f2a223297` |
+| **Punch-hole Download Progress** | Xposed module that shows download progress as a ring around the camera cut… | [GitHub](https://github.com/hxreborn/punch-hole-download-progress) | `Android, Xposed, Modules, Customization` |
+| **librefind** | Discover and replace proprietary apps with FOSS alternatives | [GitHub](https://github.com/jksalcedo/librefind) | `Android, Utilities` |
+| **FaceDown** | Showcase repository for FaceDown: A sensor-based focus timer. Demonstratin… | [GitHub](https://github.com/arekbauer/FaceDown) | `Android, Productivity, Timer` |
+| **material-homepage** | A minimal, focused browser homepage and new tab | [GitHub](https://github.com/MrSIHAB/material-homepage) | `browser, homepage, MD3, newtab, Extension` |
+| **ADB D**evice Manager** | A powerful Windows+Android app for full Android device control through two… | [GitHub](https://github.com/Shrey113/Adb-Device-Manager-2) | `Android, Windows, ADB, Media` |
+| **Compressor** | Lightning fast, ad free, super lightweight native video compressor for And… | [GitHub](https://github.com/JoshAtticus/Compressor) | `Android, XVideos, Compressor, Utilities` |
+| **Scanly** | Scanly is a Fast document OCR scanner for Android | [GitHub](https://github.com/Azyrn/Scanly) | `Android, Documents, Scanner` |
+| **SoundCrowd** 🎵** | A free, open-source and lightweight music player for Android in modern mat… | [GitHub](https://t.me/popCLOUDS/11339) | `Android, Streaming, Music, Multimedia` |
+| **Pawgram** 📱** | Optimized Instagram Alpha fork built for smooth performance on Android dev… | [GitHub](https://github.com/helloskykoder/PawGram) | `Android, Instagram, Client` |
+| **WebToApp** | A native Android application that converts any website URL into a standalo… | [GitHub](https://t.me/popCLOUDS/11323) | `Android, AI, PWA, Tools` |
+| **docspace** | A simple, open-source Android app to keep your important files organized a… | [GitHub](https://t.me/fossclouds/296) | `Android, File, Manager, Privacy` |
+| **SkyStream** | SkyStream is a modern, cross-platform media streaming client inspired by C… | [GitHub](https://t.me/popCLOUDS/11312) | `Android, Media, Streaming` |
+| **TermuxHub** | Android application that indexes Termux tools using metadata. | [GitHub](https://github.com/maazm7d/TermuxHub) | `Android, Index, Learning` |
+| **TypeAssist** | TypeAssist is a powerful Android Accessibility Service that acts as an int… | [GitHub](https://t.me/popCLOUDS/11283) | `Android, AI, Productivity, Tools` |
+| **Varisankya** | Varisankya is a modern, high-performance Android application designed to h… | [GitHub](https://github.com/aarshps/varisankya-android) | `Android, Utilities` |
+| **Randwabot** | Clawdbot is a personal AI assistant you run on your own devices. It answer… | [GitHub](https://github.com/clawdbot/clawdbot) | `AI, Bot` |
+| **star** | star is the successor to the famous [Winlator](https://t.me/popMODS/3539)… | [GitHub](https://github.com/jacojayy/star) | `Android, Emulator` |
+| **ImageFlow** | This application is designed for converting videos into animated GIF and W… | [GitHub](https://github.com/GS90/ImageFlow) | `Linux, Utilities` |
+| **PAIOS** | Run Gemini Nano 100% offline. A powerful, private, & open-source AI interf… | [GitHub](https://t.me/popCLOUDS/11201) | `Android, AI, Local` |
+| **Google is working on a new Play Store feature called **“Try Before You Buy.”** With this system, users will be able to play premium (paid) games for a limited time without purchasing them first. This allows players to see whether they actually enjoy a game before spending money on it.** | According to early findings, the feature will be optional for developers a… | [GitHub](https://www.androidauthority.com/google-play-store-try-before-you-buy-apk-teardown-3630383) | `—` |
+| **Picarta AI** | Picarta AI is an image location search engine that utilizes Artificial Int… | — | `Website` |
+| **GitNote** | Android note app which integrate Git. You can use this app with other desk… | [GitHub](https://github.com/wiiznokes/gitnote) | `Android, Tools` |
+| **URBoard** | URBoard is a minimalist, beautiful, and highly customizable personal dashb… | [GitHub](https://t.me/urboardproject) | `Chrome, Extension, Customization` |
+| **ZenTree Tabs** | ZenTree Tabs is a modern Chrome Extension that organizes your tabs into a… | [GitHub](https://github.com/shuknuk/zentreeTabs) | `Chrome, Extension` |
+| **TabletQS** | Tablet UI style split QS-notification panel on mobile DPI | [GitHub](https://github.com/cybr47/TabletSplitQS) | `Android, XPosed, Modules` |
+| **aihub** | All-in-one Kotlin app that aggregates multiple AI assistants in a single t… | [GitHub](https://github.com/SilentCoderHere/aihub) | `Android, AI, Hub` |
+| **LightSession for ChatGPT** | Keep ChatGPT fast by keeping only the last N messages in the DOM. Local-on… | [GitHub](https://github.com/11me/light-session) | `Extension, Tools, AI` |
+| **Circle to Search** | CircleToSearch with multi search engine support for all android | [GitHub](https://github.com/AKS-Labs/CircleToSearch) | `Android, CTS, Search, Tools` |
+| **SpotiFLAC** | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no acco… | [GitHub](https://github.com/afkarxyz/SpotiFLAC) | `Linux, Windows, MacOS, Music, Downloader` |
+| **NothingLand** | NothingLand is a project that recreates a Dynamic Island–style interactive… | [GitHub](https://github.com/TheSerphh/NothingLand) | `Android, Dynamicİsland, Nothing` |
+| **Lyricify** | An advanced Android music tool that fetches accurate metadata and lyrics f… | [GitHub](https://t.me/popCLOUDS/11112) | `Android, Lyrics, Utilities` |
+| **Kaorios Toolbox** | Yet a great toolbox for SuperUsers | [GitHub](https://github.com/Wuang26/Kaorios-Toolbox) | `Android, Root, Shizuku, Tools` |
+| **city-roads** | city-roads is a browser-based mapping tool that draws every road in a sele… | [GitHub](https://github.com/anvaka/city-roads) | `Website, Utilities, Mapping` |
+| **Instagram CLI** | Instagram CLI is the world's first open-source command-line interface (CLI… | [GitHub](https://github.com/supreme-gg-gg/instagram-cli) | `typescript, idk` |
+| **zenshin.** | A poorly written web and electron based anime list manager with media stre… | [GitHub](https://m.youtube.com/watch?v=cpMpWohodUc) | `Windows, Linux, Web` |
+| **BoostX** | BoostX is a minimal yet powerful sound enhancement tool that allows users… | [GitHub](https://github.com/AumGupta/BoostX) | `Android, Tools` |
+| **Local Desktop** | Local Desktop is a free, open-source Android application that lets you run… | [GitHub](https://github.com/localdesktop/localdesktop) | `Android, Tools` |
+| **AppControlX** | A powerful Android application for controlling app behavior, battery optim… | [GitHub](https://github.com/risunCode/AppControl-X) | `Android, Root, Shizuku, Tools` |
+| **BatStats** | Detailed Stats will not show some of the stats (dependent on device). The… | [GitHub](https://github.com/mlm-games/BatStats) | `Android, Root, Shizuku, Tools` |
+| **Raise** | A Material You alarm app that aims to be impossible to ignore, using puzzl… | [GitHub](https://t.me/AJsStuff) | `Android, Clock` |
+| **0xDABmusic** | 0xDABmusic is a high-performance, native music player built with Go and Wa… | [GitHub](https://dab.0xarchit.is-a.dev) | `Linux, Windows, MacOS, Music` |
+| **SPOTIFY'S ENTIRE 300TB LIBRARY JUST GOT LEAKED!** | — | [GitHub](https://annas-archive.org/blog/backing-up-spotify.html) | `Spotify, AnnasArchive, Torrents, TechNews, DataHoarder` |
+| **App Group** | App Group lets you organize, customize, and launch your apps. Create group… | [GitHub](https://github.com/iandiv/AppGroup) | `Windows, Tools` |
+| **Self Attendance** | Self Attendance is a first-of-its-kind calendar-based attendance tracking… | [GitHub](https://github.com/xtractiion/self.attendance) | `Android, Productivity, attendance` |
+| **Sukko** | Open source KWGT alternative | [GitHub](https://github.com/sadellie/sukko) | `Android, Customization` |
+| **OpenScreen** | OpenScreen is a free, open‑source alternative to Screen Studio that lets y… | [GitHub](https://github.com/siddharthvaddem/openscreen) | `Utilities, Linux, Windows, MacOS` |
+| **Github Store** | Github Store is a cross‑platform “play store” for GitHub releases. It disc… | [GitHub](https://github.com/rainxchzed/Github-Store) | `Android, Store` |
+| **Hyper Bridge** | Hyper Bridge bridges standard Android notifications into the pill-shaped U… | [GitHub](https://github.com/D4vidDf/HyperBridge) | `Android, MIUI, HyperOS, Customization` |
+| **Dissent** | Dissent is a third-party Discord client designed for a smooth, native expe… | [GitHub](https://github.com/diamondburned/dissent) | `Social, Linux, Windows` |
+| **Game Hub** | Game Hub brings the simplicity of the classic OxygenOS 11 Game Space to mo… | [GitHub](https://github.com/FeDeveloper95/Game-Hub) | `Android, Tools` |
+| **Essentials** | Essentials is a collection of useful tools, tweaks, and enhancements desig… | [GitHub](https://t.me/tidwib) | `Android, Utilities` |
+| **Unblock Jam** | Classic game "Rush Hour" - private & open source. A private and open sourc… | [GitHub](https://github.com/vayun-mathur/unblock-jam) | `Android, Game` |
+| **CuteGIF** | CuteGIF is a simple and easy-to-use video to GIF tool for Android. | [GitHub](https://github.com/tasy5kg/CuteGIF) | `Android, Media, GIF, Tools` |
+| **Noisem** | Noisem allows you to edit your images in a fun way. It has LUTs of vintage… | [GitHub](https://github.com/mirarr-app/Noisem) | `Android, Media, Tools` |
+| **StoryPad** | StoryPad is a beautiful, privacy-first, open source journal & diary app de… | [GitHub](https://github.com/theachoem/storypad) | `Android, iOS, Productivity` |
+| **DroidRun** | 1DroidRun is a powerful framework for controlling Android and iOS devices… | [GitHub](https://github.com/droidrun/droidrun) | `Linux, MacOS, Windows, Automation, AI` |
+| **Momentum** | Android App to make montages easily | [GitHub](https://github.com/shub39/Momentum) | `Android, Media, Utilities` |
+| **Assistant Chooser** | Assistant Chooser allows users to easily set and manage their default assi… | [GitHub](https://github.com/Ayaanh001/Assistant-Chooser) | `Android, Utilities` |
+| **PlayTorrio** | PlayTorrio is an all-in-one media center application that brings together… | [GitHub](https://github.com/ayman707-ux/PlayTorrio) | `download, Inactive, Streaming, Linux, Windows, MacOS` |
+| **Misuzu Music** | A cross-platform local music player that supports automatic matching of ly… | [GitHub](https://github.com/MCDFsteve/MisuzuMusic) | `Player, Linux, Windows, MacOS` |
+| **Aniverse** | A anime streaming application built with Flutter. Streams anime content fr… | [GitHub](https://github.com/abhishekpeddada/aniverse) | `Anime, Android, Entertainment` |
+| **Prism** | Prism is a stunning, open-source weather app built with Flutter that bring… | [GitHub](https://t.me/billubuilder) | `Android, Weather` |
+| **Traffic Light** | Traffic Light is an open-source tool to track your network speed and data… | [GitHub](https://github.com/leekleak/traffic-light) | `Android, Network, Utilities` |
+| **OrionStore** | The ultimate home for modded apps. OrionStore offers instant access to You… | [GitHub](https://github.com/RookieEnough/Orion-Store) | `Android, Store, Mods` |
+| **Kelivo** | A Flutter LLM Chat Client | [GitHub](https://kelivo.psycheas.top) | `Android, iOS, AI` |
+| **CleanSweep** | CleanSweep is a powerful and private application for Android that helps yo… | [GitHub](https://github.com/loopotto/CleanSweep) | `Android, File, Cleaner, Manager` |
+| **BrowserOS** | BrowserOS is an open-source chromium fork that runs AI agents natively. Yo… | [GitHub](https://browseros.com) | `AI, Agent, Browser, Linux, MacOS, Windows` |
+| **Spot SponsorBlock** **(SponsorBlock for Spotify)** | Spot SponsorBlock is an open-source crowdsourced browser extension to skip… | [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) | `Extension, Music, Utilities` |
+| **PennyWise** | PennyWise is a modern expense management app that helps you track your inc… | [GitHub](https://t.me/fitx_updates) | `Android, Expense, Tracker, Linux, Tools` |
+| **AnghamiPlus** | AnghamiPlus is a sophisticated Xposed module that enhances your Anghami mu… | [GitHub](https://t.me/Kero309x_Chat) | `Android, Music, Xposed, LSPatch, Modules` |
+| **Summary Expressive** | A modern, BYOK and FOSS android app to summarize videos(YouTube, BiliBili)… | [GitHub](https://github.com/kid1412621/SummaryExpressive) | `Android, AI, Tools` |
+| **RepoHub** | RepoHub simplifies software installation on Linux, Windows, and macOS with… | [GitHub](https://github.com/yusufipk/RepoHub) | `Website, Windows, MacOS, Linux, Tools` |
+| **Language Dex** | Language Dex is a personal, customizable vocabulary trainer that lets you… | [GitHub](https://github.com/arthurcose/language-dex) | `Android, Learning, Language, Games` |
+| **Taison** | Taison is a personal fork of [Mihon](https://t.me/popMODS/4589), the open… | [GitHub](https://github.com/Gent8/Taison) | `Android, Reader, Manga` |
+| **Ubuntu Chroot Installer** 😀** | A comprehensive Android Linux environment featuring Ubuntu 24.04 with a bu… | [GitHub](https://github.com/ravindu644/Ubuntu-Chroot) | `Android, Root, Chroot` |
+| **Hey guys, Google's celebrating Play Points' 3rd Anniversary and giving away some cool gifts! only works in india but I haven't tested** | Here's my aka @rajarshikhatua link to join:  https://playpoints.withgoogle… | [GitHub](https://playpoints.withgoogle.com/perks/intl/en_in/events/google-play-points-third-anniversary/?invite-code=DBUFR2vQQVzBcCsq4LQMWB) | `—` |
+| **RecordMaster** | Material expressive Record app inspired by the Google Pixel Recorder app | [GitHub](https://github.com/PranshulGG/RecordMaster) | `Android, Utilities` |
+| **Masterkey** | MasterKey is a secure and private password manager that keeps all your sen… | [GitHub](https://github.com/PSHTeam/masterkey_core) | `Android, iOS, Security, Vault` |
+| **NerdSteam** | Discover trending games, player and price statistics, and detailed insight… | [GitHub](https://github.com/khanshoaib3/nerd-steam) | `Android, Steam` |
+| **Vanadium WebView & Browser Installer** | A Magisk/KernelSU module that changes the system WebView with Vanadium Web… | [GitHub](https://t.me/VanadiumGroup) | `Android, Root, Modules` |
+| **Paiesque** | Paiesque is an Android app that calculates your Personal Activity Intellig… | [GitHub](https://f-droid.org/packages/org.ojrandom.paiesque) | `Android, Health, Fitness, Privacy` |
+| **Awesome Nothing** | Awesome Nothing is a curated hub that indexes everything related to the No… | [GitHub](https://github.com/spike0en/awesome_nothing) | `Android, Nothing, CMF, İndex` |
+| **Furtive** | Privacy first. No accounts. No Google services. Full access to your GPS se… | [GitHub](https://github.com/ethicnology/furtive) | `Android, GPS, Tracking, Utilities` |
+| **mpvExtended** | mpvExtended is a front-end for the versatile media player mpv, built on th… | [GitHub](https://github.com/marlboro-advance/mpvEx) | `Android, Media, Player` |
+| **Sozo for AndroidTV** | Sozo is crafted with a perfect blend of simplicity and state-of-the-art el… | [GitHub](https://github.com/professorDeveloper/sozo-tv) | `Anime, Movie, AndroidTV` |
+| **ShizuWall** | A lightweight, privacy focused Android firewall application that blocks ne… | [GitHub](https://github.com/AhmetCanArslan/ShizuWall) | `Android, Shizuku, Network` |
+| **Public APIs** | Public APIs is a curated directory of free, open APIs for developers. It c… | [GitHub](https://github.com/public-apis/public-apis) | `Development` |
+| **Seeneva: smart comic reader** | Fully open source smart comic book reader with the ability to use OCR and… | [GitHub](https://github.com/Seeneva/seeneva-reader-android) | `Android, Comic, Reader` |
+| **Hacker AI** | Provides advanced AI and integrated tools to help security teams conduct c… | — | `AI, Website` |
+| **MovieBox Hooker (XPosed Module)** | MovieBox Hooker is an advanced Xposed Framework module built to unlock VIP… | [GitHub](https://github.com/Kero309x/MovieboxHooker) | `Android, Root, Xposed, Modules, Tools` |
+| **Coffre** | Coffre is a simple and intuitive Android application designed to help you… | [GitHub](https://github.com/N3Shemmy3/Coffre) | `Android, Utilities, Finance` |
+| **gotohp** | Unofficial Google Photos Desktop GUI Client. | [GitHub](https://github.com/xob0t/gotohp) | `requires, Media, Linux, MacOS` |
+| **OnePlus Archive** | OnePlus Archive is a firmware repository for OnePlus phones offering stock… | [GitHub](https://github.com/spike0en/oneplus_archive) | `Android, OnePlus, Firmware` |
+| **Glassy MaterialYou Icons** | Giveaway!** | [GitHub](https://t.me/popmodschat/725131) | `—` |
+| **AnyAPK** | __AnyAPK is a lightweight Android application installer that bypasses Goog… | [GitHub](https://github.com/sam1am/anyapk) | `Android, Utilities` |
+| **UndeadWallpaper** | UndeadWallpaper is a free, balls-to-the-wall Android app that brings your… | [GitHub](https://github.com/maocide/UndeadWallpaper) | `Android, Customization` |
+| **QuickBall** | A floating ball that provides quick access to system functions like volume… | [GitHub](https://github.com/chayanforyou/QuickBall) | `Android, Utilities` |
+| **Chitralaya** | __ | [GitHub](https://github.com/AKS-Labs/CloudGallery) | `Cloud, Android` |
+| **WinBoat** | WinBoat is a simple tool that lets you run Windows applications on Linux a… | [GitHub](https://github.com/TibixDev/winboat) | `Linux, Tools` |
+| **PixiEditor** | PixiEditor is a universal 2D editor that was made to provide you with tool… | [GitHub](https://github.com/PixiEditor/PixiEditor) | `Windows, Linux, MacOS, Editor, Graphic, Design` |
+| **Desktop-TUI** | A desktop environment without graphics, terminal-driven, minimalist, and n… | [GitHub](https://github.com/Julien-cpsn/desktop-tui) | `install, Windows, Linux, MacOS` |
+| **GitNuro  - Multiplatform Git Client** | The main goal of GitNuro is to provide a multiplatform open source Git cli… | [GitHub](https://github.com/JetpackDuba/Gitnuro) | `downloadinstall, features, Learning, Linux, Windows, MacOS` |
+| **Art of Manliness** | Art of Manliness is a men’s lifestyle platform that focuses on helping peo… | — | `Website, Android, iOS, SelfDevelopment` |
+| **OldTwitter** | Browser extension to return the old Twitter layout from 2015 (and option t… | [GitHub](https://github.com/dimdenGD/OldTwitter) | `Extension, Social` |
+| **Sticky Notes for Figma** | A simple sticky notes tool for Figma. | [GitHub](https://github.com/alexwidua/figma-sticky-notes) | `Design, Extension` |
+| **The Rickroll Programming Language** | Rick Roll Language is a Rick Astley oriented, dynamic, strong, esoteric pr… | [GitHub](https://github.com/orgs/Rick-Lang) | `Programming, Fun` |
+| **CopyFish** | Copyfish is a free browser extension that performs OCR on screenshots, ima… | [GitHub](https://github.com/A9T9/Copyfish) | `Extension, Utilities, OCR` |
+| **Giphy Trending** | This sample Android app presents the Giphy trending animated gifs for shar… | [GitHub](https://github.com/ryanw-mobile/giphy-trending) | `Android, Media` |
+| **Reef** | Reef is an open-source Android app that helps you take control of your scr… | [GitHub](https://github.com/PranavPurwar/Reef) | `Android, Productivity` |
+| **Claude Enhanced** | This extension adds a bunch of QOL/Utility features to Claude.ai, like Sea… | [GitHub](https://github.com/lugia19/Claude-Enhanced) | `features, Extension, Tools, AI` |
+| **AppVaultX** | AppVaultX is an Android “app vault” that lets you securely store, organize… | [GitHub](https://t.me/smartpack_kmanager) | `Android, Root, Tools` |
+| **Quitter** | Record your quitting journey | [GitHub](https://t.me/popCLOUDS/10435) | `Android, Windows, Linux, Utilities` |
+| **guys, this project needs help from devs to add a download feature to Instagram. Many other modded apps already have this feature, but none of them work with the official Instagram version where you get regular updates from the Play Store. The dev is currently unable to figure out how to implement it.** | so if you’re a developer and can help the community. here’s the GitHub lin… | [GitHub](https://github.com/ReSo7200/InstaEclipse) | `—` |
+| **Zenime - Ad free anime streaming platform** | Zenime is an open-source anime streaming service that uses a custom API, b… | [GitHub](https://github.com/itzzzme/zenime) | `general, Website, Streaming, Media, Anime` |
+| **NewSync** | NewSync is a feature-rich browser extension that brings synchronized lyric… | [GitHub](https://github.com/ban-heesoo/NewSync) | `installation, Extension` |
+| **Mind Mint** | Mind Mint is an Android application designed to help you stop doomscrollin… | [GitHub](https://github.com/gtxPrime/Mind-Mint) | `Android, Productivity` |
+| **Jezail** | Jezail is a powerful, all-in-one Android application that runs entirely on… | [GitHub](https://github.com/zahidaz/jezail) | `Android, Tools` |
+| **Tessel – A tile game** | Tessel is a colorful tile placement game. Place tiles with matching colors… | [GitHub](https://github.com/gvtulder/tessel) | `Android, Online, Games` |
+| **SteamBrew/Millennium** | SteamBrew/Millennium is a mod manager for the Steam desktop client. It let… | [GitHub](https://github.com/SteamClientHomebrew/Millennium) | `Windows, Linux, Tools, Gaming` |
+| **Apocalypse** | Apocalypse is an Android app that lets you preview and download media from… | [GitHub](https://github.com/MisfiT2020/Apocalypse) | `Android, Media, Downloader` |
+| **Nuvio Media Hub** | A modern media hub built with React Native and Expo, featuring comprehensi… | [GitHub](https://github.com/tapframe/NuvioStreamsAddon) | `Android, iOS, Media` |
+| **oxproxion** | oxproxion is a versatile and user-centric Android chat application designe… | [GitHub](https://github.com/stardomains3/oxproxion) | `Android, AI` |
+| **Restoid** | Restoid gives you control over your app backups through a clean and simple… | [GitHub](https://github.com/hddq/restoid) | `Android, Root, Tools, Backup` |
+| **Duolingo Max** | Gives Duolingo Max features for free | [GitHub](https://github.com/apersongithub/Duolingo-Unlimited-Hearts) | `installation, Extension, Tools` |
+| **Spek** | Spek is a free, open-source spectrogram viewer that helps you analyze audi… | [GitHub](https://github.com/alexkay/spek) | `Linux, MacOS, Windows, Audio, Tools` |
+| **Just Delete Me** | Just Delete Me maps out the account deletion procedures for many platforms… | [GitHub](https://github.com/AmanoTeam/JustDeleteMe) | `Website, Android, Security, Tools` |
+| **PlugBrain** | PlugBrain is an app that encourages regular breaks from distracting apps b… | [GitHub](https://github.com/msbelaid/PlugBrain) | `Android, Productivity` |
+| **PrivacyFlip** | PrivacyFlip automatically manages your device's privacy features based on… | [GitHub](https://github.com/dorumrr/privacyFlip) | `Android, Root, Privacy, Tools` |
+| **YouTube Comment Search (Continued)** | YCS is a lightweight continuation of YouTube Comment Search that runs dire… | [GitHub](https://github.com/pc035860/YCS-cont) | `Extension, Tools` |
+| **Refined GitHub** | Browser extension that simplifies the GitHub interface and adds useful fea… | [GitHub](https://github.com/refined-github/refined-github) | `install, highlights, Extension, Tools` |
+| **AdNauseam** | AdNauseam is a lightweight browser extension that blends software tool and… | [GitHub](https://github.com/dhowe/AdNauseam) | `Extension, AdBlocker` |
+| **Android Code Studio** | An IDE to develop real, Gradle-based Android applications on Android devic… | [GitHub](https://github.com/AndroidCSOfficial/android-code-studio) | `Android, Development, Tools` |
+| **Volume Key Track Control** | An Xposed module that allows to skip and play/pause track with volume keys | [GitHub](https://github.com/Hepolise/VolumeKeyTrackControlModule) | `Android, Xposed, Modules, Root` |
+| **Flattery** | WearOS launcher designed to look like the Apple Watch launcher. | [GitHub](https://github.com/agronick/Flattery) | `WearOS, Customization` |
+| **RedditEnhancer** | RedditEnhancer is a privacy-friendly browser extension that lets you clean… | [GitHub](https://github.com/joelacus/RedditEnhancer) | `download, features, Extension` |
+| **Keybr** | Keybr is a smart typing trainer that goes beyond static drills. It records… | [GitHub](https://github.com/aradzie/keybr.com) | `Website` |
+| **HTTP on Fire** | No-code Android HTTP server builder. Create dynamic servers instantly, hos… | [GitHub](https://github.com/zahidaz/HTTPOnFire) | `Android, Tools` |
+| **Aesir** | **Aesir** is a revolutionary cross-platform GUI application that transform… | [GitHub](https://github.com/daglaroglou/Aesir4) | `Linux, Android, Tools` |
+| **RapidRAW** | A beautiful, non-destructive, and GPU-accelerated RAW image editor built w… | [GitHub](https://github.com/CyberTimon/RapidRAW) | `Windows, Linux, MacOS, Tools, Media, Editing` |
+| **Emoji Encoder/Decoder** | Encode arbitrary data inside a single emoji (or any Unicode character) usi… | — | `Website, Tools` |
+| **LTE Cleaner FOSS** | Free & open-source Android cleaner that removes logs, temporary files, and… | [GitHub](https://github.com/MDP43140/LTECleanerFOSS) | `Android, Tools, Cleaning` |
+| **GitSync** | GitSync is a cross-platform git client for Android and iOS that aims to si… | [GitHub](https://github.com/ViscousPot/GitSync) | `Android, MacOS, iOS, Tools` |
+| **Ludi** | Ludi is a Kotlin multiplatform app(Android + Desktop) For browsing & disco… | [GitHub](https://github.com/mr3y-the-programmer/Ludi) | `Android, MacOS, Windows, Linux, Utilities` |
+| **Podcaster** | A podcast listening app that showcases using Jetpack Media 3 in a real, of… | [GitHub](https://github.com/mr3y-the-programmer/Podcaster) | `Android, Media, Podcast` |
+| **GopherTube** | GopherTube is a terminal-based YouTube client that lets you search, previe… | [GitHub](https://github.com/KrishnaSSH/GopherTube) | `installation, Linux, Media` |
+| **AnswerGit** | AnswerGit is a platform that allows you to analyze Git repositories and as… | [GitHub](https://answergit.vercel.app) | `Website, Tools, AI` |
+| **FairScan** | FairScan is an Android app to scan documents. It aims to be simple and res… | [GitHub](https://fairscan.org) | `Android, Utilities` |
+| **Gurk** | Signal Messenger client for terminal | [GitHub](https://github.com/boxdot/gurk-rs) | `installation, usage, Linux, MacOS, Windows, Social` |
+| **Network Switch** | A modern Android application that enables users to toggle between 4G and 5… | [GitHub](https://github.com/aunchagaonkar/NetworkSwitch) | `installation, Android, Utilities, Network` |
+| **RESL = Runtime Evaluated Serialization Language** | RESL is a modern configuration and serialization language with variables,… | [GitHub](https://decipher3114.github.io/resl) | `—` |
+| **Karing** | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | [GitHub](https://github.com/KaringX/karing) | `install, features, Android, Windows, MacOS, iOS, Utilities, Network` |
+| **Newelle** | Newelle is an open‑source desktop AI assistant for GNOME that provides a n… | [GitHub](https://github.com/topics/newelle-extension) | `Linux, Utilities` |
+| **Ampersand** | Ampersand is a research project, and also an app. It wants to do one thing… | [GitHub](https://github.com/NyaomiDEV/Ampersand) | `Android, Utilities` |
+| **WhatAnime** | WhatAnime is a powerful image recognition tool designed specifically for a… | [GitHub](https://github.com/JanYoStudio/WhatAnime) | `Android, Utilities` |
+| **Shiru** | BitTorrent streaming software with no paws in the way—watch anime in real-… | [GitHub](https://github.com/RockinChaos/Shiru) | `Android, Linux, Windows, MacOS, Streaming, Entertaiment, Anime` |
+| **Audionyx** | An app that lets you listen remotely to what's happening around your phone… | [GitHub](https://t.me/popCLOUDS/10119) | `Android, Audio, Utilities` |
+| **HMA-OSS** | An Xposed module to intercept applist and some settings detections. | [GitHub](https://github.com/frknkrc44/HMA-OSS) | `Android, Root, XPosed, Modules` |
+| **Atomic - Periodic Table** | A periodic table for all your science needs for both schoolwork and fun! | [GitHub](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) | `download, Android, Utilities, Science` |
+| **Boostify** | Boostify is a modern, Xposed module that supercharges WhatsApp with smart… | [GitHub](https://github.com/wizdom13/Boostify) | `boostify, Android, Root, XPosed, Modules` |
+| **WhatsCLI** | A command-line WhatsApp client written in Go and highly riceable with Lua… | [GitHub](https://github.com/ArturCSegat/whats-cli) | `installation, features, Social, MacOS, Windows, Linux` |
+| **İmage Search** | An Android app using the Unsplash API to search, view, zoom, and download… | [GitHub](https://github.com/androidwithabhishek/Image-Search-App) | `screenshots, Android, Media` |
+| **AdbPad** | AdpPad is a GUI software to test android apps using adb. | [GitHub](https://github.com/kaleidot725/AdbPad) | `Windows, MacOS, Tools` |
+| **IntruderSelfie** | IntruderSelfie silently snaps a front-camera photo every time the screen i… | [GitHub](https://github.com/tharunbirla/IntruderSelfie) | `Android, Tools` |
+| **Choona - Guitar Tuner** | Guitar tuner application for Android with support for custom tunings. | [GitHub](https://github.com/rohankhayech/Choona) | `Android, Entertainment` |
+| **SpeakThat!** | SpeakThat! is an Android app that reads your notifications aloud, helping… | [GitHub](https://github.com/mitchib1440/SpeakThat) | `Android, Utilities` |
+| **PixelPlay** | PixelPlay is a modern, offline-first music player for Android, built with… | [GitHub](https://t.me/thevelopersupport) | `Android, Music, Player` |
+| **InstallerX Revived (Community Edition)** | A modern and functional Android app installer. (You know some birds are no… | [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) | `key, Android, Root, Utilities` |
+| **Fluffy - Android TV File Manager** | A fast, modern file manager with powerful archive support and an Android T… | [GitHub](https://github.com/mlm-games/Fluffy) | `Android, TV, Media` |
+| **Dominator music** | Open Source M3 YouTube Music client forked from InnerTune | [GitHub](https://github.com/DominatorStufs/DominatorMusic) | `Android, Music` |
+| **Coreply** | Coreply is an open-source Android app designed to make texting faster and… | [GitHub](https://discord.gg/zCsQKmTFTk) | `Android, AI, Tools, Writing` |
+| **KonaBess** | A GPU overclock & undervolt tool for various Snapdragon chips | [GitHub](https://t.me/adreno_konabess) | `Android, Root, Tools` |
+| **OpenCut** | The open-source CapCut alternative | — | `Website, Media, Editor` |
+| **WhatsMicFix** | Improves the quality and level of audio sent via WhatsApp when the microph… | [GitHub](https://github.com/D4vRAM369/WhatsMicFix) | `Android, Root, Xposed, Modules` |
+| **WinApps** | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) a… | [GitHub](https://github.com/winapps-org/winapps) | `installation, officially, Linux, Tools` |
+| **Repertoire** | Repertoire is a cross-platform application designed for musicians, dancers… | [GitHub](https://github.com/Adithya-Jayan/MyRepertoirApp) | `Android, Linux, Windows, Web, Entertaiment` |
+| **WebLibre** | WebLibre is an independent browser project built on the foundation of Mozi… | [GitHub](https://github.com/FaFre/WebLibre) | `Android, Browser` |
+| **Clippy (Unofficial)** | Clippy by FireCube (Not by Microsoft) brings back the infamous Clippit int… | [GitHub](https://github.com/FireCubeStudios/Clippy) | `Windows, Tools` |
+| **BadLock** | An alternative, user-friendly client for managing Samsung Good Lock module… | [GitHub](https://github.com/HimaSnehith/BadLock---An-efficient-alternative-to-GoodLock-FineLock) | `Android, Tools` |
+| **GameNative** | GameNative allows you to play games you own on Steam directly on Android d… | [GitHub](https://github.com/utkarshdalal/GameNative) | `Android, Tools` |
+| **Flux** | A lightweight Android productivity app built with Material 3. | [GitHub](https://github.com/chindaronit/Flux) | `Android, Productivity` |
+| **Wplace 🌍** | Wplace (aka “Worldplace”) is a real-time, collaborative pixel-art canvas o… | — | `PixelArt, Collaboration, MapCanvas, rPlace, Fandom` |
+| **Telegram Downloader** | Instantly save any video (MP4, MKV), photo, music (MP3), or document direc… | — | `Website, Extension, Utilities` |
+| **Shizuku Package Installer** | A lightweight yet powerful package installer for Android. | [GitHub](https://github.com/vvb2060/PackageInstaller) | `Android, Tools, Root` |
+| **SetBox** | SetBox is a powerful application that allows you to easily modify Android… | [GitHub](https://github.com/YasserNull/setbox) | `Android, Tools, Root` |
+| **MouseDroid** | Cross platform application that transforms your android phone in an input… | [GitHub](https://t.me/popCLOUDS/9910) | `Android, Tools` |
+| **Android 17: Cinnamon Bun** | https://www.androidauthority.com/android-17-codename-3585116/ | [GitHub](https://www.androidauthority.com/android-17-codename-3585116) | `—` |
+| **Shappky** | Shappky, short for Shell App Killer, is an app that stops background appli… | [GitHub](https://t.me/popCLOUDS/9906) | `Android, Tools, Root` |
+| **Smart Cleaner for Android** | Smart Cleaner helps you free up space and manage your device. It can remov… | [GitHub](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) | `Android, Cleaner, Tool` |
+| **GLM AI** | — | [GitHub](https://github.com/zai-org/GLM-4.5) | `AI` |
+| **Infamick** | Infamick is a powerful system utility script for rooted Android devices. I… | [GitHub](https://t.me/popCLOUDS/9861) | `Android, Root, Modules, Optimization` |
+| **Frogue** | 3D FPS with Boss Fights and Randomized Weapons | [GitHub](https://github.com/necrashter/frogue) | `Android, Desktop, Games` |
+| **Nothing K** | A digital vault for storing passwords with symmetric cryptography. Nothing… | [GitHub](https://github.com/cuadratico/NothingK) | `Android, Tools` |
+| **Giveaway Ended!** | 🏆 **OneUI Widgets Giveaway!** | [GitHub](https://t.me/popmodschat/678511) | `—` |
+| **Sine** | Sine is a community-driven mod/theme manager for all Firefox-based browser… | [GitHub](https://github.com/CosmoCreeper/Sine) | `Linux, Windows, MacOS, Browser, Customization` |
+| **Mitool for Android** | An application that transforms Xiaomi's official tools into a flexible mob… | [GitHub](https://github.com/offici5l/MiTools) | `Android, Hyperos, Tools` |
+| **RvKernel Manager** | Material Expressive Design Kernel Manager for Android 12+ | [GitHub](https://github.com/Rve27/RvKernel-Manager) | `Android, Root, Tools` |
+| **FlipperDroid** | FlipperDroid transforms a modern Android phone into a flexible and portabl… | [GitHub](https://github.com/Jeremiznoo/FlipperDroid) | `Android, Tools` |
+| **Winlay** | — | [GitHub](https://github.com/a3x-xyz/Winlay) | `Android, Tools` |
+| **Github Profile Analyser** | A serverless web app built with Cloudflare Workers to fetch and visualize… | [GitHub](https://github.com/0xarchit/github-profile-analyzer) | `Website, Tools` |
+| **Glow - System Analysis Software** | Glow is a powerful system analysis tool designed to provide an intuitive o… | [GitHub](https://github.com/turkaysoftware/glow) | `Windows, Tools` |
+| **Return YouTube Trending** | An extension to replace Shorts tab with Trending. Developed with ChatGPT a… | [GitHub](https://github.com/Dr-Sauce/ReturnYouTubeTrending) | `install, Android, iOS, Extension` |
+| **Tangential** | A Location-based event triggering Android application, that enables users… | [GitHub](https://github.com/CosmoSailors/Tangential) | `Android, Utilities, Location` |
+| **Just Chatting** | An app focused on a great Twitch chat experience. | [GitHub](https://github.com/outadoc/just-chatting) | `Android, iOS, Social` |
+| **AppLock** | AppLock is a modern, open-source Android app locker designed to protect yo… | [GitHub](https://github.com/PranavPurwar/AppLock) | `Android, Privacy, Security` |
+| **Tomato** | Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expr… | [GitHub](https://github.com/nsh07/Tomato) | `Android, Productivity` |
+| **WebScraper** | It is a toolkit containing scripts for webscraper in two ways one is with… | [GitHub](https://github.com/0xarchit/duckduckgo-webscraper) | `installation, DevTools, Script, Utilities` |
+| **Ultimatum** | Ultimatum is a chromium fork with webextensions support on Android, anti-d… | [GitHub](https://t.me/ultimatumBrowserGroup) | `Android, Browser, Chromium` |
+| **NouTube** | YouTube and YouTube Music in a single app. No ads, plays in the background | [GitHub](https://github.com/nonbili/NouTube) | `Android, Media` |
+| **Scroll2PDF** | Its a open-source windows software built in python that can convert any sc… | [GitHub](https://github.com/0xarchit/Scroll-To-Pdf) | `Windows, Utilities, Productivity` |
+| **[Oxidiko](https://github.com/Oxidiko/Oxidiko) is a one‑tap login system that actually respects you. 🔒 it’s secure, privacy‑first, and completely serverless — your data stays locked in your browser, not on some shady server farm. no tracking, no selling your soul, no bs. just one tap and you’re in. oh — and it’s open source, so you can check the code and help developing it. this is login for people who value their privacy and their sanity.** | Buy me a ko-fi: https://ko-fi.com/oxidiko | [GitHub](https://github.com/Oxidiko/Oxidiko) | `—` |
+| **OneURL** | A URL-Shortener with OneUI-Design. | [GitHub](https://github.com/Lemkinator/OneUrl) | `Android, Utilities` |
+| **Torrent Search** | An android app to search and download torrents from multiple providers. | [GitHub](https://github.com/prajwalch/TorrentSearch) | `Android, Tools` |
+| **AYA** | AYA is a desktop application for easily controlling android devices, which… | [GitHub](https://aya.liriliri.io) | `Windows, MacOS, Linux, Tools` |
+| **Booming Music** | Booming Music is a modern, local music player for Android that focuses on… | [GitHub](https://github.com/mardous/BoomingMusic) | `Android, Music` |
+| **HyperUnlocked** | A Magisk/KernelSU/APatch module made to unlock all high-end features possi… | [GitHub](https://github.com/ukriu/HyperUnlocked) | `some, Android, Root, Modules, Xiaomi` |
+| **App Manager GUI** | A multiplatform tool using ADB to effortlessly manage Android apps: extrac… | [GitHub](https://github.com/BlassGO/AppManager-GUI) | `first, features, Windows, Linux, Tools` |
+| **GPS Rider** | GPS Rider is a powerful Android app and Xposed module that allows you to c… | [GitHub](https://github.com/dvhamham/gps-rider) | `Android, Xposed, Utilities` |
+| **Paperwise PDF Maker** | A simple, private, and open-source app to scan images and create PDF docum… | [GitHub](https://github.com/prateek54353/PaperWise) | `Android, Linux, Windows, MacOS, Utilities` |
+| **GodSVG** | GodSVG is a structured SVG editor[**.**](https://godsvg.com/) Unlike other… | [GitHub](https://github.com/MewPurPur/GodSVG) | `Android, Linux, Windows, MacOS, Tools, Design` |
+| **Procrastaint** | Procrastaint is a todo list app that lets users create time-based tasks by… | [GitHub](https://github.com/Pahina0/Procrastaint) | `Android, Productivity` |
+| **NoWakeLock** | NoWakeLock empowers you to take control of your Android device's wakelocks… | [GitHub](https://t.me/nowakelock) | `Android, Root, Tools` |
+| **Trayy** | Trayy is a Windows utility that allows you to send applications to the sys… | [GitHub](https://github.com/alirezagsm/Trayy) | `Windows, Utilities` |
+| **Voxa** | Voxa is a sleek, lightweight, native macOS Discord client built using Swif… | [GitHub](https://github.com/voxa-org/Voxa) | `MacOS, Social` |
+| **GooseDroid - Chaos Engine** | GooseDroid is a Magisk/KernelSU module that brings random, chaotic, goose-… | [GitHub](https://github.com/Edxlweiss/GooseDroid) | `Android, Root, Modules` |
+| **StatusApp** | Get WhatsApp status & Instagram Feed-Reel photo & video. Chat with any Wha… | [GitHub](https://github.com/kartiknagar333/StatusApp) | `Android, Media, Utilities` |
+| **Pocsaw** | Pockaw is a free and simple budgeting app designed to help you manage your… | [GitHub](https://github.com/layground/pockaw) | `Android, Linux, Windows, MacOS, Tools` |
+| **YouLy+** | YouLy+ is a browser extension that enhances your YouTube Music experience… | [GitHub](https://github.com/ibratabian17/YouLyPlus) | `installation, Extension, Music` |
+| **DeepWiki** | DeepWiki provides up-to-date documentation you can talk to, for every repo… | [GitHub](https://deepwiki.com) | `Android, Utilities` |
+| **OTP Helper** | An open-source application that allows you to copy OTP and codes from SMS… | [GitHub](https://github.com/jd1378/otphelper) | `Android, Utilities` |
+| **Snipping Lens** | Snipping Lens is a cross-platform application that automatically detects w… | [GitHub](https://t.me/popCLOUDS/9640) | `Desktop, Windows, Linux, Utilities` |
+| **nNotes** | Smart, Minimal Notes App | [GitHub](https://github.com/Bhavukverma17/nNotes) | `Android, Productivity` |
+| **TVGarden – Live TV Streaming Client** | TVGarden for TV is an unofficial Android TV app that brings the fantastic… | [GitHub](https://github.com/gmb7886/TVGardenforTV) | `android, livetv, streaming` |
+| **Ineffable Hub** | Ineffable Hub is an all-in-one Android personalization toolkit designed fo… | [GitHub](https://t.me/Flexify_updates) | `Android, Customization` |
+| **Singularity** | Fork and Reborn version of [BlackHole](https://t.me/popMODS/3643) | [GitHub](https://github.com/atinba/Singularity) | `Android, Music` |
+| **Memno — Save Links as Notes with Metadata Previews** | Memno is a sleek and minimal mobile app (built with Flutter) for quickly s… | [GitHub](https://t.me/popCLOUDS/9598) | `android, productivity, bookmark` |
+| **️Apk Editor Monet - Android APK Modification Tool** | Apk Editor Monet is a modified version of the popular APK Editor Pro for A… | [GitHub](https://github.com/WaifuPX-DG/Apk-Editor-Monet) | `android, tool` |
+| **SDK Monitor** | SDK Monitor shows you which Android API levels your installed apps are tar… | [GitHub](https://github.com/bernaferrari/SDKMonitor) | `Android, Tools` |
+| **olmOCR** | A toolkit for converting PDFs and other image-based document formats into… | — | `Website, AI, Tools` |
+| **Taskfolio - Android task management app** | Taskfolio is a simple and intuitive task management app designed to seamle… | [GitHub](https://github.com/opatry/taskfolio) | `android, task, manager` |
+| **RikkaHub** | A native Android LLM chat client that supports switching between different… | [GitHub](https://discord.gg/9weBqxe5c4) | `Android, AI, Productivity` |
+| **No need root, you can do with [LSPatch](https://t.me/popMODS/4326) as well or you can use this LSPatch (https://github.com/JingMatrix/LSPatch/releases)** | — | [GitHub](https://github.com/JingMatrix/LSPatch) | `—` |
+| **Spotify Plus** | Spotify Plus is an Xposed module that adds beautiful lyrics to Spotify | [GitHub](https://t.me/popCLOUDS/9557) | `Android, Root, Xposed, LsPatch, NonRoot` |
+| **Scrcpy-GUI** | An unofficial beginner-friendly user interface for the Scrcpy Project. | [GitHub](https://github.com/GeorgeEnglezos/Scrcpy-GUI) | `Windows, Utilities` |
+| **pairipfix** | This LSPosed module bypasses the "Get this app from Play" screen that appe… | [GitHub](https://github.com/ahmedmani/pairipfix) | `Android, Xposed, Modules` |
+| **Alternate - Local Caller ID Detector** | A privacy-focused React Native app that helps you identify unknown callers… | [GitHub](https://github.com/BioHazard786/Alternate) | `Android, Utilities` |
+| **Nanobrowser** | Nanobrowser is an open-source AI web automation tool that runs in your bro… | [GitHub](https://github.com/nanobrowser/nanobrowser) | `AI, Browser, Extension` |
+| **Shots Studio** | Shots Studio turns your chaotic screenshot gallery into an intelligent, or… | [GitHub](https://t.me/popCLOUDS/9521) | `Android, Utilities` |
+| **Pixabay Android App** | Pixabay Android App is a feature-rich mobile application that lets you eff… | [GitHub](https://github.com/ahmadrezagh671/Pixabay_Android_App) | `Android, Pixabay, ImageSearch` |
+| **Bolt Kernel Flasher** | Bolt Kernel Flasher is a modern Android application designed to easily fla… | [GitHub](https://t.me/boltKernelFlasher) | `Android, Root` |
+| **PlusPlusBattery** | PlusPlusBattery is a lightweight battery info and health estimation tool s… | [GitHub](https://github.com/dijia1124/PlusPlusBattery) | `Android, Root` |
+| **Downlodr** | Downlodr is a powerful, user-friendly video downloading solution that supp… | [GitHub](https://github.com/Talisik/Downlodr) | `Windows, VideoDownloader, ElectronApp, YouTubeDL, FFmpeg` |
+| **React Bits** | React Bits is a large collection of animated React components made to spic… | — | `Website, Design` |
+| **Digitally** | A hybrid counter/habit tracker app built for Android devices using Kotlin… | [GitHub](https://github.com/nicanor-jay/digitally) | `features, Android, Productivity, Habits` |
+| **GreaseMilkyway** | GreaseMilkyway is an Android accessibility service designed to help people… | [GitHub](https://github.com/kasnder/GreaseMilkyway) | `Android, Productivity` |
+| **JITA - Just in Time Assistant** | JITA is a comprehensive productivity and task management application for A… | [GitHub](https://github.com/mansour0303/Jita_App) | `Android, Productivity` |
+| **Spotizerr** | a music downloader which combines the best of two worlds: Spotify's catalo… | [GitHub](https://github.com/Xoconoch/spotizerr) | `installation, Utilities, Tools, Music, Windows, Linux, MacOS` |
+| **Packet** | A partial implementation of Google's Quick Share protocol that lets you se… | [GitHub](https://github.com/nozwock/packet) | `Linux, Tools` |
+| **Waifu Walls** | A must-have wallpaper app for every weeb! Waifu Walls brings you a collect… | [GitHub](https://github.com/ronitkrshah/waifu-walls) | `Android, Theming` |
+| **Launchpad Search - Shortcuts** | Launchpad Search can replace your digital assistant and give you full cont… | [GitHub](https://github.com/jaxparrow07/launchpad-search) | `Android, Customization` |
+| **SwitchAI** (formerly [VoiceGPT](https://t.me/popMODS/4657))** | SwitchAI lets you seamlessly choose your preferred AI assistant. With a si… | [GitHub](https://github.com/WSTxda/SwitchAI) | `Android, AI` |
+| **WikWok** | WikWok is a beautiful and functional app that transforms your Wikipedia re… | [GitHub](https://github.com/terrakok/WikWok) | `installation, Learning, Android, Linux, Windows, MacOS` |
+| **Zed** | Zed is a high-performance, multiplayer code editor from the creators of At… | [GitHub](https://github.com/zed-industries/zed) | `Linux, Windows, MacOS, Web, Coding` |
+| **Revengi** | Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair,… | [GitHub](https://github.com/RevEngiSquad/revengi-app) | `downloads, screenshots, features, Tools, Android, Linux, Windows, Website, Bot` |
+| **Ice** | Ice is a powerful menu bar management tool. While its primary function is… | [GitHub](https://github.com/jordanbaird/Ice) | `install, featuresroadmap, MacOS, Utilities` |
+| **Google AI Edge Gallery** | The Google AI Edge Gallery is an experimental app that puts the power of c… | [GitHub](https://github.com/google-ai-edge/gallery) | `Android, Local, AI` |
+| **Brisk** | Brisk is a high-performance download manager, built from scratch without e… | [GitHub](https://github.com/BrisklyDev/brisk) | `package, Linux, Windows, MacOS, Downloader` |
+| **JTV-GO Server** | **Access JioTV Go - streamlined for quick access and optimal performance! | [GitHub](https://t.me/popCLOUDS/9327) | `Android, Livetv, Stream, Entertaiment` |
+| **Sentinel Lens – Facial Recognition Surveillance App** | Sentinel Lens is a facial recognition surveillance app that sends Telegram… | [GitHub](https://github.com/dev-diaries41/sentinel-lens) | `Android, Security, Tools` |
+| **Terabox Downloader Unlimited** | This Downloader will give you fast download url from a Terabox shared link. | — | `Website, Tools` |
+| **CrapF*cker** | CrapFixer is a modern, simple, and effective tool to clean up unnecessary… | [GitHub](https://t.me/popCLOUDS/9317) | `Windows, Utilities` |
+| **DeskFrame** | A customizable, frameless folder viewer for your desktop minimal, snappy,… | [GitHub](https://github.com/PinchToDebug/DeskFrame) | `Windows, Tools` |
+| **NullFlix** | NullFlix is a free, web-based movie streaming platform built with Next.js… | [GitHub](https://v0-nullflix.vercel.app) | `Website, Streaming` |
+| **spotify-qt** | An unofficial Spotify client using Qt as a simpler, lighter alternative to… | [GitHub](https://github.com/kraxarn/spotify-qt) | `installing, Linux, Windows, Music` |
+| **APK Extractor - A Simple Modern APK Extractor App** | The APK Extractor enables you to Backup and Restore your installed App. | [GitHub](https://github.com/Domilopment/apk-extractor) | `highlights, Android, Tools` |
+| **YASB Reborn (Yet Another Status Bar)** | YASB Reborn is a highly customizable Windows status bar written in Python,… | [GitHub](https://github.com/amnweb/yasb-themes) | `windows, statusbar, customization` |
+| **VS Code Fork Extension Installer** | VS Code Fork Extension Installer | [GitHub](https://github.com/soulspark666/VSCode-Fork-Extension-Installer) | `installation, chrome, extension, vscode` |
+| **AppSumo** | A platform that offers lifetime deals on software and digital tools for en… | — | `Website, Deals, LifetimeDeals` |
+| **Piko** | An open-source project offering ReVanced patches specifically for Twitter/… | [GitHub](https://t.me/popCLOUDS/9225) | `Android, ReVanced, Twitter` |
+| **Igatha** | An open-source SOS signaling and recovery app designed for war zones and d… | [GitHub](https://github.com/nizarmah/igatha) | `Android, iOS, SOS` |
+| **Complexity** | Supercharge your favourite AI Chat web apps. | [GitHub](https://github.com/pnd280/complexity) | `Extension, Desktop, Android, AI` |
+| **LLMs** | Discover the power of AI with our Kotlin Multiplatform app. Choose from th… | [GitHub](https://t.me/popCLOUDS/9177) | `Website, Android, AI` |
+| **Cumsung** | Cumsung is a simple, no-frills app that lets you mute the camera shutter s… | [GitHub](https://github.com/ericswpark/camsung) | `Android, Utilities` |
+| **MotionEaseTune** | A simple application that can prevent you from motion sickness via 100Hz s… | [GitHub](https://github.com/BHznJNs/MotionEaseTune) | `Android, Audio, Utilities` |
+| **Tiny8Bit** | Chips is a collection of 8-bit chip and system emulators implemented as st… | [GitHub](https://github.com/floooh/chips) | `Website, Emulator, 8bit, RetroComputing` |
+| **Codedex** | Codédex is an interactive platform that teaches programming through a gami… | — | `Website, Learning` |
+| **HuntGames** | HuntGames is an Android memory editor and analysis on ARM64 devices. This… | [GitHub](https://t.me/HuntGames77) | `Android, Root, Tools` |
+| **Nobook** | Nobook is a lightweight Android application to browse facebook. | [GitHub](https://github.com/ycngmn/Nobook) | `Android, Social` |
+| **Crude** | All in one app and workflow launcher. | [GitHub](https://github.com/KusStar/krude-extensions) | `Android, Customization` |
+| **Eros Samsung Flasher** | Eros is a lightweight Android app (3MB) designed to flash firmware on Sams… | [GitHub](https://t.me/ErosMobileTool) | `Android, Samsung, Tools` |
+| **LiTube** (Also check [YouTube-lite](https://github.com/HydeYYHH/YouTube-lite))** | LiTube e is a lightweight Android WebView wrapper for YouTube, offering ma… | [GitHub](https://github.com/HydeYYHH/YouTube-lite) | `Android, Media, YouTube` |
+| **Govd** | A Telegram bot for downloading media from various platforms. | [GitHub](https://github.com/govdbot/govd) | `Telegram, Bot, Media` |
+| **SysAdmin** | SysAdmin is an open-source mobile application that puts the power of Linux… | [GitHub](https://github.com/prathameshkhade/SysAdmin) | `screenshots, Android, Tools` |
+| **Drawpile** | Drawpile is a Free, Libre and Open Source program that lets you draw, pain… | [GitHub](https://github.com/drawpile/Drawpile) | `Android, Linux, Windows, MacOS, Drawing` |
+| **Breeze Shell** | Breeze is an alternative context menu for Windows 10 and Windows 11. | [GitHub](https://github.com/std-microblock/breeze-shell) | `Windows, Utilities` |
+| **OpenTracks** | __OpenTracks__ is a sport tracking application that completely respects yo… | [GitHub](https://github.com/OpenTracksApp/OpenTracks) | `Android, Healthcare` |
+| **Biometric Bypass** | This LSPosed (Xposed) module streamlines face unlock by skipping the confi… | [GitHub](https://github.com/rafareborn/biometric-bypass) | `Android, Root, Xposed, Modules` |
+| **Music Time for Spotify** ( Spotify Premium)** | Music Time for Spotify is a VS Code extension that discovers the most prod… | [GitHub](https://github.com/swdotcom/swdc-vscode-musictime) | `vscode, extention, spotify` |
+| **Openleaf** | Openleaf is a minimalist, browser-based rich text editor that lets you sta… | [GitHub](https://github.com/AashishRichhariya/openleaf) | `features, Website, Utilities` |
+| **LLM.pdf** | A fully offline, self-contained AI that runs inside a PDF. No internet, no… | [GitHub](https://github.com/EvanZhouDev) | `AI` |
+| **Kanshi.** | Anime, Manga, & Novel Recommender (Website and Android Application). Also… | [GitHub](https://github.com/u-Kuro/Kanshi-Anime-Recommender) | `Android, Website, Tools` |
+| **AstraCrypt - Encrypt Your Data** | AstraCrypt - is a free, powerful and open-source encryption app that has e… | [GitHub](https://github.com/gromif/AstraCrypt) | `Android, Utilities` |
+| **SmartScan - Image organisation & search app** | SmartScan is an innovative app powered by a CLIP model that automatically… | [GitHub](https://github.com/dev-diaries41/smartscan) | `Android, Media, Tools` |
+| **Zero Width Shortener (ZWS)** | Shorten URLs with invisible spaces. | [GitHub](https://github.com/zws-im/zws) | `Website, URL, URLShortener` |
+| **Scrcpy Android** | A port of Scrcpy program for android devices. | [GitHub](https://github.com/zwc456baby/ScrcpyForAndroid) | `Android, Utilities` |
+| **Anikku** | Discover and watch anime, cartoons, series, and more – easier than ever on… | [GitHub](https://github.com/komikku-app/anikku) | `features, Android, Entertaiment, Reader` |
+| **Write On - Simple Notepad** | A clean, intuitive note-taking open source app with Material You design. | [GitHub](https://github.com/3zpnix/WriteOn) | `Android, Productivity` |
+| **Aisleron Shopping List** | Streamline your shopping with this intuitive, easy-to-use shopping list ap… | [GitHub](https://github.com/aisleron/aisleron) | `Android, Utilities` |
+| **Tuneify** | A cool Music streaming app in React Native. | [GitHub](https://github.com/estd20xx/Tuneify) | `Android, Music` |
+| **JADX is a powerful open-source tool that enables users to decompile Android applications, converting Dalvik bytecode into readable Java source code. This facilitates in-depth analysis and understanding of APK, DEX, AAR, AAB, and ZIP files, offering developers and security researchers enhanced transparency and control over application code.** | — | [GitHub](https://t.me/popCLOUDS/9014) | `Windows, MacOS, Linux, Decompiler, OpenSource, Utilities` |
+| **A-Z Resources for students** | A comprehensive collection of resourced, aimed at assisting students, rece… | [GitHub](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | `Learning, Coding, Guides` |
+| **OpenAPK is a curated repository of open-source Android application and games, updated weekly. it offers users enhanced privacy, improved security, and greater control by providing transparent and customisable apps options. Developers can list their open-source apps to reach a broader audience of FOSS enthusiasts** | — | [GitHub](https://github.com/mobilenetworkltd/openapk) | `Website, Android, OpenSource, Privacy, Security, Utilities` |
+| **Nokia Design Archive** | A graphic and interactive platform that allows you to explore behind-the-s… | — | `research, Website, Education` |
+| **Galaxy Buds Client** | Galaxy Buds Client is an unofficial manager for configuring and controllin… | [GitHub](https://t.me/popCLOUDS/8981) | `Android, Linux, Windows, MacOS, Utilities` |
+| **wuziqi** | A simple Wuziqi game for android | [GitHub](https://github.com/iacobo/wuziqi) | `Android, Games, Game` |
+| **OnL👀k** | Seamlessly integrate with any website or web app running on React + Tailwi… | [GitHub](https://github.com/onlook-dev/onlook) | `Desktop, Windows, Linux, MacOS, Utilities` |
+| **Instagram Unfollowers** | A nifty tool that lets you see who doesn't follow you back on Instagram. | [GitHub](https://github.com/davidarroyo1234/InstagramUnfollowers) | `Website, Social` |
+| **Bypass WhatsApp **`Unofficial App`** Warning** | __Because rooting your device mean you're cooking malware in your basement… | [GitHub](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) | `—` |
+| **EdgeSeek** | An open-source application to enhance your experience by enabling intuitiv… | [GitHub](https://github.com/LSafer/edgeseek) | `Android, OpenSource, Customization` |
+| **rQuickShare** | Rust implementation of NearbyShare/QuickShare from Android for Linux and m… | [GitHub](https://github.com/Martichou/rquickshare) | `Linux, MacOS, Utilities` |
+| **️ How to Pass **Strong Integrity** on Android (Step-by-Step Guide)** | This tutorial will help you successfully pass **Basic**, **Device**, and *… | [GitHub](https://github.com/PerformanC/ReZygisk) | `—` |
+| **Gemini Code** | A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pr… | [GitHub](https://github.com/raizamartin/gemini-code) | `installation, setup, usage, Android, Linux, Windows, AI, Tools` |
+| **SuperX** | Video downloader for Android with web browser and player. M3U8 and MPD sup… | [GitHub](https://github.com/alexch33/super-video-downloader) | `Android, Media, Downloader` |
+| **PixelLauncherEnhanced** | An Xposed module to unleash the full potential of your launcher!! | [GitHub](https://github.com/Mahmud0808/PixelLauncherEnhanced) | `Android, Customization, Xposed, Root` |
+| **GiveAway Time 🎁** | At 16:00 UTC±00:00 (After the timer expires on our website) We will give a… | [GitHub](https://pashapumadesign.com/giveaway/pixlinear-you-promo-codes) | `—` |
+| **Invoke AI** | A leading creative engine built to empower professionals and enthusiasts a… | [GitHub](https://github.com/invoke-ai/InvokeAI) | `Desktop, Windows, Linux, MacOS, AI, Utilities` |
+| **DroidPad** | Create Customizable Control Interfaces for Bluetooth Low Energy, WebSocket… | [GitHub](https://github.com/umer0586/DroidPad) | `Android, Controls, Bluetooth` |
+| **Karui ToDo** | An open source Google Tasks alternative to quickly jot down things to do. | [GitHub](https://github.com/ronynn/karui) | `Android, Notes, Productivity` |
+| **Hydra Launcher** | Hydra is a game launcher with its own embedded bittorrent client. | [GitHub](https://github.com/hydralauncher/hydra) | `Windows, Linux, Gaming` |
+| **Morphic** | An AI-powered search engine with a generative UI. | [GitHub](https://github.com/miurla/morphic) | `Website, AI` |
+| **FakeTraveler** | Fake where your phone is located (Mock location for Android) | [GitHub](https://github.com/mcastillof/FakeTraveler) | `android, material3, locationmock, maps` |
+| **Oblivion - Unofficial Warp Client for Android** | Provides secure, optimized internet access through a user-friendly Android… | [GitHub](https://github.com/bepass-org/oblivion) | `Android, Tools, Connectivity` |
+| **ApkToolGUI** | a tool for reverse engineering 3rd party, closed, binary Android apps. It… | [GitHub](https://t.me/popCLOUDS/8884) | `Windows, Utilities` |
+| **Persepolis** | Persepolis is a download manager written in Python. Persepolis is a sample… | [GitHub](https://github.com/persepolisdm/persepolis) | `Desktop, Windows, Linux, MacOS, Tools` |
+| **RiseMediaPlayer** | ** | [GitHub](https://github.com/Rise-Software/Rise-Media-Player) | `Windows, Media, Player` |
+| **ChatSutra** | A multilingual AI assistant by TWO AI. Free to use, ultrafast and availabl… | — | `android, wensite, AI` |
+| **Zimly** | an app to synchronize localmedia and documents | [GitHub](https://github.com/zimly/zimly-backup) | `android, material3, backup, aws` |
+| **Readest** | A modern, feature-rich ebook reader designed for avid readers offering sea… | [GitHub](https://github.com/readest/readest) | `Android, iOS, Windows, Linux, MacOS, Utilities` |
+| **Delta** | an app to create hotspots on stock Android with more functionalities like… | [GitHub](https://github.com/supershadoe/delta) | `android, material3, hotspot` |
+| **FSearch** | a fast file search utility, inspired by Everything Search Engine. | [GitHub](https://github.com/cboxdoerfer/fsearch) | `Linux, Utilities` |
+| **Oxygen Customizer** | Oxygen Customizer is an open-source Android application aimed at providing… | [GitHub](https://github.com/DHD2280/Oxygen-Customizer) | `Android, Root, Customization` |
+| **Killed by Microsoft** | A full list of dead products which are killed by Microsoft | — | `Website` |
+| **HyperSploit** | HyperSploit is a user-friendly, standalone utility designed to bypass Hype… | [GitHub](https://t.me/popCLOUDS/8757) | `Tools, Windows, MacOS, Linux` |
+| **Flying Carpet** | Send and receive files between Android, iOS, Linux, macOS, and Windows ove… | [GitHub](https://github.com/spieglt/FlyingCarpet) | `Android, iOS, Windows, Linux, Utilities, MacOS, File_transfer` |
+| **SpeakGPT** | An advanced and highly intuitive open-source AI assistant that utilizes th… | [GitHub](https://github.com/AndraxDev/speak-gpt) | `Android, AI` |
+| **End of Life Date** | endoflife.date is a platform that aggregates and presents end-of-life (EOL… | [GitHub](https://github.com/endoflife-date/endoflife.date) | `Website` |
+| **YouTube Pro** | All in one YouTube App with downloader , background player and many more f… | [GitHub](https://github.com/prateek-chaubey/YTPRO) | `Android, YouTube, Videos` |
+| **CryptPad - Secure and Privacy-Focused Collaboration** | ** | [GitHub](https://github.com/cryptpad) | `windows, collaboration` |
+| **GhostGMS** | A universal Magisk module that disables unnecessary GMS background process… | [GitHub](https://t.me/veloxineologysupport) | `Android, Root, Modules, Optimization, Battery, Performance` |
+| **MiCTS** | Trigger Circle To Search feature on your android device. Supports android… | [GitHub](https://github.com/parallelcc/micts) | `Circle_To_Search, Android, Utilities, Special` |
+| **Clip Buddy** | Clip Buddy is a lightweight video player app built for Android using Kotli… | [GitHub](https://github.com/memeusix/Clip-Buddy_Video_Player) | `android, media` |
+| **Ekspensify - Finance tracking app** | Welcome to Ekspensify, your personal finance tracking app made with Kotlin… | [GitHub](https://github.com/memeusix/Ekspensify) | `android, finance` |
+| **Wispar** | Stay up-to-date with articles in your field of study! | [GitHub](https://github.com/Scriptbash/Wispar) | `Android, iOS, Productivity` |
+| **Bim!** | Bim! is an open-source, multiplayer online mobile game for Android devices… | [GitHub](https://github.com/j-jorge/bim) | `Android, Games` |
+| **XPTranslateText** | XPTranslateText is an Xposed module designed to automatically translate te… | [GitHub](https://t.me/popCLOUDS/8683) | `Android, Xposed, Modules, Root` |
+| **Tsacdop/Tsacdop-Fork** | Tsacdop-Fork is a fork of Tsacdop, a podcast player developed with Flutter… | [GitHub](https://github.com/lojcs/tsacdop) | `Android, Media, Entertainment` |
+| **Chemist Lab** | A comprehensive simulation lab for exploring chemical elements | [GitHub](https://github.com/MrMR-711/Web-Chemistry-Lab) | `Android, Website, Learning` |
+| **Hyprland Material You** | ** | [GitHub](https://github.com/koeqaife/hyprland-material-you) | `installation, Linux, Theming, Utilities` |
+| **Stratum** | A free open-source two factor authentication app for Android. It features… | [GitHub](https://github.com/stratumauth/app) | `Android, Security, Tools` |
+| **Mue** | A fast, open and free-to-use browser extension that gives a new, fresh and… | [GitHub](https://github.com/mue/mue) | `Extension, Personlization` |
+| **FoodYou** | FoodYou is a simple calorie-tracking app designed with Material You aesthe… | [GitHub](https://github.com/maksimowiczm/FoodYou) | `Android, Health, Utilities` |
+| **MSEdgeRedirect** | A tool to redirect Windows's news, widgets, weather, search and more to yo… | [GitHub](https://github.com/rcmaehl/MSEdgeRedirect) | `Windows, Utilities` |
+| **Hitomi Downloader** | Desktop utility to download images/videos/music/text from various websites… | [GitHub](https://github.com/KurtBestor/Hitomi-Downloader) | `Windows, MacOS, Utilities, Extension` |
+| **Safe Eyes** | Protect your eyes from eye strain using this simple and beautiful, yet ext… | [GitHub](https://github.com/slgobinath/SafeEyes) | `installation, Linux, Utilities` |
+| **Lively Wallpaper** | Free and open-source software that allows users to set animated desktop wa… | [GitHub](https://github.com/rocksdanister/lively) | `features, Windows, Personilation` |
+| **Notex - Note-Taking App** | Cloud-based note-taking and task management app. 📝 Open-source and ready f… | [GitHub](https://github.com/GPSxtreme/notex-flutter) | `android, note` |
+| **ByeDPI - App to bypass censorship on Android** | Android application that runs a local VPN service to bypass DPI (Deep Pack… | [GitHub](https://t.me/popCLOUDS/8563?single) | `android, vpn, proxy` |
+| **Revanced Xposed** | An Xposed (Lsposed) module, which integrates Revanced patches into YouTube… | [GitHub](https://github.com/chsbuffer/RevancedXposed) | `Android, Root, Xposed, Modules` |
+| **Text Grab** | A quick app to grab any on screen text using the Optical Character Recogni… | [GitHub](https://github.com/TheJoeFin/Text-Grab) | `Windows, Productivity, Tools` |
+| **DroidCrypt - A file and text encryption tool for Android** | File and text encryption in Android offers crucial benefits in protecting… | [GitHub](https://github.com/umutcamliyurt/DroidCrypt) | `Android, Tools` |
+| **FamiStudio NES Music Editor** | FamiStudio is a simple music editor for the Nintendo Entertainment System… | [GitHub](https://github.com/BleuBleu/FamiStudio) | `Android, Linux, Windows, MacOS, iOS, Audio, Editor` |
+| **System App Nuker** | A simple and efficient module that allows you to remove pre-installed syst… | [GitHub](https://t.me/systemapp_nuker) | `Android, Root, Tools, Debloat, Modules` |
+| **Maid - Mobile Artificial Intelligence Distribution** | Maid is a cross-platform free and an open-source application for interfaci… | [GitHub](https://github.com/Mobile-Artificial-Intelligence/maid) | `Android, AI, Tools` |
+| **Pluvia** | A lightweight unofficial Steam client for Android with the ability to play… | [GitHub](https://discord.gg/3tcEdhMG3e) | `Android, Utilities` |
+| **ShonenX** | A modern, feature-rich anime streaming application built with Flutter, off… | [GitHub](https://github.com/Darkx-dev/ShonenX) | `Android, Windows, Anime, Entertainment` |
+| **Plotwist** | Open-source easy management and reviews about movies, series and animes. | [GitHub](https://github.com/plotwist-app/plotwist) | `Website, Entertainment` |
+| **EchoWave** | Built on the resources of the Simple-Tube and Muzza open source project, E… | [GitHub](https://t.me/by_BabelSoftware) | `Android, Music, Media, Player, Productivity` |
+| **Bootloader Unlock: Wall of Shame** | A list containing phone manufacturers and their policies on unlocking the… | [GitHub](https://github.com/melontini/bootloader-unlock-wall-of-shame) | `universal, Android, Utilities` |
+| **Google Shortcuts Launcher** | Google Shortcuts Launcher provides a seamless way to integrate powerful Go… | [GitHub](https://t.me/WSTprojects) | `Android, Utilities, Tools` |
+| **Mirror2RearUltra** | Rear screen mirroring plugin/app for Xiaomi Mi 11 Ultra. | [GitHub](https://github.com/tpkarras/Mirror2RearUltra) | `Android, Tools` |
+| **Venera** | A comic reader that support reading local and network comics. | [GitHub](https://github.com/venera-app/venera) | `Android, Linux, Windows, MacOS, iOS, Reader` |
+| **ZipXtract** | A fully open-source Android application designed to handle a wide range of… | [GitHub](https://github.com/WirelessAlien/ZipXtract) | `Android, Utilities` |
+| **PodAura - All-in-one Android podcast app** | All-in-one Android podcast app for RSS, media dl & play. MVI arch, Materia… | [GitHub](https://t.me/popCLOUDS/8422) | `android, podcast` |
+| **VES - Image and Photo Compare** | VES-Image-Compare is an Android application created to provide a straightf… | [GitHub](https://github.com/VincentEngel/VES-Image-Compare) | `Android, Media, Utilities` |
+| **Rememory** | A powerful clipboard manager designed to boost your productivity by saving… | [GitHub](https://github.com/hpavlo/Rememory) | `Windows, Utilities, Productivity` |
+| **traced it** | An easy-to-use app for short text notes, with a timestamp for each entry,… | [GitHub](https://github.com/traced-it/traced-it-android) | `Android, Productivity` |
+| **ReTerminal** | ReTerminal is a sleek, Material 3-inspired terminal emulator | [GitHub](https://github.com/RohitKushvaha01/ReTerminal) | `Android, Tools` |
+| **Sly** | Sly is a friendly image editor that requires no internet connection or pre… | [GitHub](https://t.me/popCLOUDS/8373) | `Android, Linux, Windows, MacOS, Media, Editor` |
+| **Codename Goose** | An open-source, extensible AI agent that goes beyond code suggestions | [GitHub](https://github.com/block/goose) | `Desktop, Linux, MacOS, AI` |
+| **Onit-AI** | An open-source AI chat assistant that lives in your desktop! | [GitHub](https://github.com/synth-inc/onit) | `MacOS, AI, Utilities` |
+| **PicView** | a fast, free and fully customizable picture viewer & editor for Windows 10… | [GitHub](https://github.com/Ruben2776/PicView) | `Windows, Utilities` |
+| **DockDoor** | DockDoor is a macOS application that adds a much-needed feature to your Ma… | [GitHub](https://github.com/ejbills/DockDoor) | `MacOS, Utilities` |
+| **AI Logo Generator** | An open source logo generator – create professional logos in seconds with… | — | `Website, AI, Design, Tools` |
+| **Whisky** | Whisky is a modern Wine wrapper for macOS designed to simplify running Win… | [GitHub](https://getwhisky.app) | `MacOS, Tools` |
+| **Toolbox** | It's a toolbox (as the name suggests) that brings together several tools i… | [GitHub](https://github.com/Koizeay/Toolbox) | `Android, iOS, Tools` |
+| **Snake QR** | An implementation of a simple snake game inside a QR code, playable on win… | [GitHub](https://github.com/EimaMei/snake-qr) | `Windows, Games` |
+| **Nothing Archive** | A comprehensive collection of unmodified stock firmware images and OTA upd… | [GitHub](https://github.com/spike0en/nothing_archive) | `downloads, Android, Firmware, NothingOS, Nothing, CMFbyNothing` |
+| **Universal Android ROM Flasher** | A next-gen Android flashing tool with multi-device support and enhanced sa… | [GitHub](https://github.com/PHATWalrus/universal-flasher) | `installation, usage, requirements, Windows, MacOS, Linux, Tools` |
+| **Rivo** | Rivo is a modern, feature-rich dialer app built using Flutter. Designed fo… | [GitHub](https://github.com/user-grinch/RivoPhoneApp) | `Android, Utilities` |
+| **TouchHLE** | A high-level emulator for iPhone OS apps. It runs on modern desktop operat… | [GitHub](https://github.com/touchHLE/touchHLE) | `Android, MacOS, Windows, Utilities` |
+| **RXResu** | Reactive Resume is a free, open-source resume builder designed to streamli… | [GitHub](https://github.com/AmruthPillai/Reactive-Resume) | `Website, AI` |
+| **Scan Bridge** | A Material You app featuring scanning of documents, photos, and more over… | [GitHub](https://github.com/Chrisimx/ScanBridge) | `Android, Utilities` |
+| **Logline** | An open-source Android app that provides a seamless movie browsing experie… | [GitHub](https://github.com/Patch4Code/Logline) | `Android, Streaming, Tools` |
+| **Thor** | Thor is an Android App Manager and App Installer utility | [GitHub](https://github.com/trinadhthatakula/Thor) | `Android, Root, Tools` |
+| **LLPlayer** | A video player focused on subtitle-related features such as dual subtitles… | [GitHub](https://github.com/umlx5h/LLPlayer) | `Windows, Desktop, Utilities, AI` |
+| **Linux on PDF** | Linux running inside a PDF file via a RISC-V emulator, which is based on T… | [GitHub](https://github.com/ading2210/linuxpdf) | `Desktop, Utilities` |
+| **Loras-dev** | An open source real-time AI image generator. Powered by Flux through Toget… | — | `Website, AI, Tools` |
+| **Spotify AdBlocker (Spotify AB)** | Spotify AB  provides a tool to block ads and trackers in the Spotify deskt… | [GitHub](https://github.com/An0n-00/SpotifyAB) | `Windows, Music, Tools` |
+| **Cust Termux** | A termux fork for android tv, packed with more features along with Jio TV… | [GitHub](https://t.me/popCLOUDS/8228) | `Android, TV, Utilities` |
+| **Noterly** | Simple notification reminders for Android devices. | [GitHub](https://github.com/tomc128/noterly) | `Android, Productivity, Tools` |
+| **NTH-KBD** (Nothing keyboard)** | Enjoy a Nothing-inspired keyboard app, based on FUTO keyboard. | [GitHub](https://github.com/arunk140/nth-kbd) | `Android, Tools, Nothing` |
+| **Simple Tube** | SimpleTube is a supercharged fork of [InnerTune](https://t.me/popMODS/2855… | [GitHub](https://github.com/samyak2403/Simple-Tube) | `Android, Music` |
+| **What to Watch** | WhatToWatch is the simplest and fastest way to discover movies, series, an… | [GitHub](https://github.com/theo-mesnil/WhatToWatch) | `Android, Media, Utilities` |
+| **Snatchy** | Snatchy is a lightweight Android app designed to effortlessly download and… | [GitHub](https://github.com/BERLINx03/snatchy) | `Android, Social, Media, Tools` |
+| **WallWidgy.me** | ** | [GitHub](https://github.com/not-ayan/wallwidgy) | `Wallpapers, OpenSource, UI` |
+| **ReadOut** | A cross-platform app, that seamlessly integrates book discovery, audiobook… | [GitHub](https://t.me/popCLOUDS/8189) | `Android, Desktop, Tools` |
+| **Snake Wall** | A Snake Game live Wallpaper inspired by Nothing's Snake Game Widget. | [GitHub](https://github.com/Kalpu-24/SnakeWall) | `Android, Games, Nothing` |
+| **BootAnimix** | BootAnimix is a delightful Python-based application for transforming video… | [GitHub](https://github.com/BootAnimix/script) | `Android, Tools, Personalization` |
+| **Learn Anything** | Organize world's knowledge, explore connections and curate learning paths. | [GitHub](https://github.com/learn-anything/learn-anything) | `Website, Productivity` |
+| **Payload Dumper** | A simple tool to dump Android payload.bin from full OTA URL or local | [GitHub](https://github.com/rcmiku/Payload-Dumper-Compose) | `Android, Tools` |
+| **DaedalOS** | A Web-based operating system, similar to windows, yet contains some good f… | [GitHub](https://github.com/DustinBrett/daedalOS) | `Website, Windows, MacOS, iOS, Android, utilities, tools` |
+| **Z**asper** | Zasper is an IDE designed from the ground up to support massive concurrenc… | [GitHub](https://github.com/zasper-io/zasper) | `windows, linux, mac, ide` |
+| **Pixelix** | Experience high-performance Pixelfed interactions on Android with a custom… | [GitHub](https://github.com/daniebeler/pixelix) | `Social, Android, utilities` |
+| **Open Genmoji** | Open Genmoji attempts to recreate Apple's Genmoji feature, but with open t… | [GitHub](https://github.com/EvanZhouDev/open-genmoji) | `tutorial, Customization, Ai, Tools` |
+| **Musikus** | A fork/continuation of PracticeTime. it helps you during practicing your i… | [GitHub](https://t.me/popCLOUDS/8075) | `Android, Utilities` |
+| **GhostIDE** | GhostIDE is a lightweight and efficient Integrated Development Environment… | [GitHub](https://t.me/ghost_web_ide) | `Android, Development, Tools` |
+| **DOOM On PDF** | Yes, that's correct. Doom can be run on a PDF file!  Just open the pdf usi… | [GitHub](https://github.com/ading2210/doompdf) | `Android, iOS, PC, Windows, game` |
+| **Arnis** | Generate any location from the real world in Minecraft Java Edition with a… | [GitHub](https://github.com/louis-e/arnis) | `question, Windows, Linux, Tools` |
+| **FullMoon** | The simplest way to use private LLMs: This program works fully offline and… | [GitHub](https://github.com/mainframecomputer/fullmoon-ios) | `IOS, MacOS, AI, AI_Models, llama` |
+| **czkawka** | A simple, fast and free app to remove unnecessary files from your computer. | [GitHub](https://github.com/qarmin/czkawka) | `Desktop, Windows, linux, Mac, Utilities` |
+| **FaFa Runner** | FaFa Runner is an exciting gaming project that delivers a captivating expe… | [GitHub](https://github.com/fafarunner/fafarunner) | `Games, Android, iOS, Linux, Windows` |
+| **yami - An open-source music player with simple UI** | Yami is a lightweight, open-source, cross-platform Python music player foc… | [GitHub](https://github.com/DevER-M/yami) | `installation, Desktop, Music` |
+| **Cronica** | Cronica is a minimalist watchlist app that reminds you about upcoming rele… | [GitHub](https://github.com/egger/cronica) | `Utilities, iOS, MacOS` |
+| **Scira (Formerly MiniPerplx)** | A minimalistic AI-powered search engine that helps you find information on… | — | `Website, AI, Tools` |
+| **FacePoke** | FacePoke is an online AI-powered tool that allows you to edit and animate… | — | `Website, Ai, Tools` |
+| **SideStore** | Sideload apps on iOS devices | [GitHub](https://github.com/SideStore/SideStore) | `Sideloading, iOS, AltStore, AppStoreAlternative` |
+| **Undo Close Tabs** | Allows you to restore the tab you just closed with a single click—plus it… | [GitHub](https://github.com/M-Reimer/undoclosetab) | `Extension` |
+| **HeartRate** | An Android application to measure your heart rate using your phone's camer… | [GitHub](https://github.com/6SUPER6SONIC6/HeartRate) | `Android, Health, Fitness, OpenSource` |
+| **AliasVault** | An end-to-end encrypted password and alias manager that protects your priv… | [GitHub](https://github.com/lanedirt/AliasVault) | `Docker, Windows, Linux, RaspberryPI` |
+| **Net Switch: Isolate Apps from Internet Access** | Net Switch is a Magisk/KernelSU/APatch module to isolate apps from accessi… | [GitHub](https://github.com/Rem01Gaming/net-switch) | `Android, Modules, Root` |
+| **Dotomo** | This intuitive note-taking tool efficiently transforms bedtime thoughts in… | [GitHub](https://github.com/arashmidus/dotomo) | `IOS, Utilities, AI, notes` |
+| **ALN - AirPods Like Normal** | Access AirPods' Apple-exclusive features on linux and android! | [GitHub](https://xdaforums.com/t/app-root-for-now-airpodslikenormal-unlock-apple-exclusive-airpods-features-on-android.4707585) | `Android, Linux, Utilities, AirPods, Sound` |
+| **Parabolic** | Download web video and audio | [GitHub](https://github.com/NickvisionApps/Parabolic) | `Linux, Windows, Tools` |
+| **FeedDeck** | FeedDeck is an open source RSS and social media feed reader, inspired by T… | [GitHub](https://github.com/feeddeck/feeddeck) | `Android, iOS, Linux, Windows, MacOS, Productivity` |
+| **AnyWebView** | Allows user to switch WebView implementations on any android device. | [GitHub](https://github.com/neoblackxt/AnyWebView) | `android, root, lsposed` |
+| **QRshare** | A lightweight app to share links, contacts, and text through QR codes. Und… | [GitHub](https://github.com/mrwm/QRshare) | `android, qr` |
+| **MiniReview** | MiniReview is a curated platform that helps users discover top-rated Andro… | — | `Android, iOS, Games, Utilities` |
+| **DNSNet** | Allows you to take more control over what internet traffic goes in and out… | [GitHub](https://github.com/t895/DNSNet) | `android, dns` |
+| **Ghostty** | Ghostty is a fast, feature-rich, and cross-platform terminal emulator that… | [GitHub](https://github.com/ghostty-org/ghostty) | `Linux, MacOS` |
+| **SoundRemote** | An Android app that, when paired up with SoundRemote server, allows to cap… | [GitHub](https://t.me/popCLOUDS/7866) | `android, desktop, sound` |
+| **Youtube Times** | A Firefox Extension that replaces the undescriptive youtube time with the… | [GitHub](https://github.com/RandomGamingDev/yt-times) | `Browser, Extension, Utilities` |
+| **StyleBot** | Stylebot is a browser extension that lets you change the appearance of the… | [GitHub](https://github.com/ankit/stylebot) | `Extension, Customization` |
+| **Boring Notch** | Boring Notch is an app that transforms your MacBook's notch into a dynamic… | [GitHub](https://github.com/TheBoredTeam/boring.notch) | `MacOS, Customization, Utilities` |
+| **Merry Christmas to you, Friends.** | The gifts are already under Tree, and these are 130 promo codes for 4 Best… | [GitHub](https://pashapumadesign.com/#gsc.tab=0&t=giveaway) | `Christmas, MerryChristmas, Giveaways, gsc` |
+| **TeleVip (Xposed module)** | A Xposed module for modifying Telegram | [GitHub](https://t.me/popCLOUDS/7825) | `Android, Xposed, Root` |
+| **MMAudio** | **Generating synchronized audio from video/text | [GitHub](https://github.com/hkchengrex/MMAudio) | `Desktop, AI` |
+| **GreasyFork** | Greasy Fork is a platform that hosts user scripts—small programs designed… | [GitHub](https://github.com/greasyfork-org/greasyfork) | `Browser, Tweaking, Linux, Windows, MacOS` |
+| **CerebrasCoder** | An open-source app that generates websites with Llama3.3-70b as fast as yo… | [GitHub](https://cerebrascoder.com) | `utilities, AI, website` |
+| **DarkSky** | Presenting DarkSky, a cutting-edge Windows BlueSky client. Constructed wit… | [GitHub](https://t.me/popCLOUDS/7811) | `windows, socialmedia, client` |
+| **Global Icon Pack** | An Xposed module for applying icon packs globally. Some launchers support… | [GitHub](https://github.com/RichardLuo0/global-icon-pack-android) | `android, root, xposed` |
+| **Viper4Windows** | Unofficial version of Viper4Android, made for Windows. | [GitHub](https://github.com/masudcloud/Viper4Windows) | `Windows, Utilities` |
+| **FilmSimulator** | FilmSimulator is a cross-platform mobile app designed for Android and iOS.… | [GitHub](https://github.com/YahiaAngelo/Film-Simulator) | `Android, iOS, Media` |
+| **Mangal** | The most advanced CLI manga downloader in the entire universe! | [GitHub](https://github.com/metafates/mangal) | `Android, Linux, Windows, MacOS` |
+| **NewPipe ▶️** | NewPipe is a 3rd party client that supports many services like Youtube, Pe… | [GitHub](https://github.com/TeamNewPipe/NewPipe) | `Android, Linux, Stream` |
+| **Astroluma** ⭐️** | A feature-rich, user-friendly dashboard designed to help you manage multip… | [GitHub](https://github.com/Sanjeet990/Astroluma) | `Linux, Productivity` |
+| **FetchIt** | FetchIt is an Android application for easy downloading of media files from… | [GitHub](https://github.com/tharunbirla/FetchIt) | `Android, Media, Tools` |
+| **No Login** | This extension let's you to access social media websites without logging i… | [GitHub](https://github.com/MartinBraquet/no-login) | `Extension, Productivity` |
+| **Flare** | The ultimate next generation open-sourced AI powered decentralized social… | [GitHub](https://github.com/DimensionDev/Flare) | `Android, iOS, Social` |
+| **Wallet** | Wallet is designed to store card information locally on the device, ensuri… | [GitHub](https://github.com/sidhant947/Wallet) | `Android, Utilities` |
+| **p0ntus Mail** | p0ntus Mail is an open-source email and password manager (with Vaultwarden… | [GitHub](https://github.com/ihatenodejs/pontus-mail) | `Online, Services` |
+| **Well, the **new site is open for you.** | By the way, GiveAways are already available, the next one will start in ~… | — | `site, Giveaways, Wallpapers, icons, Android, iOS, PC` |
+| **Sapio** | Sapio, an anagram of "Open Source API," provides a compatibility matrix sh… | [GitHub](https://github.com/jonathanklee/sapio) | `Android, Tools` |
+| **RSAF** | RSAF is an Android document provider for the wonderful rclone. It allows a… | [GitHub](https://github.com/chenxiaolong) | `Android, Tools` |
+| **Cherrygram** | Cherrygram is a feature-rich, third-party Telegram client offering a ton o… | [GitHub](https://github.com/arsLan4k1390/Cherrygram) | `Android, Telegram, Client` |
+| **GMaps WV** | GMaps WV is a WebView wrapper for using Google Maps without exposing your… | [GitHub](https://github.com/Divested-Mobile/Maps) | `Android, Tools` |
+| **Curd** | A cli application to stream anime with Anilist integration and Discord RPC… | [GitHub](https://github.com/Wraient/curd) | `Windows, Linux` |
+| **Method Call** | An Android automation application that works specifically by mapping phone… | [GitHub](https://github.com/coleblvck/MethodCall) | `Android` |
+| **Gucken** | Gucken is a Terminal User Interface which allows you to browse and watch y… | [GitHub](https://github.com/Commandcracker/gucken) | `Android, Linux, Windows` |
+| **Librera Reader** | Librera Reader is a lightweight, free ebook reader app for Android that go… | [GitHub](https://github.com/foobnix/LibreraReader) | `Reader, Android, Comics, Books` |
+| **Overmorrow** | Your minimalist, colorful weather companion with a clean, vibrant, and ope… | [GitHub](https://github.com/bmaroti9/Overmorrow) | `Weather, Android, Minimalism, Privacy` |
+| **Fli.so** | a lightning-fast URL shortener built with SvelteKit and PocketBase. Clean… | — | `Website, Utilities` |
+| **Sticker Baker** | A versatile and feature-packed sticker creation tool for messaging apps, d… | [GitHub](https://github.com/cbh123/stickerbaker) | `AI, Stickers, Customization` |
+| **v0 by Vercel** | Vercel's AI Products consist of tools that help users generate code and im… | — | `website, ai` |
+| **EchoirX** | A successor for [FluidAC](https://t.me/popMODS/5998), aims to provide high… | [GitHub](https://github.com/imjyotiraditya/Echoir) | `Android, Music` |
+| **CityHop Cafe** | You can travel the world from the comfort of your desk at CityHop Cafe, wh… | — | `Website, VirtualTravel, Relaxation, OpenSource, LoFi` |
+| **HIFI TUI** | HIFI TUI is a privacy-focused, cross-platform, self-hostable Tidal instanc… | [GitHub](https://github.com/sachinsenal0x64/hifi-tui) | `Music, Terminal, Privacy, SelfHosted` |
+| **Muzza: The Ultimate Material 3 YouTube Music Client for Android** | The most advanced YouTube Music client for Android—sleek, feature-packed,… | [GitHub](https://github.com/Maloy-Android/Muzza) | `Android, YouTubeMusic, MusicPlayer` |
+| **QuickEdit - Photo Editor** | A lightweight and user-friendly photo editor for Android. Built with Jetpa… | [GitHub](https://github.com/Abizer-R/QuickEdit-Photo-Editor) | `Android, PhotoEditor, Utilities` |
+| **FFUpdater - Updater for privacy friendly browser** | FFUpdater is an updater for privacy-friendly browsers. It installs and upd… | [GitHub](https://github.com/Tobi823/ffupdater) | `Android, Utilities, Browser, Mail` |
+| **Link Extractor** | Modern Chrome Web Extension and Firefox Browser Addon to easily extract, p… | [GitHub](https://github.com/cssnr/link-extractor) | `Browser, Extension` |
+| **Cache Cleaner** | Modern extension to easily clean selected cache items specific sites or th… | [GitHub](https://github.com/cssnr/cache-cleaner) | `Browser, Extension` |
+| **Find My IP** | __Find My IP is a straightforward Android app designed to fetch and option… | [GitHub](https://github.com/maksimowiczm/find-my-ip) | `android, tool, Utilities, Location` |
+| **Flowtide** | It is a beautiful, smart New Tab page for your browser. Magic Search is th… | [GitHub](https://github.com/thingbomb/flowtide) | `Browser, Extension` |
+| **Wattesigma?🗿** | A skibidi browser made for sigmas. Built on the goofy ahh Godot game engin… | [GitHub](https://t.me/popCLOUDS/7460) | `compiling, Windows, Browser` |
+| **Joplin** | A great app to take notes and make to-do lists, eazy to use and also packe… | [GitHub](https://github.com/laurent22/joplin) | `windows, desktop, linux, mac, utilities` |
+| **Dead Man's Switch Python Script** | This Python script acts as a Dead Man's Switch, sending reminder emails ba… | [GitHub](https://github.com/yusufipk/dead-man-message) | `Online, Tools` |
+| **Modern Android Lock Screen Project** | Malsp is a preset for KLCK that brings the Google Pixel lock screen experi… | [GitHub](https://t.me/popCLOUDS/7395) | `Android, Customization` |
+| **Missing Core** | A Nothing-inspired music player. | [GitHub](https://github.com/MissingCore/Music) | `Android, MusicPlayer, nothing` |
+| **Mutable** - **hide* content across the web and save your sanity** | Take control of the websites you browse every day and eliminate the conten… | [GitHub](https://github.com/IdreesInc/Mutable) | `Extension, iOS, MacOS` |
+| **Win11 Edit Menu Enabler and Default Program Setter** | This program enables the **"**Edit**"** option in the right-click context… | [GitHub](https://github.com/osmanonurkoc/edit_menu_configurator) | `Windows, Utilities` |
+| **Tiny Music Player** | A open source Music player without crap and super tiny (20kb <, No GUI) | [GitHub](https://github.com/martinmimigames/tiny-music-player) | `Android, MusicPlayer` |
+| **Gesturefy** | Gesturefy is a pure mouse gesture extension, which means it's only suited… | [GitHub](https://github.com/Robbendebiene/Gesturefy) | `Extension` |
+| **Notally**X** | a lightweight and open sourced note taking apps for android | [GitHub](https://github.com/PhilKes/NotallyX) | `Android, Notes` |
+| **SpoPlus Extension** | Extension that allows you to customize and personalize the web version of… | [GitHub](https://github.com/gerwld/spoplus-extension) | `Extension` |
+| **Human Benchmark** | Human Benchmark is a mobile application designed to test and improve your… | [GitHub](https://github.com/PrintN/Human-Benchmark) | `Android, Utilities` |
+| **Sidebery** | Firefox extension for managing tabs and bookmarks in sidebar. | [GitHub](https://github.com/mbnuqw/sidebery) | `Extension, Productivity` |
+| **Augmented Steam** | Augmented Steam is a browser extension that improves your experience on th… | [GitHub](https://github.com/IsThereAnyDeal/AugmentedSteam) | `Extension` |
+| **LinkHub** | a open sourced android app to save link effortlessly | [GitHub](https://github.com/AmrDeveloper/LinkHub) | `Android, Clipboard` |
+| **VolumeLockr** | VolumeLockr allows you to control your Android device volume levels and se… | [GitHub](https://github.com/jonathanklee/VolumeLockr) | `Android, Tools` |
+| **Geo Share** | An Android app to turn Google Maps URLs into geo: URLs. | [GitHub](https://github.com/jakubvalenta/geoshare) | `Android, Tools, Maps` |
+| **Figura - A Free MacOS (14+) Native Background Remover** | A sleek, free native macOS app that removes backgrounds from images with a… | [GitHub](https://t.me/popCLOUDS/7305) | `MacOS, Tools` |
+| **Pywalfox** | Pywalfox is a Firefox theme generator that dynamically changes the browser… | [GitHub](https://github.com/Frewacom/pywalfox) | `Extension, Windows, Linux, MacOS` |
+| **Medio - A Free MacOS Diff Checker** | A fast, native and free macOS text comparison tool with real-time diff hig… | [GitHub](https://github.com/nuance-dev/medio) | `MacOS, Tools` |
+| **Achico - A Free MacOS Native File Compression App** | A lightweight, native macOS app that intelligently compresses files while… | [GitHub](https://github.com/nuance-dev/achico) | `MacOS, Tools` |
+| **Tasks.org** | A open source task and reminder for android | [GitHub](https://github.com/tasks/tasks) | `Android, Task, Reminder` |
+| **Metrolist: The Ultimate Music Player for Android** | A powerful, feature-packed music player—simple, fast, and customizable. En… | [GitHub](https://github.com/mostafaalagamy/Metrolist) | `Android, MusicPlayer, Audio, OpenSource` |
+| **Tabby - Window & Tab Manager** | Tabby is an open-source window & tab manager that can manage great amounts… | [GitHub](https://github.com/Bill13579/tabby) | `Firefox, Extension` |
+| **Retrom** | Host your game collection centrally, play on any device, and manage emulat… | [GitHub](https://github.com/JMBeresford/retrom) | `installation, Linux, Windows, MacOS, Gaming, Tools` |
+| **Hurmet** | A web-based rich text editor endowed with live calculations. With it, you… | — | `utilities, web, text` |
+| **AIDE - Your Coding Pal 👨‍💻** | An Open Source AI-native code editor. It is a fork of VS Code, yet it is b… | [GitHub](https://github.com/codestoryai/aide) | `Code, Linux, IDE, VScode, Windows, MacOS, programming, coding` |
+| **Sozo** | Synchronize anime and manga with the help of AniList in real time. You can… | [GitHub](https://t.me/sozo_disscussion) | `Android, Anime, Reader` |
+| **Mochi Ai** ✨** | A Built-different AI video generation model from Genmo, Allows you to gene… | — | `Ai, video, generate, innovate` |
+| **Seanime** | Seanime is a free, open-source and self-hosted media server built around A… | [GitHub](https://github.com/5rahim/seanime) | `features, Windows, Tools` |
+| **Music Sleep Timer Plus** | Music Sleep Timer Plus is an Android app that allows you to set a timer to… | [GitHub](https://t.me/popCLOUDS/7224) | `Android, Tools` |
+| **Seems like Mozilla working on another browser for mobile.** | https://github.com/mozilla-mobile/reference-browser | [GitHub](https://github.com/mozilla-mobile/reference-browser) | `—` |
+| **TubeSync** | Sync YouTube playlists offline. Because YT Music is....? | [GitHub](https://t.me/popCLOUDS/7222) | `Android, Music` |
+| **Stirling-PDF** | Stirling-PDF is a robust, locally hosted web-based PDF manipulation tool u… | [GitHub](https://github.com/Stirling-Tools/Stirling-PDF) | `Windows, Tools` |
+| **File Explorer** | A full-featured and lightweight file managing app written in kotlin with J… | [GitHub](https://github.com/Raival-e/File-Explorer-Compose) | `Android, FileExplorer` |
+| **Scarbir.com is a website dedicated to providing honest reviews of affordable true wireless earphones (for example; best under $100, best under $50, best under $25)** | — | — | `Website, Guides` |
+| **Frigoligo** | Your article with you | [GitHub](https://github.com/casimir/frigoligo) | `features, Android, Article` |
+| **Bolt.new** | Prompt, run, edit, and deploy full-stack web applications. | [GitHub](https://github.com/stackblitz/bolt.new) | `Website, Online, Tools` |
+| **Screenshot Tile No Root** | This is a tools to take screenshot without root by using accessibility ser… | [GitHub](https://github.com/cvzi/ScreenshotTile) | `Android, Screenshot` |
+| **TeleWatch** | Telewatch is a Telegram client for Android watches. | [GitHub](https://t.me/popCLOUDS/7181) | `Android, Watches, Social` |
+| **Tess** - **Hackable, Simple, Rapid & Beautiful** | terminal for the new era of technology.** | [GitHub](https://t.me/popCLOUDS/7180) | `Linux, Windows, Tools` |
+| **Mirarr** | This is a movie app that aims to simplify the process of watching movies a… | [GitHub](https://github.com/mirarr-app/mirarr) | `Android, IOS, Windows, Linux` |
+| **X to Voice** | Open-source tool that analyzes your X/Twitter profile data to generate a c… | — | `Online, AI` |
+| **BiliDownOut** | BiliDownOut is a tool designed to export videos downloaded from the BiliDo… | [GitHub](https://f-droid.org/packages/cn.a10miaomiao.bilidown) | `Android, Tools` |
+| **GPRM : GitHub Profile ReadMe Maker** | Best Profile Generator, Create your perfect GitHub Profile ReadMe in the b… | [GitHub](https://github.com/VishwaGauravIn/github-profile-readme-maker) | `Website, Tools` |
+| **Cleaner Royall: The Most Advanced Root Cleaner for Android** | The best cleaning app ever made—ultra-fast, lightweight, and powerful. Roo… | [GitHub](https://github.com/araafroyall/Cleaner-Royall) | `Android, Utilities, Cleaner, Performance` |
+| **Photes. io** | Photes is an AI-powered tool that transforms photos into well-structured t… | — | `Website, Tools` |
+| **Frosty** | A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and… | [GitHub](https://github.com/tommyxchow/frosty) | `Android, iOS, Social, Root, Modules` |
+| **Animetail** | Full-featured player and reader, based on Tachiyomi Mihon. | [GitHub](https://github.com/Dark25/Animetail2) | `Android` |
+| **VideoLingo - Connect the World, Frame by Frame** | VideoLingo is an all-in-one video translation, localization, and dubbing t… | [GitHub](https://github.com/Huanshere/VideoLingo) | `Online, AI, Translation` |
+| **AnLinux** | Run Linux on Android without root access. Supports 2 Desktop Environments,… | [GitHub](https://github.com/EXALAB/AnLinux-Adfree) | `Android, Linux, Tools` |
+| **Splitcat** | Simple flutter app for spliting and merging files with predefined applicat… | [GitHub](https://github.com/vogonwann/splitcat) | `Android, Windows, Linux, Tools` |
+| **Clippy** | Clippy is a simple app that allows you to copy links directly from the And… | [GitHub](https://github.com/WSTxda/Clippy) | `Android, Utilities` |
+| **Aer - Fork of **[**Anemo**](https://t.me/popMODS/5187)** | Private storage utility for android with support for external storage medi… | [GitHub](https://github.com/nain-F49FF806/anemo-aer) | `Android, privacy` |
+| **JumpCutter - Speed Up Video Playback by Cutting Silence** | JumpCutter is a tool that automatically cuts out silence from videos, spee… | [GitHub](https://github.com/WofWca/jumpcutter) | `Browser, Productivity, Utilities` |
+| **GPTMobile** | Your all in one chat assistant - Chat with multiple LLMs at once and an Ma… | [GitHub](https://github.com/Taewan-P/gpt_mobile) | `Android, AI` |
+| **GeoNotes** | A simple and lightweight app to create and manage georeferenced notes (tex… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/de.hauke_stieler.geonotes) | `Android, Utilities` |
+| **Paranoid's Pal - Privacy Lock** | It’s important to lock your Android device when you aren’t using it so tha… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.paranoid.privacylock) | `Android, Privacy` |
+| **Server Box** | A Flutter project which provide charts to display Linux server status and… | [GitHub](https://github.com/lollipopkit/flutter_server_box) | `Network, Tools, Android, MacOS, iOS, Windows, Linux` |
+| **Gamedge** | An Android application for browsing video games and checking the latest ga… | [GitHub](https://github.com/mars885/gamedge) | `Android, Utilities` |
+| **Vernet** | Network Analyzer and Monitoring Tool | [GitHub](https://t.me/popCLOUDS/7001) | `Network, Tools, Android, Linux, Windows, MacOS` |
+| **OpenDocument Reader** | View OpenOffice and LibreOffice documents on the go. Now available for And… | [GitHub](https://f-droid.org/packages/at.tomtasche.reader) | `Android, iOS, Tools` |
+| **Tool Telegram** | Send messages on telegram as a bot, easily. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/dev.trindadedev.tooltelegram) | `Android, Tools` |
+| **Pazzword - The most intelligent password evaluator app** | It analyzes passwords using the open source library 'nbvcxz', a Java adapt… | [GitHub](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword) | `Android, Tools` |
+| **Papermark - The open-source DocSend alternative.** | Papermark is the open-source document-sharing alternative to DocSend, feat… | [GitHub](https://github.com/mfts/papermark) | `getting, Linux, Windows, MacOS` |
+| **chatAir - Chat and Collaboration Tool** | A versatile chat application for real-time collaboration and communication… | [GitHub](https://t.me/popCLOUDS/6949) | `Android, ChatApp, AI` |
+| **Keysh - Handle volume buttons on Android** | App for handling volume button presses. Works when the screen is off. The… | [GitHub](https://f-droid.org/packages/io.github.hufrea.keysh) | `Android, Tools` |
+| **NeatLauncher - A neat and convenient launcher without icons.** | The home app (the launcher) to replace ugly home apps that are too colourf… | [GitHub](https://f-droid.org/en/packages/de.theiling.neatlauncher) | `Android, Customization` |
+| **Deal With It** | GIF emoji generator. All done artisanally and securely in your browser. | [GitHub](https://github.com/klimeryk/dealwithit) | `Website, Online, Fun` |
+| **Kurumi - Unofficial Anilist Client** | Kurumi is an unofficial anilist client application. Are you tired of getti… | [GitHub](https://github.com/subrotokumar/kurumi) | `Android` |
+| **Speedy - Combine multiple internet connections to maximize your speed.** | If you are in a place that you have multiple internet connections ( WiFi,… | [GitHub](https://github.com/RezaRafia/Speedy) | `Windows, Linux, MacOS, Tools` |
+| **Komikku** | A free and open source manga reader which is based off TachiyomiSY & Mihon… | [GitHub](https://github.com/komikku-app/komikku) | `Android` |
+| **Meshenger - P2P Voice/Video phone App for local networks.** | Direct voice- and video phone calls. No need for accounts or access to the… | [GitHub](https://f-droid.org/packages/d.d.meshenger) | `Android, Utilities` |
+| **wBlock - The next-generation ad blocker for Safari.** | wBlock is a powerful content blocker for macOS that cuts through the noise… | [GitHub](https://t.me/popCLOUDS/6865) | `MacOS, Tools` |
+| **DeskPad - A virtual monitor for screen sharing** | Certain workflows require sharing the entire screen (usually due to switch… | [GitHub](https://github.com/Stengo/DeskPad) | `MacOS, Tools` |
+| **APK Explorer & Editor** | Unlock Your APKs! | [GitHub](https://github.com/apk-editor/APK-Explorer-Editor) | `tools, utilities, android` |
+| **MultiLocale** | A simple app that enables you to add additional (or "unsupported") languag… | [GitHub](https://t.me/popCLOUDS/6843) | `Android, Root` |
+| **ShowCase** | ShowCase (formerly Movie DB) is a fully open-source android application fo… | [GitHub](https://f-droid.org/packages/com.wirelessalien.android.moviedb) | `Android, Utilities` |
+| **Timed Shutdown Android app (No Root)** | An app for android that will automatically shutdown your phone after a tim… | [GitHub](https://github.com/maforn/TimedShutdownAndroid) | `Android, Utilities` |
+| **Blitz AI** | Blitz AI is an android application built with jetpack Compose which utiliz… | [GitHub](https://t.me/blitzzAI) | `supported, Android, Productivity, AI` |
+| **Spotify Downloader** | App that allows you to download your favorite playlists at the touch of ju… | [GitHub](https://github.com/C0ntrolDev/spotify_downloader) | `Android, Music` |
+| **JsonList** | A Material You Android application for previewing JSON files in a user-fri… | [GitHub](https://slavce14.github.io/redirect?link=jsonlist-izzy) | `Android, Tools` |
+| **Grit** | A simple ToDo list and Habit Tracker | [GitHub](https://f-droid.org/packages/com.shub39.grit) | `Android, Productivity` |
+| **Clapgrep** | Ever had a folder full of PDF files, where you knew, somewhere in there, i… | [GitHub](https://flathub.org/apps/de.leopoldluley.Clapgrep) | `Linux, Utilities` |
+| **Chance** | Create custom dice | [GitHub](https://github.com/jameshnsears/Chance) | `Android, Utilities, iOS, Media, Social` |
+| **AnymeX** | Welcome to AnymeX, your ultimate destination for a seamless anime and mang… | [GitHub](https://t.me/AnymeX_Update) | `Android, Anime, Manga` |
+| **Azyx** | Your ultimate companion for watching anime and reading manga, all in one p… | [GitHub](https://t.me/repobusket/991) | `Android, Anime` |
+| **Qwotable** | Qwotable is a simple Android application filled with quotable stuff. Besid… | [GitHub](https://github.com/Lijucay/Qwotable) | `Android, Activities` |
+| **TIDY - Find your photos, Fast and Offline** | **TIDY** is an offline semantic Text-to-Image and Image-to-Image search ap… | [GitHub](https://github.com/slavabarkov/tidy) | `search, photos, offline, android, AI` |
+| **LabNex - Android app for GitLab** | LabNex is an open-source Android app for GitLab. You can use it with GitLa… | [GitHub](https://play.google.com/store/apps/details?id=com.labnex.app.premium) | `Android, Utilities` |
+| **Watomatic - Auto reply for WhatsApp so you can stop using it** | Watomatic sends an automated reply to everyone contacting you on WhatsApp.… | [GitHub](https://github.com/adeekshith/watomatic) | `Android, Tools` |
+| **Stride** | Task menagement application with in-built git integration. | [GitHub](https://f-droid.org/en/packages/org.stridetasks.stride) | `Android, Tools, Tracker, Fitness, Health, StepCounter` |
+| **Open Scanner - Fast, free document scanning app for iPhone**.** | Open Scanner scans your receipts, notes, textbooks, and anything else you… | [GitHub](https://github.com/pencilresearch/OpenScanner) | `iOS, Tools` |
+| **DigiPaws** | DigiPaws is an open-source Android productivity utility designed to help u… | [GitHub](https://t.me/fossclouds/179) | `Android, Productivity` |
+| **NeoStumbler** | NeoStumbler is an Android application for collecting locations of cell tow… | [GitHub](https://github.com/mjaakko/NeoStumbler) | `Android, Tools` |
+| **Nekome** | ** | [GitHub](https://github.com/Chesire/Nekome) | `Android` |
+| **Feed Flow** | Feed Flow is a minimalistic RSS Reader available on Android, iOS and macOS… | [GitHub](https://www.f-droid.org/tr/packages/com.prof18.feedflow) | `RSS, Desktop, android` |
+| **Password To Remember | PTR** | PTR is a great tool for android devices that generates strong, yet memorab… | [GitHub](https://github.com/v4lpt/pwg) | `Android, Security` |
+| **Mindful** | Mindful is a free and open-source app designed to help you regain control… | [GitHub](https://play.google.com/store/apps/details?id=com.mindful.android) | `Android, Productivity` |
+| **F*cks Given** | F*cks Given lets you keep track of the things that made you care. Whenever… | [GitHub](https://play.google.com/store/apps/details?id=rocks.poopjournal.fucksgiven) | `Android` |
+| **Visual Code Space** | Visual Code Space is a **powerful** and **feature-rich** code editor desig… | [GitHub](https://github.com/Visual-Code-Space/Visual-Code-Space) | `Android` |
+| **MemLoader (formerly XLoad)** | Load objects directly into RAM to reduce I/O operations and improve access… | [GitHub](https://github.com/iamlooper/MemLoader) | `notes, credits, Android, Root, Modules` |
+| **Material You NewTab** | Experience a sleek NewTab or homepage theme for your browser, inspired by… | [GitHub](https://github.com/XengShi/materialYouNewTab) | `Extension` |
+| **Jetflix** **- Your New Movie-Obsessed BFF** | Jetflix is your one-stop shop for discovering your next cinematic obsessio… | [GitHub](https://github.com/yasinkacmaz/jetflix) | `movies, android` |
+| **2Fast** | 2fast (acronym for two factor authenticator supporting TOTP) is a free, op… | [GitHub](https://t.me/popCLOUDS/6615) | `Windows` |
+| **BiglyBT** | BiglyBT for Android is an ad-free, fully featured open source bittorrent c… | [GitHub](https://f-droid.org/packages/com.biglybt.android.client) | `Android` |
+| **MeRead** | A concise and easy-to-use RSS reader built with Flutter and designed with… | [GitHub](https://github.com/gvenusleo/MeRead) | `Android` |
+| **dex2oat optimizer** | An ART optimization module to accelerate app launches and improve system p… | [GitHub](https://github.com/iamlooper/dex2oat-optimizer) | `notes, credits, Android, Root, Modules` |
+| **GreenStash** | GreenStash is a simple FOSS android app to help you plan and manage your s… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.starry.greenstash) | `Android` |
+| **Lemuroid** | Lemuroid is an open-source emulation project for Android based on Libretro… | [GitHub](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | `Android` |
+| **Ryu** | A simple way to enjoy and watch anime on iOS | [GitHub](https://github.com/cranci1/Ryu) | `IOS` |
+| **Lisa** | A Desktop application, for streaming and downloading your favourite Anime… | [GitHub](https://github.com/Cosmicoppai/LiSA) | `Windows` |
+| **Grocery Genius** | Grocery Genius is a free, customizable shopping list app with a modern des… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.rendox.grocerygenius) | `features, Android, Utilities` |
+| **MemeUI Enhancer** | Enhances MIUI/HyperOS for better battery backup and performance. | [GitHub](https://github.com/iamlooper/MemeUI-Enhancer) | `notes, credits, Android, Root, Modules` |
+| **Arru - Your expenses tracker** | Arru is an app for expenditure tracking/analysis. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.kssidll.arru) | `Android, Utilities` |
+| **TextBin** | A modern, responsive web app and FOSS alternative to Pastebin. It provides… | — | `Website` |
+| **Simple Keyboard - Simply keyboard and nothing more** | This keyboard is created for those who only need a keyboard and nothing mo… | [GitHub](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod) | `Android, Keyboard` |
+| **Cirno** | Cirno is an application freezer that runs on all platforms with Android 12… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/nep.timeline.cirno) | `Android, XPosed, Modules, Root` |
+| **WhatSave** | An application that helps you save WA statuses in the easiest way. | [GitHub](https://github.com/mardous/WhatSave) | `Android, Tools` |
+| **Lost Media Archive** | — | — | `Website` |
+| **BCL and ACC** | **ACC** is an Android software mainly intended for extending battery servi… | [GitHub](https://github.com/VR-25/acc) | `Android, Root, Modules` |
+| **Extinguish** | Extinguish turns your screen off but keeps your device awake (not going to… | [GitHub](https://t.me/fossclouds/158) | `Android, Utilities` |
+| **mpvKt** | A media player for Android based on mpv-android aiming to provide a nicer… | [GitHub](https://github.com/abdallahmehiz/mpvKt) | `Android, Player` |
+| **Capter** | A simple cross-platform screenshot tool made in Rust | [GitHub](https://t.me/popCLOUDS/6508) | `Linux, MacOS, Windows, Tools` |
+| **Bookracy** | Bookracy is a open-source project that aims to provide a platform for shar… | [GitHub](https://discord.com/invite/bookracy) | `Website, Ebooks` |
+| **LinUtil** **- Your Linux Toolbox for Efficiency** | **LinUtil** is a distro-agnostic toolbox written in Rust, designed to simp… | [GitHub](https://github.com/ChrisTitusTech/linutil) | `linux, utilities, terminal` |
+| **Uwidgets** | The standalone .NET application features customizable widgets such as a cl… | [GitHub](https://t.me/fossclouds/137) | `Windows, Customization` |
+| **Recording Studio** | Capture your sound with style! | [GitHub](https://github.com/Leonidius20/RecordingStudio) | `android, utilities, tools, audio` |
+| **Native Alpha** | full screen Web Apps with shortcuts and custom settings | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.cylonid.nativealpha) | `Android, Tools` |
+| **WeatherMaster** | WeatherMaster is developed with pure HTML, CSS, JavaScript, and Java. Desi… | [GitHub](https://github.com/PranshulGG/WeatherMaster) | `Android, Weather` |
+| **Blommee** | **An experimental cross-platform open Source Music player designed to brin… | [GitHub](https://github.com/HemantKArya/BloomeeTunes) | `Android, Music` |
+| **freeDictionary** | Remember Owl2? It's back, better than ever!🦉 | [GitHub](https://github.com/yamin8000/freeDictionaryApp) | `android, utilities, tools, productivity` |
+| **Fogplix** | Fogplix Anime is an application where you can watch or download over ten t… | [GitHub](https://t.me/popCLOUDS/6429) | `Android, AndroidTV` |
+| **Re-Malwack** | A revival of Malwack magisk module, yet it is also updated regularly and e… | [GitHub](https://github.com/ZG089/Re-Malwack) | `Android, Magisk, module, ad_block, adblock, ad_blocker, adblocker` |
+| **NumberHub** | Remember Unitto? It's Back! | [GitHub](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Myzel394/NumberHub) | `android, utilities, tools, productivity` |
+| **Pixelspoof** | A module for LSPosed that lets you spoof all device-specific properties of… | [GitHub](https://github.com/RisenID/PixelSpoof) | `Android, xposed, root` |
+| **A**wery** | Imagine the perfect app where you can customize everything, with tons of f… | [GitHub](https://github.com/MrBoomDeveloper/Awery) | `Android` |
+| **Pixel Studio Enabler** | Enables Pixel Studio App for all devices (A13+) systemlessly. | [GitHub](https://t.me/popCLOUDS/6339) | `Android, xposed, root` |
+| **Smart Pixels (XPosed Module)** | Smart Pixels is a battery-saving function found on some devices. It works… | [GitHub](https://github.com/frknkrc44/SmartPiXelsPosed) | `Android, Xposed, Modules, Root` |
+| **WhiteHole** | **Android app** to **auto-backup your photos using Telegram.** **Creates a… | [GitHub](https://github.com/beradeep/whitehole) | `android, photos, telegram, client, backup` |
+| **Findroid** | ** | [GitHub](https://github.com/jarnedemeulemeester/findroid) | `android, media, movies, series, music, cilent` |
+| **Dirol Reader** | **Smart news feed** from **Telegram channels in one place**. | [GitHub](https://github.com/therxmv/Dirol-Reader) | `android, telegram, client, productivity, utilities` |
+| **Xtreme DL Manager** **(XDM)** | **XDM** is a **download manager** that **boosts download speeds** by **up… | [GitHub](https://github.com/subhra74/xdm) | `downloads, windows, linux, mac, chrome, edge, firefox, utilities, tools` |
+| **PasteBar** | **Limitless Clipboard Manager** | — | `windows, mac, utilities, tools, productivity` |
+| **Walker** | A highly extendable application launcher that doesn't hold back on feature… | [GitHub](https://github.com/abenz1267/walker) | `installation, Linux, utilities, tools` |
+| **Screenbox Media Player** | **Screenbox** is a **sleek**, **fast player** works seamlessly on **Window… | [GitHub](https://github.com/huynhsontung/Screenbox) | `windows, video, music` |
+| **BraveGPT** | A script file can run AI to Brave Search and you Ask from any site. BraveG… | [GitHub](https://github.com/KudoAI/bravegpt) | `installation, android, desktop, script` |
+| **WinDiskWriter** | A macOS app that creates bootable USB drives for Windows. Patches Windows… | [GitHub](https://github.com/TechUnRestricted/WinDiskWriter) | `macOS, Tools` |
+| **LittleLink** | The DIY self-hosted LinkTree alternative. LittleLink has more than 100 bra… | [GitHub](https://github.com/sethcottle/littlelink) | `Website` |
+| **Magpie** | A lightweight window scaling tool that comes equipped with various efficie… | [GitHub](https://github.com/Blinue/Magpie) | `magpie, Windows, Tools, Gaming` |
+| **FadCrypt** | Advanced and elegant Windows app encryption – powerful, customizable, open… | [GitHub](https://github.com/anonfaded/FadCrypt) | `windows, privacy` |
+| **YouTube Music Desktop App** | Looking for a better way to enjoy YouTube Music on your desktop? The YouTu… | [GitHub](https://t.me/popCLOUDS/6318) | `available, translation, build, Windows, Music` |
+| **AB Download Manager** | AB Download Manager is a desktop app which lets you manage and organize yo… | [GitHub](https://github.com/amir1376/ab-download-manager) | `Windows, Linux` |
+| **TriPeaks** | An open source solitaire game with multiple playing options. | [GitHub](https://github.com/mimoguz/tripeaks-gdx) | `Android, game` |
+| **(Enhanced post)__ [File Navigator](https://t.me/popMODS/4801)** | Are you tired of cluttered files on your device? Seeking a streamlined way… | [GitHub](https://github.com/w2sv/FileNavigator) | `Android, Tools` |
+| **CleanSnap** | ** | — | `Website, AI` |
+| **SubTypo** | A Wonderful Android App to edit videos' subtitles files, with Material des… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.teixeira.subtitles) | `Android, Tools, video` |
+| **Share Paste O₂** | Share Paste is a [privatebin](https://privatebin.net/) client for android. | [GitHub](https://github.com/nain-F49FF806/sharepaste.oo) | `Android, Tools` |
+| **Android Easter Eggs Collection (AEEC)** | A wonderful collection of Android Easter Eggs in one App! beginning from A… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.dede.android_eggs) | `Android` |
+| **You Have Mail** | Small application to notify you when you receive an email in your email ac… | [GitHub](https://f-droid.org/packages/dev.lbeernaert.youhavemail) | `Android, Tools` |
+| **OuterTune** | A lightweight YouTube Music Client, with material UI design, and ability t… | [GitHub](https://appteka.store/app/a98r183248) | `Android, Tools, Music` |
+| **MicroG RE** | MicroG RE, The Best replacement for the original MicroG App, with material… | [GitHub](https://www.apkmirror.com/apk/wstxda/microg-re-microg-services-redesign-revanced) | `Android, Tools` |
+| **Island** | A sandbox environment, allowing you to clone selected apps and run them in… | [GitHub](https://github.com/oasisfeng/island) | `Android` |
+| **Book's** **Story** | **__Dive into the world of adventure as you discover your favorite book's… | [GitHub](https://github.com/Acclorite/book-story) | `Android, Reader` |
+| **Refreezer** | An alternative Deezer music streaming & downloading client, based on Freez… | [GitHub](https://github.com/DJDoubleD/refreezer) | `deezer, Android, Music` |
+| **Aard 2** | Aard 2 is a dictionary and offline Wikipedia reader supporting multiple la… | [GitHub](https://github.com/itkach/aard2-android) | `Android` |
+| **Screenstream** | A user-friendly Android application that allows users to easily share thei… | [GitHub](https://github.com/dkrivoruchko/ScreenStream) | `Android` |
+| **BoxBuddy** | An unofficial GUI for managing your Distroboxes. Written with GTK4 + Libad… | [GitHub](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) | `Linux, Tools` |
+| **Wike** | Wike** is a Wikipedia reader for the GNOME Desktop. Provides access to all… | [GitHub](https://github.com/hugolabe/Wike) | `Linux` |
+| **Lucida** | Lucida is an all in one solution to download music from every popular plat… | — | `Website` |
+| **ImageGlass** | **ImageGlass is a lightweight software designed for seamless viewing of im… | [GitHub](https://github.com/d2phap/ImageGlass) | `Windows` |
+| **Distrobox** | Use any linux distribution inside your terminal. Enable both backward and… | [GitHub](https://github.com/89luca89/distrobox) | `installation, Linux, Tools` |
+| **Docmost** | **An open-source collaborative wiki and documentation platform, serving as… | [GitHub](https://github.com/docmost/docmost) | `screenshots, Tools, Productivity` |
+| **Shake Alarm Clock** | **An alarm clock app for Android which allows you to dismiss the ringing a… | [GitHub](https://play.google.com/store/apps/details?id=in.basulabs.shakealarmclock) | `Android` |
+| **Taiga** | ** | [GitHub](https://github.com/erengy/taiga) | `Windows` |
+| **Fluxtube** | A powerful and ad-free YouTube client built using Flutter. Watch YouTube v… | [GitHub](https://apt.izzysoft.de/packages/com.fazilvk.fluxtube) | `Android` |
+| **Keyboard GPT** | ** | [GitHub](https://github.com/Mino260806/KeyboardGPT) | `Android, Root, NoRoot, LSPosed` |
+| **GoAwayEdge** | ** | [GitHub](https://github.com/valnoxy/GoAwayEdge) | `Windows` |
+| **FocusPodcast** | FocusPodcast helps you manage and play podcasts and virtual podcasts/audio… | [GitHub](https://github.com/allentown521/FocusPodcast) | `Android, Podcast` |
+| **OpenDevin** | — | — | `Windows, macOS, Linux` |
+| **TagStudio** | TagStudio is a photo & file organization application with an underlying sy… | [GitHub](https://github.com/TagStudioDev/TagStudio) | `current, Windows, macOS, Linux` |
+| **BenchSuite** | An Android app that serves as a wrapper, offering a variety of benchmarks. | [GitHub](https://github.com/iamlooper/BenchSuite) | `screenshots, Android, Tools` |
+| **LastMinute** | LastMinute is a travel website where you can find amazing late travel deal… | — | `Website` |
+| **Mica For Everyone!** | Mica For Everyone is a tool to customize system backdrop on Win32 apps usi… | [GitHub](https://github.com/MicaForEveryone/MicaForEveryone) | `Windows, Tools` |
+| **openScale** | Open-source weight and body metrics tracker, with support for Bluetooth sc… | [GitHub](https://github.com/oliexdev/openScale) | `Android, Tools` |
+| **KeyStoreViewer** | Quickly view MD5, SHA1, and Public Keys for App Signatures. | [GitHub](https://github.com/qdsfdhvh/KeyStoreViewer) | `Android, Tools` |
+| **Unyo - Anime streaming and Manga reader desktop app without ads.** | Unyo is a desktop application (inspired from Dantotsu) where you can watch… | [GitHub](https://github.com/K3vinb5/Unyo) | `Windows, Linux` |
+| **Farfalle- Open-source AI-powered search engine. (Perplexity Clone)** | Run local LLMs (llama3, gemma, mistral, phi3), custom LLMs through LiteLLM… | [GitHub](https://github.com/rashadphz/farfalle) | `use, Website, Windows, macOS, Linux, Android` |
+| **Taisei** | A free and open-source Touhou(Danmaku/Bullet Hell) Project fangame. | [GitHub](https://t.me/popCLOUDS/6093) | `Linux, Windows, Mac` |
+| **Mythic** | An open-source Epic Games Launcher alternative and normal game launcher fo… | [GitHub](https://github.com/MythicApp/Mythic) | `MacOS` |
+| **tillywork** | Manage projects, streamline marketing and sales, and create your product r… | [GitHub](https://github.com/tillywork/tillywork) | `Website` |
+| **KeyPunch** | Practice your typing skills | [GitHub](https://github.com/bragefuglseth/keypunch) | `Linux` |
+| **AirBattery** | Get battery usage of all devices on Mac and show them on the Dock / Status… | [GitHub](https://github.com/lihaoyun6/AirBattery) | `installation, MacOS` |
+| **OpenRecall** | OpenRecall is a fully open-source, privacy-first alternative to proprietar… | [GitHub](https://github.com/openrecall/openrecall) | `get, why, Windows, MacOS, Linux` |
+| **Fossify Keyboard** | Your go-to solution for effortless and efficient typing. Experience a seam… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/org.fossify.keyboard) | `Android` |
+| **Anx Reader** | ** | [GitHub](https://t.me/AnxReaderDiscussion) | `Android` |
+| **Groq** | Insanely fast Artificial Intelligence interface that uses five different o… | — | `Android, Mod` |
+| **Happy #WorldEmojiDay !** | Just open sourced my Noto Emoji fork called Noto Emoji Plus! | [GitHub](https://github.com/RadekBledowski/noto-emoji-plus) | `WorldEmojiDay` |
+| **Xash 3D** | Xash 3D is an open source app to run GoldSrc engine based games in android… | [GitHub](https://github.com/FWGS/xash3d-fwgs) | `Android` |
+| **NLSound** | ** | [GitHub](https://github.com/Briclyaz/NLSound_module_QCom) | `Android, Magisk, KSU` |
+| **Play NotePad** | ** | [GitHub](https://play.google.com/store/apps/details?id=com.mshdabiola.playnotepad) | `Android, NotePad` |
+| **AI Uncensored** | AI Uncensored is an Artificial Intelligence with no filters, designed for… | — | `Website, AI` |
+| **EeveeSpotify** | This tweak makes Spotify think you have a Premium subscription, granting f… | [GitHub](https://github.com/whoeevee/EeveeSpotify) | `how, restrictions, lyrics, iOS` |
+| **WhatsApp MaterialYou Guide!** | __Use material you colors in WhatsApp__ [ROOT REQUIRED] | [GitHub](https://github.com/mywalkb/LSPosed_mod) | `—` |
+| **FadCam** | A cam recorder that allows seamless background video recording, even when… | [GitHub](https://github.com/anonfaded/FadCam) | `Android` |
+| **Logger** | Logger is a Flutter-based Android app that enables you to view and export… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.logger.app) | `Android, Tools` |
+| **Calculator You** | Calculator You is a beautiful calculator for solving simple tasks. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.marktka.calculatorYou) | `what, Android, Tools` |
+| **Capy Reader** | A smallish RSS reader with support for Feedbin and local feeds. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.capyreader.app) | `Android` |
+| **Streamflix** - Stream for free!** | Streamflix is an Android TV and mobile app to stream movies and TV shows f… | [GitHub](https://github.com/stantanasi/streamflix) | `Android` |
+| **SoundTap - Android Volume Media Controller App** | SoundTap is a simple and intuitive Android app that allows users to contro… | [GitHub](https://play.google.com/store/apps/details?id=fr.angel.soundtap) | `Android, Tool` |
+| **Rhythia** | **Rhythm-based aim game | [GitHub](https://github.com/David20122/sound-space-plus) | `Linux, Windows` |
+| **GlassDown** | GlassDown is a Flutter-built client for APKMirror website. By using method… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.sinneida.glass_down2) | `Android` |
+| **Tarnhelm - The magic to clean sharing links up.** | Tarnhelm can help you clean the tracking parameters in the links shared fr… | [GitHub](https://play.google.com/store/apps/details?id=cn.ac.lz233.tarnhelm) | `Android, Xposed, Modules` |
+| **Animity** | Animity is an anime streaming app that provides high-quality streaming of… | [GitHub](https://github.com/kl3jvi/animity) | `Android` |
+| **Miruro** | Miruro is a cutting-edge anime streaming platform2. It's powered by the Co… | [GitHub](https://github.com/Miruro-no-kuon/Miruro) | `Website` |
+| **SWOB** | SWOB (SMSWithoutBorders aka SMS without Borders) is a platforms which enab… | [GitHub](https://github.com/smswithoutborders/SMSWithoutBorders-App-Android) | `Android` |
+| **BleOta - Upload firmware over Bluetooth** | Open source application for upload firmware over Bluetooth. Additionally s… | [GitHub](https://play.google.com/store/apps/details?id=com.vovagorodok.ble_ota_app) | `Android, iOS` |
+| **Photok** | Photok is a free Photo-Safe. It stores your photos & videos encrypted on y… | [GitHub](https://github.com/leonlatsch/Photok) | `Android` |
+| **Cleaner** for Android - One-tap phone cleaner** | Cleaner is an Android app that helps you free up space and manage your dev… | [GitHub](https://github.com/D4rK7355608/com.d4rk.cleaner) | `Android` |
+| **Lab+ for Gitlab** | Lab+ for Gitlab is your unofficial Companion for Gitlab. | [GitHub](https://github.com/thelooter/labplus_for_gitlab) | `Android` |
+| **DataBackup** | DataBackup is a rooted app that allows you to back up your apps, folders/f… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.xayah.databackup) | `support, Android, Root` |
+| **Phiola** | Fast audio player, recorder, converter for Windows, Linux & Android. | [GitHub](https://github.com/stsaz/phiola) | `Music, Android, Windows, Linux` |
+| **WifiList (FOSS)** | View your saved WiFi passwords on Android 11 and later without root! | [GitHub](https://github.com/jaredcat/WiFiList) | `Android` |
+| **TailScale** | Tailscale is a mesh VPN alternative that makes it easy to connect your dev… | [GitHub](https://github.com/tailscale/tailscale-android) | `Android` |
+| **Yōkai** | A free and open source manga reader | [GitHub](https://github.com/null2264/yokai) | `Android` |
+| **Yosu** | Yosu is an application that lets you download videos/tracks from YouTube,… | [GitHub](https://github.com/jerry08/Yosu) | `Android, Tools` |
+| **PenPot** - The open-source design tool** | Penpot is the first open-source design tool for design and code collaborat… | — | `Web, Design` |
+| **Material** **World Clock v2** | World Clock is a Flutter app that displays the current time and weather fo… | [GitHub](https://t.me/popCLOUDS/5810) | `Android, Linux, Windows, MacOS` |
+| **Project Based Learning** | A list of programming tutorials in which aspiring software developers lear… | [GitHub](https://github.com/practical-tutorials/project-based-learning) | `c, cc, clojure, dart, elixir, erlang, f, go, haskell, html, java, javascript, kotlin, lua, ocaml, php, python, r, ruby, rust, scala, swift, additional, Resources` |
+| **Tournant** | Recipe manager for Android (with Gourmand compatibility) | [GitHub](https://github.com/Zimbelstern/Tournant) | `Android` |
+| **OSS Card Wallet** | OSS Card Wallet is an Open Source app to scan and store all your cards. Yo… | [GitHub](https://play.google.com/store/apps/details?id=com.akylas.cardwallet) | `Android, Tools` |
+| **Flocuss** | Sync your bookmarks privately across browsers and devices | [GitHub](https://github.com/nextcloud/bookmarks) | `Android, IOS, Extension` |
+| **Material Photo Widget** | Material Photo Widget is as simple as it can be: a home screen widget to d… | [GitHub](https://t.me/popCLOUDS/5725) | `Android` |
+| **Echo Music [Nightly]** | An Extension (Spotify, Youtube Music, Deezer Music) based Music Player for… | [GitHub](https://github.com/brahmkshatriya/echo) | `Android, Music` |
+| **Ollama** | The Ollama app even supports multimodal input. That means you can input an… | [GitHub](https://github.com/JHubi1/ollama-app) | `Android` |
+| **Petals** | The Open Source app Petals aims to help its users to either quit weed, red… | [GitHub](https://github.com/LeoColman/Petals) | `Android` |
+| **SpotX** | Spotify adblocker with experemental features and more | [GitHub](https://github.com/SpotX-Official/SpotX) | `Windows, MacOS, Linux` |
+| **Url Sanitiser** | Don't like those tracking GET queries from the big brothers? Here, this ap… | [GitHub](https://t.me/popCLOUDS/5692) | `Android` |
+| **Easy Notes** | Lightweight android notes app with Material You. | [GitHub](https://t.me/popCLOUDS/5684) | `android` |
+| **Winfetch** | 🛠 A command-line system information utility written in PowerShell. Like Ne… | [GitHub](https://github.com/lptstr/winfetch) | `Windows` |
+| **Open WebUI** | Open WebUI is an extensible, feature-rich, and user-friendly self-hosted W… | [GitHub](https://github.com/open-webui/open-webui) | `how, Linux, Windows, MacOS` |
+| **Omni** | A useful and handy minimalist toolbox. It comes with an up-to-date materia… | [GitHub](https://github.com/AkaneFoundation/Omni) | `Android` |
+| **FitBook** | A Flutter application designed to help you keep track of your daily calori… | [GitHub](https://github.com/brandonp2412/FitBook) | `Android` |
+| **Superfile** | Pretty fancy and modern terminal file manager | [GitHub](https://superfile.netlify.app/getting-started/installation) | `Linux, Windows, MacOS` |
+| **Notifier** | This app will transfer notifications from selected apps on your phone to y… | [GitHub](https://github.com/Yanndroid/Notifer) | `Android` |
+| **Password Monitor** | Ensure your password safety by scanning for potential breaches. | [GitHub](https://github.com/StellarSand/Password-Monitor) | `Android` |
+| **MqttDroid** | It provides a friendly interface to create and edit custom devices with us… | [GitHub](https://github.com/LightJockey/MqttDroid) | `Android` |
+| **FluentWeather** | A beautiful & modern UWP weather app for Windows. This app lets you see th… | [GitHub](https://github.com/Gabboxl/FluentWeather) | `Windows, Weather` |
+| **ShizuTools** | Contains some easy-to-use tools to go beyond the level of control allowed… | [GitHub](https://github.com/legendsayantan/ShizuTools) | `Android` |
+| **Pi Installer** | is short for "Package Installer". It is just a Package Installer and its f… | [GitHub](https://github.com/SanmerApps/PI) | `Android` |
+| **mpv-android** | mpv-android is a video player for Android based on libmpv. | [GitHub](https://play.google.com/store/apps/details?id=is.xyz.mpv) | `Android` |
+| **MMRL** | MMRL is a highly configurable app allows you to manage modules effortlessl… | [GitHub](https://t.me/popCLOUDS/5510) | `Android, Root` |
+| **Kenko** | Kenko is a workout journal which will provide you with appropriate progres… | [GitHub](https://t.me/popCLOUDS/5505) | `Android` |
+| **EasySync** | Synchronize your phone with your WebDAV server, the easy way. | [GitHub](https://play.google.com/store/apps/details?id=com.phpbg.easysync&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `faq, Android` |
+| **GitJournal** | GitJournal is a note taking app focused on privacy and data portability. I… | [GitHub](https://apps.apple.com/us/app/gitjournal/id1466519634?uo=4) | `community, Android, Linux, MacOS` |
+| **Karbonized** | Karbonized is a user-friendly app designed to help you create stunning vis… | [GitHub](https://github.com/yossthedev/karbonized) | `Linux, Windows, MacOS` |
+| **Tauri** | Tauri is a framework for building tiny, blazingly fast binaries for all ma… | [GitHub](https://github.com/tauri-apps/tauri) | `getting, Android, Linux, Windows, MacOS, iOS` |
+| **Yet Another Mi-FreeForm** **(Squared)** | Yet Another Mi-FreeForm is a fork of famous Mi-FreeForm Xposed module | [GitHub](https://github.com/kaii-lb/YAMFsquared) | `Android, Xposed, Modules` |
+| **ntfy.sh**** | Send push notifications to your phone or desktop via PUT/POST** | ntfy (pronounced "notify") is a simple HTTP-based pub-sub notification ser… | [GitHub](https://ntfy.sh/docs/subscribe/phone) | `ntfy, Android, iOS, Linux` |
+| **Accrescent** | A novel Android app store focused on security, privacy, and usability. | [GitHub](https://github.com/accrescent/accrescent) | `Android` |
+| **Omnivore** | Omnivore is a complete, open source read-it-later solution for people who… | [GitHub](https://github.com/omnivore-app/omnivore) | `Android, iOS, Extension` |
+| **ActivityWatch** | Records what you do so that you can know how you've spent your time. All i… | [GitHub](https://addons.mozilla.org/en-US/firefox/addon/aw-watcher-web) | `Android, Linux, Windows, Extension` |
+| **Lidarr** | Lidarr is a music collection manager for Usenet and BitTorrent users. It c… | [GitHub](https://lidarr.audio/discord) | `Linux, Windows` |
+| **CarCareKiosk** | CarCareKiosk is an online platform that offers a vast library of free how-… | — | `Website` |
+| **NewsBlur** | NewsBlur is a personal news reader that brings people together to talk abo… | [GitHub](https://github.com/samuelclay/NewsBlur) | `newsblur, features, Android, iOS` |
+| **Cofi** | Free and open-source coffee brew timer. Customizable time settings and an… | [GitHub](https://github.com/rozPierog/Cofi) | `download, screenshots, Android, Utilities` |
+| **Kitsune** | Unofficial android app for [Kitsu.io](https://kitsu.io/). Discover new Ani… | [GitHub](https://github.com/Drumber/Kitsune) | `download, screenshots, features, Android` |
+| **UnitsTool** | An application to convert units | [GitHub](https://play.google.com/store/apps/details?id=com.unitstool) | `Android, Utilities` |
+| **Raise To Answer** | Simply hold your phone to your ear to answer an incoming call. When the ap… | [GitHub](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) | `Android, Utilities` |
+| **Bitwarden Authenticator** | Bitwarden Authenticator allows you easily store and generate two-factor au… | [GitHub](https://t.me/popCLOUDS/5385) | `permissions, Android, Security, Utilities` |
+| **Rectify** ([Enhanced Post](https://t.me/popMODS/3264))** | Rectify11 improves the consistency of Windows 11 by modifying system files… | [GitHub](https://discord.gg/rectify11-community-1077324213142175744) | `permissions, Windows` |
+| **Ani-Cli** | A cli to browse and watch anime (alone AND with friends). This tool scrape… | [GitHub](https://github.com/pystardust/ani-cli) | `tier, Android, IOS, Windows, MacOS, Linux, Anime` |
+| **Anemo** | A private local storage utility application for android. | [GitHub](https://github.com/2bllw8/anemo) | `android` |
+| **Akuse** | Simple and easy to use anime streaming desktop app without ads. | [GitHub](https://t.me/popCLOUDS/5338) | `Windows, Anime` |
+| **Screen Time** | Screen Time is an app that displays your screen time in a permanent notifi… | [GitHub](https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime) | `Android, Utilities` |
+| **Conway's Game of Life** | The Game of Life, also known simply as "Life", is a cellular automaton dev… | [GitHub](https://github.com/Efimj/GameOfLife) | `design, key, Android, Games` |
+| **📝 Shkiper** | The skipper is designed to make your life easier and organize your daily a… | [GitHub](https://t.me/popCLOUDS/5317) | `Android` |
+| **Lyricistant** | Lyricistant is a writing app geared toward helping you write lyrics, poetr… | [GitHub](https://github.com/wardellbagby/lyricistant) | `download, Android` |
+| **Voyage** | __Voyage__ is a lightweight nostr client for Android with a Reddit-like UI. | [GitHub](https://t.me/popCLOUDS/5308) | `some, supported, Android` |
+| **QuickNovel** | Adfree FOSS Android app for downloading novels. It also functions as an Ep… | [GitHub](https://github.com/LagradOst/QuickNovel) | `Android, Anime, Reader` |
+| **Macchina - Neofetch clone written in Rust** | Macchina lets you view system information, like your kernel version, uptim… | [GitHub](https://github.com/Macchina-CLI/macchina) | `Linux, Windows, Mac, Android` |
+| **Reciper** - __Your Ultimate Kitchen Companion!** | Reciper - __Simple but Powerful Recipe Management App built with ❤️ and Fl… | [GitHub](https://t.me/popCLOUDS/5291) | `Android` |
+| **finelock.app** | Good Lock and Good Guardians (previously Galaxy Labs) are great official t… | — | `Website, Android, OneUI` |
+| **Fusor.net** | **An open-source nuclear fusion reactor website that is accessible to ever… | — | `Website` |
+| **timeto.me** | You must set a timer for each activity, like eating, working, reading, etc. | [GitHub](https://apps.apple.com/us/app/id6448869727) | `Android, iOS` |
+| **Nekoflix** | Nekoflix, your all-in-one destination for anime and manga enthusiasts! Wit… | [GitHub](https://nekoflix-landing-page.vercel.app) | `Android, Stream, Anime` |
+| **Ente Photos** | Encrypted photo storage - backup, organize and share your photos and videos | [GitHub](https://web.ente.io) | `Android, IOS, Web, Windows, Linux` |
+| **AutoDND** | Just a simple tool to turn on/off DND(Do Not Disturb) automatically when u… | [GitHub](https://t.me/popCLOUDS/5228) | `Android` |
+| **Lumi AI** | A friendly AI sidekick with a human-like personality. | [GitHub](https://github.com/iamlooper/Lumi-AI) | `screenshots, Android, AI` |
+| **OpenPaperView** | Thats purpose is to browse, search in, download and display or send OpenPa… | [GitHub](https://github.com/bwt/OpenPaperView) | `Android` |
+| **Xed Editor** | is a versatile text editor designed specifically for Android devices, offe… | [GitHub](https://github.com/RohitKushvaha01/Xed-Editor) | `Android` |
+| **Flick** | A movie app built entirely with Jetpack Compose and Material 3 | [GitHub](https://github.com/f33lnothin9/flick) | `screenshots, features, Utilities` |
+| **GitHub Web IDE** | This extension enhances GitHub repositories by adding a convenient dropdow… | [GitHub](https://github.com/zvizvi/Github-Web-IDE) | `github, Extension` |
+| **GPThemes** | **GPThemes is a Chrome extension designed to improve the visual experience… | [GitHub](https://github.com/itsmartashub/GPThemes) | `Extension` |
+| **USB HID Client** | Android app that allows you to easily use your phone as a keyboard, mouse… | [GitHub](https://t.me/popCLOUDS/5205) | `Android, Root` |
+| **Launch Chat** | Start a WhatsApp, Signal or Telegram chat without saving a number as a con… | [GitHub](https://github.com/vinaygopinath/launch-chat) | `Android` |
+| **VHEditor-Android** | This project uses https://github.com/cdr/code-server as its core engine, a… | [GitHub](https://github.com/vhqtvn/VHEditor-Android) | `Android` |
+| **Bluetooth LE Spam** | This project focuses on utilizing the built-in Bluetooth Low Energy (BLE)… | [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam) | `screenshots, functionality, disclaimer, Android, Utilities` |
+| **Disky - Find your biggest diskspace thiefes!** | A filesystem analyzer that can show you the usage of your storage! | [GitHub](https://github.com/newhinton/disky) | `screenshots, features, Android, Utilities` |
+| **SensorBox - record all your sensors to csv files** | The SensorBox provides easy way to access sensors in Android phone and Wea… | [GitHub](https://github.com/Foxpace/SensorBox) | `features, Android, Utilities` |
+| **Home Assistant** | Home Assistant for Android lets you control all your devices in your Home… | [GitHub](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android` |
+| **AppErrorsTracking** | AppErrorsTracking is a Xposed Module tailored for Android developers. It e… | [GitHub](https://t.me/fossclouds/83) | `Android, SuperUser, Xposed` |
+| **Pineapple Lock Screen** | Pineapple Lock Screen (OSS version) is a small, simple, clean, and fast ap… | [GitHub](https://github.com/BLumia/pineapple-lock-screen) | `Android` |
+| **HeyForm** | HeyForm is an open-source form builder that allows anyone to create engagi… | [GitHub](https://github.com/heyform/heyform) | `Web, SelfHost` |
+| **Ricochlime** | Ricochlime is a game where you attack the advancing monsters with your ric… | [GitHub](https://github.com/adil192/ricochlime) | `Games, Android, IOS, Windows, MacOS, Web` |
+| **NekoBox** | 1sing-box / universal proxy toolchain for Android | [GitHub](https://play.google.com/store/apps/details?id=moe.nb4a) | `Android` |
+| **Raven** | Raven is a News aggregator / News reader app. | [GitHub](https://github.com/ksh-b/raven) | `Android, News, Reader` |
+| **Linux Icons** | The Blue-Red Linux KDE Theme offers a visually appealing contrast that enh… | [GitHub](https://github.com/White9shadow/blu-red-icons) | `Linux` |
+| **🤖 Power Tools Bot** | power tools is a free, opensource telegram bot interface which allows you… | [GitHub](https://github.com/fam-tree-dev/power-tools) | `Bot` |
+| **Veil** | is creating an encrypted equivalent of the cash economy, where privacy is… | [GitHub](https://github.com/steel97/veil_wallet) | `Android` |
+| **Wake On Lan** | This app let's you control your devices using Wake on Lan. Multiple device… | [GitHub](https://t.me/popCLOUDS/5126) | `Android` |
+| **MemoryGuardian** | A small Android application specifically designed to safeguard user privac… | [GitHub](https://github.com/hashemi-hossein/memory-guardian) | `Android` |
+| **traewelldroid** | Träwelldroid is a free check-in service for recording your public transpor… | [GitHub](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | `Android` |
+| **🔐 Mauth** | Mauth (pronounced Moth) is a Two-Factor Authentication app with support fo… | [GitHub](https://t.me/fossclouds/44) | `features, Android, Authenticator` |
+| **KeyPass** | KeyPass is an exceptional open-source and offline password manager that pu… | [GitHub](https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass) | `Android` |
+| **SimpleReminder** | Do you know the feeling when something crosses your mind you certainly wan… | [GitHub](https://github.com/felixwiemuth/SimpleReminder) | `Android` |
+| **Noto** | Noto is yet another Note taking app with a fluid UI and a modern looking i… | [GitHub](https://t.me/popCLOUDS/5056) | `Android, FOSS` |
+| **Auto Airplane Mode** | Schedule airplane mode based on your settings, e.g. by date/time. | [GitHub](https://github.com/MBach/AutoAirplaneMode) | `Android, Root, ADB` |
+| **OpenNote** | **OpenNote is a modern Android note-taking application built entirely with… | [GitHub](https://github.com/YangDai2003/OpenNote-Compose) | `features, Android, FOSS, windows, mac, linux, notes, GayNiggers` |
+| **Etopa** | Etopa is a two-factor-authentication app, which runs as a web server and c… | [GitHub](https://www.amazon.com/gp/mas/dl/android?p=de.ltheinrich.etopa) | `Android` |
+| **Bura** | Modern fully-featured weather app with graphs and thoughtful data visualiz… | [GitHub](https://t.me/fossclouds/36) | `Android, Weather` |
+| **Metadata Remover - Remove any image's metadata fast and easily.** | Protect your privacy by removing metadata from your photos, before sharing… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/rocks.poopjournal.metadataremover) | `android` |
+| **Metadator- An Android ID3 metadata editor built with Jetpack Compose and Material 3** | A simple yet complete metadata editor for your songs powered by TagLib and… | [GitHub](https://github.com/BobbyESP/Metadator) | `android` |
+| **AppLaunch** | AppLaunch is Alpha-stage project which aims to allow user launch apps from… | [GitHub](https://github.com/fluid-developer/AppLaunch) | `Android, Root` |
+| **Sui** | Sui provides Java APIs, [Shizuku API](https://github.com/RikkaApps/Shizuku… | [GitHub](https://github.com/RikkaApps/Shizuku-API) | `Android, Root` |
+| **Positional** | An app to get more information about your position. | [GitHub](https://github.com/mtrewartha/positional) | `Android, FOSS` |
+| **Keep It Up** | An app to monitor websites and hosts on the internet, notifying you of any… | [GitHub](https://github.com/ibbaa/keepitup) | `Android` |
+| **PageKeeper** | PageKeeper is an innovative bookmark management application that revolutio… | [GitHub](https://play.google.com/store/apps/details?id=com.desarrollodroide.pagekeeper) | `Android` |
+| **CashSense** | A mobile app designed to help users manage their finances effectively. | [GitHub](https://github.com/f33lnothin9/cashsense) | `Android` |
+| **SendAnywhere** | Easy, Quick File Transfer, but with ads.. | [GitHub](https://github.com/estmob/SendAnywhere-Android-SDK) | `Android, Linux, Windows, IOS, MacOS, Web` |
+| **Piley** | A small To-Do app that uses piles to manage your tasks. | [GitHub](https://github.com/justdeko/piley-server) | `Android` |
+| **🗃️ Flut Renamer** | **__Flut Renamer__** is a powerful yet easy-to-use tool designed to help u… | [GitHub](https://github.com/sun-jiao/renamer) | `screenshots, Android, IOS, Windows, MacOS, Linux, Utilities` |
+| **Floating Timer** | The Floating Timer app features both a countdown timer and stopwatch that… | [GitHub](https://play.google.com/store/apps/details?id=xyz.tberghuis.floatingtimer) | `Android` |
+| **Minimum Launcher - Minimalist App Launcher for Effortless Efficiency.** | **__Minimum Launcher__** is an elegant and efficient app launcher designed… | [GitHub](https://github.com/JunioJsv/minimum) | `Android, Launcher` |
+| **Neo-Wellbeing** **[Alpha]** | Open source "Digital Wellbeing" replacement at alpha stage. Has some cool… | [GitHub](https://github.com/NeoApplications/Neo-Wellbeing) | `android, root, module` |
+| **Comatose** | Force your device to enter deep sleep sooner | [GitHub](https://github.com/tytydraco/Comatose) | `android, root, adb` |
+| **AnimeTV for Android TV & Google TV** | AnimeTV is Android TV application for watching your favorite anime series… | [GitHub](https://github.com/amarullz/AnimeTV) | `features, donation, Android, TV, Anime` |
+| **NewPass** | NewPass is a secure password management application designed to generate a… | [GitHub](https://github.com/6eero/NewPass) | `Android` |
+| **Look4Sat: __Satellite tracker** | Satellite positions and passes are calculated relative to your location. T… | [GitHub](https://t.me/popCLOUDS/4917) | `Android` |
+| **MyMap.ai** | MyMap.ai is a digital tool that helps you create mind maps. A mind map is… | — | `Website, AI` |
+| **Securify** | Yet another detection app to detect Magisk or KernelSU. | [GitHub](https://github.com/RabahX/Securify) | `Android` |
+| **Buddha Quotes** | Buddha Quotes is a collaborative project to create a Free and Open Source… | [GitHub](https://github.com/BanDev/BuddhaQuotes) | `Android` |
+| **ViTune (**[**ViMusic**](https://t.me/popMODS/1867)** fork)** | An Android application for streaming music from YouTube Music | [GitHub](https://github.com/25huizengek1/ViMusic) | `Android, Music` |
+| **Five Prayers** | Five Prayers Android provide a set of tools needed by any muslim around th… | [GitHub](https://play.google.com/store/apps/details?id=com.hbouzidi.fiveprayers) | `Android` |
+| **Medium Unlocker** | Medium Unlocker is a web tool designed to access Medium articles without a… | [GitHub](https://github.com/inulute/medium-unlocker) | `Web` |
+| **JamesDSP** | Cross-platform Audio Effect / Digital Signal Processing library | [GitHub](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `features, Android, Root` |
+| **Dev Tiles** | Android Quick Settings tiles for developers. Works on Android 7.0+. | [GitHub](https://github.com/mustafa01ali/Dev-Tiles) | `usage, Android` |
+| **Layout Editor** | Use Layout Editor to easily build Android app layouts by dragging UI eleme… | [GitHub](https://github.com/itsvks19/LayoutEditor) | `features, Android` |
+| **AniVu** | AniVu, an all-in-one tool for RSS anime subscription and updates, bit torr… | [GitHub](https://t.me/popCLOUDS/4814) | `Android` |
+| **POW** | Say hello to Purr, the all-in-one resolution changer for Android devices,… | [GitHub](https://play.google.com/store/apps/details?id=com.draco.purr) | `Android, ADB, Root` |
+| **Quick Tiles** | Android Quick Settings Tiles. A Quick Tile App, To Freely Choose Any Tiles… | [GitHub](https://github.com/asdoi/QuickTiles) | `Android` |
+| **UpNext GPT** - Your playlist powered by ChatGPT.** | GPT powered playlist App for Android. Supports Apple Music, Spotify, and Y… | [GitHub](https://github.com/dokar3/upnext-gpt) | `Android` |
+| **ScreenPlay** | ScreenPlay is an Open Source cross-platform app for displaying Live Wallpa… | — | `Windows, Linux, MacOS` |
+| **MIO KITCHEN** | An Open-Source Android Tool project created with Python , This tool contai… | [GitHub](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) | `Linux, Windows, MacOS` |
+| **MedTimer** **- Med reminders and history with full offline privacy** | MedTimer is an open-source medication reminder app designed to help you ma… | [GitHub](https://github.com/Futsch1/medTimer) | `Android` |
+| **Summary You** | Summarize YouTube-Videos & Articles with AI | [GitHub](https://github.com/talosross/SummaryYou) | `Android` |
+| **Cuberite for Android™ - An easy way to run a Minecraft server on your phone.** | Cuberite is a Free and Open Source (FOSS) game server compatible with Mine… | [GitHub](https://github.com/cuberite/android) | `Android` |
+| **Snappr** | Snappr is a minimalist note-taking and bookmarking app designed to help yo… | [GitHub](https://github.com/Iamlooker/Snappr) | `Android` |
+| **Private DNS Quick Toggle** | Quick settings tile to switch active private DNS server | [GitHub](https://github.com/karasevm/PrivateDNSAndroid) | `Android` |
+| **osu!lazer** | A free-to-win rhythm game. Rhythm is just a click away! | — | `Android, MacOS, Linux, iOS, Windows` |
+| **🎨 Paleta** | Find the dominant color palette from any image and manage palettes with Pa… | [GitHub](https://github.com/nate-xyz/paleta) | `Linux` |
+| **FreeOTP Plus** | FreeOTP Plus forked the same functionality of FreeOTP provided by RedHat. | [GitHub](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus) | `Android` |
+| **Aegis** | Aegis Authenticator is a free, secure and open source 2FA app for Android.… | [GitHub](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) | `Android` |
+| **File Centipede** | File centipede is an All-In-One internet file upload/download manager, Bit… | [GitHub](https://github.com/filecxx/FileCentipede) | `features, Extension` |
+| **HideDroid - An Android App for preserving user privacy** | HideDroid is an Android app that allows the per-app anonymization of colle… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/it.unige.hidedroid) | `Android` |
+| **little-rat** | Small Chrome extension to monitor (and optionally block) other extensions'… | [GitHub](https://t.me/popCLOUDS/4623) | `Extension` |
+| **STREAMit!** | STREAMit! is a free and ad-free Movies/TV Shows streaming app. No sign up… | [GitHub](https://github.com/sinnedpenguin/streamit) | `features, Website` |
+| **Moonlight** | Moonlight for Android is an open source client for NVIDIA GameStream and S… | [GitHub](https://play.google.com/store/apps/details?id=com.limelight) | `Android` |
+| **Wasted** | Lock a device and wipe its data on emergency by PanicKit, tile, shortcut o… | [GitHub](https://github.com/x13a/Wasted) | `Android` |
+| **MediTrack** | A simple medication tracking app, that supports tracking medicines for you… | [GitHub](https://github.com/AdamGuidarini/MediTrak) | `adding, Android` |
+| **Emojied 🌐** | An open-source URL-shortener service that uses emojis in the shortened lin… | [GitHub](https://github.com/sekunho/emojied) | `Website` |
+| **ExplainShell** | Discover ExplainShell, an innovative web-based tool that demystifies shell… | — | `Website` |
+| **MdgWa** (Neko xD)** | An Xposed module to customize your WhatsApp. | [GitHub](https://github.com/ItsMadruga/MdgWa) | `Android, Root, Lsposed` |
+| **GigaBrain** | GigaBrain is an innovative platform designed to streamline the process of… | — | `Website, Extension` |
+| **Trekarta** -__Offline Outdoor Map** | Trekarta (former MapTrek) is designed for hiking, geocaching, off-roading,… | [GitHub](https://github.com/andreynovikov/trekarta) | `Android, Maps` |
+| **Chord Reader 2** | — | [GitHub](https://github.com/AndInTheClouds/chordreader2) | `Android` |
+| **Neer - Water Reminder** | The Water Reminder App is a simple application designed to help users stay… | [GitHub](https://github.com/criticalAY/Neer) | `Android` |
+| **FlickBoard** | FlickBoard is a flicking-style keyboard, in the style of MessagEase and Th… | [GitHub](https://play.google.com/store/apps/details?id=se.nullable.flickboard) | `Android` |
+| **Stitch** | Yet another app to create awesome longshots. | [GitHub](https://github.com/ekibun/Stitch) | `Android` |
+| **Alexandria 𓂀** | Alexandria is an open source application for downloading and converting EB… | [GitHub](https://github.com/aloussase/alexandria-app) | `Android, EBook` |
+| **Linkora** | **An Android project that focuses on making link organization simpler. Fro… | [GitHub](https://github.com/sakethpathike/Linkora) | `features, screenshots, Android` |
+| **AutoEq** | AutoEq is a tool for creating equalizer settings which give a neutral soun… | [GitHub](https://github.com/jaakkopasanen/AutoEq) | `usage, Android, IOS, Windows, Linux, MacOS` |
+| **SimpleAppDowngrader [ROOT]** | Downgrades installed apps with an apk-file | [GitHub](https://github.com/GaryOderNichts/SimpleAppDowngrader) | `Android` |
+| **Open-Sora Plan** | — | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | `AI` |
+| **Flixclusive** | A modern streaming service app that provides users with a convenient way t… | [GitHub](https://t.me/popCLOUDS/4513) | `Android` |
+| **KeyGuard for BitWarden** | **[The news I posted](https://t.me/popMODS/4828?single) made me remember t… | [GitHub](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) | `Android` |
+| **ghfetch** | ghfetch is a CLI tool to fetch GitHub user information and show like neofe… | [GitHub](https://github.com/orangekame3/ghfetch) | `quick, usage, obtaining, Windows, Linux` |
+| **DailyAL** | **Unofficial flutter-based client for MyAnimeList. | [GitHub](https://github.com/JICA98/DailyAL) | `Android` |
+| **QtScrcpy** | QtScrcpy supports displaying and controlling Android devices via USB or ov… | [GitHub](https://github.com/barry-ran/QtScrcpy) | `Windows, Linux, MacOS` |
+| **Zty.pe** | — | — | `Website, Game, Android` |
+| **Gauguin** | Gauguin is a Sudoku-like game where you solve grids via calculation and lo… | [GitHub](https://play.google.com/store/apps/details?id=org.piepmeyer.gauguin) | `Android` |
+| **Wormhole** | iyox Wormhole is a file-sharing application for the magic-wormhole protoco… | [GitHub](https://github.com/iyox-studios/iyox-Wormhole) | `Android, Tools` |
+| **File Navigator** | The missing link between Android and a well-structured file system. | [GitHub](https://t.me/popCLOUDS/4451) | `Android` |
+| **Playnite** | An open source video game library manager and launcher with support for 3r… | [GitHub](https://t.me/popCLOUDS/4446?single) | `Windows` |
+| **BlockTheSpot** | A multi-purpose adblocker and skip-bypass for the Spotify for Windows (64… | [GitHub](https://github.com/mrpond/BlockTheSpot) | `Windows` |
+| **Vectras VM** | Virtual machines on Android to try Operating Systems on the go. | [GitHub](https://github.com/epicstudios856/Vectras-VM-Android) | `Android` |
+| **Dollphone Icon Pack** | Dollphone is an icon pack that is very cute, but isn’t too hyper. The icon… | [GitHub](https://t.me/popCLOUDS/4423) | `Android, Customization` |
+| **TrustDevice Fingerprint** | A lightweight library for determining device uniqueness and risk identific… | [GitHub](https://github.com/trustdecision/trustdevice-android) | `1, Android, Security, Utilities` |
+| **Minimalistic Price Converter** | Minimalistic price converter that allows you to convert prices of fiat shi… | [GitHub](https://t.me/popCLOUDS/4413?single) | `Android` |
+| **HeliBoard** | **HeliBoard** is an __up-to-date__ fork of [OpenBoard](https://github.com/… | [GitHub](https://github.com/openboard-team/openboard) | `Android, Keyboard, AI` |
+| **ThemeSong for YouTube Music (Enhancer)** | Enhancer for YouTube Music™. Dynamic Themes, Visualizers, Side Panel Mini… | [GitHub](https://github.com/KristofferTroncoso/ThemeSong) | `Windows, Extension` |
+| **Kotlin Quiz** | Kotlin Quiz is an engaging Android application that allows users to test t… | [GitHub](https://github.com/NiranjanNlc/Kotilin-Quiz) | `Android` |
+| **Cinny | Yet another matrix client** | A Matrix client focusing primarily on simple, elegant and secure interface… | [GitHub](https://github.com/cinnyapp/cinny-desktop) | `Windows, Mac, Linux` |
+| **Outline Keeper** | An application for managing Outline VPN servers. | [GitHub](https://t.me/popCLOUDS/4384?single) | `Android` |
+| **HyperCeiler | Make HyperOS/MIUI Great Again!** | HyperCeiler is a LSPosed module that have a lot of system modifications an… | [GitHub](https://t.me/popCLOUDS/4379) | `Android, LSPosed` |
+| **KDE Connect** | **KDE Connect** is a handy __cross-platform__ tool which provides the abil… | — | `Android, Linux, MacOS, iOS, Windows` |
+| **Snaptick** | Snaptick is a free daily task planner app designed to help users increase… | [GitHub](https://t.me/popCLOUDS/4373) | `Android` |
+| **Suntimes** | Android app (and widget collection) that displays sunlight and moonlight t… | [GitHub](https://t.me/popCLOUDS/4360?single) | `Android` |
+| **Stack Wallet** | ** | [GitHub](https://github.com/cypherstack/stack_wallet) | `Android` |
+| **Compass** | **Simple and beautiful compass for Android** | [GitHub](https://t.me/popCLOUDS/4348?single) | `Android` |
+| **SiYuan** | SiYuan is a privacy-first personal knowledge management system, support fi… | [GitHub](https://github.com/siyuan-note/siyuan-android) | `Android` |
+| **Saber** | Saber is the notes app built for handwriting. | [GitHub](https://play.google.com/store/apps/details?id=com.adilhanney.saber) | `Android, Linux, IOS` |
+| **PixEz** | PixEz is a third-party pixiv client built Flutter. Pixiv is a popular Japa… | [GitHub](https://play.google.com/store/apps/details?id=com.perol.play.pixez) | `Android` |
+| **Green Pass PDF Wallet** | This app is a simple to use PDF Wallet. That means it takes over the task… | [GitHub](https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android` |
+| **whoBIRD** | The ultimate birding companion that can recognize birds by their sounds, a… | [GitHub](https://github.com/woheller69/whoBIRD) | `Android` |
+| **MovieLab** | MovieLab is an open source movie tracker and movie finder where you can fi… | [GitHub](https://github.com/ErfanRht/MovieLab) | `Android` |
+| **Tubular** | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. | [GitHub](https://github.com/polymorphicshade/Tubular) | `to, Android` |
+| **MoeMemos** | An app to help you capture thoughts & ideas, syncs with self-hosted Memos… | [GitHub](https://play.google.com/store/apps/details?id=me.mudkip.moememos) | `Android` |
+| **TorrServe** | Application for downloading torrents as HTTP files. | [GitHub](https://t.me/popCLOUDS/4286) | `Android` |
+| **Materialgram** | Telegram Desktop fork with Material Design and other improvements, which i… | [GitHub](https://t.me/popCLOUDS/4278) | `Windows` |
+| **Stundenplan** | **Stundenplan** is an alternative, customizable client for **Untis Timetab… | [GitHub](https://t.me/popCLOUDS/4272) | `Android` |
+| **Mastify** | Mastify is an open-source Mastodon Android client which is fully developed… | [GitHub](https://github.com/whitescent/Mastify) | `Android` |
+| **Hey, @Alph4 here, sorry for the self promotion.** | **I'm looking to get my first paid translation job**, If you need an **Ita… | [GitHub](https://alph4.eu.org) | `—` |
+| **Wi-Fi Info** | A powerful network toolset packed into an Android app, which gathers and d… | [GitHub](https://t.me/popCLOUDS/4258) | `Android, Tools` |
+| **Introducing Sudo for Windows!** | https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/ | [GitHub](https://github.com/microsoft/sudo) | `—` |
+| **Text Tools Pro - Ultimate toolbox for manipulating text the easy way!** | Text Tools Pro lets you send custom messages with a trigger. Want to quick… | [GitHub](https://t.me/popCLOUDS/4250) | `Android` |
+| **LibreWolf** - A custom version of Firefox, focused on privacy, security and freedom.** | This project is a custom and independent version of Firefox, with the prim… | — | `Windows` |
+| **Geto** | Apply custom settings to your apps | [GitHub](https://t.me/popCLOUDS/4237) | `installation, Android, Root` |
+| **Boorusama** | Boorusama is an unofficial, feature-rich client for [Danbooru](https://git… | [GitHub](https://github.com/danbooru/danbooru) | `Android` |
+| **AlternativeUnlockXposed** | This app provides an reliable way to run something when providing a specif… | [GitHub](https://t.me/popCLOUDS/4219?single) | `Android, Root, Lsposed` |
+| **LoliSnatcher Driod** ** ** (Let's Go, LoliGang)** | A booru client with support for batch downloading, written in Dart/Flutter… | [GitHub](https://t.me/popCLOUDS/4202?single) | `Android` |
+| **Simplewall **- **Open-Source firewall app.** | This is Simplewall. A simple tool to configure Windows Filtering Platform… | [GitHub](https://github.com/henrypp/simplewall) | `Windows` |
+| **Our Giveaway bot is now open-source!** | __Hi popMODS community! I have finally decided to open-source my giveaway… | [GitHub](https://github.com/XelXen/GiveawayBot) | `—` |
+| **BeatInspector** | BeatInspector is meant to help music producers analyze other tracks for re… | [GitHub](https://t.me/popCLOUDS/4177) | `Android` |
+| **Kanji Dojo** | Learn & practice writing Japanese characters | [GitHub](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) | `Android` |
+| **Install with options** | An app with a simple purpose: more advanced app installs without needing t… | [GitHub](https://github.com/zacharee/InstallWithOptions) | `Android, ADB, Shizuku` |
+| **Plugin-VoiceGPT** | Version: 1.0 | [GitHub](https://github.com/WSTxda/Plugin-VoiceGPT) | `—` |
+| **CopyManga** | CopyManga is a third-party app for accessing manga from CopyManga, a Chine… | [GitHub](https://github.com/fumiama/copymanga) | `Android` |
+| **Pocket Broomball** | The world's first broomball video game, made with Godot Engine for iOS, An… | [GitHub](https://play.google.com/store/apps/details?id=com.salvai.broomball) | `Android, Web, Linux, IOS` |
+| **Material You redesign of **[**aShell**](https://t.me/popMODS/3182)** | You remember [aShell](https://t.me/popMODS/3182)? yeah, aShell is a way fo… | [GitHub](https://github.com/DP-Hridayan/ashell) | `Android, ADB, Shizuku` |
+| **FastLyrics** | FastLyrics is an app that downloads lyrics for the song, you're listening… | [GitHub](https://github.com/QuickLyric/QuickLyric) | `Android, Music` |
+| **cuscon** | This icon pack makes your home screen varied and dynamic. As there is no b… | [GitHub](https://github.com/MiepHD/cuscon) | `Android` |
+| **KOReader** | KOReader is an ebook reader application that supports a wide range of form… | [GitHub](https://github.com/koreader/koreader) | `installation, Android, Linux, eBook, eBookReader` |
+| **Daily Diary** | Jot down whatever you want throughout the day, and the app will reset the… | [GitHub](https://t.me/popCLOUDS/4127) | `Android, Linux` |
+| **Valv** | Valv is an encrypted gallery vault for Android devices. You can encrypt im… | [GitHub](https://t.me/popCLOUDS/4129) | `Android` |
+| **Binary Eye** | Binary Eye is an open source barcode scanner app for Android devices. It i… | [GitHub](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye) | `Android` |
+| **Countdate** | Countdate is an app that lets you count the days until a specific date. Yo… | [GitHub](https://t.me/popCLOUDS/4120) | `Android` |
+| **EarTrumpet** | A better volume control for Windows. | [GitHub](https://github.com/File-New-Project/EarTrumpet) | `Desktop, Windows` |
+| **Everyday Tasks** | Track and log your tasks with EverydayTasks and create schedules for repet… | [GitHub](https://t.me/popCLOUDS/4097) | `Android` |
+| **CuteCalc** ** ** (Yeah, Like You)** | CuteCalc is a lightweight, fast and open-source Android calculator app wri… | [GitHub](https://github.com/sosauce/CuteCalc) | `Android` |
+| **AdClose** | AdClose is an Android ad-blocking tool based on the Xposed framework. It a… | [GitHub](https://t.me/popCLOUDS/4089) | `Android, Root, Modules` |
+| **IFixIt** | ifixit is a website that helps you fix your own stuff, such as phones, lap… | — | `Website` |
+| **Fossify Messages** | Fossify Messages is your trusted messaging companion, designed to enhance… | [GitHub](https://github.com/FossifyOrg/Messages) | `Android` |
+| **Recurring Expense Tracker** | A Material You recurring expense tracker, allowing you to keep track of yo… | [GitHub](https://github.com/DennisBauer/RecurringExpenseTracker) | `Android` |
+| **Tuner - Open-Source Instrumentals tuning app.** | This is Tuner, the Open-Source Instrumentals android application that can… | [GitHub](https://play.google.com/store/apps/details?id=de.moekadu.tuner) | `Android` |
+| **Wojak Paradise** | Wojak Paradise is a website dedicated to the art and culture of wojaks, wh… | — | `Website` |
+| **MusicSearch** | An Android app for browsing songs, artists, and anything related to them u… | [GitHub](https://github.com/lydavid/MusicSearch) | `Android, MacOS, Linux, Windows, Music` |
+| **Classic Power Menu** | Classic Power Menu is a Power Menu Replacement for Android 11+, with the m… | [GitHub](https://t.me/popCLOUDS/4058) | `Android` |
+| **Habo - Open-Source Habit Tracking App** | Introducing Habo, the open-source habit tracker app that helps you create… | [GitHub](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360?itsct=apps_box_badge&itscg=30200) | `Android, iOS` |
+| **Mihon** | Mihon is a free and open source manga reader for Android 8.0 and above. | [GitHub](https://github.com/mihonapp/mihon) | `Android` |
+| **Wger Workout manager** | wger is a free, open-source flutter application that manages and tracks/lo… | [GitHub](https://t.me/popCLOUDS/4014?single) | `Android, Linux, Health` |
+| **Waydroid** | Waydroid is a software that allows you to run Android applications on Linu… | [GitHub](https://github.com/waydroid/waydroid) | `waydroid, Linux` |
+| **Loop Habit Tracker** | Loop is a mobile app that helps you create and maintain good habits, allow… | [GitHub](https://play.google.com/store/apps/details?id=org.isoron.uhabits&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1) | `Android` |
+| **Fossify Phone** | Empower your calls, safeguard your data. Fossify Phone redefines the mobil… | [GitHub](https://github.com/FossifyOrg/Phone) | `Android` |
+| **Falling Blocks** | Manoeuvre a block between the colors to get the highest score. | [GitHub](https://play.google.com/store/apps/details?id=org.sajeg.fallingblocks&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android, Windows, Linux` |
+| **Guesslron** | An app that lets you use your phone as a ruler | [GitHub](https://github.com/mobeil1/GuessIron) | `Android` |
+| **PiliPala** | PiliPala is a third-party Bilibili client developed in Flutter. | [GitHub](https://github.com/guozhigq/pilipala) | `Android` |
+| **Firefox Love** | Previously, [in this post, I explained why you shouldn't use Chrome and/or… | [GitHub](https://github.com/fork-maintainers/iceraven-browser) | `smartcookieweb, Guides, Android` |
+| **PocketPlan** | PocketPlan is a lightweight, simplistic Android App designed to take care… | [GitHub](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003) | `Android` |
+| **E**nte Auth** | ente's Auth app helps you generate and store 2 step verification (2FA) tok… | [GitHub](https://play.google.com/store/apps/details?id=io.ente.auth) | `Android, IOS` |
+| **️ **Resso to shut down in India on Jan 31 2024** | ByteDance’s music streaming app, Resso, will shut its service in India eff… | [GitHub](https://www.billboard.com/business/streaming/bytedance-shuts-down-resso-music-streaming-service-india-1235580540) | `—` |
+| **Jammer** | Play songs from cli on Windows with youtube and soundcloud support | [GitHub](https://github.com/jooapa/jammer) | `usage, Windows` |
+| **Home Medkit** | Home Medicine Kit is an application designed to conveniently store and man… | [GitHub](https://apps.rustore.ru/app/ru.application.homemedkit) | `Android` |
+| **LBRY** - Content Freedom** | LBRY (pronounced "library") is a blockchain-based file-sharing and payment… | [GitHub](https://github.com/lbryio/lbry-sdk) | `Android, IOS, Web, Linux, Windows, MacOS` |
+| **Food Expiration Dates** | Have you ever forgotten to eat a food item before its expiration date? Thr… | [GitHub](https://github.com/lorenzovngl/FoodExpirationDates) | `Android` |
+| **LibrePass** | LibrePass is an open-source and secure password manager. | [GitHub](https://github.com/LibrePass/LibrePass-Android) | `Android` |
+| **Peristyle** | Peristyle is created to be an extremely simple and sophisticated wallpaper… | [GitHub](https://github.com/Hamza417/Peristyle) | `features, Android` |
+| **BetterCounter** | Track good and bad habits (eg: exercising, smoking, drinking...) | [GitHub](https://play.google.com/store/apps/details?id=org.kde.bettercounter) | `Android` |
+| **Free TV** | Open-Source application that does not require registration and all content… | [GitHub](https://t.me/popCLOUDS/3836) | `Android, TV` |
+| **URL to PDF Converter** | URL to PDF Converter is an open source Android application that allows use… | [GitHub](https://t.me/popCLOUDS/3834) | `Android` |
+| **Fossify File Manager** | Tired of file managers that slow you down and invade your privacy? Unlock… | [GitHub](https://t.me/popMODS/4195) | `Android, Website, iOS, Linux, MacOS, Windows, News, AI` |
+| **Pulse Browser** | An experimental Firefox fork that enhances focus and increases work produc… | [GitHub](https://github.com/pulse-browser/browser) | `Windows, MacOS, Linux` |
+| **️**APatch** - Android Kernel and System Patcher** | APatch is an application that allows the modification of the Android kerne… | [GitHub](https://github.com/bmax121/APatch) | `Android, Root, Magisk, Modules` |
+| **Flux News** | A simple Newsreader for the miniflux backend. This newsreader sync with th… | [GitHub](https://github.com/KevinCFechtel/FluxNews) | `download, screenshots, features, Android` |
+| **OpenComicVine** | Comic Vine client for Android, website on comics. | [GitHub](https://www.androidfilehost.com/?w=files&flid=337913) | `Android` |
+| **Standard Notes** | Standard Notes is a secure and private notes app. It syncs your notes secu… | [GitHub](https://t.me/popCLOUDS/3806) | `Android, IOS, Linux, MacOS` |
+| **Floorp** | — | [GitHub](https://t.me/popCLOUDS/3650) | `Linux, macOS, Windows` |
+| **Mova(Movies App)** | With this app, you can easily find information about your favorite films a… | [GitHub](https://github.com/tolgaprm/Mova-MovieApp) | `Android` |
+| **F**ossify Gallery** | Gallery with Photo editor. No Ads, Open-source, Private. No strings attach… | [GitHub](https://t.me/popCLOUDS/3780) | `Android` |
+| **Untracker** | App to help you remove tracking information before sharing links. | [GitHub](https://github.com/zhanghai/Untracker) | `Android` |
+| **️**Passky** | Passky is simple password manager, which works on a zero trust architectur… | [GitHub](https://github.com/Rabbit-Company/Passky-Android) | `Android, PasswordManage` |
+| **Immich** | This is a client app for the self-hostable Immich Server (which can be fou… | [GitHub](https://github.com/immich-app/immich) | `PhotoGallery, BackupTool` |
+| **WiFi Analyzer** | Optimize your WiFi network using WiFi Analyzer (open-source) by examining… | [GitHub](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) | `Android` |
+| **Open** **Video Editor** | Open Video Editor lets you edit your videos. It supports HDR and allows to… | [GitHub](https://github.com/devhyper/open-video-editor) | `Android` |
+| **Acode** | A powerful and versatile code editing tool designed specifically for Andro… | [GitHub](https://github.com/deadlyjack/Acode) | `Android, CodeEditor` |
+| **([EP](https://t.me/popMODS/1374)) **Cloudstream** | CloudStream is an app that allows you to stream and download movies, TV se… | [GitHub](https://github.com/recloudstream/cloudstream) | `Android, Media, Streaming` |
+| **Winget.run** | An open-source website to view, discover, install and get more information… | [GitHub](https://github.com/microsoft/winget-cli) | `Website, Desktop, Windows` |
+| **AppCopier** | It allows you to back up and restore your most important Windows 11 prefer… | [GitHub](https://github.com/builtbybel/Appcopier) | `Windows` |
+| **EtchDriod** | EtchDroid is an open-source application that helps you write images to USB… | [GitHub](https://play.google.com/store/apps/details?id=eu.depau.etchdroid) | `Android` |
+| **Dime** | A 100% free personal finance tracker built with iOS design guidelines in m… | [GitHub](https://github.com/rarfell/dimeapp) | `iOS` |
+| **AppTeka** | Appteka is an alternative store for Android. It also can extracts APKs, ar… | [GitHub](https://t.me/popCLOUDS/3684) | `Android` |
+| **Plexus** | Plexus is a crowd sourced project that tries to remove fear of app compati… | [GitHub](https://github.com/techlore/Plexus-app) | `Android, Website` |
+| **Exodus** | — | [GitHub](https://t.me/popCLOUDS/3668) | `Android, Security` |
+| **Trale** | Trale – a simple body weight diary app respecting your privacy. | [GitHub](https://t.me/popCLOUDS/3662?single) | `Android, screenshots, Health` |
+| **Railway** | Railway lets you look up travel information for many different railways, a… | — | `features, Linux` |
+| **A1Memory Management** | A1Memory is a memory management module for Android devices that optimizes… | [GitHub](https://github.com/OneB1ank/A1Memory) | `important, custom, terminal, frequently, default, Android, Root, Modules` |
+| **Markor** | Markor is a TextEditor for Android. This project aims to make an editor th… | [GitHub](https://t.me/popCLOUDS/3656) | `Android` |
+| **Notify** | Notify is a simple note application. It features a clean and simple Materi… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.aritra.notify) | `Android` |
+| **Play Deals** | Play deals is a simple app that puts together and notifies about the paid… | [GitHub](https://github.com/psuzn/Play-Deals) | `Android, Linux, Windows, macOS` |
+| **Use Bing or Bard in your search engines** | These browser add-ons (for Chromium and Firefox) use the popular artificia… | [GitHub](https://github.com/Dj0ulo/OptiSearch) | `Web, Extension` |
+| **Flutter Markdown Editor** | Markdown Editor app allows easy markdown file creation and editing. It ope… | [GitHub](https://github.com/adityar224/FlutterMarkdownEditor) | `Android` |
+| **Pinokio - The AI Browser for Creative Minds** | Pinokio is an AI platform that lets you create amazing things with various… | [GitHub](https://pinokio.computer) | `AI, macOS, Linux, Windows` |
+| **OneMoreSecret** | OneMoreSecret is a standalone security layer for your data (e.g. passwords… | [GitHub](https://github.com/stud0709/OneMoreSecret) | `Android` |
+| **NeverTooManyBooks** | NeverTooManyBooks is a book collection application, to keep track of your… | [GitHub](https://t.me/popCLOUDS/3584) | `Android` |
+| **ImprovedTube** | ImprovedTube is a browser extension that allows you to customize and enhan… | [GitHub](https://github.com/code-charity/youtube) | `WebExtension` |
+| **IYPS(Is Your Password Safe?)** | This app analyzes password patterns, predicts potential cracking times, an… | [GitHub](https://github.com/StellarSand/IYPS) | `Android` |
+| **Android Enhancer | Revolutionary Android Optimizer** | Android Enhancer is a specialized tool designed to optimize the performanc… | [GitHub](https://github.com/iamlooper/Android-Enhancer) | `screenshots, download, credits, Android, Root, Modules` |
+| **PlayIntegrityFix & PlayIntegrityFixNext** | ** | [GitHub](https://t.me/playintegrityfix) | `Android, Root, Modules` |
+| **Blazed Cloud** | Simple, minimalistic file backup provider built with Flutter and Pocketbase | [GitHub](https://play.google.com/store/apps/details?id=com.chancesoftwarellc.blazedcloud) | `Android` |
+| **CalcYou, Unitto, and yetcalc** | CalcYou, Unitto, and Yetcalc are free and open source calculator apps for… | [GitHub](https://github.com/Yet-Zio/yetCalc) | `features, Android, Calculator, AsYouWish` |
+| **Audiotube** | A youtube music client for Linux. | [GitHub](https://t.me/popMODS/4447) | `Linux` |
+| **Jerboa** | Jerboa is a native-android client for Lemmy, built using the native Androi… | [GitHub](https://f-droid.org/packages/com.jerboa) | `Android` |
+| **Infomaniak Workspace** | Infomaniak Workspace is an online service that gives you access to your em… | [GitHub](https://www.infomaniak.com/en/ksuite) | `Workspace, Android, IOS, Windows, MacOS, Linux` |
+| **DetoxDroid** | DetoxDroid is an app that helps you use your phone in a more mindful way,… | [GitHub](https://f-droid.org/en/packages/com.flx_apps.digitaldetox) | `Android, Produactivit` |
+| **Privacy.sexy** | An open-source website and tool to enforce privacy and security on Windows… | — | `Website, Desktop, Windows, MacOS, Linux` |
+| **Smart AutoClicker** | Smart AutoClicker is an Android application allowing to automate repetitiv… | [GitHub](https://github.com/Nain57/Smart-AutoClicker) | `Android` |
+| **Li-Ri** - An arcade game** | Li-Ri is an arcade game. | [GitHub](https://github.com/petitlapin/Li-ri) | `Android, MacOS, Linux` |
+| **Mercurius** | A powerful and beautiful diary app for Android and Windows. | [GitHub](https://github.com/Cierra-Runis/mercurius) | `Android, Windows` |
+| **SmartMouse** | SmartMouse is an app that aims to make a smartphone usable as a normal com… | [GitHub](https://github.com/VirtCode/SmartMouse) | `Android` |
+| **Cosmic IDE** | Cosmic IDE is a powerful and feature-rich IDE for JVM development on Andro… | [GitHub](https://github.com/Cosmic-Ide/Cosmic-IDE) | `Android` |
+| **Disable Target API Block** | ** | [GitHub](https://github.com/buttercookie42/DisableTargetAPIBlock) | `Android, Root, Modules` |
+| **WADBS** | WADBS (short or Wireless Android Debugging Bridge Switch) is an app that a… | [GitHub](https://github.com/Smooth-E/wireless-adb-switch) | `Android` |
+| **🍪 SmartCookieWeb-Preview** | SmartCookieWeb-Preview is an Android web browser that offers a fast, custo… | [GitHub](https://matrix.to/#/#smartcookieweb:matrix.org) | `smartcookieweb, Android` |
+| **Alga** | A powerful tool app for all developers. | [GitHub](https://github.com/laiiihz/alga) | `supported, Android` |
+| **Pojav** **Launcher** - Minecraft Java on Android** | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk.… | [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) | `setting, Android, iOS` |
+| **Beatbump** | Another privacy-respecting alternative frontend for YouTube Music which pr… | [GitHub](https://github.com/snuffyDev/Beatbump) | `instances, Website` |
+| **Chrono** | A modern and powerful clock, alarms, timer and stopwatch app for Android! | [GitHub](https://github.com/vicolo-dev/chrono) | `Android` |
+| **The detectability of LSPosed by third-party apps raises privacy and security concerns, reflecting unprofessionalism. This issue arises as developers created a native detection project, removed it later, and witnessed the emergence of forks of the original project. Unfortunately, my attempts to address this matter led to expulsion and a ban from their group. Advocating against this unfair and unprofessional practice is crucial, emphasizing its implications for privacy and security. (Kindly refrain from using vulgar language.)** | [Anti Magisk & Xposed by LSPosed dev canyie ](https://blog.canyie.top/2021… | [GitHub](https://github.com/xfqwdsj/XposedDetector) | `—` |
+| **Stack** | Stack is an Android application that lets you browse stackoverflow.com and… | [GitHub](https://github.com/tylerbwong/stack) | `Android` |
+| **Rofi - Rofi: A window switcher, application launcher and dmenu replacement** | Rofi is a simple yet powerful app launcher, window switcher, device contro… | [GitHub](https://github.com/davatorium/rofi) | `Features, Linux` |
+| **Trail Sense** | Trail Sense is a tool, and just like any other tool that you bring into th… | [GitHub](https://github.com/kylecorry31/Trail-Sense) | `table, Android, Maps` |
+| **Files - Explore a beautiful File Manager** | Introducing Files, the ultimate Windows file manager app. Its sleek and in… | [GitHub](https://github.com/files-community/Files) | `Windows` |
+| **Léon - The URL Cleaner** | Léon is an open source Android app that cleans up URLs before sharing them… | [GitHub](https://github.com/svenjacobs/leon) | `Android` |
+| **Dumb for Genius** | Genius's website for lyrics sucks, it's full of trackers and ads. So Dumb… | [GitHub](https://github.com/rramiachraf/dumb) | `Website` |
+| **Psychphinder** | Psychphinder is an app made in Flutter to search for your favorite quotes… | [GitHub](https://github.com/daih27/psychphinder) | `Android, Windows, Linux` |
+| **Xplorer - A customizable, modern and cross-platform File Explorer.** | Xplorer is a modern file explorer built from ground-up to be fully customi… | [GitHub](https://t.me/popCLOUDS/3341) | `Windows, Linux, macOS` |
+| **🎨 ColorBlendr** | An Xposed module to modify material you colors on your device. | [GitHub](https://t.me/IconifyDiscussion) | `Android, Root, Modules` |
+| **WiFi Widget** | Android FOSS app providing a configurable widget for the monitoring of you… | [GitHub](https://play.google.com/store/apps/details?id=com.w2sv.wifiwidget) | `Android` |
+| **🎧 Zen Music** | __Zen Music Player__ is a Material You Themed music player for Android. It… | [GitHub](https://t.me/popCLOUDS/3291) | `screenshots, Android, Music` |
+| **Vesktop** | Vesktop is a cross-platform 3rd party Discord client for desktop aiming to… | [GitHub](https://github.com/Vendicated/Vencord) | `installing, Desktop, Linux, Windows` |
+| **OSS Document Scanner** | The OSS Document Scanner is an Open Source app to scan all your documents.… | [GitHub](https://play.google.com/store/apps/details?id=com.akylas.documentscanner) | `Android` |
+| **OpenSubtitles** | The most famous website to download subtitles for movies and shows. | — | `Website, Web` |
+| **Hi, as you know, the world is always moving forward** | same as simple mobile tools | [GitHub](https://github.com/fossifyorg) | `—` |
+| **Showly** - An Android Shows Tracker!** | Showly OSS is a Shows Tracker forked from Showly with all the trackers rem… | [GitHub](https://github.com/1RandomDev/showly-oss) | `Android` |
+| **️ **PlainApp** - Manage your phone on the web!** | PlainApp is an open-source application that allows you to manage your phon… | [GitHub](https://github.com/ismartcoding/plain-app) | `features, Android` |
+| **ArmCord** | ArmCord is a custom desktop client designed to enhance your Discord experi… | [GitHub](https://github.com/ArmCord/ArmCord) | `how, features, Desktop, Windows, Linux` |
+| **mmm.page** | A dead simple website creator, free and without ads. | — | `Website, Design` |
+| **OpenTabletDriver** | An cross-platform opensource drawing tablet driver alternative to your pro… | [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | `Windows, Linux, macOS` |
+| **Paper** | Note management done right. | [GitHub](https://github.com/dev-xero/paper-app) | `Android` |
+| **Currencies** | Currencies is a simple and straightforward currency converter. It is not i… | [GitHub](https://play.google.com/store/apps/details?id=de.salomax.currencies) | `Android` |
+| **Blocker** | Blocker is a component controller for Android applications that currently… | [GitHub](https://github.com/lihenggui/blocker) | `Android` |
+| **YTerMusic** | YTerMusic is a terminal based Youtube Music Player. It's aims to be as fas… | [GitHub](https://github.com/ccgauche/ytermusic) | `Linux` |
+| **YoutubeDownloader** | YoutubeDownloader is an application that lets you download videos from You… | [GitHub](https://github.com/Tyrrrz/YoutubeDownloader) | `Windows` |
+| **Astron** - High definition video player** | YouTube videos without ads, downloads 4K quality videos, and supports back… | [GitHub](https://t.me/popCLOUDS/3149) | `Android` |
+| **Jitsi Meet** | Jitsi Meet is a set of Open Source projects which empower users to use and… | [GitHub](https://github.com/jitsi/jitsi-meet) | `Android, IOS` |
+| **[Universal GMS Doze 1.9.1 released](https://t.me/popCLOUDS/3134)** | Changelog: | [GitHub](https://github.com/gloeyisk/universal-gms-doze) | `—` |
+| **Transistor - Simple Radio App** | Transistor is an app with a minimalistic approach for listening to radio p… | [GitHub](https://codeberg.org/y20k/transistor) | `Android` |
+| **Kvaesitso** | Kvaesitso is a launcher application for Android which replaces the device'… | [GitHub](https://github.com/MM2-0/Kvaesitso) | `Android` |
+| **Tokei** | Tokei - Open source movie and TV streaming app with super speed, | [GitHub](https://t.me/popCLOUDS/3100) | `Android` |
+| **FreePaint** | A FOSS vector graphics drawing app for Android. | [GitHub](https://github.com/pastthepixels/FreePaint) | `Android` |
+| **Table Habit** | Table Habit" is an app that helps you establish and track your own micro h… | [GitHub](https://t.me/popCLOUDS/3076) | `Android` |
+| **Audire** (also check [Audile](https://t.me/popMODS/4162))** | __Audire__ identifies the music playing near you and shows you details on… | [GitHub](https://github.com/alexmercerind/audire) | `Android` |
+| **Sense** | OpenAI client for Android that supports ChatGPT and Image Generation. | [GitHub](https://github.com/F0x1d/Sense) | `Android` |
+| **DNS Manager** | App that helps you manage and seamlessly switch between dns servers withou… | [GitHub](https://t.me/popCLOUDS/3037) | `Android` |
+| **Openreads** | Openreads is the best app for keeping track of your books that is free, op… | [GitHub](https://play.google.com/store/apps/details?id=software.mdev.bookstracker) | `Android` |
+| **Muffon** | Muffon is a cross-platform music streaming client for desktop, which helps… | [GitHub](https://t.me/popCLOUDS/3028?single) | `Windows, Linux, MacOS` |
+| **Alibi** | Alibi keeps recording in the background and saves the last 30 minutes at y… | [GitHub](https://play.google.com/store/apps/details?id=app.myzel394.alibi) | `Android` |
+| **LockQR: Effortless QR Code Generation, Free and Shareable** | LockQR is a powerful and user-friendly QR code app that enables you to gen… | [GitHub](https://github.com/sagardhadke/LockQR) | `Android` |
+| **Tool Shells** | Is an application to edit the apk. | [GitHub](https://github.com/kakathic/Tool-Shells) | `Android` |
+| **Translate You** | Privacy focused translator app built with MD3. | [GitHub](https://f-droid.org/packages/com.bnyro.translate) | `you, Android` |
+| **GMS Flags** | GMS Flags is a tool for changing parameters in Google services to activate… | [GitHub](https://t.me/popCLOUDS/2978) | `Android, Root` |
+| **Birday __- __**__A FOSS app to keep track of birthdays and events without Facebook, alarms or Google Calendar.** | This is an open source app to remember birthdays and other events in a fas… | [GitHub](https://t.me/popCLOUDS/2976) | `Android` |
+| **Nostros** | Nostros is a nostr client for Android and nostr is a protocol that allows… | [GitHub](https://github.com/KoalaSat/nostros) | `Android` |
+| **AppFlowy** | AppFlowy - An open source cross platform alternative to Notion | [GitHub](https://github.com/AppFlowy-IO/AppFlowy) | `Windows, Linux, MacOS, Android, iOS` |
+| **Graded** - __Grade tracker** | Simplify your school grade management with Graded. Our app streamlines the… | [GitHub](https://apps.apple.com/us/app/graded-grade-tracker/id644468128) | `Android, IOS` |
+| **HuggingChat** | Open-source alternative to ChatGPT by [HuggingFace](https://huggingface.co… | [GitHub](https://huggingface.co) | `Web` |
+| **Notification Sender** | NotiSender - Open source notification mirroring app with super connectivit… | [GitHub](https://t.me/popCLOUDS/2891?single) | `Android` |
+| **You can now delete your Threads profile separately from your Instagram account.** | Here's how to delete your Threads profile via the Threads app: | [GitHub](https://t.me/basiqsrepository/185?single) | `Threads, ProfileDeletion, Meta, Instagram, Social, TechTips` |
+| **Moshidon** | Moshidon is a beautiful md3 client for [mastadon](https://joinmastodon.org… | [GitHub](https://github.com/sk22/megalodon) | `Android` |
+| **Athena** | Athena is an advanced Android firewall app designed with Material You styl… | [GitHub](https://github.com/SebaUbuntu/Athena) | `Android, Root, Tools` |
+| **FluffyChat** | FluffyChat is an open source, nonprofit and cute md3 matrix client written… | [GitHub](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat) | `Android, iOS, Linux` |
+| **Simple App Launcher** | Simple App Launcher is fully opensource, provides customizable colors and… | [GitHub](https://play.google.com/store/apps/details?id=com.simplemobiletools.applauncher) | `Android` |
+| **TimeR Machine** | TimeR Machine is a free interval timer for not just workout and exercise,… | [GitHub](https://play.google.com/store/apps/details?id=io.github.deweyreed.timer.google) | `Android` |
+| **Alkaa** | Alkaa is an open-source project. Tasks with simplicity.Manage your tasks q… | [GitHub](https://t.me/popCLOUDS/2816?single) | `Android` |
+| **SnapEnhance** | SnapEnhance is an xposed module that enhances your snapchat experience by… | [GitHub](https://github.com/rhunk/SnapEnhance) | `Android` |
+| **FairEmail** | Fully featured, open source, privacy oriented email app for Android | [GitHub](https://play.google.com/store/apps/details?id=eu.faircode.email) | `Android` |
+| **We are holding a logo redesign contest.** | **The logo must:** | [GitHub](https://play.google.com/store/apps/details?id=com.amaze.fileutilities) | `—` |
+| **SPIC - Simple Play Integrity Checker** | A Simple Play Integrity Checker which uses Google Play Integrity API to ch… | [GitHub](https://t.me/popCLOUDS/2786) | `Android` |
+| **️ **Notepher** - A note-taking mini app right inside Telegram!** | **NotepherBot is an intuitive note-taking Telegram Mini App designed to ef… | [GitHub](https://github.com/deptyped/notepher-bot) | `Android, IOS, Windows, MacOS, Linux, Web, Bot` |
+| **MTManager** | **MTManager is a powerful two column style file manager for Android, espec… | — | `Android` |
+| **Organic Maps** | Organic Maps is a free Android & iOS offline maps app for travellers, tour… | [GitHub](https://play.google.com/store/apps/details?id=app.organicmaps) | `Android, IOS, Maps` |
+| **Animiru** | Animiru is an unofficial fork of Aniyomi, which is yet another unofficial… | [GitHub](https://github.com/beemdevelopment/Aegis) | `animiru, Android` |
+| **Telegram's cloud storage probably won't be unlimited anymore.** 😭** | The Telegram team changed the phrasing and the order of the previously kno… | [GitHub](https://t.me/TGBlogLeaks/243) | `News, Telegram` |
+| **Hail** | Hail is a beautiful md3 app that helps you disable or freeze apps that tak… | [GitHub](https://github.com/aistra0528/Hail) | `Android` |
+| **Ultimate Vocal Remover GUI** | GUI for a Vocal Remover that uses Deep Neural Networks. | [GitHub](https://github.com/Anjok07/ultimatevocalremovergui) | `installation, Windows, macOS, Linux` |
+| **Battery Tool** (Greenify reborn, or something like this)** | Battery Tool helps you save battery by stopping apps that are running in t… | [GitHub](https://github.com/Domi04151309/BatteryTool) | `Android` |
+| **Easy Effects** | Easy Effects is an advanced audio manipulation tool. It includes an equali… | [GitHub](https://github.com/wwmm/easyeffects) | `Linux` |
+| **Cashew** - A budget app for you!** | Cashew is a full-fledged, feature-rich application designed to empower use… | [GitHub](https://github.com/jameskokoska/Cashew) | `key, Android, Money` |
+| **Filester** - A simple file uploader for android** | Filester lets you share files with everyone, everywhere, whenever you want… | [GitHub](https://t.me/popCLOUDS/2716) | `Android` |
+| **LazyGIt** | Git for people that are lazy...? | [GitHub](https://github.com/jesseduffield/lazygit) | `features, Android, Linux, MacOS, Windows` |
+| **Kizzy** | A Discord Rich Presence manager for Android fully written in Kotlin. | [GitHub](https://github.com/dead8309/Kizzy) | `Android` |
+| **Sav PDF** **Viewer** **Pro** | Sav PDF Viewer Pro is a simple PDF viewer. | [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro) | `Android` |
+| **SysctlGUI** | A GUI application for Android sysctl to edit kernel variables | [GitHub](https://github.com/Lennoard/SysctlGUI) | `Android` |
+| **Linux Command Library** (Mobile+CLI+Web)** | LinuxCommandLibrary is a GitHub repository created by Simon Schubert that… | [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary) | `Linux, Android, Web` |
+| **Mousai** and **SongRec** | Mousai and SongRec  do an excellent job of music recognition, allowing use… | [GitHub](https://github.com/marin-m/SongRec) | `installation, Linux, AsYouWish` |
+| **Wonderous** | Wonderous will educate and entertain as you uncover information about some… | [GitHub](https://github.com/gskinnerTeam/flutter-wonderous-app) | `Android` |
+| **Rays** | **Rays (Record All Your Stickers), A tool to record, search and manage sti… | [GitHub](https://github.com/SkyD666/Rays-Android) | `FOSS, Android` |
+| **Nicotine+ for Soulseek** | **Nicotine+ is an advanced multiplatform client for the Soulseek P2P proto… | [GitHub](https://github.com/nicotine-plus/nicotine-plus) | `nicotine, FOSS, Windows, Linux, MacOS, Music` |
+| **Soul Searching** | ** | [GitHub](https://github.com/enteraname74/SoulSearching) | `ii, Android, Music` |
+| **Gradience** | Material You for GNOME Linux. | [GitHub](https://github.com/GradienceTeam/Gradience) | `Gradience, Linux, FOSS` |
+| **Aluminum** | **Material You Anilist client, supporting forums. | [GitHub](https://github.com/Emplexx/Aluminium) | `Android, Anime` |
+| **Save On Device** | An Android app that allows you to save files on your device from other app… | [GitHub](https://play.google.com/store/apps/details?id=name.lmj001.savetodevice) | `Android` |
+| **🗃️ Amaze File Utilities** | From the developers of open source app Amaze File Manager. An open source… | [GitHub](https://github.com/TeamAmaze/AmazeFileUtilities) | `Android` |
+| **NextDNS and NextDNS Manager** | NextDNS is a cloud-based firewall for the modern internet that works on an… | [GitHub](https://github.com/doubleangels/NextDNSManager) | `Android` |
+| **Oinkoin** | Oinkoin Money Manager makes managing personal finances easy and secure. It… | [GitHub](https://github.com/emavgl/oinkoin) | `Android` |
+| **Audile** | Audile is a music recognition application, that can help you quickly and a… | [GitHub](https://github.com/aleksey-saenko/MusicRecognizer) | `Android` |
+| **AniStream** | An Android app to watch anime on your phone without ads.AniStream parses w… | [GitHub](https://github.com/jerry08/AniStream) | `Android, Windows, Anime, Streaming` |
+| **ADB⚡OTG - **__Android Debug Bridge** | You can use ADB commands by connecting your Android smartphone to your sma… | [GitHub](https://github.com/KhunHtetzNaing/ADB-OTG) | `Android` |
+| **Nora** | **Nora is an elegant music player built using Electron and React. | [GitHub](https://t.me/popCLOUDS/2528) | `Windows, Linux, Android, Social` |
+| **📖 JS-Dict** | Japanese-English dictionary app powered by Jisho.org. | [GitHub](https://t.me/popCLOUDS/2518) | `Android` |
+| **Anime Scrap** | Anime Scrap is a simple [Open Source](https://en.m.wikipedia.org/wiki/Free… | [GitHub](https://github.com/fakeyatogod/AnimeScrap) | `Android` |
+| **Quote Unquote** | A free and open-source Android app. The app is a widget that provides quot… | [GitHub](https://play.google.com/store/apps/details?id=com.github.jameshnsears.quoteunquote&hl=en) | `Android` |
+| **Feeder** | Feeder is a fully free/libre feed reader. It supports all common feed form… | [GitHub](https://github.com/spacecowboy/Feeder) | `Android` |
+| **ForceDoze** | ForceDoze allows you to forcefully enable Doze right after you turn off yo… | [GitHub](https://github.com/theblixguy/ForceDoze) | `Android, Utilities` |
+| **CoinWatch** | CoinWatch is a cryptocurrency app providing real-time coin prices, price h… | [GitHub](https://play.google.com/store/apps/details?id=dev.shorthouse.coinwatch&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `FOSS, Android` |
+| **Linky** | ** | [GitHub](https://github.com/kwsong0113/imagine) | `iOS` |
+| **Komorebi** | You want tilling manager experience like linux users? i got chu | [GitHub](https://github.com/LGUG2Z/komorebi) | `getting, Windows` |
+| **PhoneProfilesPlus** | ** | [GitHub](https://apkpure.com/p/sk.henrichg.phoneprofilesplus) | `Android` |
+| **[Looks like a competitor to Magisk and KernelSU is coming](https://github.com/abcz316/SKRoot-linuxKernelRoot)** | SKRoot - SuperKernelRoot - Linux kernel level perfect hidden ROOT demonstr… | [GitHub](https://github.com/abcz316/SKRoot-linuxKernelRoot) | `—` |
+| **️ **Super Productivity** | Organize your daily tasks at one place while making time tracking a lot le… | [GitHub](https://github.com/johannesjo/super-productivity) | `heavy_check_mark, Android, MacOS, Windows` |
+| **LibreTorrent** | ** | [GitHub](https://www.androidfilehost.com/?w=files&flid=246723) | `Android` |
+| **Lunar Launcher** | Lunar Launcher is an app that lets you customize your Android home screen… | [GitHub](https://github.com/iamrasel/lunar-launcher) | `Android, Root` |
+| **Antimine Minesweeper** | Antimine is a minesweeper-like puzzle game. The objective is to flag the s… | [GitHub](https://github.com/lucasnlm/antimine-android) | `FOSS, Android, Games` |
+| **Moosync** | ** | [GitHub](https://moosync.app) | `Windows, Linux, MacOS` |
+| **🦆 Squawker** | An open-source anonymous Twitter/X client | [GitHub](https://t.me/popCLOUDS/2392) | `FOSS, Android` |
+| **Dontotsu** | ** | [GitHub](https://github.com/rebelonion/Dantotsu) | `dantotsu, Android` |
+| **muffed** | Muffed is a decentralised reddit alternative that works on the Lemmy/Activ… | [GitHub](https://t.me/popCLOUDS/2375) | `Android` |
+| **Mangayomi** | ** | [GitHub](https://github.com/kodjodevf/mangayomi) | `Android, IOS, Windows, Linix, MacOS` |
+| **ApolloTv** | ** | [GitHub](https://github.com/ApolloTv-team/ApolloTv) | `Android` |
+| **([Enhanced Post](https://t.me/popMODS/4066)) **FreeTube | FreeTube Cordova** | FreeTube and FreeTube Cordova are privacy-focused YouTube players, blockin… | [GitHub](https://t.me/popCLOUDS/2229) | `download, FOSS, Android, Windows, macOS, Ubuntu, Linux, Web` |
+| **Waistline** | Waistline is a libre calorie counter and weight tracker app for Android. I… | [GitHub](https://play.google.com/store/apps/details?id=com.waist.line) | `FOSS, Android` |
+| **Habit Builder** | Habit Builder is a simple, beautiful app that provides you with the right… | [GitHub](https://play.google.com/store/apps/details?id=com.ofalvai.habittracker) | `FOSS, Android` |
+| **SimpleLogin | Anti-Spam** | **SimpleLogin is an open source solution to protect your email inbox. It a… | [GitHub](https://github.com/simple-login/app) | `Android, Web` |
+| **([Continuous of ViMusic](https://t.me/popMODS/1867)) **RiMusic** | A multilingual Android application for streaming music from YouTube Music | [GitHub](https://github.com/fast4x/RiMusic) | `FOSS, Android, Music` |
+| **LocalPilot** - Use GitHub Copilot locally on your Macbook with one-click.** | LocalPilot is an open-source AI autocompletion tool that allows users to u… | [GitHub](https://github.com/danielgross/localpilot) | `installation, Mac, Developing` |
+| **Gramophone** | A media3 music player with up-to-date md3 phonograph designs. | [GitHub](https://github.com/AkaneTan/Gramophone) | `screenshots, FOSS, Android, Music` |
+| **🎵 AntiiQ** - A Music Player for Music Collectors and Enthusiasts.** | AntiiQ as in "Antique" is an offline Android music player which started as… | [GitHub](https://codeberg.org/coleblvck/AntiiQ) | `FOSS, Android, Music` |
+| **UnlockMaster** | Are you tired of mindlessly unlocking your phone, only to find yourself lo… | [GitHub](https://t.me/popCLOUDS/2242) | `FOSS, Android, Wellbeing` |
+| **FreeTube** | FreeTube is an open source desktop YouTube player built with privacy in mi… | [GitHub](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect) | `download, FOSS, Windows, macOS, Ubuntu, Linux, Web` |
+| **DeepNotes** | DeepNotes is an open source, end-to-end encrypted infinite canvas note-tak… | [GitHub](https://t.me/popCLOUDS/2212) | `Windows, Linux, MacOS, FOSS` |
+| **Food-E** | **Food-E is a food additives database app. Contains comprehensive informat… | [GitHub](https://t.me/popCLOUDS/2201) | `Android, FOSS` |
+| **VueTube** | A simple and open source video streaming client aimed to recreate ALL the… | [GitHub](https://vuetube.app/discord) | `Android, FOSS` |
+| **Friendly Adblock for YouTube** | A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Oper… | [GitHub](https://github.com/0x48piraj/fadblock) | `features, Web` |
+| **WinPaletter** **- Windows Customization Tool** | WinPaletter is an advanced Windows customization tool. You can customize a… | [GitHub](https://github.com/Abdelrhman-AK/WinPaletter) | `Windows` |
+| **([Enhanced Post](https://t.me/popMODS/2977)) **Gyawun (Formerly Vibe Music)** | A Flutter application for streaming music from Jio Saavn and YouTube Music | [GitHub](https://github.com/sheikhhaziq/gyavun) | `Android` |
+| **TagSpaces** | TagSpaces is a free, no vendor lock-in, open source application for organi… | [GitHub](https://t.me/popCLOUDS/2179) | `Android, Windows, Web` |
+| **Aria2App** | Aria2App is your portable server-grade download manager backed by aria2 di… | [GitHub](https://play.google.com/store/apps/details?id=com.gianlu.aria2app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | `Android` |
+| **MACsposed** | MACsposed is an Xposed module that blocks the MAC address randomizer on An… | [GitHub](https://play.google.com/store/apps/details?id=com.berdik.macsposed) | `Android` |
+| **AndroidIDE** | An IDE to develop real, Gradle-based Android applications on Android devic… | [GitHub](https://androidide.com/docs/installation) | `Android` |
+| **Thorium - The fastest browser on Earth** | **A Chromium-based browser with privacy-friendly tweaks and patches, resul… | [GitHub](https://github.com/Alex313031/Thorium) | `features, Windows, Linux, macOS, Android` |
+| **Namida** | **A Beautiful and Feature-rich Music & Video Player with Youtube Support,… | [GitHub](https://github.com/namidaco/namida) | `Android` |
+| **OpenLib - download any ebook for free** | OpenLib is an Android client for the shadow library ([Anna's Archive](http… | [GitHub](https://github.com/dstark5/Openlib) | `Android` |
+| **Farhan** | Farhan is an open source application that offers many ways to eliminate ma… | [GitHub](https://github.com/tahaak67/Farhan) | `Android` |
+| **Scoop** | ** | [GitHub](https://t.me/popMODS/870) | `Windows` |
+| **Memerize** | Memerize is a handy meme viewer app for Reddit and Lemmy | [GitHub](https://github.com/SuhasDissa/MemerizeApp) | `Android` |
+| **Digilog TV** | A free and open-source TV news app, inspired by Linux Mint's Hypnotix. | [GitHub](https://github.com/aldrinzigmundv/digilogtv) | `Android, iOS` |
+| **Modded Youtube Music** | ** | [GitHub](https://github.com/th-ch/youtube-music) | `Windows, Linux, macOS` |
+| **Collapse Launcher** | ** | [GitHub](https://github.com/CollapseLauncher/Collapse) | `Windows` |
+| **Arcticons You** | Arcticons You is a line-based icon pack for Android devices with Material… | [GitHub](https://f-droid.org/packages/com.donnnno.arcticons.you) | `Android` |
+| **TrackerControl** | TrackerControl is an Android app that detects and controls hidden data col… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/net.kollnig.missioncontrol) | `Android` |
+| **️ **Mindustry** | **An open-ended factory management game with RTS and tower defense element… | [GitHub](https://github.com/Anuken/Mindustry) | `Android, Windows, Linux, Games` |
+| **RootBeer** | A tasty root checker library and sample app. We've scoured the internets f… | [GitHub](https://t.me/popCLOUDS/2067) | `Android, Root, Magisk` |
+| **Google Photos unlimited backup module** | Adds Photos features and unlimited original backup. Based from Pixelify Gi… | [GitHub](https://github.com/cuynu/gphotos-unlimited-zygisk) | `Android, Root, Magisk, Module` |
+| **CatBox** | **CatBox is a universal proxy program for Android using sing-box. It was a… | [GitHub](https://github.com/AntiNeko/CatBoxForAndroid) | `Android` |
+| **Iconify - Customize Boring Android UI** | Iconify is an open-source android mobile application, aimed at providing u… | [GitHub](https://t.me/popCLOUDS/2063) | `Android, Root, Magisk` |
+| **Arc** - Your browser, your way.** | Arc is a chromium based browser for mac which helps you in effortlessly or… | — | `iOS, MacOS` |
+| **MusicX** | MusicX is a music player app made using Jetpack Compose and follows Materi… | [GitHub](https://github.com/Vaibhav2002/MusicX) | `Android, Music, Video, Local, Streaming` |
+| **DSU Sideloader** | A simple app made to help users easily install GSIs via DSU's Android feat… | [GitHub](https://t.me/popCLOUDS/1986) | `Android` |
+| **👨‍💻 Squircle CE** | A fast multi-language code editor and file manager for Android | [GitHub](https://play.google.com/store/apps/details?id=com.blacksquircle.ui) | `Android` |
+| **BiliYou** | A third-party Bilibili client with Material You | [GitHub](https://streamflix.in/download) | `Android` |
+| **RealSR-NCNN-Android (Open-Source SuperImage alternative)** | RealSR BigImage | [GitHub](https://github.com/tumuyan/RealSR-NCNN-Android) | `how, Android` |
+| **rabbitGram Desktop** | **rabbitGram Desktop is a full-featured open source Telegram Desktop clien… | [GitHub](https://github.com/rabbitGramDesktop/rabbitGramDesktop) | `Windows` |
+| **FlixQuest** (formerly Cinemax)** | FlixQuest (formerly Cinemax) is a free and open source Android app for str… | [GitHub](https://github.com/BeamlakAschalew/cinemax) | `Android` |
+| **Cross Platform Disk Test (CPDT)** | Measuring storage performance (SSD, HDD, USB Flash etc.) and RAM speed acr… | [GitHub](https://github.com/maxim-saplin/CrossPlatformDiskTest) | `Android, Windows, Linux, macOS` |
+| **Midnight Commander - FOSS Text-Based File Manager** | **Midnight Commander is a free and open-source text-based file manager. It… | — | `Android, Root, Guides, Linux, Windows` |
+| **RetroArch** | RetroArch is an open-source project that makes use of a powerful developme… | [GitHub](https://t.me/popCLOUDS/1947) | `Android` |
+| **Keyspace - your all-in-one online digital identity solution.** | ** | [GitHub](https://github.com/Keyspace-cloud/android) | `features, Android` |
+| **GitTouch** | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), bu… | [GitHub](https://github.com/git-touch/git-touch) | `Android` |
+| **Health Sync** | A versatile app that allows you to seamlessly synchronize your health data… | — | `Android` |
+| **Gopeed** | **GoPeed is a cross-platform download manager that is open source, native,… | [GitHub](https://t.me/popCLOUDS/1904) | `Android, IOS, Windows, MacOS, Linux` |
+| **AnkiDroid** | A semi-official port of the open source Anki spaced repetition flashcard s… | [GitHub](http://www.amazon.com/gp/product/B004L1G7T2/ref=mas_pm_ankidroid_flashcards) | `Android` |
+| **KeyClu** - Simple and handy overview of applications shortcuts.** | KeyClu helps you access all the shortcuts of your current app right throug… | [GitHub](https://github.com/Anze/KeyCluCask) | `macOS` |
+| **Malwack** - Your Ultimate Defense Against Digital Pests** | **Say goodbye to the headaches of malware, spyware, and intrusive ads on y… | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/Malwack) | `Root, Magisk` |
+| **Ventoy** | **Ventoy is an open source tool to create bootable USB drive for ISO/WIM/I… | [GitHub](https://t.me/popCLOUDS/1879) | `Windows, Linux` |
+| **Addy.io** | Addy.io (formerly AnonAddy) allows you to create temporary aliases that se… | [GitHub](https://github.com/anonaddy/anonaddy) | `Website, Web` |
+| **Ditonton Yuk** | Ditonton Yuk is an application that helps users to view detailed informati… | [GitHub](https://github.com/triagung128/ditonton-yuk) | `iphone, Android` |
+| **Delta İcon Pack** | Delta includes thousands of hand-designed icons and supports 20+ launchers… | — | `Android, Linux, iOS, Windows` |
+| **Fulguris Browser** | Fulguris is a web browser for Android. Through a customizable interface it… | [GitHub](https://github.com/nift4/Jellyfish) | `Android` |
+| **Latest** | This is Latest, a small utility app for the Mac. Latest is a free and open… | [GitHub](https://github.com/mangerlahn/Latest) | `macOS` |
+| **Ocean** | An isometric, colorful Role Playing Game with scientific value made in Uni… | [GitHub](https://github.com/ginogeorgiev/WerDuBist) | `Windows, Games` |
+| **Thunder** | **An open source, cross-platform Lemmy client built with [Flutter](https:/… | [GitHub](https://github.com/thunder-app/thunder) | `Android, IOS` |
+| **Twire** | **Twire is an open source, ad-free Twitch browser and stream player for An… | [GitHub](https://github.com/twireapp/Twire) | `Android` |
+| **Xtra For Twitch** | **Xtra for Twitch is a Twitch client focused on providing the best viewing… | [GitHub](https://t.me/popCLOUDS/1847) | `Android` |
+| **Upscayl - Cross-Platform AI Upscaling** | **Upscayl is a Free and Open Source cross-platform AI Image Upscaler appli… | [GitHub](https://github.com/upscayl/upscayl) | `Windows, macOS, Linux, Web` |
+| **Feudal Tactics - Medieval Strategy Game** | A medieval strategy game with countless unique and challenging levels. You… | [GitHub](https://github.com/Sesu8642/FeudalTactics) | `Android, Games` |
+| **Super Retro Mega Wars** | Play against your friends, with each of you can competing by playing a dif… | [GitHub](https://github.com/retrowars/retrowars) | `Android, Games` |
+| **Unlucky** | Unlucky is a LibGDX Android RPG game based on RNG (random number generator… | [GitHub](https://github.com/mingli1/Unlucky) | `Android, Games` |
+| **BetterBatteryStats** | Monitor battery behaviour with Better Battery Stats | [GitHub](https://github.com/asksven/BetterBatteryStats) | `Android` |
+| **([Enhanced Post](https://t.me/popMODS/2059)) 💾 **DataBackup** | **A free and open source backup app with Material You design, Cloud integr… | [GitHub](https://github.com/XayahSuSuSu/Android-DataBackup) | `Android` |
+| **Vector Pinball** | A free and open source pinball game, with simple vector graphics, a physic… | [GitHub](https://github.com/dozingcat/Vector-Pinball) | `Android` |
+| **Skiff Workspace ✉️🗒️☁️🗓️** | Tired of Google? Here's an open-source project, Skiff, hosting an end-to-e… | [GitHub](https://t.me/+AXtVO6WYNKozZDMx) | `Android, Windows` |
+| **📽️🔧 Cobalt Tools** | **Your one stop for all your social media downloading needs! Download vide… | [GitHub](https://github.com/wukko/cobalt) | `Web, Website, Tools` |
+| **️ **Prognoza** | Prognoza is a multi-platform weather app with widgets and offline support. | [GitHub](https://github.com/davidtakac/prognoza) | `Android` |
+| **Authenticator Pro** | A free open-source two factor authentication app for Android. It features… | [GitHub](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro) | `Android, WearOS` |
+| **Enable the Employee Menu in any Instagram version** | **Useful for trying new features, enabling hidden settings, flexing them o… | [GitHub](https://github.com/xHookman/IGExperimentsPatcher) | `Android` |
+| **Libre Sudoku** | LibreSudoku is a powerful FOSS sudoku app for Android with Material 3 desi… | [GitHub](https://t.me/popCLOUDS/1767) | `Android, Games` |
+| **MellowMusic** | MellowMusic** is a convenient music player to play online music. | [GitHub](https://github.com/you-apps/MellowMusic) | `Android` |
+| **Connect You** | **Connect You is a Contacts/SMS app built with Material Design 3 (You). | [GitHub](https://github.com/you-apps/ConnectYou) | `Android` |
+| **Kanade** | Kanade** is a simple app that allows you to extract apk from your apps lis… | [GitHub](https://github.com/alexrintt/kanade) | `Android` |
+| **ListenBrainz** | **ListenBrainz keeps track of music you listen to and provides you with in… | [GitHub](https://github.com/metabrainz/listenbrainz-android) | `Android` |
+| **‍♂️ **Aware: Mindfulness & Wellbeing** | Aware** is a free non-profit app for mental health, wellbeing and inner de… | [GitHub](https://github.com/29ki/29k) | `documentation, Android` |
+| **Cider** | **A new cross-platform Apple Music experience based on Electron and Vue.js… | [GitHub](https://github.com/ciderapp/Cider) | `Windows, Linux` |
+| **PhotonCamera** **(Beta)** | **PhotonCamera uses advanced algorithms for capturing and processing raw i… | [GitHub](https://github.com/eszdman/PhotonCamera) | `Android` |
+| **MapSCII - The Whole World In Your Console.** | A JavaScript based Vector Tile to Braille & ASCII Map Renderer for your co… | [GitHub](https://github.com/rastapasta/mapscii) | `Windows, Linux, Android` |
+| **WallFlow** | ** A wallpaper app for Android with beautiful wallpapers from wallhaven.cc… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.ammar.wallflow) | `Android` |
+| **Forest** | Track your daily step count, stay healthy and fight the climate change | [GitHub](https://github.com/bk20dev/forest) | `Android` |
+| **File Converter** | File** Converter is a very simple tool which allows you to convert and com… | [GitHub](https://github.com/Tichau/FileConverter) | `Windows` |
+| **ReLabs - unofficial XDA Forums app** | An unofficial XDA Forums app for Android (still work in progress, not ever… | [GitHub](https://github.com/theimpulson/ReLabs) | `Android` |
+| **QRServ** | **QRServ is a file sharing application that utilises its own HTTP server t… | [GitHub](https://github.com/uintdev/qrserv) | `Android, Windows, Linux` |
+| **‍🍳 **KitchenOwl** | **KitchenOwl is a smart self-hosted grocery list and recipe manager. Easil… | [GitHub](https://github.com/TomBursch/kitchenowl) | `Android, IOS` |
+| **Record You** | **Record You is a voice and screen recorder app built with Material Design… | [GitHub](https://github.com/you-apps/RecordYou) | `Android` |
+| **SongSync** | **Android app to download lyrics (.lrc files) for songs in your music libr… | [GitHub](https://github.com/Lambada10/SongSync) | `Android, Music` |
+| **Styx Browser** | **A very lightweight, fast, minimalist browser with variety of features an… | [GitHub](https://t.me/popCLOUDS/1627) | `Android` |
+| **Windy** | Windy** is a material design inspired weather app built with Flutter. It p… | [GitHub](https://t.me/popCLOUDS/1621) | `Android` |
+| **BatteryTile** | **An Android Quick Settings tile that displays the current battery state a… | [GitHub](https://t.me/popCLOUDS/1616) | `Android` |
+| **⏱ **Pomatez** | **Stay Focused. Take a Break. | [GitHub](https://snapcraft.io/pomatez) | `Windows, MacOS, Linux` |
+| **🔋 𝙎𝙏𝙍𝙋 𝙐𝙇𝙏𝙍𝘼 ✗ 𝘽𝘼𝙏𝙏𝙀𝙍𝙔** | Unleash Your Device's True Potential – It's Not Just a Battery Saver, It's… | [GitHub](https://t.me/popCLOUDS/1581) | `Android, Modules` |
+| **Broccoli** | **Broccoli is a free eco-friendly recipe app for building your recipe coll… | [GitHub](https://github.com/flauschtrud/broccoli) | `Android` |
+| **Drinkable** | ** Explore and create cocktails with ingredients from home. | [GitHub](https://github.com/MOIMOB/drinkable) | `Android` |
+| **Waterfly III** | Waterfly** III is an unofficial app for your own instance of Firefly III,… | [GitHub](https://github.com/dreautall/waterfly-iii) | `waterfly, Android` |
+| **Beat Feet** | Jump your way through cities, each automatically generated from the beat o… | [GitHub](https://github.com/beat-feet/beat-feet) | `Android` |
+| **Simple MP (Simple Music Player)** | Simple MP (Simple Music Player) is music player based on material you desi… | [GitHub](https://github.com/lighttigerXIV/SimpleMP-Compose) | `unciv, Android` |
+| **URL Radio** | **URL Radio is a radio app that allows you to listen to many radio station… | [GitHub](https://github.com/jamal2362/URL-Radio) | `Android` |
+| **Pachli** | Pachli** is a full-featured Android client for Mastodon, with a cooperativ… | [GitHub](https://github.com/pachli/pachli-android) | `Android` |
+| **Unciv** - **Civ V remake for Android & Desktop** | **An open source, mod-friendly Android and Desktop remake of Civ V, made w… | [GitHub](https://github.com/yairm210/Unciv) | `unciv, Android, Windows, Games` |
+| **Safe Space** | **Safe space is an app that creates a separate place on your android devic… | [GitHub](https://github.com/aashishksahu/SafeSpace) | `Android` |
+| **Protonup-Qt** | Install** and manage Wine- and Proton-based compatibility tools for Steam… | [GitHub](https://github.com/DavidoTek/ProtonUp-Qt) | `Linux` |
+| **ffshare** | **An android app to compress image, video and audio files through ffmpeg b… | [GitHub](https://github.com/caydey/ffshare) | `Android` |
+| **Todopad** | **This is an elegant and fully featured todo app with a minimal and easy t… | [GitHub](https://github.com/TheAlphaApp/flutter_riverpod_todo_app) | `Android` |
+| **mucke - Music Player** | A music player for local files with unique custom playback options.  mucke… | [GitHub](https://github.com/moritz-weber/mucke) | `Android` |
+| **Rethink DNS + Firewall + VPN for Android** | In** other words, Rethink DNS + Firewall has three primary modes, VPN, DNS… | [GitHub](https://github.com/celzero/rethink-app) | `Android, Web, iOS` |
+| **AudioShare - play your Windows computer's audio on your phone.** | **This app allows you to play your Windows computer's audio on your phone.… | [GitHub](https://github.com/mkckr0/audio-share) | `usage, Android` |
+| **Termux_XFCE** | **A script for Termux, that sets up a desktop environment called XFCE, in… | [GitHub](https://github.com/phoenixbyrd/Termux_XFCE) | `readme, Android` |
+| **Pixel Dungeon** | Pixel Dungeon is a challenging and addictive game falls under the umbrella… | [GitHub](https://github.com/watabou/pixel-dungeon) | `Android, Games` |
+| **Round Sync** | Round Sync is a open source cloud file manager, powered by rclone. | [GitHub](https://github.com/newhinton/Round-Sync) | `Android, FOSS` |
+| **Unstoppable Wallet** | Unstoppable wallet is purposely built as a decentralized management tool f… | [GitHub](https://github.com/horizontalsystems/unstoppable-wallet-android) | `Android` |
+| **Ana** | Notebook on a foreign language is an app that helps you learn languages by… | [GitHub](https://github.com/kolserdav/ana) | `screenshots, Android` |
+| **Activity Manager** | Advanced activities and shortcuts launcher. Discover activities of install… | [GitHub](https://github.com/sdex/ActivityManager) | `Android` |
+| **IGExperiments** | Allow you to enable developer options in Instagram! | [GitHub](https://t.me/popCLOUDS/1224) | `Android` |
+| **CAPod - Companion app for AirPods on Android** | **A companion app that adds support for AirPod specific features to Androi… | [GitHub](https://t.me/popCLOUDS/1243) | `Android` |
+| **Another notes app** | Another notes app, like there have been tens of thousands before. This app… | [GitHub](https://github.com/maltaisn/another-notes-app) | `Android, Web` |
+| **Privacy Friendly Pedometer** | The Privacy Friendly Pedometer stores the user's step count per hour. The… | [GitHub](https://github.com/SecUSo/privacy-friendly-pedometer) | `Android` |
+| **Codec Info** | ** Codec Info is a simple tool for developers that provides detailed listi… | [GitHub](https://github.com/Parseus/codecinfo) | `Android` |
+| **Converter** **NOW** | **A simple, immediate and fast unit converter! | [GitHub](https://github.com/ferraridamiano/ConverterNOW) | `Android, Windows, Linux` |
+| **Remove Paywall** | **RemovePaywall is a useful tool for those who don’t subscribe to certain… | — | `Web` |
+| **BlackHole** | ** An Open-Source Music Player App for all your needs! . | [GitHub](https://github.com/Sangwan5688/BlackHole) | `Android, IOS, MacOS, Media, Utilities` |
+| **WallpaperExport** | **With the help of this app, you can now save and share your stock wallpap… | [GitHub](https://github.com/cvzi/WallpaperExport) | `Android` |
+| **LinkSheet** | **LinkSheet restores the Url-App-Chooser that was removed in Android 12+ i… | [GitHub](https://github.com/1fexd/LinkSheet) | `Android` |
+| **Image Toolbox** | **Image toolbox is the app which based on modern tech stack using Clean Ar… | [GitHub](https://github.com/T8RIN/ImageToolbox) | `Android` |
+| **MIUI Bootloader Unlock without PC (Phone-To-Phone)** | **Note: We are not responsible for any data loss or corrupt devices. Proce… | [GitHub](https://github.com/RohitVerma882/termux-miunlock) | `instructions, Android, MIUI, Guides` |
+| **AniHyou** | **Another unofficial Android AniList client, an app for anime and manga tr… | [GitHub](https://github.com/axiel7/AniHyou-android) | `Android` |
+| **Dark Mode Live Wallpaper** | **A live wallpaper for Android 10+ that respects dark theme mode. | [GitHub](https://github.com/cvzi/darkmodewallpaper) | `Android` |
+| **Key mapper** | Boring phone? Unleash your keys! | [GitHub](https://github.com/keymapperorg/KeyMapper) | `Android` |
+| **Medito - Meditation & Sleep** | **Medito is a free meditation app by Medito Foundation, a non-profit organ… | [GitHub](https://github.com/meditohq/medito-app) | `Android, IOS` |
+| **Super TuxKart** | — | [GitHub](https://github.com/supertuxkart/stk-code) | `Android, Windows, MacOS, Linux, Games` |
+| **AI Study Assistant** | **__AI chatbot, Lecture Summarizer, Essay Writer and Questions Generator._… | [GitHub](https://github.com/mhss1/AIStudyAssistant) | `Android` |
+| **DAVx⁵ - CalDAV/CardDAV Synchronization and Client** | **DAVx⁵ is a CalDAV/CardDAV management and synchronization app for Android… | [GitHub](https://f-droid.org/tr/packages/at.bitfire.davdroid) | `Android` |
+| **K-9 Mail** | **K-9 Mail is an open-source email client for Android. | [GitHub](https://f-droid.org/repository/browse/?fdid=com.fsck.k9) | `Android` |
+| **AlwaysOn for Android™** | **AlwaysOn is an app for every device with an AMOLED or OLED display. It a… | [GitHub](https://github.com/Domi04151309/AlwaysOn) | `Android` |
+| **ToDark** **- Task Management Application** | **This application allows you to manage your tasks. | [GitHub](https://github.com/DarkMooNight/ToDark) | `Android` |
+| **Winlator** | **Winlator is an Android application that lets you to run Windows (x86_64)… | [GitHub](https://github.com/brunodev85/winlator) | `Android` |
+| **Stable Diffusion AI (SDAI)** | **Stable Diffusion AI is an easy-to-use app that lets you quickly generate… | [GitHub](https://github.com/ShiftHackZ/Stable-Diffusion-Android) | `features, Android, Web` |
+| **Daily You** | **Daily You is an app made to store memories of the passing days. Log ever… | [GitHub](https://github.com/ptrLx/OneShot) | `Android` |
+| **Gallery** | **Light-weight Media Gallery app for Android made with Jetpack Compose | [GitHub](https://github.com/IacobIonut01/Gallery) | `Linux, Android, Gallery, Privacy, MaterialYou` |
+| **LiChess** | **Lichess is a free, open source, and ad-free online chess platform that a… | [GitHub](https://github.com/lichess-org/lichobile) | `Linux, Android` |
+| **Lutris** | **Lutris is an open gaming platform for Linux. Lutris helps you install an… | [GitHub](https://github.com/lutris/lutris) | `Linux` |
+| **Basic Call Recorder (BCR)** | **BCR is a simple Android call recording app for rooted devices or devices… | [GitHub](https://github.com/chenxiaolong/BCR) | `features, non, usage, permissions, Android` |
+| **SmartTube** (a.k.a SmartTube Next)** | SmartTube Android TV app is a free and open source player for YouTube cont… | [GitHub](https://github.com/yuliskov/SmartTubeNext) | `installation, features, updating, compatibility, device, Android` |
+| **Perplexity AI** | **Perplexity AI is an AI-powered search engine and chatbot that utilizes a… | — | `Android` |
+| **Next Player** | **Next Player is an Android native video player written in Kotlin. It prov… | [GitHub](https://play.google.com/store/apps/details?id=dev.anilbeesetti.nextplayer) | `screenshots, features, supported, Android` |
+| **Just Video Player** | **Android video player based on Media3 (formerly ExoPlayer), compatible wi… | [GitHub](https://github.com/moneytoo/Player) | `download, screenshots, features, supported, Android` |
+| **Kafka for ****archive.org** | — | — | `Android` |
+| **RustDesk** | **Yet another remote desktop software, written in Rust. Works out of the b… | [GitHub](https://github.com/rustdesk/rustdesk) | `snapshots, Android, Windows, MacOS, Linux` |
+| **Serenity** | **Serenity is a audio player which focuses on playing Music, Meditation an… | [GitHub](https://t.me/popCLOUDS/872) | `Android` |
+| **SimpMusic** | **A simple music app using YouTube Music for backend | [GitHub](https://github.com/maxrave-dev/SimpMusic) | `screenshot, Android` |
+| **Added New 10 wallpapers.** | **Google Play (free, no ads) :** https://play.google.com/store/apps/detail… | — | `—` |
+| **Harmony Music** | **An app for music streaming made with Flutter(currently supports Android… | [GitHub](https://github.com/anandnet) | `Android` |
+| **Bluetooth Volume Manager** | **BVM gives your Android device the ability to have individual music and v… | [GitHub](https://github.com/d4rken-org/bluemusic) | `screenshots, Android` |
+| **PipePipe** | **A diverged fork of NewPipe with more services, client features and bug f… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/InfinityLoop1309.NewPipeEnhanced) | `new, screenshots, Android` |
+| **Todoify** | **a material design, closed source offline based todo, notetaking app for… | [GitHub](https://github.com/MGAndroidProjects/Todoify-Releases) | `screenshots, Android` |
+| **Cromite** | **Cromite is a Chromium fork based on Bromite with built-in support for ad… | [GitHub](https://github.com/uazo) | `Android` |
+| **‍♀️ **AyuGram4A** | **ExteraGram with privacy features | [GitHub](https://github.com/AyuGram/AyuGram4A) | `preview, Android` |
+| **SpMp** | **YouTube Music client with a focus on language and metadata customisation… | [GitHub](https://github.com/toasterofbread) | `Android` |
+| **️ **Breezy Weather** (ex Geometric Weather)** | A complete weather app, supporting various providers and Material You. | [GitHub](https://github.com/breezy-weather/breezy-weather) | `Android` |
+| **Vigilante** | **An app that focuses on your privacy and alerts you when a third-party ap… | [GitHub](https://t.me/popCLOUDS/819) | `Android` |
+| **Kotatsu** | **Kotatsu is a free and open source manga reader for Android. | [GitHub](https://t.me/popCLOUDS/799) | `Android` |
+| **Logseq - __A privacy-first, open-source platform for knowledge management and collaboration** | __** Logseq is a software that helps you write and organize your notes in… | [GitHub](https://github.com/logseq/logseq) | `table, Android, Windows, Linux` |
+| **Florae 🌱** | **Keep track of the care to your plants. | [GitHub](https://github.com/aeri/Florae) | `Android` |
+| **promotional post** | **📅13 June 2023: Team Lead course Demo Day.** | — | `—` |
+| **Bottles** | **An open-source program to run Windows software and games on Linux! | [GitHub](https://github.com/bottlesdevs/Bottles) | `shortcuts, faq, notices, Linux` |
+| **TimePlanner** | **Plan the tasks of your day with this app. | [GitHub](https://github.com/v1tzor/TimePlanner) | `Android` |
+| **Touchable, interactive hologram** | Darth Vader is coming 🤖 | [GitHub](https://twitter.com/pascal_bornet/status/1560159595582181376) | `—` |
+| **Custom WSABuilds ( Windows Subsystem Android)** | **MustardChef’s WSABuilds GitHub project is a repository that provides cus… | [GitHub](https://github.com/MustardChef/WSABuilds) | `requirements, Windows` |
+| **LibChecker** | **This app is used to view the third-party libraries used by applications… | [GitHub](https://github.com/LibChecker/LibChecker) | `Android` |
+| **Octogram** | **Sadly, the development of Owlgram, a well-known Telegram client for Andr… | [GitHub](https://github.com/OctoGramApp/OctoGram) | `Android` |
+| **Rectify11 İnstaller** | — | [GitHub](https://github.com/MishaProductions/Rectify11Installer) | `projects, Windows` |
+| **Lyricify - A fantastic app to provide scroll lyrics for Spotify** | Lyricify** is a software project that aims to provide scroll lyrics for  S… | [GitHub](https://github.com/WXRIW/Lyricify-App) | `Android, Windows` |
+| **Remove YouTube Suggestions - extension** | **Spend less time on YouTube. Customize YouTube's user interface to be les… | [GitHub](https://github.com/lawrencehook/remove-youtube-suggestions) | `Web` |
+| **Symphony** | **Just another good Material You music player. | [GitHub](https://github.com/zyrouge/symphony) | `Android` |
+| **Extirpater** | **An high-performance free space eraser for Android. **When you delete a f… | [GitHub](https://github.com/Divested-Mobile/Extirpater) | `Android` |
+| **Focus Launcher** | **Focus Launcher is a minimalist Android Launcher | [GitHub](https://github.com/mslalith/focus_launcher) | `features, built, Android` |
+| **GPTZero** | GPTZero is a classification model that predicts whether a document was wri… | — | `Web` |
+| **Owl2** | **A flutter client for the OwlBot dictionary. | [GitHub](https://github.com/yamin8000/Owl2) | `Android` |
+| **Mull Fenix: A GitHub project to build a customized and privacy-enhanced version of Firefox for Android.** | **Mull Fenix is a fork of Relan’s fennecbuild repository, which allows com… | [GitHub](https://github.com/Divested-Mobile/Mull-Fenix) | `Android` |
+| **Pazzword** | **Evaluate and generate password quickly. | [GitHub](https://github.com/cyb3rko/pazzword) | `Android` |
+| **Colors AI** | **Generate beautiful color palettes using AI. | [GitHub](https://github.com/tsinis/colors_ai) | `Android` |
+| **GPT + DALL-E + WhatsApp = AI Assistant 🚀** | This WhatsApp bot uses OpenAI's GPT and DALL-E 2 to respond to user inputs. | [GitHub](https://github.com/askrella/whatsapp-chatgpt) | `—` |
+| **Weather** | **Stay ahead of the storm with our intuitive weather app. Get accurate and… | [GitHub](https://github.com/sunilpaulmathew/Weather) | `Android` |
+| **Tasky** | **A material you to-do list app. | [GitHub](https://github.com/thatsmanmeet/Tasky) | `Android` |
+| **The reason why you should hurry for this is;** | I got 25 codes and it expires until Friday 😂😂😂 | [GitHub](https://play.google.com/store/apps/details?id=in.sunilpaulmathew.ashell) | `—` |
+| **AI Code Translator** | **Use AI to translate code from one language to another. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) | `Android` |
+| **FDE.AI** | **FeraDroid Engine (FDE) - an All-in-One ultimate optimizer for all device… | [GitHub](https://t.me/popCLOUDS/605) | `Android` |
+| **Spooky 🎃** | **First journal with Material 3 design! Spooky is a minimalist design appl… | [GitHub](https://play.google.com/store/apps/details?id=com.juniorise.spooky) | `Android` |
+| **LogFox** | **Yet another LogCat reader for Android | [GitHub](https://github.com/F0x1d/LogFox) | `Android` |
+| **Rain** | **Open-source weather app powered by [Open-Meteo](https://open-meteo.com/). | [GitHub](https://open-meteo.com) | `Android` |
+| **Wallme-Wallpaper** | **Open-source wallpaper app powered by Reddit and Wallhaven. | [GitHub](https://github.com/Alaory/WallMe-Wallpaper) | `Android` |
+| **Clipious** | **Private YouTube client based on the Invidious frontend. | [GitHub](https://github.com/lamarios/clipious) | `Android` |
+| **Taskade - AI Lists, Notes, Chat - A free productivity app that lets you chat with your tasks 📝🤖** | **Taskade is a task management and collaboration app that supports all you… | — | `Android` |
+| **My Brain** | **Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Dia… | [GitHub](https://f-droid.org/packages/com.mhss.app.mybrain) | `Android` |
+| **PDFgear - A free PDF editor that lets you chat with PDFs 📚**🤖** | PDFgear is a PDF editing software that has an **AI technology called PDF C… | [GitHub](https://t.me/popCLOUDS/531) | `Windows` |
+| **Aniyomi - Tachiyomi for anime** | **Aniyomi is a Tachiyomi fork designed to watch anime. | — | `Android` |
+| **well, ChatGPT integration is coming to Telegram soon** | — | [GitHub](https://t.me/adurovleaks/90) | `—` |
+| **Integrating ChatGPT into your browser deeply, everything you need is here** **-  A Chrome Extension** | **✨ Features | [GitHub](https://github.com/josStorer/chatGPTBox) | `credit, Web` |
+| **Ambient Music Mod - Port of Now Playing from Pixels to other Android devices** | **Ambient Music Mod is a Shizuku or root app that ports Now Playing from P… | [GitHub](https://github.com/KieronQuinn/AmbientMusicMod) | `installation, Android` |
+| **Motrix - A full-featured download manager** | **Motrix is a full-featured download manager that supports downloading HTT… | [GitHub](https://github.com/agalwood/Motrix) | `Linux, MacOS` |
+| **Neverinstall | Run any app from your browser** | **Have you ever wished you could run any desktop app from your browser wit… | — | `Web` |
+| **United Sets** | **An open-sourced program that groups windows into tabs, inspired by the u… | [GitHub](https://github.com/FireCubeStudios/UnitedSets) | `Windows` |
+| **ChatGPT for Browsers** | **Display ChatGPT response alongside search engine results | [GitHub](https://github.com/wong2/chat-gpt-google-extension) | `Web` |
+| **TetherFI - share your internet without the need of an hotspot plan** | **Sadly some internet providers don't allow hotspot or charge additional c… | [GitHub](https://github.com/pyamsoft/tetherfi) | `Android` |
+| **Tusky** **- Mastodon Client** | **Tusky is a beautiful Android client for [Mastodon](https://github.com/ma… | [GitHub](https://github.com/mastodon/mastodon) | `Android` |
+| **SleepZz: Your Sleep assistant.** | A simple app helps you to determine the optimal waking up times with the t… | [GitHub](https://github.com/ahmedtohamy1/SleepZz) | `Android` |
+| **Termux-Games** | Play Games on Termux** 🎮 | [GitHub](https://github.com/khansaad1275/Termux-Games) | `Android` |
+| **VpnHood!** | Fast and Secure Free VPN | [GitHub](https://github.com/vpnhood/VpnHood) | `Android, Windows` |
+| **SystemUI Tuner - tweak hidden Android settings.** | **SystemUI Tuner allow you to toggle Android settings that for some reason… | [GitHub](https://github.com/zacharee/Tweaker) | `Android` |
+| **SophiApp - the best Windows tweaker** | **SophiApp is an open-source tweaker for Windows 10 and 11. It has more th… | [GitHub](https://t.me/sophia_chat) | `Android` |
+| **SuperImage - upscale **photos using your android's GPU** | — | [GitHub](https://github.com/Lucchetto/SuperImage) | `Android` |
+| **Have you ever thought that you can use YouTube as an unlimited cloud storage?** | Yes, this is real and it is already working. | [GitHub](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | `—` |
+| **Spowlo - A Spotify songs downloader made with Jetpack Compose, Material You and the spotDL python library** | The developer announced that he will be recreating the app and that the ap… | [GitHub](https://github.com/BobbyESP/Spowlo) | `Android` |
+| **Auxio - simple Material You music player** | — | [GitHub](https://github.com/OxygenCobalt/Auxio) | `Android` |
+| **Connect You - Material You Contacts app** | — | [GitHub](https://github.com/Bnyro/ConnectYou) | `Android` |
+| **Paisa - Expense Manager** | — | [GitHub](https://github.com/RetroMusicPlayer/Paisa) | `Android` |
+| **Magisk Delta - Magisk fork with unofficial features** | — | [GitHub](https://t.me/magiskdelta) | `Android` |
+| **Myne - Ebook downloader from Project Gutenberg** | Myne is an app that allows you to download many ebooks from authors that d… | [GitHub](https://github.com/Pool-Of-Tears/Myne) | `Android` |
+| **Wikipedia App for Android** | **Do you ever spend hours reading Wikipedia just because you're bored or y… | [GitHub](https://github.com/wikimedia/apps-android-wikipedia) | `Android` |
+| **MIUI Launcher Mod** | **MIUI Launcher Mod is modified with many features added and ui changes. | [GitHub](https://github.com/Mods-Center/Miui_Launcher_Mod) | `Android, MIUI` |
+| **MIUI Monet - Material You for MIUI** | **MIUI Monet is a magisk module that themes all the MIUI apps with Materia… | [GitHub](https://github.com/MIUI-Monet-Project/Module) | `Android, MIUI` |
+| **Wall You - open-source wallpaper app** | **Wall You is an open-source wallpaper app that fetches wallpapers from Wa… | [GitHub](https://github.com/Bnyro/WallYou) | `Android` |
+| **[LocalSend** | ](https://localsend.org/)Share files to nearby devices. Free, open source,… | [GitHub](https://github.com/localsend/localsend) | `Android, Windows, Linux, macOS, iOS` |
+| **Ferdium - all your services in one place** | **Ferdium is a multi-platform program that aggregates all your services (l… | [GitHub](https://github.com/ferdium/ferdium-app) | `Windows, MacOS, Linux` |
+| **Flow Launcher - Quick file search & app launcher for Windows with community-made plugins** | — | [GitHub](https://github.com/Flow-Launcher/Flow.Launcher) | `system, Windows` |
+| **PlayStoreMod - enable hidden flags of Play Store** | **PlayStoreMod is an app that can be used to enable hidden features and ne… | [GitHub](https://github.com/assembleDebug/PlayStoreMod) | `Android` |
+| **Vibe Music - music streaming app** | Vibe Music is an app that allows you to listen to music with YouTube Music… | [GitHub](https://github.com/sheikhhaziq/vibemusic) | `Android` |
+| **MRepo - Magisk module repo and manager** | **MRepo is a new app that substitutes the dead Magisk module repo, it is v… | [GitHub](https://github.com/ya0211/MRepo) | `Android` |
+| **Amarok - hide apps and files** | **Amarok is an app that allows you to hide apps and files using root or sh… | [GitHub](https://github.com/deltazefiro/Amarok-Hider) | `Android` |
+| **WingetUI - GUI for winget** | **WingetUI is a very useful Windows app that allows you to install and upd… | [GitHub](https://github.com/marticliment/WingetUI) | `Android` |
+| **YouTube AdAway - adblocker for YouTube** | **YouTube AdAway is a LSposed module for Android that blocks ads and enabl… | [GitHub](https://github.com/wanam/YouTubeAdAway) | `Android` |
+| **Oversec - privacy for all apps** | **Oversec is an advanced encryption app. By sharing a key to the person wi… | [GitHub](https://github.com/oversecio/oversec) | `Android` |
+| **Inure - elegant app manager** | **Inure is an elegant android app manager that supports both rooted and no… | [GitHub](https://github.com/Hamza417/Inure) | `Android` |
+| **ChatGPT Android - unofficial ChatGPT app** | **ChatGPT Android is an app that uses ChatGPT API to make accessing the AI… | [GitHub](https://github.com/skydoves/chatgpt-android) | `Android` |
+| **Buckwheat - App that helps you spend money wisely** | **Buckwheat is an app that helps you spend money wisely, tracking every ex… | [GitHub](https://github.com/danilkinkin/buckwheat) | `Android` |
+| **Jetispot** __PR Merge Preview** | This is Jetispot with https://github.com/iTaysonLab/jetispot/pull/28 merge… | [GitHub](https://github.com/iTaysonLab/jetispot) | `—` |
+| **ShareX** - **Screen capture, file sharing and productivity tool** | **ShareX is a free and open source program that lets you capture or record… | [GitHub](https://github.com/ShareX/ShareX) | `Windows` |
+| **Folder İcons for PC** | https://github.com/sameerasw/folder-icons/ | [GitHub](https://github.com/sameerasw/folder-icons) | `—` |
+| **[Check this if you love Google-ish Calculator](https://github.com/Darkempire78/OpenCalc)** | — | [GitHub](https://github.com/Darkempire78/OpenCalc) | `—` |
+| **TeleSpeed : Lsposed module to enhance your telegram client download speed.** | Requirements | [GitHub](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) | `—` |
+| **Obtainium App - Get Android App Updates Directly From the Source**.** | Obtainium allows you to install and update Open-Source Apps directly from… | [GitHub](https://github.com/ImranR98/Obtainium) | `Android` |
+| **Better Discord **-  **Better Discord enhances Discord desktop app with new features.** | **BetterDiscord is a client modification for Discord. This allows you to a… | [GitHub](https://github.com/BetterDiscord/BetterDiscord) | `manual, Windows, Linux, MacOS` |
+| **İn2White - This 365- Gigapixel monster is the world largest panoramic photo** | **Have you ever wondered about the world's largest sized photo? | — | `Web` |
+| **International Student Identity Card (ISIC)** | The **International Student Identity Card** (**ISIC**) is an international… | — | `—` |
+| **AirGuard - protect yourself from AirTags** | **AirGuard is an app for Android that **scans for Apple AirTags in the bac… | [GitHub](https://github.com/seemoo-lab/AirGuard) | `Android` |
+| **•Update** | •Update | [GitHub](https://one.google.com/join/ai-student?utm_source=gemini&utm_medium=bts-campus-qrcode&utm_id=a7721bf9-2a0c-43e2-b4ab-0be4dd31d0df&g1_landing_page=5) | `GODSPEED, app, update, photos, rui, gallery, universal, Android` |
+| **Teta (Beta) - App Builder** | **With Teta, you can build cross-platform mobile apps in no time, using ou… | — | `Android, MacOS` |
+| **Tipi- A personal homeserver for everyone** | **Tipi is a personal homeserver orchestrator. It is running docker contain… | [GitHub](https://github.com/meienberger/runtipi) | `Linux` |
+| **Termux Surveillance** | **A simple surveillance tool that can be interacted with SMS. | [GitHub](https://github.com/tuhinpal/termux-surveillance) | `Android` |
+| **Mailvelope** | Mailvelope is a browser extension for Google Chrome and Firefox that allow… | [GitHub](https://github.com/mailvelope/mailvelope) | `Web` |
+| **Noice: Natural calming noise** | **__Noice is an app that allows you to create personalised sound environme… | — | `Android` |
+| **Loom** | **Loom is one of the most essential Chrome extensions. It is a video messa… | — | `—` |
+| **Boundo: System Tool Set** | **A tools bundle bound to do things for you | [GitHub](https://github.com/cliuff/boundo) | `Android` |
+| **Buffer** | **Buffer is a great tool for scheduling and sharing content on social medi… | — | `Web` |
+| **UIzard.io** | **Uizard is a rapid, AI-powered prototyping tool used for designing wirefr… | — | `Web` |
+| **TwiF*cker** | **Yet Another Adkiller for Twitter. | [GitHub](https://github.com/LSPosed/LSPatch) | `Android` |
+| **XDowngrader (XPosed Module)** | **XDowngrader downgrades any app by allowing you to install the APK of an… | [GitHub](https://t.me/LSPosedArchives) | `Android` |
+| **Heale**rgram (XPosed Module)** | An Xposed module to heal your Telegram addiction. | [GitHub](https://github.com/LSPosed/LSPosed) | `Android, FOSS` |
+| **Revan**cify** | A simple and direct YouTube and YouTube Music Revanced Installer script. | [GitHub](https://github.com/decipher3114/Revancify) | `Android, Tools` |
+| **InviZ**ible Pro** | InviZible Pro is an open-source app that **protects your privacy, unblocks… | [GitHub](https://github.com/Gedsh/InviZible) | `Android` |
+| **Seal - Video and Audio downloader powered by yt-dlp and MD3** | Seal is an audio and video downloader that provides a GUI to the famous yt… | [GitHub](https://github.com/JunkFood02/Seal) | `Android` |
+| **Xtra - Open-source Twitch player and browser for Android** | **Xtra is an open-source player and browser for Twitch. It supports ad-blo… | [GitHub](https://github.com/crackededed) | `Android` |
+| **microsoft open sourced their emojis but the nicer looking one on left is just png because its 3d render and they said "its all in figma" 🤡** | [Get it on Figma ](https://www.figma.com/community/file/113825494224967774… | [GitHub](https://github.com/microsoft/fluentui-emoji) | `—` |
+| **YouTu**be Vanced Extended** | Hi, when we released Vanced 15.05.54, people were upset because it used th… | [GitHub](https://github.com/inotia00/VancedManager) | `Android` |
+| **[Hey** | I think you interest Material You Termux | [GitHub](https://github.com/DevMoxxie/termux-monet) | `—` |
+| **[​​](https://telegra.ph/file/c968570052fa59a700d8d.jpg)🎧 **How to cut a voice or minus from a track without complex programs** | Let's use the VocalRemover service, which is able to separate text from mu… | — | `Web` |
+| **Monet-Generator** | Create Monet Themes for Telegram, Telegram X, Plus Messenger and MiXplorer… | [GitHub](https://t.me/ESICAChannel) | `—` |
+| **Silen**ce - Block unknown callers** | By default numbers not in your contacts are blocked. | [GitHub](https://github.com/x13a) | `Android` |
+| **Magisk v25.1 (25100)** | ⚡__Magisk Beta__ | [GitHub](https://github.com/topjohnwu/Magisk) | `Android` |
+| **Musif**y - **Music Streaming and Downloading app made in Flutter!** **( Material You )** | **Features** | [GitHub](https://github.com/gokadzev/Musify) | `Android` |
+| **You.c**om** - Google Search Engine alternative** | [You.com](http://You.com/) is the search engine you control — your time, s… | — | `Android, Web` |
+| **ReVanced v17.22.36 (****1529734592****)** | ⚡__ReVanced is an unofficial continuation of Vanced and unaffiliated with… | [GitHub](https://github.com/revanced/revanced-documentation) | `—` |
+| **popGR**AM - [extera](https://t.me/exteragram) based Telegram client by us** | popGRAM, a simple, battery-friendly extera-based Telegram client | [GitHub](https://github.com/itsv1eds/popGram) | `Android` |
+| **MIUI **- Ads Helper** | MIUI - Ads Helper helps to enable/disable ads or recommendations in MIUI. | [GitHub](https://t.me/popmodschat/57085) | `Android` |
+| **GODSPEED #RESURRECT #OF #MADNESS #PRO #MAGISK #PADI** | — | — | `GODSPEED, RESURRECT, OF, MADNESS, PRO, MAGISK, PADI, MODULE` |
+| **Koler** - Just a phone app.** | Koler is an open source MVVM android app. Designed with the user in mind.… | [GitHub](https://t.me/popmodschat/55805) | `Android` |
+| **Thud.** - Read news without the fuss** | Thud. is a free and open source news reader for Android and iOS inspired b… | [GitHub](https://telegra.ph/Thud-Features-05-29) | `Android, IOS` |
+| **popWALLS is back! (also now open source)** | [Source | [GitHub](https://github.com/n3rd3x3/popWALLS) | `—` |
+| **Neo S**tore **- A quick material F-Droid client.** | **Features** | [GitHub](https://github.com/NeoApplications/Neo-Store) | `Android` |
+| **Hello to Everyone.** | I am @decipher3114. I am a beginner in Software development. I use Windows… | [GitHub](https://github.com/decipher3114/WSAUtils) | `—` |
+| **App M**anager - A full-featured package manager and viewer for Android** | App manager is an advanced package manager for Android which offers tons o… | [GitHub](https://github.com/MuntashirAkon/AppManager) | `Android` |
+| **Spotu**be - A free Spotify client** | Spotube is a Flutter based lightweight spotify client. It utilizes the pow… | [GitHub](https://github.com/KRTirtho/spotube) | `Android` |
+| **Genia**lly **- A Tool for Creating Infographics and Animated Presentations** | Genially is a web-based tool, available in a free version, that allows you… | [GitHub](https://www.profweb.ca/en/publications/digital-tools/genially-a-tool-for-creating-infographics-and-animated-presentations) | `Web` |
+| **Read **You - RSS Reader (Material You)** | Read You is a copy of Reeder, in order to give Android an RSS reader simil… | [GitHub](https://github.com/Ashinch) | `Android` |
+| **Strat**osphere - Tweak Module to improve ur experience and Power on your device.** | Focused on Maximizing user experience, multiple profiles Changeable in-app… | [GitHub](https://github.com/CRANKV2/CRV2) | `Android` |
+| **Thano**x - Thanos for your apps** | Thanox is an app that lets you gain very granular control over your apps.… | [GitHub](https://github.com/Tornaco/Thanox) | `Android` |
+| **Neko **| A Free, Open source unofficial manga reader for MangaDex** | This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This conta… | [GitHub](https://github.com/CarlosEsco/Neko) | `Android` |
+| **Pixel** Launcher Mod | Customize your Pixel Launcher!** | Pixel Launcher Mods is a root app for Android 12+ that enables you to add… | [GitHub](https://github.com/KieronQuinn/PixelLauncherMods) | `Android` |
+| **Retro** Music Player | Material You Design Music Player for Android music lovers** | **Download, Features and Captures | [GitHub](https://telegra.ph/Retro-Music-Player-Features-04-12) | `Android` |
+| **Upgra**deAll** | Check updates for Android apps, Magisk modules and more! | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) | `Android` |
+| **Scoop | Catches a stack trace when an app crashes unexpectedly.** | Scoop catches and saves the stack traces of crashing apps and displays all… | [GitHub](https://github.com/TacoTheDank/Scoop) | `guide, Android` |
+| **Buoy **| An extension to the built in Android Battery Saver** | **Description** | [GitHub](https://github.com/tytydraco/Buoy) | `Android` |
+| **Googl**e Arts & Culture launches ‘Giga Manga’ web app that lets you create manga characters using AI** | Giga Manga is an online experiment that allows you to create unique manga… | — | `Web` |
+| **THEME GENERATOR FOR TELEGRAM ANDROID** | ❗Requires: Android 12+ | [GitHub](https://github.com/c3r5b8/Telegram-Monet) | `apps` |
+| **LibreTube | YouTube Vanced Alternative 1** | Alternative YouTube frontend for Android | [GitHub](https://github.com/TeamPiped/Piped) | `Android, Website` |
+| **Waifu**PX** | WAIFUPX is an Android application free of any type of advertising, The mai… | [GitHub](https://github.com/WaifuPX-DG/WaifuPX) | `Android` |
+| **Be aware of apps that uses sensible hardware access. Get notified every time with Privacy Dots.** | Powerful app that indicates whether other apps or services uses your locat… | — | `—` |
+| **IOS-P**ILL | Magisk Module** | Change your stock AOSP pill to IOS style pill! | [GitHub](https://github.com/siimsek) | `—` |
+| **De-Bl**oater** | De-Bloater is an application using the power of Magisk to de-bloat unwante… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/com.sunilpaulmathew.debloater) | `Android` |
+| **POP-ZRAM** | Magisk Module** | Enable ZRAM with 4GB in your device! | [GitHub](http://t.me/siimsek) | `Android` |
+| **Googl**e Product Sans Font for Android 12** | This module helps you to install Google Product Sans Font systemlessly thr… | [GitHub](https://t.me/popmods/377) | `Android` |
+| **Kille**rgram | Remove sponsored Telegram's messages** | An Android Xposed module to remove sponsored messages of Telegram. | [GitHub](https://github.com/shatyuka/Killergram) | `Android` |
+| **Magisk v24.3 | Stable Version** | Changelog | [GitHub](https://t.me/popmods/355) | `Android` |
+| **Fox M**agisk Module Manager | **Magisk Module Repository** | The official Magisk is dropping support to download online modules... | [GitHub](https://github.com/Fox2Code/FoxMagiskModuleManager) | `Android` |
+| **Flutter Random Face Generator** | ** | [GitHub](https://github.com/aristofun/py-agender) | `Android, Windows` |
+| **AlternativeTo | Find alternatives for every software.** | **AlternativeTo** is a website which lists alternatives to web-based softw… | — | `Website` |
+| **Snapdrop** | Android app for [Snapdrop.net](https://snapdrop.net/) - The easiest way to… | [GitHub](https://github.com/RobinLinus/snapdrop) | `Windows, macOS, Android, iOS, Web` |
+| **SpotiFlyer** | ** | [GitHub](https://github.com/Shabinder/SpotiFlyer) | `Android` |
+| **Aves•** | Aves is a gallery and metadata explorer app. It is built for Android, with… | [GitHub](https://github.com/deckerst/aves) | `Android` |
+| **Magisk BootloopSaver** | Protect your system from bootloop caused by Magisk modules. In case the da… | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver) | `—` |
+| **FlorisBoard v0.3.14-beta13 (69)** | ⚡️__FlorisBoard is a free and open-source keyboard for Android 6.0+ device… | [GitHub](https://github.com/florisboard/florisboard) | `Android` |
+| **Cache App Limiter** | __Description__ | [GitHub](https://github.com/Nixsuki/Cache-App-Limiter) | `Android` |
+
+</details>
 <!-- AUTO-GENERATED-END -->
 
 ---

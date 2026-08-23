@@ -12,7 +12,7 @@ def test_generate_content_structure(sample_project: Project):
     assert "## 📊 Catalog Overview" in md
     assert "**Total Discovered Apps & Repositories:** `1`" in md
     assert "**Unique Categories / Tags:** `3`" in md
-    assert "## 📋 Quick Directory Index" in md
+    assert "Quick Directory Index" in md
     assert "## 📱 Discover Apps & Project Details" in md
     assert "### 📦 Neuronpedia" in md
     assert "assets/apps/neuronpedia/cover.jpg" in md

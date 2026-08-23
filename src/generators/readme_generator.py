@@ -27,8 +27,8 @@ def generate_content(projects: list[Project]) -> str:
 
     Produces:
         1. Statistics header
-        2. Searchable Quick Index Table
-        3. Detailed project cards with collapsible screenshots & features
+        2. Detailed project cards with collapsible screenshots & features
+        3. Collapsible Searchable Quick Index Table at the bottom
 
     Args:
         projects: List of Project objects, already sorted by created_at desc.
@@ -55,8 +55,22 @@ def generate_content(projects: list[Project]) -> str:
     lines.append("---")
     lines.append("")
 
-    # --- Searchable Table / Quick Index ---
-    lines.append("## 📋 Quick Directory Index")
+    # --- Detailed Projects Directory ---
+    if projects:
+        lines.append("## 📱 Discover Apps & Project Details")
+        lines.append("")
+        lines.append("> Click on the **🖼️ Preview Screenshots & Media** dropdown under any project to view screenshots before deciding to download or use.")
+        lines.append("")
+
+        for project in projects:
+            lines.extend(_generate_project_card(project))
+            lines.append("")
+            lines.append("---")
+            lines.append("")
+
+    # --- Collapsible Searchable Table / Quick Index at the bottom ---
+    lines.append("<details id=\"quick-index\">")
+    lines.append(f"<summary><h2>📋 Quick Directory Index ({len(projects)} Apps Table) — <i>Click to expand full list</i></h2></summary>")
     lines.append("")
     lines.append("| App / Project | Description | Repository | Categories |")
     lines.append("|:---|:---|:---|:---|")
@@ -72,21 +86,8 @@ def generate_content(projects: list[Project]) -> str:
         lines.append("| _No projects synced yet._ | — | — | — |")
 
     lines.append("")
-    lines.append("---")
+    lines.append("</details>")
     lines.append("")
-
-    # --- Detailed Projects Directory ---
-    if projects:
-        lines.append("## 📱 Discover Apps & Project Details")
-        lines.append("")
-        lines.append("> Click on the **🖼️ Preview Screenshots & Media** dropdown under any project to view screenshots before deciding to download or use.")
-        lines.append("")
-
-        for project in projects:
-            lines.extend(_generate_project_card(project))
-            lines.append("")
-            lines.append("---")
-            lines.append("")
 
     return "\n".join(lines)
 
