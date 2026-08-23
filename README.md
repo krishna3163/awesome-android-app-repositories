@@ -1,6 +1,36 @@
-# Android Repo Radar
+<div align="center">
 
-Automatically curated collection of open-source apps, tools, websites and repositories discovered from selected Telegram channels.
+# 📱 Awesome Android App Repositories & Tools
+
+### A continuously updated catalog of open-source Android apps, power-user utilities, web tools, and repositories discovered from Telegram.
+
+[![GitHub stars](https://img.shields.io/github/stars/krishna3163/awesome-android-app-repositories?style=for-the-badge&logo=github&color=gold)](https://github.com/krishna3163/awesome-android-app-repositories/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/krishna3163/awesome-android-app-repositories?style=for-the-badge&logo=github&color=blue)](https://github.com/krishna3163/awesome-android-app-repositories/network)
+[![GitHub license](https://img.shields.io/github/license/krishna3163/awesome-android-app-repositories?style=for-the-badge&color=green)](https://github.com/krishna3163/awesome-android-app-repositories/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git)](https://github.com/krishna3163/awesome-android-app-repositories/pulls)
+[![Automated Sync](https://img.shields.io/badge/Sync-Automated-purple?style=for-the-badge&logo=githubactions)](https://github.com/krishna3163/awesome-android-app-repositories/actions)
+
+**Explore new open-source projects, tools, websites, developer libraries, and Android utilities — automatically tracked and updated.**
+
+[📊 Statistics](#-statistics) • [🆕 Latest Projects](#-latest-projects) • [📋 All Projects](#-all-projects) • [🤝 Contributing](#-contributing) • [⚖️ Disclaimer](#️-disclaimer)
+
+</div>
+
+---
+
+<details id="about" open>
+<summary><h2>✨ About This Directory</h2></summary>
+
+This repository is an **automated, curated catalog** of newly discovered open-source applications, power tools, web utilities, and developer projects.
+
+- 🔄 **Continuously Updated** — Monitored 24/7 and updated automatically with newly posted projects.
+- 🎯 **Rich Project Details** — Includes developer info, repository links, official websites, feature breakdowns, and screenshots.
+- 🔍 **Duplicate Prevention** — Intelligent multi-step fuzzy matching ensures clean, single-entry project tracking.
+- 📂 **Structured Data** — All records are stored in machine-readable JSON under [`data/apps.json`](data/apps.json).
+
+</details>
+
+---
 
 <!-- AUTO-GENERATED-START -->
 ## 📊 Statistics
@@ -21,114 +51,26 @@ Automatically curated collection of open-source apps, tools, websites and reposi
 
 ---
 
-## 🚀 Setup & Local Development
+## 🤝 Contributing & Suggesting Projects
 
-### Prerequisites
-- Python 3.12+
-- Telegram API credentials (from [my.telegram.org](https://my.telegram.org))
+Found a great open-source Android app, tool, or website that should be featured?
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/krishna3163/awesome-android-app-repositories.git
-   cd awesome-android-app-repositories
-   ```
-
-2. **Create and activate virtual environment:**
-   ```bash
-   python -m venv .venv
-   # Windows:
-   .venv\Scripts\activate
-   # Linux/macOS:
-   source .venv/bin/activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements-dev.txt
-   ```
-
-4. **Generate Telegram session string:**
-   ```bash
-   python scripts/generate_session.py
-   ```
-   Follow the prompts to enter your API ID, API Hash, phone number, and 2FA code. This will output a `TELEGRAM_SESSION_STRING`.
-
-5. **Configure environment:**
-   ```bash
-   cp .env.example .env
-   ```
-   Fill in `TELEGRAM_API_ID`, `TELEGRAM_API_HASH`, and `TELEGRAM_SESSION_STRING` in your `.env`.
-
-6. **Run synchronization:**
-   ```bash
-   # Dry-run mode (check without saving changes):
-   python -m src.main --dry-run
-
-   # Full sync:
-   python -m src.main
-   ```
+1. **Submit an Issue or Pull Request** with the project details (name, GitHub repository, website, description, tags).
+2. Ensure the project is **open-source** and has an active repository.
+3. Once reviewed, it will be added to the directory.
 
 ---
 
-## ⚙️ GitHub Actions & Automation
+## ⚖️ Disclaimer
 
-The repository is synchronized automatically on a schedule via GitHub Actions:
-- **Hourly sync:** Runs `0 * * * *` to fetch and sync newly published apps.
-- **Manual trigger:** Use `workflow_dispatch` in GitHub Actions UI with optional `dry_run` or `force_resync` flags.
-
-### Required GitHub Secrets
-
-Configure the following secrets in **Settings > Secrets and variables > Actions**:
-
-| Secret | Description |
-|---|---|
-| `TELEGRAM_API_ID` | Your Telegram API ID from [my.telegram.org](https://my.telegram.org) |
-| `TELEGRAM_API_HASH` | Your Telegram API Hash from [my.telegram.org](https://my.telegram.org) |
-| `TELEGRAM_SESSION_STRING` | Generated session string from `scripts/generate_session.py` |
+- All applications, source code, logos, and trademarks belong to their respective authors and maintainers.
+- This repository is an archival and discovery directory for informational purposes.
+- Please review each project's respective license and terms of service before installation or use.
 
 ---
 
-## 🧪 Running Tests
+<div align="center">
 
-```bash
-# Run test suite
-pytest
+**If you found this catalog useful, please consider giving it a ⭐ star to show your support!**
 
-# Run tests with coverage
-pytest --cov=src
-```
-
----
-
-## 📂 Repository Structure
-
-```text
-├── .github/workflows/
-│   ├── sync.yml              # Scheduled & dispatch Telegram sync workflow
-│   └── validate.yml          # Pull request & push validation
-├── assets/apps/              # Downloaded cover images and screenshots
-├── data/
-│   ├── apps.json             # Main project database (Single Source of Truth)
-│   ├── pending-features.json # Features awaiting matching project
-│   ├── review-required.json  # Low-confidence fuzzy matches for review
-│   ├── failed-posts.json     # Malformed posts logs
-│   └── processed-messages.json # Message ID offset tracker
-├── scripts/
-│   └── generate_session.py   # One-time Telegram session generator
-├── src/
-│   ├── database/             # JSON repository & smart merger
-│   ├── generators/           # Marker-based README generator
-│   ├── matching/             # Normalization, RapidFuzz & multi-step matching
-│   ├── parsers/              # Main channel & features channel parsers
-│   ├── telegram/             # Telethon client, monitor & media downloader
-│   └── utils/                # Hashing, logging & validators
-└── tests/                    # Comprehensive unit and integration test suite
-```
-
----
-
-## 📄 License
-
-This repository is maintained for informational and archival purposes. All projects cataloged belong to their respective authors and licenses.
+</div>
