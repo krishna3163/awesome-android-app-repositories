@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16962`
+> **Total Cataloged Projects:** `16963`
 
 ---
 
@@ -13179,6 +13179,7 @@
 | **Shadow Rs** | This project is intended for educational and research purposes. | [GitHub](https://github.com/joaoviictorti/shadow-rs) | — | `GitHub, OpenSource` |
 | **Shadow-Weave/HMS** | **Language**: Python | [GitHub](https://github.com/Shadow-Weave/HMS) | — | `GitHub, OpenSource` |
 | **shadow1ng/fscan** | **Language**: Go | [GitHub](https://github.com/shadow1ng/fscan) | — | `GitHub, OpenSource, go` |
+| **ShadowAqueduct/watermark-remover** | Purge multi-vendor AI watermarks: clean Unicode text, apply statistic… | [GitHub](https://github.com/ShadowAqueduct/watermark-remover) | — | `claude_ai, claude_code, claude_code_plugin, claude_skills, codex, codex_cli, codex_skill, codex_skills, watermark` |
 | **Shadowfinder** | Using the height of an object, the length of its shadow, and the date… | [GitHub](https://github.com/bellingcat/ShadowFinder) | — | `GitHub, OpenSource` |
 | **Shadowhound** | It uses built-in PowerShell capabilities to minimize detection risks. | [GitHub](https://github.com/Friends-Security/ShadowHound) | — | `GitHub, OpenSource` |
 | **shadPS4** | shadPS4 is an early PlayStation 4 emulator for Windows, Linux and mac… | [GitHub](https://github.com/shadps4-emu/shadPS4) | — | `github, Gaming, Emulation, OpenSource, readme, windows, macos, linux, emulator, cpp, vulkan, imgui, ps4, cpp20, playstation4, sdl3, cplusplus` |

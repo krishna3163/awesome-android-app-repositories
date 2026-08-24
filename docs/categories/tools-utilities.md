@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13374`
+> **Total Apps in Category:** `13375`
 
 ---
 
@@ -197211,6 +197211,19 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 ShadowAqueduct/watermark-remover
+
+> **Categories:** `#claude_ai` `#claude_code` `#claude_code_plugin` `#claude_skills` `#codex` `#codex_cli` `#codex_skill` `#codex_skills` `#watermark`
+
+Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)
+- 👤 **Developer:** [ShadowAqueduct](https://github.com/ShadowAqueduct)
 
 
 ---

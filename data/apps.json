@@ -1,5 +1,41 @@
 [
   {
+    "id": "shadowaqueduct-watermark-remover",
+    "name": "ShadowAqueduct/watermark-remover",
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/ShadowAqueduct/watermark-remover",
+    "developer": {
+      "name": "ShadowAqueduct",
+      "url": "https://github.com/ShadowAqueduct"
+    },
+    "features": [],
+    "tags": [
+      "claude_ai",
+      "claude_code",
+      "claude_code_plugin",
+      "claude_skills",
+      "codex",
+      "codex_cli",
+      "codex_skill",
+      "codex_skills",
+      "watermark"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13694,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-24T16:00:03+00:00",
+    "updated_at": "2026-08-24T16:25:25.369328+00:00"
+  },
+  {
     "id": "poketokenbar",
     "name": "PokeTokenBar",
     "description": "A macOS menu bar app that tracks your daily token usage across Claude Code, Codex, Gemini CLI, Cursor, and Grok then turns those tokens into a Pokémon companion that hatches from an egg, evolves through its real evolution line, and fills a Pokédex. One of the most creative dev tools in 2026.\n\nCreator: chattymin\nStars ⭐️: 271\nForked by: 72",
