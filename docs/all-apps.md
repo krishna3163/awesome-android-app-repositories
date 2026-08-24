@@ -15665,7 +15665,7 @@
 | **Voqal** | Using Voqal, you can navigate, write, run, and debug software in the… | [GitHub](https://github.com/voqal/voqal) | — | `GitHub, OpenSource` |
 | **VoronDesign/Voron-Stealthburner** | **Stars**: 116 **Issues**: 5 **Forks**: 12 | [GitHub](https://github.com/VoronDesign/Voron-Stealthburner) | — | `GitHub, OpenSource` |
 | **vorpus/performativeUI** | **Language**: TypeScript | [GitHub](https://github.com/vorpus/performativeUI) | — | `GitHub, OpenSource` |
-| **vorssaint/vorssaint-utils** | **Language**: Swift | [GitHub](https://github.com/vorssaint/vorssaint-utils) | — | `GitHub, OpenSource` |
+| **vorssaint/vorssaint-utils** | **Language**: Swift | [GitHub](https://github.com/vorssaint/vorssaint-utils) | — | `GitHub, OpenSource, swift, alt_tab, app_uninstaller, appkit, finder, free, keep_awake, mac_os, menu_bar, menubar, open_source, swift_ui, system_monitor, uninstaller, volume_mixer, window_switcher` |
 | **Vosk Api** | Vosk is a powerful tool for recognizing speech without needing the in… | [GitHub](https://github.com/alphacep/vosk-api) | — | `jupyter_notebook, android, asr, deep_learning, deep_neural_networks, deepspeech, google_speech_to_text, ios, kaldi, offline, privacy, python, raspberry_pi, speaker_identification, speaker_verification, speech_recognition, speech_to_text, speech_to_text_android, stt, voice_recognition, vosk, Speech, Recognition, Java, CSharp, Cpp, NodeJS` |
 | **Vox Music** | Vox Music isn't just an offline music player—it's a nostalgic trip ba… | [GitHub](https://github.com/SachinXpert/VoxMusic) | — | `Android, Music, Player` |
 | **Voxa** | Voxa is a sleek, lightweight, native macOS Discord client built using… | [GitHub](https://github.com/voxa-org/Voxa) | — | `MacOS, Social` |

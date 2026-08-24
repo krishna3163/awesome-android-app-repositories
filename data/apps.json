@@ -22930,7 +22930,23 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "swift",
+      "alt_tab",
+      "app_uninstaller",
+      "appkit",
+      "finder",
+      "free",
+      "keep_awake",
+      "mac_os",
+      "menu_bar",
+      "menubar",
+      "open_source",
+      "swift_ui",
+      "system_monitor",
+      "uninstaller",
+      "volume_mixer",
+      "window_switcher"
     ],
     "images": {
       "cover": "",
@@ -22944,7 +22960,7 @@
     },
     "status": "active",
     "created_at": "2026-06-16T10:00:03+00:00",
-    "updated_at": "2026-08-23T07:49:08.513613+00:00"
+    "updated_at": "2026-08-24T13:43:20.843208+00:00"
   },
   {
     "id": "matrixon-agentic-browser",

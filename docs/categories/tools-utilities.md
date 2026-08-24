@@ -8590,7 +8590,7 @@ One-liner takeaway: The Universal Android Debloater Next Generation is a powerfu
 
 ### 📦 vorssaint/vorssaint-utils
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#swift` `#alt_tab` `#app_uninstaller` `#appkit` `#finder` `#free` `#keep_awake` `#mac_os` `#menu_bar` `#menubar` `#open_source` `#swift_ui` `#system_monitor` `#uninstaller` `#volume_mixer` `#window_switcher`
 
 **Language**: Swift
 **Stars**: 422 **Issues**: 8 **Forks**: 21
