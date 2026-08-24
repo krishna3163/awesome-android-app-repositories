@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16960`
 - 🏷️ **Unique Categories / Tags:** `15479`
-- 🔄 **Last Automatically Synchronized:** `2026-08-24 04:36 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-24 05:31 UTC`
 
 ---
 
@@ -290,6 +290,21 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16960 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Leutenegger/claudish-to-english
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.
+**Language**: Shell
+**Stars**: 581 **Issues**: 0 **Forks**: 61
+[https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
+
+
+---
 
 ### 📦 missuo/herdrm
 
@@ -765,64 +780,6 @@ Once installed, run `caveman learn` to see where your tokens leak, then let the 
 __(2/2)__
 
 - 🐙 **Source Code:** [https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh](https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh)
-
-
----
-
-### 📦 Google Timeline Visualizer
-
-> **Categories:** `#GitHub` `#OpenSource` `#kotlin`
-
-🔗 [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
-📝 Visualize your year in travel using your Google Location History (Timeline) data
-──────────────────────────────
-
-**What it does**
-Turn a Google Maps Timeline export (the `Timeline.json` file) into a smooth, animated travel video that you can watch, share, or keep as an MP4. The app works completely offline – your location history never leaves the device.
-
-**Key features**
-- Choose exact dates or a month range, then preview the journey on a map.
-- Pick camera styles: __steady__ (fixed zoom) or __dynamic__ (follows local movement).
-- Set video length from 10 s up to 5 min; the UI warns when long renders will need extra storage.
-- Export in square (480 p / 720 p / 1080 p) or portrait/landscape HD presets.
-- Built‑in “My videos” library with thumbnails, titles, and quick share actions.
-- Supports English, Korean, Japanese, Chinese (Simplified & Traditional), Spanish, French, German, Portuguese (BR).
-- No Google sign‑in, no location permissions, no analytics – only the JSON you feed it and the map tiles from CARTO/OpenStreetMap.
-
-**How to use it**
-
-__iPhone (web app)__
-1. Export `Timeline.json` from Google Maps (Settings → Personal content → Export Timeline data).
-2. Open the web app [here](https://ahn-lab.org/google-timeline-visualizer/) in Safari (iOS 16.4+).
-3. Tap **Choose Timeline.json**, set the date range, pick a camera mode, accept the privacy notice.
-4. Hit **Preview** → **Create MP4**. Keep the tab open until the render finishes; then download or share the video.
-
-__Android (stand‑alone app)__
-1. Download the latest APK from the repository’s [release page](https://github.com/mahlernim/google-timeline-visualizer/releases/latest).
-2. Install (enable “install unknown apps” for the source if needed).
-3. Open the app, tap **Create video**, load your `Timeline.json`, configure dates, camera, duration, then **Create video**.
-4. The finished MP4 lands in `Movies/Timeline Visualizer` (Android 10+ auto‑saves).
-
-**Technical highlights**
-- __Rendering pipeline__: map tiles are pre‑fetched, GPS outlier filtering (conservative by default) cleans noisy points, long‑flight legs are interpolated on great‑circle arcs for smooth motion.
-- __Privacy‑first design__: the only network call is to CARTO for map tiles; the Timeline JSON never leaves the device.
-- __Supported export formats__: current Android/iOS direct‑array JSON, legacy “semanticSegments” JSON, raw location fallback with optional noise reduction, handling of E7, geo: and latLng strings, and routes crossing the International Date Line.
-- __Build & test__: Android Studio with JDK 17, SDK 36, Build‑Tools 36.0.0. Run ```./gradlew test lint assembleGithubDebug assemblePlayDebug``` to verify.
-- __Desktop fallback__: a Python 3.9+ script (`visualizer.py`) plus FFmpeg reproduces the same MP4 generation on any PC. Example command:
-
-```python -m pip install -r requirements.txt
-python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
---long-trip-compression balanced --output my_trip_2025.mp4
-```
-
-**Who should care**
-- Travelers who want a quick visual recap of a trip without fiddling with video editors.
-- Developers looking for a clean, offline‑only example of map‑based animation on Android.
-- Privacy‑conscious users who refuse cloud services but still want to share a travel story.
-__(1/2)__
-
-- 🐙 **Source Code:** [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
-- 👤 **Developer:** [mahlernim](https://github.com/mahlernim)
 
 
 ---

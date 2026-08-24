@@ -8,6 +8,21 @@
 
 ---
 
+### 📦 Leutenegger/claudish-to-english
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.
+**Language**: Shell
+**Stars**: 581 **Issues**: 0 **Forks**: 61
+[https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
+
+
+---
+
 ### 📦 Leutenegger/coldcard-airgap
 
 > **Categories:** `#airgap` `#airgap_devkit` `#airgap_download` `#airgap_setup` `#airgap_tutorial` `#bitcoin` `#bitcoin_wallet` `#coldcard` `#coldcard_mk2` `#coldcard_mk4` `#cryptography` `#cryptography_algorithms` `#cryptography_tools` `#ledger` `#ledger_cli` `#ledger_wallet` `#metamask` `#metamask_desktop`
@@ -197183,21 +197198,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 Leutenegger/claudish-to-english
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.
-**Language**: Shell
-**Stars**: 581 **Issues**: 0 **Forks**: 61
-[https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
-
-- 🐙 **Source Code:** [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
-- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
 
 
 ---
