@@ -8,6 +8,18 @@
 
 ---
 
+### 📦 Free Coding Models
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models)
+- 👤 **Developer:** [vava-nessa](https://github.com/vava-nessa)
+
+
+---
+
 ### 📦 ShadowAqueduct/watermark-remover
 
 > **Categories:** `#claude_ai` `#claude_code` `#claude_code_plugin` `#claude_skills` `#codex` `#codex_cli` `#codex_skill` `#codex_skills` `#watermark`
@@ -197224,18 +197236,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 Free Coding Models
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models)
-- 👤 **Developer:** [vava-nessa](https://github.com/vava-nessa)
 
 
 ---
