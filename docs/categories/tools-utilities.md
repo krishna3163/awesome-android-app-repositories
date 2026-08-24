@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13372`
+> **Total Apps in Category:** `13373`
 
 ---
 
@@ -197183,6 +197183,21 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 Leutenegger/claudish-to-english
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.
+**Language**: Shell
+**Stars**: 581 **Issues**: 0 **Forks**: 61
+[https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
+
+- 🐙 **Source Code:** [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
+- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
 
 
 ---

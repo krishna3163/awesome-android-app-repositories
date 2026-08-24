@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16959`
+> **Total Cataloged Projects:** `16960`
 
 ---
 
@@ -8259,6 +8259,7 @@
 | **lettier/3d-game-shaders-for-beginners** | 🎮 A step-by-step guide on how to implement SSAO, depth of field, ligh… | [GitHub](https://github.com/lettier/3d-game-shaders-for-beginners) | — | `3d, 3d_game, 3d_graphics, game, game_development, gamedev, glsl, glsl_shader, glsl_shaders, godot, graphics, graphics_programming, hlsl, indiegame, panda3d, panda3d_game_engine, shader, shaders, unity, unity3d, GitHub, OpenSource` |
 | **Letube Backend** | The project is built in the NestJS monorep format and includes servic… | [GitHub](https://github.com/Leroyalle/letube-backend) | — | `GitHub, OpenSource` |
 | **Leutenegger/book-to-skill** | Turn any technical book PDF into a Claude Code skill — ready to study… | [GitHub](https://github.com/Leutenegger/book-to-skill) | — | `agent, agent_memory, agent_skill, agent_skills, agentic, agentic_ai, agents, ai_agents, claude, claude_code, claude_code_plugin, claude_skills, github_copilot, pdf, pdf_document, pdf_generation, pdf_parser, pdf_tools, pdf_viewer, skill_generator` |
+| **Leutenegger/claudish-to-english** | Claude Code plugin that rewrites each assistant message into plain la… | [GitHub](https://github.com/Leutenegger/claudish-to-english) | — | `GitHub, OpenSource` |
 | **Leutenegger/coldcard-airgap** | Offline utilities for Coldcard hardware wallet users: PSBT inspection… | [GitHub](https://github.com/Leutenegger/coldcard-airgap) | — | `airgap, airgap_devkit, airgap_download, airgap_setup, airgap_tutorial, bitcoin, bitcoin_wallet, coldcard, coldcard_mk2, coldcard_mk4, cryptography, cryptography_algorithms, cryptography_tools, ledger, ledger_cli, ledger_wallet, metamask, metamask_desktop` |
 | **Leutenegger/vanity-eth** | Offline vanity address generator for Bitcoin and Ethereum. CPU multi-… | [GitHub](https://github.com/Leutenegger/vanity-eth) | — | `GitHub, OpenSource` |
 | **Level Ip** | ** | [GitHub](https://github.com/saminiir/level-ip) | — | `GitHub, OpenSource` |
