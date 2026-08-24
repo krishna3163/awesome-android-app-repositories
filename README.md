@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16964`
 - 🏷️ **Unique Categories / Tags:** `15502`
-- 🔄 **Last Automatically Synchronized:** `2026-08-24 17:23 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-24 18:27 UTC`
 
 ---
 
@@ -290,6 +290,48 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16964 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Komi Store
+
+> **Categories:** `#Android` `#Windows` `#Mac` `#Linux` `#Store` `#FOSS`
+
+Komi Store is a free, open-source, cross-platform app store focused on discovering and installing software published through GitHub, Codeberg, and Forgejo releases. It brings release discovery, app information, downloads, installation, and update tracking into one clean interface.
+
+- 🐙 **Source Code:** [https://github.com/kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)
+- 👤 **Developer:** [KuriKomi](https://github.com/kurikomi-labs/)
+
+<details>
+<summary><b>✨ Key Features (24)</b> — <i>Click to expand</i></summary>
+
+- Open-source app discovery
+- Curated app categories
+- GitHub, Codeberg & Forgejo support
+- Multi-platform app support
+- One-click app installation
+- Automatic release & update tracking
+- App library & favourites
+- Recently viewed apps
+- Download mirrors
+- SHA-256 download verification
+- APK metadata inspection
+- APK signing information
+- Permissions & components inspection
+- App compatibility information
+- GitHub repository browsing
+- Release, issues & pull request information
+- Privacy-focused & ad-free
+- No account required for basic usage
+- Custom themes & accent colors
+- Manga & Classic UI personalities
+- Light, Dark & System modes
+- AMOLED true-black mode
+- Multi-language support
+- Customizable connection settings
+
+</details>
+
+
+---
 
 ### 📦 ShadowAqueduct/watermark-remover
 
@@ -676,80 +718,6 @@ Install Command：npm install
 
 - 🐙 **Source Code:** [https://github.com/vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)
 - 👤 **Developer:** [vvxw](https://github.com/vvxw)
-
-
----
-
-### 📦 Ai Infra Guard
-
-> **Categories:** `#GitHub` `#OpenSource` `#python` `#agent` `#agent_security` `#ai_infra` `#ai_red_teaming` `#ai_security` `#llm` `#llm_evaluation` `#llm_jailbreak` `#llm_security` `#mcp_scan` `#openclaw_security` `#prompt_injection` `#prompt_security` `#scanner` `#security` `#security_tools` `#skill_scanner` `#skills_security` `#vulnerability`
-
-🔗 [https://github.com/Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
-📝 A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
-──────────────────────────────
-
-**What is AI‑Infra‑Guard (A.I.G)?**
-A.I.G is Tencent Zhuque Lab’s all‑in‑one AI red‑team platform. It bundles security scanners for AI models, AI‑agent skills, model‑centered components (MCP) and jailbreak evaluation, plus a marketplace for vetted security skills. In short, it lets you stress‑test your AI stack from code to deployment with a single, user‑friendly interface.
-
-**Key Features**
-
-**🔎 Skill‑Scan Engine** – Detects nine categories of skill‑level risks (instruction hijacking, memory poisoning, code execution, privilege escalation, tool hijacking, insecure dependencies, etc.) and scores on the public __SkillTrustBench__ leaderboard (top F1 0.9848 with Claude Opus 4.6).
-
-**🛡️ ClawScan (OpenClaw Security Scan)** – One‑click audit of OpenClaw configurations, skill vulnerabilities, CVE exposures and privacy leaks.
-
-**🤖 Agent‑Scan** – Automated multi‑agent framework that checks agent‑side skills, web‑exfiltration, OWASP‑style issues and more.
-
-**🧩 MCP‑Scan** – Scans model‑centered components for tool poisoning, credential exfiltration, command injection and dozens of LLaMA cpp CVEs.
-
-**🚪 Jailbreak Evaluation** – Runs multi‑turn jailbreak attacks (Many‑Shot, PAIR, GOAT, ActorAttack) to gauge model resistance.
-
-**🛒 AI Security Skill Market** – Official marketplace where you can publish or acquire security‑hardened skills; the frontend is fully open‑sourced.
-
-**⚙️ Stand‑alone CLI Tools** – `aig-skill-scan`, `aig-agent-scan`, `aig-mcp-scan` can be run independently or embedded into CI/CD pipelines.
-
-**📊 API‑Checker & Model Relay** – Unified service that lists available LLM endpoints and validates request/response formats.
-
-**How to Get Started**
-
-**🐳 Docker (quickest)**
-```
-git clone https://github.com/Tencent/AI-Infra-Guard.git
-cd AI-Infra-Guard
-docker-compose -f docker-compose.images.yml up -d
-```
-Open a browser at `http://localhost:8088` to reach the web UI.
-
-**🚀 One‑Click Install Script** (installs Docker if needed)
-```
-curl https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/refs/heads/main/docker.sh | bash
-```
-
-**🛠️ Python CLI for Skill Scan**
-```
-pip install aig-skill-scan
-export LLM_API_KEY="your-api-key"
-aig-skill-scan --repo /path/to/skill \
--m deepseek-v4-flash \
---language en \
--o result.json
-```
-
-**🔧 Build from Source** – Clone the repo, then run `docker-compose up -d` (or build the Go CLI with `go build -o ai-infra-guard ./cmd/cli/main.go`) for full control.
-
-**Technical Highlights**
-
-- __Performance‑focused__: Skill‑scan runs in parallel across LLM backends, achieving sub‑second latency on typical models.
-- __Extensible rule base__: > 2000 CVE rules, continuously updated; users can add custom policies via simple YAML.
-- __Multi‑mode MCP scanning__: Dynamic mode enforces tool whitelisting to block RCE attempts.
-- __Zero‑trust deployment__: Designed for internal enterprise use; no public auth layer, so keep it behind a firewall.
-- __Cross‑language support__: Scanners accept Python, JavaScript, and compiled bytecode (.pyc) with bypass detection.
-
-**Who Should Use It?**
-__(1/2)__
-
-- 🐙 **Source Code:** [https://github.com/Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
-- 🌐 **Official Website:** [http://localhost:8088`](http://localhost:8088`)
-- 👤 **Developer:** [Tencent](https://github.com/Tencent)
 
 
 ---

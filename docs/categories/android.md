@@ -8,6 +8,48 @@
 
 ---
 
+### 📦 Komi Store
+
+> **Categories:** `#Android` `#Windows` `#Mac` `#Linux` `#Store` `#FOSS`
+
+Komi Store is a free, open-source, cross-platform app store focused on discovering and installing software published through GitHub, Codeberg, and Forgejo releases. It brings release discovery, app information, downloads, installation, and update tracking into one clean interface.
+
+- 🐙 **Source Code:** [https://github.com/kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)
+- 👤 **Developer:** [KuriKomi](https://github.com/kurikomi-labs/)
+
+<details>
+<summary><b>✨ Key Features (24)</b> — <i>Click to expand</i></summary>
+
+- Open-source app discovery
+- Curated app categories
+- GitHub, Codeberg & Forgejo support
+- Multi-platform app support
+- One-click app installation
+- Automatic release & update tracking
+- App library & favourites
+- Recently viewed apps
+- Download mirrors
+- SHA-256 download verification
+- APK metadata inspection
+- APK signing information
+- Permissions & components inspection
+- App compatibility information
+- GitHub repository browsing
+- Release, issues & pull request information
+- Privacy-focused & ad-free
+- No account required for basic usage
+- Custom themes & accent colors
+- Manga & Classic UI personalities
+- Light, Dark & System modes
+- AMOLED true-black mode
+- Multi-language support
+- Customizable connection settings
+
+</details>
+
+
+---
+
 ### 📦 Google Timeline Visualizer
 
 > **Categories:** `#GitHub` `#OpenSource` `#kotlin`
@@ -31046,48 +31088,6 @@ Android UI适配方案
 
 - 🐙 **Source Code:** [https://github.com/ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
 - 👤 **Developer:** [ladingwu](https://github.com/ladingwu)
-
-
----
-
-### 📦 Komi Store
-
-> **Categories:** `#Android` `#Windows` `#Mac` `#Linux` `#Store` `#FOSS`
-
-Komi Store is a free, open-source, cross-platform app store focused on discovering and installing software published through GitHub, Codeberg, and Forgejo releases. It brings release discovery, app information, downloads, installation, and update tracking into one clean interface.
-
-- 🐙 **Source Code:** [https://github.com/kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)
-- 👤 **Developer:** [KuriKomi](https://github.com/kurikomi-labs/)
-
-<details>
-<summary><b>✨ Key Features (24)</b> — <i>Click to expand</i></summary>
-
-- Open-source app discovery
-- Curated app categories
-- GitHub, Codeberg & Forgejo support
-- Multi-platform app support
-- One-click app installation
-- Automatic release & update tracking
-- App library & favourites
-- Recently viewed apps
-- Download mirrors
-- SHA-256 download verification
-- APK metadata inspection
-- APK signing information
-- Permissions & components inspection
-- App compatibility information
-- GitHub repository browsing
-- Release, issues & pull request information
-- Privacy-focused & ad-free
-- No account required for basic usage
-- Custom themes & accent colors
-- Manga & Classic UI personalities
-- Light, Dark & System modes
-- AMOLED true-black mode
-- Multi-language support
-- Customizable connection settings
-
-</details>
 
 
 ---
