@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16965`
+> **Total Cataloged Projects:** `16966`
 
 ---
 
@@ -2446,6 +2446,7 @@
 | **ccj659/JJEvent** | A fully tested and online verified Android client custom data embeddi… | [GitHub](https://github.com/ccj659/JJEvent) | — | `GitHub, OpenSource` |
 | **cclank/cell-architecture-studio** | Interactive 3D cell architecture gallery built with React and Three.js | [GitHub](https://github.com/cclank/cell-architecture-studio) | — | `GitHub, OpenSource` |
 | **cclank/lanshu-animated-architecture-diagram** | Premium hand-drawn animated architecture diagram Codex skill | [GitHub](https://github.com/cclank/lanshu-animated-architecture-diagram) | — | `GitHub, OpenSource` |
+| **cclank/lanshu-create-ai-presenter-video** | Provider-neutral Codex Skill for producing verified AI presenter vide… | [GitHub](https://github.com/cclank/lanshu-create-ai-presenter-video) | — | `ai_video, codex, codex_skill, digital_human, video_generation` |
 | **CCob/****BOF.NET** | A .NET Runtime for Cobalt Strike's Beacon Object Files | [GitHub](https://github.com/CCob/BOF.NET) | — | `GitHub, OpenSource` |
 | **CCob/BeaconEye** | Hunts out CobaltStrike beacons and logs operator command output | [GitHub](https://github.com/CCob/BeaconEye) | — | `GitHub, OpenSource` |
 | **CCob/lsarelayx** | NTLM relaying for Windows made easy | [GitHub](https://github.com/CCob/lsarelayx) | — | `GitHub, OpenSource` |

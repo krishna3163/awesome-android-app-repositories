@@ -1,5 +1,37 @@
 [
   {
+    "id": "cclank-lanshu-create-ai-presenter-video",
+    "name": "cclank/lanshu-create-ai-presenter-video",
+    "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "developer": {
+      "name": "cclank",
+      "url": "https://github.com/cclank"
+    },
+    "features": [],
+    "tags": [
+      "ai_video",
+      "codex",
+      "codex_skill",
+      "digital_human",
+      "video_generation"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13695,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-24T22:00:02+00:00",
+    "updated_at": "2026-08-24T22:17:23.421440+00:00"
+  },
+  {
     "id": "free-coding-models",
     "name": "Free Coding Models",
     "description": "🐱** **[**GitHub**](https://t.me/github)",

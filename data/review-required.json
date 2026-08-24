@@ -44526,5 +44526,16 @@
     "message_id": 11094,
     "raw_text": "[**Awesome Django**](https://github.com/wsvincent/awesome-django) — подборка лучших библиотек, инструментов, шаблонов проектов и обучающих материалов для Django\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-23T22:13:03.173663+00:00"
+  },
+  {
+    "incoming_name": "Rdn",
+    "incoming_normalized": "rdn",
+    "matched_project_id": "radon",
+    "matched_project_name": "Radon",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11101,
+    "raw_text": "[**Rdn**](https://github.com/apatrushev/rdn) — cовременный файловый менеджер для терминала, написанный на Rust + ratatui, визуально вдохновленный легендарным Dos Navigator (1991–1999) от RIT Research Labs.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-24T22:17:27.320583+00:00"
   }
 ]
