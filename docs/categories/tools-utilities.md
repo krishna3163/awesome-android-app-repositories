@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 duty1g/x64dbg-mcp-server
+
+> **Categories:** `#ai_agents` `#ai_debugging` `#binary_analysis` `#claude` `#claude_code` `#malware_analysis` `#malware_research` `#malware_scanner` `#mcp` `#mcp_server` `#mcp_servers` `#x64dbg` `#x64dbg_mcp` `#x64dbg_plugin` `#x64dbg_tools` `#xdbg` `#zig` `#zig_lang` `#ziglang`
+
+x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+**Language**: Zig
+
+- 🐙 **Source Code:** [https://github.com/duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+- 👤 **Developer:** [duty1g](https://github.com/duty1g)
+
+
+---
+
 ### 📦 Leutenegger/claudish-to-english
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -197198,19 +197211,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 duty1g/x64dbg-mcp-server
-
-> **Categories:** `#ai_agents` `#ai_debugging` `#binary_analysis` `#claude` `#claude_code` `#malware_analysis` `#malware_research` `#malware_scanner` `#mcp` `#mcp_server` `#mcp_servers` `#x64dbg` `#x64dbg_mcp` `#x64dbg_plugin` `#x64dbg_tools` `#xdbg` `#zig` `#zig_lang` `#ziglang`
-
-x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
-**Language**: Zig
-
-- 🐙 **Source Code:** [https://github.com/duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
-- 👤 **Developer:** [duty1g](https://github.com/duty1g)
 
 
 ---

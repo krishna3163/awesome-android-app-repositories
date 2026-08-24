@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16962`
 - 🏷️ **Unique Categories / Tags:** `15488`
-- 🔄 **Last Automatically Synchronized:** `2026-08-24 10:29 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-24 11:19 UTC`
 
 ---
 
@@ -290,6 +290,35 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16962 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 PokeTokenBar
+
+> **Categories:** `#Tracking` `#TokenUsage`
+
+A macOS menu bar app that tracks your daily token usage across Claude Code, Codex, Gemini CLI, Cursor, and Grok then turns those tokens into a Pokémon companion that hatches from an egg, evolves through its real evolution line, and fills a Pokédex. One of the most creative dev tools in 2026.
+
+Creator: chattymin
+Stars ⭐️: 271
+Forked by: 72
+
+- 🐙 **Source Code:** [https://github.com/chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar)
+- 👤 **Developer:** chattymin
+
+
+---
+
+### 📦 duty1g/x64dbg-mcp-server
+
+> **Categories:** `#ai_agents` `#ai_debugging` `#binary_analysis` `#claude` `#claude_code` `#malware_analysis` `#malware_research` `#malware_scanner` `#mcp` `#mcp_server` `#mcp_servers` `#x64dbg` `#x64dbg_mcp` `#x64dbg_plugin` `#x64dbg_tools` `#xdbg` `#zig` `#zig_lang` `#ziglang`
+
+x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+**Language**: Zig
+
+- 🐙 **Source Code:** [https://github.com/duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+- 👤 **Developer:** [duty1g](https://github.com/duty1g)
+
+
+---
 
 ### 📦 Leutenegger/claudish-to-english
 
@@ -721,65 +750,6 @@ DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, pro
 
 - 🐙 **Source Code:** [https://github.com/vibeinging/deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app)
 - 👤 **Developer:** [vibeinging](https://github.com/vibeinging)
-
-
----
-
-### 📦 Pdf Document Layout Analysis
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-This service provides powerful and flexible PDF analysis capabilities.
-
-The service allows you to segment and classify different parts of PDF pages, identifying elements such as texts, headings, images, tables, etc.
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/huridocs/pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis)
-- 👤 **Developer:** [huridocs](https://github.com/huridocs)
-
-
----
-
-### 📦 curl -fsSL https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh | bash
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-```
-
-For a single agent you can also run the appropriate plugin command (Claude Code, Gemini CLI, etc.) – see the README for the exact syntax.
-
-Once installed, run `caveman learn` to see where your tokens leak, then let the tool guide you through safe, consent‑gated fixes.
-
----
-
-**Technical highlights**
-
-* __Per‑type compressors__ – JSON (70‑90 % reduction), logs (85‑95 %), code (40‑70 %), diffs (60‑80 %), search results (80‑95 %), generic text/HTML (50‑80 %).
-* Tree‑sitter integration (Go, Python, JS/TS) for structural code compression; pure‑Go fallback for Go‑only environments.
-* __BM25‑based relevance ranking__ combined with recency and error signals to pack the most useful context into the model’s token budget while preserving chronological order.
-* Content‑addressed “CCR” store guarantees byte‑exact recovery; every transformation is logged with a clear “decline reason” when it would enlarge the payload.
-* The proxy is a BSL‑1.1 runtime with an MIT‑licensed CLI – you can compile it yourself from source (Go + pnpm) if you prefer not to use the signed binaries.
-* Benchmarks (Claude Code, 54 runs) show a 33.2 % reduction in input tokens and unchanged answer correctness; pixel mode on a 63.7 k‑char JSON+log slab drops estimated tokens from ~55 k to ~11 k.
-
----
-
-**Who should care?**
-
-* **Prompt engineers** looking to squeeze more mileage out of token‑priced models.
-* **Dev teams** that run continuous LLM‑assisted coding, CI, or debugging pipelines and see their bills balloon.
-* **Open‑source AI hobbyists** using Claude, Gemini, Codex, or any of the 30+ supported agents.
-* Anyone who wants to keep the “brain” of their AI big while making the “mouth” tiny.
-
----
-
-**Takeaway** – __Talk less, think more: Caveman lets your agents stay smart without swallowing the token bill.__
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-__(2/2)__
-
-- 🐙 **Source Code:** [https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh](https://raw.githubusercontent.com/JuliusBrussee/caveman/v2.2.0/install.sh)
 
 
 ---
