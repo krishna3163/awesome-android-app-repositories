@@ -1,5 +1,34 @@
 [
   {
+    "id": "free-coding-models",
+    "name": "Free Coding Models",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/vava-nessa/free-coding-models",
+    "developer": {
+      "name": "vava-nessa",
+      "url": "https://github.com/vava-nessa"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11100,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-24T19:33:35+00:00",
+    "updated_at": "2026-08-24T20:20:01.443106+00:00"
+  },
+  {
     "id": "komi-store",
     "name": "Komi Store",
     "description": "Komi Store is a free, open-source, cross-platform app store focused on discovering and installing software published through GitHub, Codeberg, and Forgejo releases. It brings release discovery, app information, downloads, installation, and update tracking into one clean interface.",

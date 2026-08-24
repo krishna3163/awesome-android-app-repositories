@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16964`
+> **Total Cataloged Projects:** `16965`
 
 ---
 
@@ -5244,6 +5244,7 @@
 | **frectonz/sqlite-studio** | SQLite database explorer | [GitHub](https://github.com/frectonz/sqlite-studio) | — | `rust, sqlite, sqlite_browser` |
 | **freddyaboulton/orpheus-cpp** | Fast Streaming TTS with Orpheus + WebRTC (with FastRTC) | [GitHub](https://github.com/freddyaboulton/orpheus-cpp) | — | `GitHub, OpenSource` |
 | **FreddyChen/NettyChat** | First commit. | [GitHub](https://github.com/FreddyChen/NettyChat) | — | `GitHub, OpenSource` |
+| **Free Coding Models** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/vava-nessa/free-coding-models) | — | `GitHub, OpenSource` |
 | **Free Games Claimer** | Configuration options can be set through environment variables. The t… | [GitHub](https://github.com/vogler/free-games-claimer) | — | `Interesting, Useful, GitHub, OpenSource` |
 | **Free Llm Api Resources** | 🔗 [https://github.com/cheahjs/free-llm-api-resources](https://github.… | [GitHub](https://github.com/cheahjs/free-llm-api-resources) | — | `GitHub, OpenSource, python, ai, claude, gemini, llama, llm, openai` |
 | **Free Programming Books** | https://github.com/vhf/free-programming-books | [GitHub](https://github.com/vhf/free-programming-books) | — | `GitHub, OpenSource, programming, books, html, education, hacktoberfest, list, resource, Archive, Interesting` |
