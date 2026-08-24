@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `688`
+> **Total Apps in Category:** `689`
 
 ---
 
@@ -11487,6 +11487,22 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
+
+
+---
+
+### 📦 PokeTokenBar
+
+> **Categories:** `#Tracking` `#TokenUsage`
+
+A macOS menu bar app that tracks your daily token usage across Claude Code, Codex, Gemini CLI, Cursor, and Grok then turns those tokens into a Pokémon companion that hatches from an egg, evolves through its real evolution line, and fills a Pokédex. One of the most creative dev tools in 2026.
+
+Creator: chattymin
+Stars ⭐️: 271
+Forked by: 72
+
+- 🐙 **Source Code:** [https://github.com/chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar)
+- 👤 **Developer:** chattymin
 
 
 ---

@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16960`
+> **Total Cataloged Projects:** `16962`
 
 ---
 
@@ -4209,6 +4209,7 @@
 | **DUSt3R** | ** | [GitHub](https://github.com/naver/dust3r) | — | `GitHub, OpenSource` |
 | **DusteDdk/dstream** | bespoke music player for web | [GitHub](https://github.com/DusteDdk/dstream) | — | `GitHub, OpenSource, Server, HTML` |
 | **dutradotdev/mcp-portal-transparencia** | MCP para orquestração automatizada de chamadas à API do Portal da Tra… | [GitHub](https://github.com/dutradotdev/mcp-portal-transparencia) | — | `GitHub, OpenSource` |
+| **duty1g/x64dbg-mcp-server** | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for… | [GitHub](https://github.com/duty1g/x64dbg-mcp-server) | — | `ai_agents, ai_debugging, binary_analysis, claude, claude_code, malware_analysis, malware_research, malware_scanner, mcp, mcp_server, mcp_servers, x64dbg, x64dbg_mcp, x64dbg_plugin, x64dbg_tools, xdbg, zig, zig_lang, ziglang` |
 | **dvassallo/bootstrapping-calculator** | Do you have enough savings to fund your business? | [GitHub](https://github.com/dvassallo/bootstrapping-calculator) | — | `GitHub, OpenSource` |
 | **dvassallo/s3-benchmark** | Measure Amazon S3's performance from any location. | [GitHub](https://github.com/dvassallo/s3-benchmark) | — | `aws, benchmark, performance_analysis, s3` |
 | **dvcoolarun/web2pdf** | 🔄 CLI to convert Webpages to PDFs 🚀 | [GitHub](https://github.com/dvcoolarun/web2pdf) | — | `automation, cli, printing, python, Web, Pdf, Interesting` |
@@ -11590,6 +11591,7 @@
 | **Pokemon Gym** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/benchflow-ai/pokemon-gym) | — | `GitHub, OpenSource` |
 | **Pokemonautochess** | Pokemon Auto Chess is a free, non-profit game made by fans for fans.… | [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess) | — | `typescript, autochess, pokemon, pokemon_auto_chess` |
 | **Pokergpt** | ** | [GitHub](https://github.com/matteo-psnt/PokerGPT) | — | `Interesting, Discord, AI, Game` |
+| **PokeTokenBar** | A macOS menu bar app that tracks your daily token usage across Claude… | [GitHub](https://github.com/chattymin/PokeTokenBar) | — | `Tracking, TokenUsage` |
 | **Pokédex:** | React native application that utilizes the Pokeapi | [GitHub](https://github.com/INCENDIOCODM/Pokedex) | — | `android, pokédex, pokemon` |
 | **pola-rs/polars** | **Creator:  pola-rs | [GitHub](https://github.com/pola-rs/polars) | — | `polars, rust, arrow, dataframe, dataframe_library, dataframes, out_of_core, python` |
 | **polakowo/gpt2bot** | Your new Telegram buddy trained on Reddit discussions using DialoGPT | [GitHub](https://github.com/polakowo/gpt2bot) | — | `bot, chatbot, dialogpt, gpt_2, telegram_bot, transformers` |

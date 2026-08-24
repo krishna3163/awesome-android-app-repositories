@@ -1,5 +1,80 @@
 [
   {
+    "id": "poketokenbar",
+    "name": "PokeTokenBar",
+    "description": "A macOS menu bar app that tracks your daily token usage across Claude Code, Codex, Gemini CLI, Cursor, and Grok then turns those tokens into a Pokémon companion that hatches from an egg, evolves through its real evolution line, and fills a Pokédex. One of the most creative dev tools in 2026.\n\nCreator: chattymin\nStars ⭐️: 271\nForked by: 72",
+    "website": "",
+    "repository": "https://github.com/chattymin/PokeTokenBar",
+    "developer": {
+      "name": "chattymin",
+      "url": ""
+    },
+    "features": [],
+    "tags": [
+      "Tracking",
+      "TokenUsage"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repositories_bds",
+      "main_message_id": 934,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-24T10:15:05+00:00",
+    "updated_at": "2026-08-24T10:29:31.812257+00:00"
+  },
+  {
+    "id": "duty1g-x64dbg-mcp-server",
+    "name": "duty1g/x64dbg-mcp-server",
+    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros\n**Language**: Zig",
+    "website": "",
+    "repository": "https://github.com/duty1g/x64dbg-mcp-server",
+    "developer": {
+      "name": "duty1g",
+      "url": "https://github.com/duty1g"
+    },
+    "features": [],
+    "tags": [
+      "ai_agents",
+      "ai_debugging",
+      "binary_analysis",
+      "claude",
+      "claude_code",
+      "malware_analysis",
+      "malware_research",
+      "malware_scanner",
+      "mcp",
+      "mcp_server",
+      "mcp_servers",
+      "x64dbg",
+      "x64dbg_mcp",
+      "x64dbg_plugin",
+      "x64dbg_tools",
+      "xdbg",
+      "zig",
+      "zig_lang",
+      "ziglang"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13693,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-24T10:00:03+00:00",
+    "updated_at": "2026-08-24T10:29:30.558423+00:00"
+  },
+  {
     "id": "leutenegger-claudish-to-english",
     "name": "Leutenegger/claudish-to-english",
     "description": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.\n**Language**: Shell\n**Stars**: 581 **Issues**: 0 **Forks**: 61\n[https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)",
