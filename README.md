@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16966`
 - 🏷️ **Unique Categories / Tags:** `15503`
-- 🔄 **Last Automatically Synchronized:** `2026-08-24 22:17 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-24 23:15 UTC`
 
 ---
 
@@ -290,6 +290,19 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16966 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 cclank/lanshu-create-ai-presenter-video
+
+> **Categories:** `#ai_video` `#codex` `#codex_skill` `#digital_human` `#video_generation`
+
+Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)
+- 👤 **Developer:** [cclank](https://github.com/cclank)
+
+
+---
 
 ### 📦 Free Coding Models
 
@@ -703,18 +716,6 @@ https://t.me/+GxEEPAsQ0ERiOGUx
 
 - 🐙 **Source Code:** [https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1](https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1)
 - 🌐 **Official Website:** [https://modelflare.dev/sign-up?utm_source=telegram_xuliya&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1](https://modelflare.dev/sign-up?utm_source=telegram_xuliya&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1)
-
-
----
-
-### 📦 Popcorntime
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/popcorntime/popcorntime](https://github.com/popcorntime/popcorntime)
-- 👤 **Developer:** [popcorntime](https://github.com/popcorntime)
 
 
 ---

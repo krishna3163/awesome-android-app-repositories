@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 cclank/lanshu-create-ai-presenter-video
+
+> **Categories:** `#ai_video` `#codex` `#codex_skill` `#digital_human` `#video_generation`
+
+Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)
+- 👤 **Developer:** [cclank](https://github.com/cclank)
+
+
+---
+
 ### 📦 Free Coding Models
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -197236,19 +197249,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 cclank/lanshu-create-ai-presenter-video
-
-> **Categories:** `#ai_video` `#codex` `#codex_skill` `#digital_human` `#video_generation`
-
-Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)
-- 👤 **Developer:** [cclank](https://github.com/cclank)
 
 
 ---
