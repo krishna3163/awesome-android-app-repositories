@@ -134293,5 +134293,12 @@
     "error": "Could not extract project name",
     "raw_text": "https://github.com/tiann/KernelSU/releases",
     "timestamp": "2026-08-23T11:12:29.748349+00:00"
+  },
+  {
+    "channel": "@popMODS",
+    "message_id": 8671,
+    "error": "Message does not contain repository or website link",
+    "raw_text": "Good morning!",
+    "timestamp": "2026-08-24T03:46:35.218913+00:00"
   }
 ]
