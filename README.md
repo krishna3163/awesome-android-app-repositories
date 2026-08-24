@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16963`
+- 📦 **Total Discovered Apps & Projects:** `16964`
 - 🏷️ **Unique Categories / Tags:** `15502`
-- 🔄 **Last Automatically Synchronized:** `2026-08-24 16:25 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-24 17:23 UTC`
 
 ---
 
@@ -274,22 +274,35 @@ Explore our organized category directories to find the exact apps and tools you 
 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
-| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1608 apps` | [**Explore →**](docs/categories/android.md) |
+| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1609 apps` | [**Explore →**](docs/categories/android.md) |
 | **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13375 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
-| **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `824 apps` | [**Explore →**](docs/categories/windows.md) |
-| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `778 apps` | [**Explore →**](docs/categories/linux.md) |
-| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `689 apps` | [**Explore →**](docs/categories/apple.md) |
+| **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
+| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `779 apps` | [**Explore →**](docs/categories/linux.md) |
+| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `690 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `473 apps` | [**Explore →**](docs/categories/media-music.md) |
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1047 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `240 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `345 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16963 cataloged applications | `16963 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16964 cataloged applications | `16964 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16963 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16964 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 ShadowAqueduct/watermark-remover
+
+> **Categories:** `#claude_ai` `#claude_code` `#claude_code_plugin` `#claude_skills` `#codex` `#codex_cli` `#codex_skill` `#codex_skills` `#watermark`
+
+Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)
+- 👤 **Developer:** [ShadowAqueduct](https://github.com/ShadowAqueduct)
+
+
+---
 
 ### 📦 PokeTokenBar
 
@@ -737,19 +750,6 @@ __(1/2)__
 - 🐙 **Source Code:** [https://github.com/Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
 - 🌐 **Official Website:** [http://localhost:8088`](http://localhost:8088`)
 - 👤 **Developer:** [Tencent](https://github.com/Tencent)
-
-
----
-
-### 📦 vibeinging/deepseek-harness-desktop-app
-
-> **Categories:** `#agentic_workflows` `#ai_agent` `#ai_workbench` `#data_analysis` `#deepseek_harness` `#desktop_app` `#dsh` `#dsh_plugin` `#electron` `#local_first` `#mcp` `#model_context_protocol` `#office_automation` `#react` `#typescript`
-
-DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/vibeinging/deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app)
-- 👤 **Developer:** [vibeinging](https://github.com/vibeinging)
 
 
 ---

@@ -1,5 +1,135 @@
 [
   {
+    "id": "komi-store",
+    "name": "Komi Store",
+    "description": "Komi Store is a free, open-source, cross-platform app store focused on discovering and installing software published through GitHub, Codeberg, and Forgejo releases. It brings release discovery, app information, downloads, installation, and update tracking into one clean interface.",
+    "website": "",
+    "repository": "https://github.com/kurikomi-labs/komi-store",
+    "developer": {
+      "name": "KuriKomi",
+      "url": "https://github.com/kurikomi-labs/"
+    },
+    "features": [
+      {
+        "title": "Open-source app discovery",
+        "description": ""
+      },
+      {
+        "title": "Curated app categories",
+        "description": ""
+      },
+      {
+        "title": "GitHub, Codeberg & Forgejo support",
+        "description": ""
+      },
+      {
+        "title": "Multi-platform app support",
+        "description": ""
+      },
+      {
+        "title": "One-click app installation",
+        "description": ""
+      },
+      {
+        "title": "Automatic release & update tracking",
+        "description": ""
+      },
+      {
+        "title": "App library & favourites",
+        "description": ""
+      },
+      {
+        "title": "Recently viewed apps",
+        "description": ""
+      },
+      {
+        "title": "Download mirrors",
+        "description": ""
+      },
+      {
+        "title": "SHA-256 download verification",
+        "description": ""
+      },
+      {
+        "title": "APK metadata inspection",
+        "description": ""
+      },
+      {
+        "title": "APK signing information",
+        "description": ""
+      },
+      {
+        "title": "Permissions & components inspection",
+        "description": ""
+      },
+      {
+        "title": "App compatibility information",
+        "description": ""
+      },
+      {
+        "title": "GitHub repository browsing",
+        "description": ""
+      },
+      {
+        "title": "Release, issues & pull request information",
+        "description": ""
+      },
+      {
+        "title": "Privacy-focused & ad-free",
+        "description": ""
+      },
+      {
+        "title": "No account required for basic usage",
+        "description": ""
+      },
+      {
+        "title": "Custom themes & accent colors",
+        "description": ""
+      },
+      {
+        "title": "Manga & Classic UI personalities",
+        "description": ""
+      },
+      {
+        "title": "Light, Dark & System modes",
+        "description": ""
+      },
+      {
+        "title": "AMOLED true-black mode",
+        "description": ""
+      },
+      {
+        "title": "Multi-language support",
+        "description": ""
+      },
+      {
+        "title": "Customizable connection settings",
+        "description": ""
+      }
+    ],
+    "tags": [
+      "Android",
+      "Windows",
+      "Mac",
+      "Linux",
+      "Store",
+      "FOSS"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@popMODS",
+      "main_message_id": 8679,
+      "features_channel": "@popCLOUDS",
+      "features_message_id": 13569
+    },
+    "status": "active",
+    "created_at": "2026-08-24T17:02:32+00:00",
+    "updated_at": "2026-08-24T17:23:54.082779+00:00"
+  },
+  {
     "id": "shadowaqueduct-watermark-remover",
     "name": "ShadowAqueduct/watermark-remover",
     "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.\n**Language**: Python",

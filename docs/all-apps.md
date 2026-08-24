@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16963`
+> **Total Cataloged Projects:** `16964`
 
 ---
 
@@ -7870,6 +7870,7 @@
 | **Koler** - Just a phone app.** | Koler is an open source MVVM android app. Designed with the user in m… | [GitHub](https://t.me/popmodschat/55805) | — | `Android` |
 | **Komari** | It allows you to view the server status through a web interface and c… | [GitHub](https://github.com/komari-monitor/komari) | — | `GitHub, OpenSource` |
 | **komeilmehranfar/visa-sponsers-companies-for-iranians** | **Stars**: 134 **Issues**: 1 **Forks**: 6 | [GitHub](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians) | — | `GitHub, OpenSource` |
+| **Komi Store** | Komi Store is a free, open-source, cross-platform app store focused o… | [GitHub](https://github.com/kurikomi-labs/komi-store) | — | `Android, Windows, Mac, Linux, Store, FOSS` |
 | **Komikku** | A free and open source manga reader which is based off TachiyomiSY &… | [GitHub](https://github.com/komikku-app/komikku) | — | `Android` |
 | **Komorebi** | You want tilling manager experience like linux users? i got chu | [GitHub](https://github.com/LGUG2Z/komorebi) | — | `getting, Windows, Interesting, Extension` |
 | **KonaBess** | A GPU overclock & undervolt tool for various Snapdragon chips | [GitHub](https://t.me/adreno_konabess) | — | `Android, Root, Tools` |
