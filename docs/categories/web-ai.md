@@ -2622,7 +2622,7 @@ Revision Master - A smart, offline-first study app with AI-generated flashcards,
 
 ### 📦 AgriciDaniel/claude-obsidian
 
-> **Categories:** `#ai` `#claude_code` `#claude_code_skill` `#knowledge_management` `#obsidian` `#open_source` `#second_brain`
+> **Categories:** `#ai` `#claude_code` `#claude_code_skill` `#knowledge_management` `#obsidian` `#open_source` `#second_brain` `#python` `#agent_skills` `#ai_note_taking` `#ai_second_brain` `#claude_memory` `#claude_plugin` `#karpathy_llm_wiki` `#knowledge_graph` `#note_taking` `#notion_alternative` `#obsidian_ai` `#obsidian_plugin` `#obsidian_second_brain` `#personal_knowledge_management` `#pkm`
 
 Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 **Language**: Shell

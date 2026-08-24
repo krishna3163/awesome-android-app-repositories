@@ -14654,7 +14654,7 @@ XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide
 
 ### 📦 tashfeenahmed/freellmapi
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#typescript`
 
 OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
 **Language**: TypeScript

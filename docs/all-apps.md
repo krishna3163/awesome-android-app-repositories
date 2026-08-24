@@ -527,7 +527,7 @@
 | **agnipau/slap** | Painless shell argument parsing and dependency check. | [GitHub](https://github.com/agnipau/slap) | — | `argument, clap, cli, parse, shell` |
 | **agno-agi/agent-api** | A minimal, open-source setup for serving Agents using FastAPI and Pos… | [GitHub](https://github.com/agno-agi/agent-api) | — | `GitHub, OpenSource` |
 | **agno-agi/dash** | Self-learning data agent that grounds its answers in 6 layers of cont… | [GitHub](https://github.com/agno-agi/dash) | — | `GitHub, OpenSource` |
-| **AgriciDaniel/claude-obsidian** | Claude + Obsidian knowledge companion. Persistent, compounding wiki v… | [GitHub](https://github.com/AgriciDaniel/claude-obsidian) | — | `ai, claude_code, claude_code_skill, knowledge_management, obsidian, open_source, second_brain` |
+| **AgriciDaniel/claude-obsidian** | Claude + Obsidian knowledge companion. Persistent, compounding wiki v… | [GitHub](https://github.com/AgriciDaniel/claude-obsidian) | — | `ai, claude_code, claude_code_skill, knowledge_management, obsidian, open_source, second_brain, python, agent_skills, ai_note_taking, ai_second_brain, claude_memory, claude_plugin, karpathy_llm_wiki, knowledge_graph, note_taking, notion_alternative, obsidian_ai, obsidian_plugin, obsidian_second_brain, personal_knowledge_management, pkm` |
 | **Agrona** | **4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy) | [GitHub](https://github.com/real-logic/agrona) | — | `GitHub, OpenSource` |
 | **AharonSambol/PrettyPrintTree** | Python library to print trees | [GitHub](https://github.com/AharonSambol/PrettyPrintTree) | — | `GitHub, OpenSource` |
 | **AHEKOT/ComfyUI_VNCCS** | Visual Novel Character Creation Suite is a comprehensive tool for cre… | [GitHub](https://github.com/AHEKOT/ComfyUI_VNCCS) | — | `GitHub, OpenSource` |
@@ -14314,7 +14314,7 @@
 | **tarraschk/richelieu** | List of the most common French passwords | [GitHub](https://github.com/tarraschk/richelieu) | — | `audit, bruteforce_wordlist, cybersecurity, dictionary, security` |
 | **TarsCloud/TarsGo** | A  high performance microservice  framework  in golang. A linux found… | [GitHub](https://github.com/TarsCloud/TarsGo) | — | `golang, high_performance, microservices, rpc` |
 | **Tartufo** | Can check the entire commit history to find secrets. | [GitHub](https://github.com/godaddy/tartufo) | — | `Tool, Data` |
-| **tashfeenahmed/freellmapi** | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI pr… | [GitHub](https://github.com/tashfeenahmed/freellmapi) | — | `GitHub, OpenSource` |
+| **tashfeenahmed/freellmapi** | OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI pr… | [GitHub](https://github.com/tashfeenahmed/freellmapi) | — | `GitHub, OpenSource, typescript` |
 | **Taskade - AI Lists, Notes, Chat - A free productivity app that lets you chat with your tasks 📝🤖** | **Taskade is a task management and collaboration app that supports al… | — | [Website](https://t.me/popCLOUDS/547) | `Android` |
 | **Taskexplorer** | TaskExplorer is a powerful Windows task manager that gives you deep i… | [GitHub](https://github.com/DavidXanatos/TaskExplorer) | — | `c_lang, GitHub, OpenSource` |
 | **Taskfolio - Android task management app** | Taskfolio is a simple and intuitive task management app designed to s… | [GitHub](https://github.com/opatry/taskfolio) | — | `android, task, manager` |
