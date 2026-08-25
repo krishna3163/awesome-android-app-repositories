@@ -134328,5 +134328,12 @@
     "error": "Message does not contain repository or website link",
     "raw_text": "Should I release it today? (A few tasks remaining, then I can make a release if everything go right.)",
     "timestamp": "2026-08-25T03:41:08.075874+00:00"
+  },
+  {
+    "channel": "@github",
+    "message_id": 11102,
+    "error": "Message does not contain repository or website link",
+    "raw_text": "Появилось расширение, которое маскирует ChatGPT и Claude под интерфейс Google Docs — идеальный инструмент для студентов и офисных сотрудников.\n\nНа экране всё выглядит как обычный документ: вводишь запрос в строку, а ответ ИИ появляется прямо внутри страницы.\nДополнительно доступны режимы маскировки под Microsoft Word и Notion.\n\nРасширение [здесь](https://chromewebstore.google.com/detail/gptdisguise/bccghhjlejbkimijdkdfoboamcjgpefg)\n\n🐱[** **](https://t.me/techno_news)[**GitHu**](https://t.me/gith",
+    "timestamp": "2026-08-25T06:31:11.863722+00:00"
   }
 ]
