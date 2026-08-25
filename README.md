@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16973`
 - 🏷️ **Unique Categories / Tags:** `15507`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 20:19 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 21:19 UTC`
 
 ---
 
@@ -290,6 +290,18 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16973 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Mobile Mcp
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://github.com/mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+- 👤 **Developer:** [mobile-next](https://github.com/mobile-next)
+
+
+---
 
 ### 📦 Certimate
 
@@ -668,18 +680,6 @@ An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one tra
 
 - 🐙 **Source Code:** [https://github.com/SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip)
 - 👤 **Developer:** [SigmanticAI](https://github.com/SigmanticAI)
-
-
----
-
-### 📦 Osx And Ios Security Awesome
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
-- 👤 **Developer:** [ashishb](https://github.com/ashishb)
 
 
 ---
