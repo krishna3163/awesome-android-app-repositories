@@ -1,5 +1,34 @@
 [
   {
+    "id": "tobi-walgit",
+    "name": "tobi/walgit",
+    "description": "**Language**: Rust\n**Stars**: 1219 **Issues**: 0 **Forks**: 68\n[https://github.com/tobi/walgit](https://github.com/tobi/walgit)",
+    "website": "",
+    "repository": "https://github.com/tobi/walgit",
+    "developer": {
+      "name": "tobi",
+      "url": "https://github.com/tobi"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13698,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-25T16:00:03+00:00",
+    "updated_at": "2026-08-25T16:26:45.099209+00:00"
+  },
+  {
     "id": "l-l-e-legacy-lockscreen-effects",
     "name": "L.L.E. — Legacy Lockscreen Effects",
     "description": "Bring classic Android lockscreen effects to modern devices — no root, fully customizable and private.",

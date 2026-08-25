@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13380`
+> **Total Apps in Category:** `13381`
 
 ---
 
@@ -197310,6 +197310,20 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 tobi/walgit
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Rust
+**Stars**: 1219 **Issues**: 0 **Forks**: 68
+[https://github.com/tobi/walgit](https://github.com/tobi/walgit)
+
+- 🐙 **Source Code:** [https://github.com/tobi/walgit](https://github.com/tobi/walgit)
+- 👤 **Developer:** [tobi](https://github.com/tobi)
 
 
 ---

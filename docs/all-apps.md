@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16970`
+> **Total Cataloged Projects:** `16971`
 
 ---
 
@@ -14877,6 +14877,7 @@
 | **tobi/AudioPriorityBar** | A native macOS menu bar app for managing audio device priorities | [GitHub](https://github.com/tobi/AudioPriorityBar) | — | `GitHub, OpenSource` |
 | **tobi/qmd** | mini cli search engine for your docs, knowledge bases, meeting notes,… | [GitHub](https://github.com/tobi/qmd) | — | `GitHub, OpenSource, readme, typescript` |
 | **tobi/try** | fresh directories for every vibe | [GitHub](https://github.com/tobi/try) | — | `GitHub, OpenSource, readme, shell` |
+| **tobi/walgit** | **Language**: Rust | [GitHub](https://github.com/tobi/walgit) | — | `GitHub, OpenSource` |
 | **tobilg/aws-fullstack-website** | Deploy your fullstack websites without all the hassle on AWS with Clo… | — | [Website](https://github.com/tobilg/aws-fullstack-website) | `GitHub, OpenSource` |
 | **toblotron/praxis-ide** | An online IDE for visual programming in Prolog | [GitHub](https://github.com/toblotron/praxis-ide) | — | `GitHub, OpenSource` |
 | **tobyshooters/localhost** | subdomain.localhost → localhost:port | [GitHub](https://github.com/tobyshooters/localhost) | — | `GitHub, OpenSource` |
