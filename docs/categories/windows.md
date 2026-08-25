@@ -5576,7 +5576,7 @@ Organization: [Synth.Inc](https://github.com/synth-inc)
 
 ### 📦 Nerd Fonts
 
-> **Categories:** `#css` `#font` `#font_awesome` `#fonts` `#hacktoberfest` `#icon_font` `#iconic_fonts` `#octicons` `#patched_fonts` `#patcher` `#powerline` `#python` `#shell` `#statusline`
+> **Categories:** `#css` `#font` `#font_awesome` `#fonts` `#hacktoberfest` `#icon_font` `#iconic_fonts` `#octicons` `#patched_fonts` `#patcher` `#powerline` `#python` `#shell` `#statusline` `#GitHub` `#OpenSource`
 
 Nerd Fonts is a project that adds a large number of glyphs (icons) to popular programming fonts. It includes icons from sets like Font Awesome, Devicons, and Octicons. You can download and install these fonts in various ways, such as through release archives, Homebrew on macOS, Chocolatey or Scoop on Windows, or using a PowerShell web installer. There is also a font patcher tool that allows you to patch your own fonts with these glyphs. This benefits users by enhancing their coding environment with visually appealing and useful icons, making it easier to distinguish different types of files and code elements.
 

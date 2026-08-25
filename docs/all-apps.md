@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16973`
+> **Total Cataloged Projects:** `16974`
 
 ---
 
@@ -10028,6 +10028,7 @@
 | **nat/natbot** | Drive a browser with GPT-3 | [GitHub](https://github.com/nat/natbot) | — | `GitHub, OpenSource` |
 | **natbro/kaon** | Tools, and instructions for more easily installing and launching Wind… | [GitHub](https://github.com/natbro/kaon) | — | `crossover_windows, gaming, gptk, macos, steam` |
 | **nate-parrott/ball** | **Language**: Swift | [GitHub](https://github.com/nate-parrott/ball) | — | `GitHub, OpenSource` |
+| **nateherkai/scroll-craft** | Claude Code skill for premium scroll-driven websites. Scroll becomes… | [GitHub](https://github.com/nateherkai/scroll-craft) | — | `accessibility, agent_skills, ai_web_design, anthropic, claude_code, claude_code_plugin, creative_coding, design_system, frontend, interaction_design, landing_page, scroll_animation, scrollytelling, typography, web_design` |
 | **natemoo-re/clack** | Effortlessly build beautiful command-line apps | [GitHub](https://github.com/natemoo-re/clack) | — | `cli, command_line, command_line_app, node, prompt, prompts` |
 | **natemoo-re/satori-html** | An HTML adapter for Vercel's Satori | [GitHub](https://github.com/natemoo-re/satori-html) | — | `GitHub, OpenSource` |
 | **nateraw/stable-diffusion-videos** | Create 🔥 videos with Stable Diffusion by exploring the latent space a… | [GitHub](https://github.com/nateraw/stable-diffusion-videos) | — | `ai_art, huggingface, huggingface_diffusers, machine_learning, stable_diffusion` |
@@ -10116,7 +10117,7 @@
 | **Neovate Code** | With it, you can generate code, fix errors, check code, add tests, an… | [GitHub](https://github.com/neovateai/neovate-code) | — | `GitHub, OpenSource` |
 | **neovim** | Vim-fork focused on extensibility and usability** | [GitHub](https://github.com/neovim/neovim) | [Website](https://neovim.io) | `GitHub, OpenSource, readme, c, vim, api, lua, neovim, nvim, text_editor, vim_script` |
 | **neovim/nvim-lsp** | Common configurations for Neovim Language Servers | [GitHub](https://github.com/neovim/nvim-lsp) | — | `GitHub, OpenSource` |
-| **Nerd Fonts** | Nerd Fonts is a project that adds a large number of glyphs (icons) to… | [GitHub](https://github.com/ryanoasis/nerd-fonts) | — | `css, font, font_awesome, fonts, hacktoberfest, icon_font, iconic_fonts, octicons, patched_fonts, patcher, powerline, python, shell, statusline` |
+| **Nerd Fonts** | Nerd Fonts is a project that adds a large number of glyphs (icons) to… | [GitHub](https://github.com/ryanoasis/nerd-fonts) | — | `css, font, font_awesome, fonts, hacktoberfest, icon_font, iconic_fonts, octicons, patched_fonts, patcher, powerline, python, shell, statusline, GitHub, OpenSource` |
 | **Nerdctl** | `nerdctl` is a tool that works like Docker but uses `containerd` inst… | [GitHub](https://github.com/containerd/nerdctl) | — | `go, containerd` |
 | **Nerds489/NETREAPER** | Network security framework. 70+ tools. Built mean, runs clean. | [GitHub](https://github.com/Nerds489/NETREAPER) | — | `aircrack_ng, arch_linux, bash, debian, ethical_hacking, kali, linux, linux_tools, network_security, nmap, offensive_security, penetration_testing, pentesting, red_team, security, wifi, wireless` |
 | **nerdsinspace/nocom-explanation** | block game military grade radar | [GitHub](https://github.com/nerdsinspace/nocom-explanation) | — | `minecraft, exploit, radar, exploitation, 2b2t, papermc, nocomment, nocom` |

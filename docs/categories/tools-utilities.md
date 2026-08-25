@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13383`
+> **Total Apps in Category:** `13384`
 
 ---
 
@@ -197350,6 +197350,19 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 nateherkai/scroll-craft
+
+> **Categories:** `#accessibility` `#agent_skills` `#ai_web_design` `#anthropic` `#claude_code` `#claude_code_plugin` `#creative_coding` `#design_system` `#frontend` `#interaction_design` `#landing_page` `#scroll_animation` `#scrollytelling` `#typography` `#web_design`
+
+Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)
+- 👤 **Developer:** [nateherkai](https://github.com/nateherkai)
 
 
 ---
