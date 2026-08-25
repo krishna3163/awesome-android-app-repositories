@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16972`
 - 🏷️ **Unique Categories / Tags:** `15507`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 18:26 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 19:24 UTC`
 
 ---
 
@@ -290,6 +290,20 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16972 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Certimate
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+ACME's completely free, open source SSL certificate self-hosting tool that automates and visualizes the entire application, deployment, renewal and monitoring process, and supports all major cloud services.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/certimate-go/certimate](https://github.com/certimate-go/certimate)
+- 👤 **Developer:** [certimate-go](https://github.com/certimate-go)
+
+
+---
 
 ### 📦 tobi/walgit
 
@@ -666,20 +680,6 @@ An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one tra
 
 - 🐙 **Source Code:** [https://github.com/ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
 - 👤 **Developer:** [ashishb](https://github.com/ashishb)
-
-
----
-
-### 📦 Interlace
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**It allows you to turn a single-threaded command line application into a multi-threaded program
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/codingo/Interlace](https://github.com/codingo/Interlace)
-- 👤 **Developer:** [codingo](https://github.com/codingo)
 
 
 ---
