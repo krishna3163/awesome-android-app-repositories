@@ -134321,5 +134321,12 @@
     "error": "Message does not contain repository or website link",
     "raw_text": "Lose sanity, win 🇨🇳",
     "timestamp": "2026-08-25T02:14:05.095572+00:00"
+  },
+  {
+    "channel": "@popMODS",
+    "message_id": 8681,
+    "error": "Message does not contain repository or website link",
+    "raw_text": "Should I release it today? (A few tasks remaining, then I can make a release if everything go right.)",
+    "timestamp": "2026-08-25T03:41:08.075874+00:00"
   }
 ]
