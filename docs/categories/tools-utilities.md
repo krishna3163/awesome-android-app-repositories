@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13377`
+> **Total Apps in Category:** `13378`
 
 ---
 
@@ -197249,6 +197249,20 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 amirh00sain/SpiderPanel
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 620 **Issues**: 0 **Forks**: 2021
+[https://github.com/amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel)
+
+- 🐙 **Source Code:** [https://github.com/amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel)
+- 👤 **Developer:** [amirh00sain](https://github.com/amirh00sain)
 
 
 ---

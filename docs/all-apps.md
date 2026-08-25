@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16966`
+> **Total Cataloged Projects:** `16967`
 
 ---
 
@@ -891,6 +891,7 @@
 | **amirassov/kaggle-imaterialist** | The First Place Solution of iMaterialist (Fashion) 2019 at FGVC6 | [GitHub](https://github.com/amirassov/kaggle-imaterialist) | — | `GitHub, OpenSource` |
 | **amircloner/g2ray** | Self-hosted proxy setup running inside GitHub Codespaces — for educat… | [GitHub](https://github.com/amircloner/g2ray) | — | `GitHub, OpenSource` |
 | **amirgamil/zk-crush** | Tell your crush you like them with zero-knowledge | [GitHub](https://github.com/amirgamil/zk-crush) | — | `GitHub, OpenSource` |
+| **amirh00sain/SpiderPanel** | **Language**: Python | [GitHub](https://github.com/amirh00sain/SpiderPanel) | — | `GitHub, OpenSource` |
 | **AmirHosseinBabaeayan/Python2021** | This repository is specific to the Python course with an artificial i… | [GitHub](https://github.com/AmirHosseinBabaeayan/Python2021) | — | `GitHub, OpenSource` |
 | **amit-davidson/awesome-golang-workshops** | A curated list of awesome golang workshops. | [GitHub](https://github.com/amit-davidson/awesome-golang-workshops) | — | `GitHub, OpenSource` |
 | **amitness/papers-with-video** | Chrome extension that adds video explanations to research papers on a… | [GitHub](https://github.com/amitness/papers-with-video) | — | `GitHub, OpenSource` |
