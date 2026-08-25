@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16968`
 - 🏷️ **Unique Categories / Tags:** `15503`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 10:22 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 11:19 UTC`
 
 ---
 
@@ -290,6 +290,21 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16968 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 b-nnett/grok-bot-0.18-reconstructed
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+**Language**: TypeScript
+**Stars**: 2106 **Issues**: 11 **Forks**: 2406
+[https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+
+- 🐙 **Source Code:** [https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+- 👤 **Developer:** [b-nnett](https://github.com/b-nnett)
+
+
+---
 
 ### 📦 amirh00sain/SpiderPanel
 
@@ -685,18 +700,6 @@ Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea
 
 - 🐙 **Source Code:** [https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
 - 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
-
-
----
-
-### 📦 Awesome Ai Memory
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/topoteretes/awesome-ai-memory](https://github.com/topoteretes/awesome-ai-memory)
-- 👤 **Developer:** [topoteretes](https://github.com/topoteretes)
 
 
 ---

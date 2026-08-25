@@ -8,6 +8,21 @@
 
 ---
 
+### 📦 b-nnett/grok-bot-0.18-reconstructed
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+**Language**: TypeScript
+**Stars**: 2106 **Issues**: 11 **Forks**: 2406
+[https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+
+- 🐙 **Source Code:** [https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+- 👤 **Developer:** [b-nnett](https://github.com/b-nnett)
+
+
+---
+
 ### 📦 Komi Store
 
 > **Categories:** `#Android` `#Windows` `#Mac` `#Linux` `#Store` `#FOSS`
@@ -11545,21 +11560,6 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
-
-
----
-
-### 📦 b-nnett/grok-bot-0.18-reconstructed
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
-**Language**: TypeScript
-**Stars**: 2106 **Issues**: 11 **Forks**: 2406
-[https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
-
-- 🐙 **Source Code:** [https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
-- 👤 **Developer:** [b-nnett](https://github.com/b-nnett)
 
 
 ---
