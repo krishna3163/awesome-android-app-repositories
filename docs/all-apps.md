@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16967`
+> **Total Cataloged Projects:** `16968`
 
 ---
 
@@ -1622,6 +1622,7 @@
 | **B-Lang-org/bsc** | Bluespec Compiler (BSC) | [GitHub](https://github.com/B-Lang-org/bsc) | — | `GitHub, OpenSource` |
 | **b-nnett/codex-plusplus** | Codex++ tweak system for the Codex desktop app | [GitHub](https://github.com/b-nnett/codex-plusplus) | — | `GitHub, OpenSource` |
 | **b-nnett/goose** | Goose Swift proof-of-concept README | [GitHub](https://github.com/b-nnett/goose) | — | `GitHub, OpenSource` |
+| **b-nnett/grok-bot-0.18-reconstructed** | Unofficial source-oriented reconstruction and extension of Grok Bot 0… | [GitHub](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | — | `GitHub, OpenSource` |
 | **b0o/incline.nvim** | 🏔️ Lightweight floating statuslines for Neovim | [GitHub](https://github.com/b0o/incline.nvim) | — | `neovim, neovim_plugin, neovim_statusline, neovim_ui, nvim, nvim_plugin, vim` |
 | **b17zr/ntlm_challenger** | Parse NTLM over HTTP challenge messages | [GitHub](https://github.com/b17zr/ntlm_challenger) | — | `information_gathering, ntlm_authentication_protocol, reconnaissance` |
 | **b1n4r1b01/desc_race** | iOS 15.1 kernel exploit POC for CVE-2021-30955 | [GitHub](https://github.com/b1n4r1b01/desc_race) | — | `GitHub, OpenSource` |

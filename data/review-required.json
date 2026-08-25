@@ -44548,5 +44548,16 @@
     "message_id": 11103,
     "raw_text": "[**Folo**](https://github.com/RSSNext/Folo) — это RSS-ридер с искусственным интеллектом\n\nFolo объединяет контент в единую временную шкалу, позволяя вам быть в курсе важных событий без отвлекающих факторов. Делитесь списками, изучайте подборки и наслаждайтесь просмотром без отвлекающих факторов.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-25T08:32:25.874391+00:00"
+  },
+  {
+    "incoming_name": "leantime",
+    "incoming_normalized": "leantime",
+    "matched_project_id": "seanime",
+    "matched_project_name": "Seanime",
+    "similarity_score": 80.0,
+    "channel": "@github_repositories_bds",
+    "message_id": 937,
+    "raw_text": "**leantime**\n\nLeantime is an open source goals focused project management system for non-project managers. Built with ADHD, dyslexia and autism in mind.\n\nCreator:   Leantime\nStars ⭐️:  11,100\nForked by:  1,100\n\nGithub Repo:\nhttps://github.com/Leantime/leantime\n\n#ProjectManagement\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖     \nJoin @github_repositories_bds for more cool repositories. This channel belongs to @bigdataspecialist group",
+    "timestamp": "2026-08-25T10:22:42.507089+00:00"
   }
 ]

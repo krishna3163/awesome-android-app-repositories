@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `345`
+> **Total Apps in Category:** `346`
 
 ---
 
@@ -5537,6 +5537,21 @@ A Burp Suite extension to help pentesters to bypass WAFs or test their effective
 
 - 🐙 **Source Code:** [https://github.com/nccgroup/BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
 - 👤 **Developer:** [nccgroup](https://github.com/nccgroup)
+
+
+---
+
+### 📦 b-nnett/grok-bot-0.18-reconstructed
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+**Language**: TypeScript
+**Stars**: 2106 **Issues**: 11 **Forks**: 2406
+[https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+
+- 🐙 **Source Code:** [https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+- 👤 **Developer:** [b-nnett](https://github.com/b-nnett)
 
 
 ---
