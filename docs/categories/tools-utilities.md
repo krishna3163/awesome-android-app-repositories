@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13381`
+> **Total Apps in Category:** `13382`
 
 ---
 
@@ -197324,6 +197324,20 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 Certimate
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+ACME's completely free, open source SSL certificate self-hosting tool that automates and visualizes the entire application, deployment, renewal and monitoring process, and supports all major cloud services.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/certimate-go/certimate](https://github.com/certimate-go/certimate)
+- 👤 **Developer:** [certimate-go](https://github.com/certimate-go)
 
 
 ---

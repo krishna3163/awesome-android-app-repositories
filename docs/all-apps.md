@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16971`
+> **Total Cataloged Projects:** `16972`
 
 ---
 
@@ -2474,6 +2474,7 @@
 | **Cerebro** | Cerebro offers basic plugins for web search, application launcher, fi… | [GitHub](https://github.com/cerebroapp/cerebro) | — | `Interesting, Useful` |
 | **CERTCC/keyfinder** | A tool for finding and analyzing private (and public) key files, incl… | [GitHub](https://github.com/CERTCC/keyfinder) | — | `GitHub, OpenSource` |
 | **certikfoundation/shentu** | CertiK Shentu chain implementation | [GitHub](https://github.com/certikfoundation/shentu) | — | `GitHub, OpenSource` |
+| **Certimate** | ACME's completely free, open source SSL certificate self-hosting tool… | [GitHub](https://github.com/certimate-go/certimate) | — | `GitHub, OpenSource` |
 | **certsocietegenerale/IRM** | Incident Response Methodologies 2022 | [GitHub](https://github.com/certsocietegenerale/IRM) | — | `GitHub, OpenSource` |
 | **cesarblum/sectorforth** | sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector. | [GitHub](https://github.com/cesarblum/sectorforth) | — | `GitHub, OpenSource` |
 | **Cesium** | Suitable for creating applications that require geodata. | [GitHub](https://github.com/CesiumGS/cesium) | — | `GitHub, OpenSource` |
