@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16970`
 - 🏷️ **Unique Categories / Tags:** `15507`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 14:36 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 15:34 UTC`
 
 ---
 
@@ -290,6 +290,39 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16970 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 L.L.E. — Legacy Lockscreen Effects
+
+> **Categories:** `#Android` `#Utilities` `#Customization`
+
+Bring classic Android lockscreen effects to modern devices — no root, fully customizable and private.
+
+- 🐙 **Source Code:** [https://t.me/popCLOUDS/13578](https://t.me/popCLOUDS/13578)
+- 👤 **Developer:** [Manuel Biagini](https://github.com/Brazzo978)
+
+<details>
+<summary><b>✨ Key Features (15)</b> — <i>Click to expand</i></summary>
+
+- **Classic Android Lockscreen Effects** — brings back classic unlock effects
+- **No Root Required** — works without root access
+- **Open Source** — public and auditable source code
+- **Offline / Local by Design** — does not request INTERNET permission
+- **Custom Touch Area** — lets you configure the touch area for the effect
+- **Custom Wallpaper Support** — captures the lockscreen or uses an image selected by the user
+- **Lock & Unlock Sounds** — several effects include classic sounds
+- **Charging Doodles** — animations/doodles displayed while charging
+- **Seasonal Effects** — Spring, Summer, Autumn, and Winter
+- **Samsung Fold Support** — separate settings for the Cover and Main screens
+- **Automatic Lockscreen Detection** — uses Accessibility to detect lock and unlock events
+- Android 6+ Support
+- **ARM64 Optimized** — the ARM64 version is the main and most up-to-date build
+- **Debug Report** — generates local diagnostic reports
+- **Privacy Focused** — wallpapers, captures, settings, and reports remain on the device
+
+</details>
+
+
+---
 
 ### 📦 Hister
 
@@ -648,57 +681,6 @@ A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation
 
 - 🐙 **Source Code:** [https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
 - 👤 **Developer:** [DenisSergeevitch](https://github.com/DenisSergeevitch)
-
-
----
-
-### 📦 Croc
-
-> **Categories:** `#Windows` `#Mac` `#linux` `#readme` `#golang` `#tcp` `#transfer` `#peer_to_peer` `#file_sharing` `#data_transfer` `#pake` `#GitHub` `#OpenSource` `#go` `#Interesting` `#Useful`
-
-croc is a simple, secure, and fast command-line file transfer tool that allows users to send files and folders between devices over the internet. It uses end-to-end encryption, works across platforms and networks without port forwarding, supports resumable transfers, and can use relay servers when direct connections aren't possible. It also supports text transfers, browser-based receiving, custom transfer codes, proxies, and self-hosted relays.
-
-- 🐙 **Source Code:** [https://github.com/schollz/croc](https://github.com/schollz/croc)
-- 🌐 **Official Website:** [https://github.com/schollz/croc#readme](https://github.com/schollz/croc#readme)
-- 👤 **Developer:** [Zack Schollz](https://github.com/schollz)
-
-<details>
-<summary><b>✨ Key Features (32)</b> — <i>Click to expand</i></summary>
-
-- **End-to-End Encryption** — Secure file transfers
-- **Cross-Platform** — Windows, Linux, macOS, and Android
-- **File & Folder Transfer** — Transfer files, multiple files, or directories
-- **Resume Transfers** — Continue interrupted transfers
-- **No Port Forwarding** — Works without router configuration
-- **Relay-Based Transfers** — Works across different networks
-- IPv6 & IPv4 Support
-- **Proxy Support** — Supports SOCKS5 proxies
-- **Browser Support** — Transfer files through a web browser
-- **Encrypted Temporary Storage** — Store files securely for later download
-- **Custom Code Phrases** — Easy device-to-device pairing
-- **QR Code Support** — Quickly share transfer codes
-- Clipboard Integration
-- Multiple File Transfer
-- **stdin/stdout Support** — Pipe data directly through croc
-- **Text Transfer** — Send text and URLs
-- File & Folder Exclusion
-- Automatic File Renaming
-- Transfer Integrity Verification
-- Configurable Encryption Options
-- **Quiet Mode** — Suitable for scripts and automation
-- **Self-Hosted Relay** — Run your own relay server
-- Docker Support
-- Lightweight CLI
-- **Open Source** — MIT License
-- *Send a File**
-- ***Receive a File** — **
-- ***Send Multiple Files** — **
-- ***Send a Folder** — **
-- ***Send Text** — **
-- ***Custom Code** — **
-- ***Receiver** — **
-
-</details>
 
 
 ---
