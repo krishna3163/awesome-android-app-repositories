@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16974`
 - 🏷️ **Unique Categories / Tags:** `15510`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 22:17 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 23:18 UTC`
 
 ---
 
@@ -290,6 +290,19 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16974 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 nateherkai/scroll-craft
+
+> **Categories:** `#accessibility` `#agent_skills` `#ai_web_design` `#anthropic` `#claude_code` `#claude_code_plugin` `#creative_coding` `#design_system` `#frontend` `#interaction_design` `#landing_page` `#scroll_animation` `#scrollytelling` `#typography` `#web_design`
+
+Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.
+**Language**: JavaScript
+
+- 🐙 **Source Code:** [https://github.com/nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)
+- 👤 **Developer:** [nateherkai](https://github.com/nateherkai)
+
+
+---
 
 ### 📦 Mobile Mcp
 
@@ -665,21 +678,6 @@ Ideal for investigators, pentesters and anyone who needs an effective reconnaiss
 
 - 🐙 **Source Code:** [https://github.com/Alain00/blobatar](https://github.com/Alain00/blobatar)
 - 👤 **Developer:** [Alain00](https://github.com/Alain00)
-
-
----
-
-### 📦 SigmanticAI/apex-inference-chip
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.
-**Language**: Python
-**Stars**: 647 **Issues**: 0 **Forks**: 1
-[https://github.com/SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip)
-
-- 🐙 **Source Code:** [https://github.com/SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip)
-- 👤 **Developer:** [SigmanticAI](https://github.com/SigmanticAI)
 
 
 ---
