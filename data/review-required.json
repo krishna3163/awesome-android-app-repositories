@@ -44537,5 +44537,16 @@
     "message_id": 11101,
     "raw_text": "[**Rdn**](https://github.com/apatrushev/rdn) — cовременный файловый менеджер для терминала, написанный на Rust + ratatui, визуально вдохновленный легендарным Dos Navigator (1991–1999) от RIT Research Labs.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-24T22:17:27.320583+00:00"
+  },
+  {
+    "incoming_name": "Folo",
+    "incoming_normalized": "folo",
+    "matched_project_id": "flow",
+    "matched_project_name": "Flow",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11103,
+    "raw_text": "[**Folo**](https://github.com/RSSNext/Folo) — это RSS-ридер с искусственным интеллектом\n\nFolo объединяет контент в единую временную шкалу, позволяя вам быть в курсе важных событий без отвлекающих факторов. Делитесь списками, изучайте подборки и наслаждайтесь просмотром без отвлекающих факторов.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-25T08:32:25.874391+00:00"
   }
 ]
