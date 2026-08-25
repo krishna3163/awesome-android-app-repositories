@@ -8,6 +8,20 @@
 
 ---
 
+### 📦 Hister
+
+> **Categories:** `#go` `#browser_history` `#golang` `#history` `#index` `#mcp` `#mcp_server` `#personal_search` `#personal_search_engine` `#privacy` `#search` `#search_engine` `#semantic_search` `#web`
+
+Hister is a private search tool that lets you search the full text of web pages and local files you have already visited or saved, from a browser, terminal, or AI assistant. It runs locally or on your own server, needs little setup, and helps you quickly find old information again while keeping your data private.
+
+https://github.com/asciimoo/hister
+
+- 🐙 **Source Code:** [https://github.com/asciimoo/hister](https://github.com/asciimoo/hister)
+- 👤 **Developer:** [asciimoo](https://github.com/asciimoo)
+
+
+---
+
 ### 📦 amirh00sain/SpiderPanel
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -197263,20 +197277,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 Hister
-
-> **Categories:** `#go` `#browser_history` `#golang` `#history` `#index` `#mcp` `#mcp_server` `#personal_search` `#personal_search_engine` `#privacy` `#search` `#search_engine` `#semantic_search` `#web`
-
-Hister is a private search tool that lets you search the full text of web pages and local files you have already visited or saved, from a browser, terminal, or AI assistant. It runs locally or on your own server, needs little setup, and helps you quickly find old information again while keeping your data private.
-
-https://github.com/asciimoo/hister
-
-- 🐙 **Source Code:** [https://github.com/asciimoo/hister](https://github.com/asciimoo/hister)
-- 👤 **Developer:** [asciimoo](https://github.com/asciimoo)
 
 
 ---

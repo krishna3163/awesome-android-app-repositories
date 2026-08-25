@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16969`
 - 🏷️ **Unique Categories / Tags:** `15507`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 12:30 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 13:41 UTC`
 
 ---
 
@@ -290,6 +290,20 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16969 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Hister
+
+> **Categories:** `#go` `#browser_history` `#golang` `#history` `#index` `#mcp` `#mcp_server` `#personal_search` `#personal_search_engine` `#privacy` `#search` `#search_engine` `#semantic_search` `#web`
+
+Hister is a private search tool that lets you search the full text of web pages and local files you have already visited or saved, from a browser, terminal, or AI assistant. It runs locally or on your own server, needs little setup, and helps you quickly find old information again while keeping your data private.
+
+https://github.com/asciimoo/hister
+
+- 🐙 **Source Code:** [https://github.com/asciimoo/hister](https://github.com/asciimoo/hister)
+- 👤 **Developer:** [asciimoo](https://github.com/asciimoo)
+
+
+---
 
 ### 📦 b-nnett/grok-bot-0.18-reconstructed
 
@@ -685,21 +699,6 @@ croc is a simple, secure, and fast command-line file transfer tool that allows u
 - ***Receiver** — **
 
 </details>
-
-
----
-
-### 📦 Leutenegger/vanity-eth
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).
-**Language**: Python
-**Stars**: 801 **Issues**: 0 **Forks**: 90
-[https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
-
-- 🐙 **Source Code:** [https://github.com/Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
-- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
 
 
 ---
