@@ -44559,5 +44559,16 @@
     "message_id": 937,
     "raw_text": "**leantime**\n\nLeantime is an open source goals focused project management system for non-project managers. Built with ADHD, dyslexia and autism in mind.\n\nCreator:   Leantime\nStars ⭐️:  11,100\nForked by:  1,100\n\nGithub Repo:\nhttps://github.com/Leantime/leantime\n\n#ProjectManagement\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖     \nJoin @github_repositories_bds for more cool repositories. This channel belongs to @bigdataspecialist group",
     "timestamp": "2026-08-25T10:22:42.507089+00:00"
+  },
+  {
+    "incoming_name": "Tandem Browser",
+    "incoming_normalized": "tandembrowser",
+    "matched_project_id": "nanobrowser",
+    "matched_project_name": "Nanobrowser",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11105,
+    "raw_text": "[**Tandem**](https://github.com/hydro13/tandem-browser) — это локальный браузер на основе Electron, который переносит искусственный интеллект из боковой панели рядом с браузером в сам браузер. \n\nТе же вкладки, те же файлы cookie, те же сеансы входа в систему, та же страница, на которой вы сейчас находитесь. \n\nАгент считывает дерево доступности, следит за сетью в реальном времени, может переписать пользовательский интерфейс сайта, на котором вы находитесь, и возвращает управление вам, когда что-т",
+    "timestamp": "2026-08-25T14:36:03.076190+00:00"
   }
 ]

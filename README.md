@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16969`
+- 📦 **Total Discovered Apps & Projects:** `16970`
 - 🏷️ **Unique Categories / Tags:** `15507`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 13:41 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 14:36 UTC`
 
 ---
 
@@ -274,22 +274,22 @@ Explore our organized category directories to find the exact apps and tools you 
 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
-| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1609 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13379 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13380 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `779 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `691 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `473 apps` | [**Explore →**](docs/categories/media-music.md) |
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1048 apps` | [**Explore →**](docs/categories/web-ai.md) |
-| **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `240 apps` | [**Explore →**](docs/categories/root-modules.md) |
+| **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `346 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16969 cataloged applications | `16969 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16970 cataloged applications | `16970 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16969 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16970 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
 
 ### 📦 Hister
 

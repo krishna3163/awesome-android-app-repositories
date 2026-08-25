@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16969`
+> **Total Cataloged Projects:** `16970`
 
 ---
 
@@ -8018,6 +8018,7 @@
 | **kzl/decision-transformer** | Official codebase for Decision Transformer: Reinforcement Learning vi… | [GitHub](https://github.com/kzl/decision-transformer) | — | `GitHub, OpenSource` |
 | **l**apce** | ** | [GitHub](https://github.com/lapce/lapce) | — | `codeeditor, rust, code_editor, developer_tools, text_editor, vim, GitHub, OpenSource` |
 | **l-portet/tiktok-warmup-bot** | ♨️  Warming up TikTok accounts, one swipe at a time | [GitHub](https://github.com/l-portet/tiktok-warmup-bot) | — | `GitHub, OpenSource` |
+| **L.L.E. — Legacy Lockscreen Effects** | Bring classic Android lockscreen effects to modern devices — no root,… | [GitHub](https://t.me/popCLOUDS/13578) | — | `Android, Utilities, Customization` |
 | **l0ggg/VMware_vCenter** | VMware vCenter 7.0.2.00100 unauth Arbitrary File Read + SSRF + Reflec… | [GitHub](https://github.com/l0ggg/VMware_vCenter) | — | `GitHub, OpenSource` |
 | **L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper** | Proof of concept to show that Edge stores credentials in cleartext | [GitHub](https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper) | — | `GitHub, OpenSource` |
 | **l1ving/youtube-dl** | A copyright-respecting fork of youtube-dl | [GitHub](https://github.com/l1ving/youtube-dl) | — | `GitHub, OpenSource` |

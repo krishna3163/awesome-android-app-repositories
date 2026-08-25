@@ -1,5 +1,96 @@
 [
   {
+    "id": "l-l-e-legacy-lockscreen-effects",
+    "name": "L.L.E. — Legacy Lockscreen Effects",
+    "description": "Bring classic Android lockscreen effects to modern devices — no root, fully customizable and private.",
+    "website": "",
+    "repository": "https://t.me/popCLOUDS/13578",
+    "developer": {
+      "name": "Manuel Biagini",
+      "url": "https://github.com/Brazzo978"
+    },
+    "features": [
+      {
+        "title": "Classic Android Lockscreen Effects",
+        "description": "brings back classic unlock effects"
+      },
+      {
+        "title": "No Root Required",
+        "description": "works without root access"
+      },
+      {
+        "title": "Open Source",
+        "description": "public and auditable source code"
+      },
+      {
+        "title": "Offline / Local by Design",
+        "description": "does not request INTERNET permission"
+      },
+      {
+        "title": "Custom Touch Area",
+        "description": "lets you configure the touch area for the effect"
+      },
+      {
+        "title": "Custom Wallpaper Support",
+        "description": "captures the lockscreen or uses an image selected by the user"
+      },
+      {
+        "title": "Lock & Unlock Sounds",
+        "description": "several effects include classic sounds"
+      },
+      {
+        "title": "Charging Doodles",
+        "description": "animations/doodles displayed while charging"
+      },
+      {
+        "title": "Seasonal Effects",
+        "description": "Spring, Summer, Autumn, and Winter"
+      },
+      {
+        "title": "Samsung Fold Support",
+        "description": "separate settings for the Cover and Main screens"
+      },
+      {
+        "title": "Automatic Lockscreen Detection",
+        "description": "uses Accessibility to detect lock and unlock events"
+      },
+      {
+        "title": "Android 6+ Support",
+        "description": ""
+      },
+      {
+        "title": "ARM64 Optimized",
+        "description": "the ARM64 version is the main and most up-to-date build"
+      },
+      {
+        "title": "Debug Report",
+        "description": "generates local diagnostic reports"
+      },
+      {
+        "title": "Privacy Focused",
+        "description": "wallpapers, captures, settings, and reports remain on the device"
+      }
+    ],
+    "tags": [
+      "Android",
+      "Utilities",
+      "Customization"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@popMODS",
+      "main_message_id": 8682,
+      "features_channel": "@popCLOUDS",
+      "features_message_id": 13578
+    },
+    "status": "active",
+    "created_at": "2026-08-25T14:12:29+00:00",
+    "updated_at": "2026-08-25T14:36:04.735845+00:00"
+  },
+  {
     "id": "hister",
     "name": "Hister",
     "description": "Hister is a private search tool that lets you search the full text of web pages and local files you have already visited or saved, from a browser, terminal, or AI assistant. It runs locally or on your own server, needs little setup, and helps you quickly find old information again while keeping your data private.\n\nhttps://github.com/asciimoo/hister",

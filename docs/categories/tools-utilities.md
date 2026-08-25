@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13379`
+> **Total Apps in Category:** `13380`
 
 ---
 
@@ -197277,6 +197277,39 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 L.L.E. — Legacy Lockscreen Effects
+
+> **Categories:** `#Android` `#Utilities` `#Customization`
+
+Bring classic Android lockscreen effects to modern devices — no root, fully customizable and private.
+
+- 🐙 **Source Code:** [https://t.me/popCLOUDS/13578](https://t.me/popCLOUDS/13578)
+- 👤 **Developer:** [Manuel Biagini](https://github.com/Brazzo978)
+
+<details>
+<summary><b>✨ Key Features (15)</b> — <i>Click to expand</i></summary>
+
+- **Classic Android Lockscreen Effects** — brings back classic unlock effects
+- **No Root Required** — works without root access
+- **Open Source** — public and auditable source code
+- **Offline / Local by Design** — does not request INTERNET permission
+- **Custom Touch Area** — lets you configure the touch area for the effect
+- **Custom Wallpaper Support** — captures the lockscreen or uses an image selected by the user
+- **Lock & Unlock Sounds** — several effects include classic sounds
+- **Charging Doodles** — animations/doodles displayed while charging
+- **Seasonal Effects** — Spring, Summer, Autumn, and Winter
+- **Samsung Fold Support** — separate settings for the Cover and Main screens
+- **Automatic Lockscreen Detection** — uses Accessibility to detect lock and unlock events
+- Android 6+ Support
+- **ARM64 Optimized** — the ARM64 version is the main and most up-to-date build
+- **Debug Report** — generates local diagnostic reports
+- **Privacy Focused** — wallpapers, captures, settings, and reports remain on the device
+
+</details>
 
 
 ---
