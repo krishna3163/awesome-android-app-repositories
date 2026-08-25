@@ -1,5 +1,34 @@
 [
   {
+    "id": "mobile-mcp",
+    "name": "Mobile Mcp",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "website": "",
+    "repository": "https://github.com/mobile-next/mobile-mcp",
+    "developer": {
+      "name": "mobile-next",
+      "url": "https://github.com/mobile-next"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11107,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-25T19:33:26+00:00",
+    "updated_at": "2026-08-25T20:19:05.482421+00:00"
+  },
+  {
     "id": "certimate",
     "name": "Certimate",
     "description": "ACME's completely free, open source SSL certificate self-hosting tool that automates and visualizes the entire application, deployment, renewal and monitoring process, and supports all major cloud services.\n\n🐱** **[**GitHub**](https://t.me/github)",

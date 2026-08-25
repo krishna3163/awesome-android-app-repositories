@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16972`
+> **Total Cataloged Projects:** `16973`
 
 ---
 
@@ -9650,6 +9650,7 @@
 | **mnotgod96/AppAgent** | A novel LLM-based multimodal agent framework designed to operate smar… | [GitHub](https://github.com/mnotgod96/AppAgent) | — | `GitHub, OpenSource, LLM, Android, Useful` |
 | **moasq/production-saas-starter** | Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolit… | [GitHub](https://github.com/moasq/production-saas-starter) | — | `GitHub, OpenSource` |
 | **Mobile Aloha** | The system learns with a human operator and is capable of autonomous… | [GitHub](https://github.com/MarkFzp/mobile-aloha) | — | `GitHub, OpenSource` |
+| **Mobile Mcp** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Pl… | [GitHub](https://github.com/mobile-next/mobile-mcp) | — | `GitHub, OpenSource` |
 | **Mobileapp Pentest Cheatsheet** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) | — | `GitHub, OpenSource` |
 | **mobiten/flutter_staggered_animations** | Easily add staggered animations to your ListView, GridView, Column an… | [GitHub](https://github.com/mobiten/flutter_staggered_animations) | — | `GitHub, OpenSource` |
 | **mobxjs/mobx-react-lite** | Lightweight React bindings for MobX based on experimental React hooks | [GitHub](https://github.com/mobxjs/mobx-react-lite) | — | `mobx, observables, react, react_hooks` |
