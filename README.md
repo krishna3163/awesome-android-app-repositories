@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16967`
 - 🏷️ **Unique Categories / Tags:** `15503`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 04:31 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 05:24 UTC`
 
 ---
 
@@ -290,6 +290,20 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16967 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 amirh00sain/SpiderPanel
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 620 **Issues**: 0 **Forks**: 2021
+[https://github.com/amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel)
+
+- 🐙 **Source Code:** [https://github.com/amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel)
+- 👤 **Developer:** [amirh00sain](https://github.com/amirh00sain)
+
+
+---
 
 ### 📦 cclank/lanshu-create-ai-presenter-video
 
@@ -683,39 +697,6 @@ Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea
 
 - 🐙 **Source Code:** [https://github.com/topoteretes/awesome-ai-memory](https://github.com/topoteretes/awesome-ai-memory)
 - 👤 **Developer:** [topoteretes](https://github.com/topoteretes)
-
-
----
-
-### 📦 More models. Lower cost. One API key.
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Access GPT, Claude, Grok, Gemini, DeepSeek, Kimi, Qwen and more through one gateway.
-
-💰 Better value
-Access leading models at prices below official API list rates.
-
-🔌 One unified gateway
-Connect apps, agents and coding tools with one Smart API key.
-
-📈 Clear costs
-Track every request, token and cost in one place.
-
-🛡️ Reliable access
-Choose model groups with ordered fallback options.
-
-👉 Models & pricing:
-https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1
-
-⚡️ Create an account:
-https://modelflare.dev/sign-up?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1
-
-💬 Join the ModelFlare community:
-https://t.me/+GxEEPAsQ0ERiOGUx
-
-- 🐙 **Source Code:** [https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1](https://modelflare.dev/pricing?utm_source=telegram&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_v1)
-- 🌐 **Official Website:** [https://modelflare.dev/sign-up?utm_source=telegram_xuliya&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1](https://modelflare.dev/sign-up?utm_source=telegram_xuliya&utm_medium=organic_social&utm_campaign=telegram_cn_202608&utm_content=value_models_one_api_signup_v1)
 
 
 ---
