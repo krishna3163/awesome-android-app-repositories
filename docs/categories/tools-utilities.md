@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13378`
+> **Total Apps in Category:** `13379`
 
 ---
 
@@ -9360,7 +9360,7 @@ Loop engineering for agentic software delivery.
 
 ### 📦 DietrichGebert/ponytail
 
-> **Categories:** `#agent_skills` `#ai_agents` `#claude` `#claude_code` `#claude_code_plugin` `#cursor_rules` `#developer_tools` `#llm` `#prompt_engineering` `#yagni`
+> **Categories:** `#agent_skills` `#ai_agents` `#claude` `#claude_code` `#claude_code_plugin` `#cursor_rules` `#developer_tools` `#llm` `#prompt_engineering` `#yagni` `#javascript`
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 **Language**: JavaScript
@@ -74287,7 +74287,7 @@ https://github.com/flutter/samples
 
 ### 📦 Marlin
 
-> **Categories:** `#cplusplus` `#3d_printing` `#arduino` `#atmel` `#avr` `#esp32` `#firmware` `#hacktoberfest` `#reprap` `#stmicro`
+> **Categories:** `#cplusplus` `#3d_printing` `#arduino` `#atmel` `#avr` `#esp32` `#firmware` `#hacktoberfest` `#reprap` `#stmicro` `#python`
 
 Marlin 3D Printer Firmware is a powerful tool for your 3D printer. It supports many different types of boards, including older 8-bit AVR boards and newer 32-bit and ARM-based boards. This means you can use it with a wide range of hardware, making it versatile for both old and new machines. The firmware is constantly improved by a large community of contributors, ensuring it stays up-to-date and reliable. You can easily configure and build Marlin using tools like Visual Studio Code or Arduino IDE, and there are many resources available for help and troubleshooting. This makes Marlin a great choice for both beginners and advanced users, helping you get the best performance out of your 3D printer.
 
@@ -197263,6 +197263,20 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 Hister
+
+> **Categories:** `#go` `#browser_history` `#golang` `#history` `#index` `#mcp` `#mcp_server` `#personal_search` `#personal_search_engine` `#privacy` `#search` `#search_engine` `#semantic_search` `#web`
+
+Hister is a private search tool that lets you search the full text of web pages and local files you have already visited or saved, from a browser, terminal, or AI assistant. It runs locally or on your own server, needs little setup, and helps you quickly find old information again while keeping your data private.
+
+https://github.com/asciimoo/hister
+
+- 🐙 **Source Code:** [https://github.com/asciimoo/hister](https://github.com/asciimoo/hister)
+- 👤 **Developer:** [asciimoo](https://github.com/asciimoo)
 
 
 ---

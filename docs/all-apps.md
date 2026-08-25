@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16968`
+> **Total Cataloged Projects:** `16969`
 
 ---
 
@@ -3848,7 +3848,7 @@
 | **dieparteidiepartei/afd-blocker-plugin** | AfD Blocker Browser Plugin | [GitHub](https://github.com/dieparteidiepartei/afd-blocker-plugin) | — | `GitHub, OpenSource` |
 | **diet103/claude-code-infrastructure-showcase** | Examples of my Claude Code infrastructure with skill auto-activation,… | [GitHub](https://github.com/diet103/claude-code-infrastructure-showcase) | — | `GitHub, OpenSource` |
 | **Dietpi** | It is built on the Debian package base and is available in builds for… | [GitHub](https://github.com/MichaIng/DietPi) | — | `Interesting, ARM` |
-| **DietrichGebert/ponytail** | Makes your AI agent think like the laziest senior dev in the room. Th… | [GitHub](https://github.com/DietrichGebert/ponytail) | — | `agent_skills, ai_agents, claude, claude_code, claude_code_plugin, cursor_rules, developer_tools, llm, prompt_engineering, yagni` |
+| **DietrichGebert/ponytail** | Makes your AI agent think like the laziest senior dev in the room. Th… | [GitHub](https://github.com/DietrichGebert/ponytail) | — | `agent_skills, ai_agents, claude, claude_code, claude_code_plugin, cursor_rules, developer_tools, llm, prompt_engineering, yagni, javascript` |
 | **diez/diez** | Adopt a unified design language across platforms, codebases, and teams | [GitHub](https://github.com/diez/diez) | — | `android_style, compiler, cross_platform, design_language, design_systems, design_tokens, ios_style, style, web_styles` |
 | **Diffdeck** | It provides clear visualization of differences, scanning for vulnerab… | [GitHub](https://github.com/KnockOutEZ/diffdeck) | — | `GitHub, OpenSource` |
 | **DiffEqML/torchdyn** | A PyTorch based library for all things neural differential equations | [GitHub](https://github.com/DiffEqML/torchdyn) | — | `GitHub, OpenSource` |
@@ -6354,6 +6354,7 @@
 | **Hironsan/bertsearch** | Elasticsearch with BERT for advanced document search. | [GitHub](https://github.com/Hironsan/bertsearch) | — | `bert, elasticsearch, machine_learning, natural_language_processing, search_engine` |
 | **Hiroshiba/voicevox** | **Language**: TypeScript | [GitHub](https://github.com/Hiroshiba/voicevox) | — | `GitHub, OpenSource` |
 | **hisbaan/didyoumean** | A CLI spelling corrector for when you're unsure | [GitHub](https://github.com/hisbaan/didyoumean) | — | `aur, command_line, command_line_tool, crates_io, levenshtein, levenshtein_distance, rust` |
+| **Hister** | Hister is a private search tool that lets you search the full text of… | [GitHub](https://github.com/asciimoo/hister) | — | `go, browser_history, golang, history, index, mcp, mcp_server, personal_search, personal_search_engine, privacy, search, search_engine, semantic_search, web` |
 | **historicalsource/hitchhikersguide** | The Hitchhiker's Guide to the Galaxy, by Steve Meretzky and Douglas A… | [GitHub](https://github.com/historicalsource/hitchhikersguide) | — | `infocom, interactive_fiction, meretzky, towel, zil` |
 | **historicalsource/zork1** | Zork I (Microcomputer Version) by Infocom | [GitHub](https://github.com/historicalsource/zork1) | — | `bruce_daniels, dave_lebling, infocom, interactive_fiction, marc_blank, tim_anderson, z_machine, zil, zork, adventure` |
 | **hisxo/gitGraber** | gitGraber is a tool developed in Python3 to monitor GitHub to search… | [GitHub](https://github.com/hisxo/gitGraber) | — | `GitHub, OpenSource` |
@@ -8998,7 +8999,7 @@
 | **marksands/BetterCodable** | Better Codable through Property Wrappers | [GitHub](https://github.com/marksands/BetterCodable) | — | `codable, property_wrappers, swift_package_manager, swift5_1` |
 | **markshannon/faster-cpython** | How to make CPython faster. | [GitHub](https://github.com/markshannon/faster-cpython) | — | `GitHub, OpenSource` |
 | **marlaman/show-me** | A visual and transparent alternative to open-source ChatGPT O1 | [GitHub](https://github.com/marlaman/show-me) | — | `GitHub, OpenSource` |
-| **Marlin** | Marlin 3D Printer Firmware is a powerful tool for your 3D printer. It… | [GitHub](https://github.com/MarlinFirmware/Marlin) | — | `cplusplus, 3d_printing, arduino, atmel, avr, esp32, firmware, hacktoberfest, reprap, stmicro` |
+| **Marlin** | Marlin 3D Printer Firmware is a powerful tool for your 3D printer. It… | [GitHub](https://github.com/MarlinFirmware/Marlin) | — | `cplusplus, 3d_printing, arduino, atmel, avr, esp32, firmware, hacktoberfest, reprap, stmicro, python` |
 | **marmarelis/rolling-quantiles** | Blazing fast, composable, Pythonic quantile filters. | [GitHub](https://github.com/marmarelis/rolling-quantiles) | — | `GitHub, OpenSource` |
 | **marmelo/tech-companies-in-portugal** | :portugal: List of technology companies in Portugal. | [GitHub](https://github.com/marmelo/tech-companies-in-portugal) | — | `coimbra, companies, lisboa, lisbon, oporto, porto, portugal, tech, technology` |
 | **Maroto** | Maroto is inspired by Bootstrap and uses gofpdf. Fast and easy. | [GitHub](https://github.com/johnfercher/maroto) | — | `GitHub, OpenSource` |

@@ -1,5 +1,46 @@
 [
   {
+    "id": "hister",
+    "name": "Hister",
+    "description": "Hister is a private search tool that lets you search the full text of web pages and local files you have already visited or saved, from a browser, terminal, or AI assistant. It runs locally or on your own server, needs little setup, and helps you quickly find old information again while keeping your data private.\n\nhttps://github.com/asciimoo/hister",
+    "website": "",
+    "repository": "https://github.com/asciimoo/hister",
+    "developer": {
+      "name": "asciimoo",
+      "url": "https://github.com/asciimoo"
+    },
+    "features": [],
+    "tags": [
+      "go",
+      "browser_history",
+      "golang",
+      "history",
+      "index",
+      "mcp",
+      "mcp_server",
+      "personal_search",
+      "personal_search_engine",
+      "privacy",
+      "search",
+      "search_engine",
+      "semantic_search",
+      "web"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15952,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-25T12:00:02+00:00",
+    "updated_at": "2026-08-25T12:30:31.251404+00:00"
+  },
+  {
     "id": "b-nnett-grok-bot-0-18-reconstructed",
     "name": "b-nnett/grok-bot-0.18-reconstructed",
     "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS\n**Language**: TypeScript\n**Stars**: 2106 **Issues**: 11 **Forks**: 2406\n[https://github.com/b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)",
@@ -24692,7 +24733,8 @@
       "developer_tools",
       "llm",
       "prompt_engineering",
-      "yagni"
+      "yagni",
+      "javascript"
     ],
     "images": {
       "cover": "",
@@ -24706,7 +24748,7 @@
     },
     "status": "active",
     "created_at": "2026-06-12T22:00:03+00:00",
-    "updated_at": "2026-08-23T07:49:05.753554+00:00"
+    "updated_at": "2026-08-25T12:30:31.262011+00:00"
   },
   {
     "id": "nuviomedia-nuviodesktop",
@@ -61858,7 +61900,7 @@
     },
     "status": "active",
     "created_at": "2026-02-15T05:00:03+00:00",
-    "updated_at": "2026-08-23T07:47:37.625945+00:00"
+    "updated_at": "2026-08-25T12:30:35.378117+00:00"
   },
   {
     "id": "tnbeznlacut-sora2-watermark-deleter-windows-macos",
@@ -210048,7 +210090,8 @@
       "firmware",
       "hacktoberfest",
       "reprap",
-      "stmicro"
+      "stmicro",
+      "python"
     ],
     "images": {
       "cover": "",
@@ -210062,7 +210105,7 @@
     },
     "status": "active",
     "created_at": "2024-11-10T15:30:03+00:00",
-    "updated_at": "2026-08-23T08:04:52.430375+00:00"
+    "updated_at": "2026-08-25T12:30:30.933243+00:00"
   },
   {
     "id": "dataanonymization",
