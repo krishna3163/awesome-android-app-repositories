@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16971`
 - 🏷️ **Unique Categories / Tags:** `15507`
-- 🔄 **Last Automatically Synchronized:** `2026-08-25 16:26 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-25 17:23 UTC`
 
 ---
 
@@ -290,6 +290,20 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16971 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 tobi/walgit
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Rust
+**Stars**: 1219 **Issues**: 0 **Forks**: 68
+[https://github.com/tobi/walgit](https://github.com/tobi/walgit)
+
+- 🐙 **Source Code:** [https://github.com/tobi/walgit](https://github.com/tobi/walgit)
+- 👤 **Developer:** [tobi](https://github.com/tobi)
+
+
+---
 
 ### 📦 L.L.E. — Legacy Lockscreen Effects
 
@@ -666,21 +680,6 @@ An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one tra
 
 - 🐙 **Source Code:** [https://github.com/codingo/Interlace](https://github.com/codingo/Interlace)
 - 👤 **Developer:** [codingo](https://github.com/codingo)
-
-
----
-
-### 📦 DenisSergeevitch/desktop-fly
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
-**Language**: Swift
-**Stars**: 649 **Issues**: 5 **Forks**: 38
-[https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
-
-- 🐙 **Source Code:** [https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
-- 👤 **Developer:** [DenisSergeevitch](https://github.com/DenisSergeevitch)
 
 
 ---
