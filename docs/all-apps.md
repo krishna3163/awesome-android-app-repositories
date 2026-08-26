@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16976`
+> **Total Cataloged Projects:** `16977`
 
 ---
 
@@ -1187,6 +1187,7 @@
 | **Apkurlgrep** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/ndelphit/apkurlgrep) | — | `GitHub, OpenSource` |
 | **Aplyard/Oled-Clicker** | Clicker Counter for Arduino Nano | [GitHub](https://github.com/Aplyard/Oled-Clicker) | — | `GitHub, OpenSource` |
 | **Apocalypse** | Apocalypse is an Android app that lets you preview and download media… | [GitHub](https://github.com/MisfiT2020/Apocalypse) | — | `Android, Media, Downloader` |
+| **ApodexAI/FrontierAgent** | 🧩 FrontierAgent, our agent framework, open-sourced alongside it — nat… | [GitHub](https://github.com/ApodexAI/FrontierAgent) | — | `agent_orchestration, agentic_ai, agentic_framework, ai_agents, harness, multi_agent, terminal_agent, tui` |
 | **Apollo-Custom Api Credentials** | **Tweak to use your own reddit API credentials in Apollo | [GitHub](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) | — | `Apollo, custom, API` |
 | **ApolloTv** | ** | [GitHub](https://github.com/ApolloTv-team/ApolloTv) | — | `Android` |
 | **apoorvnandan/tensor.h** | creating a tiny tensor library in raw C | [GitHub](https://github.com/apoorvnandan/tensor.h) | — | `GitHub, OpenSource` |

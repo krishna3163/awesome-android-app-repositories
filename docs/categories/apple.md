@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `691`
+> **Total Apps in Category:** `692`
 
 ---
 
@@ -11560,6 +11560,19 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
+
+
+---
+
+### 📦 ApodexAI/FrontierAgent
+
+> **Categories:** `#agent_orchestration` `#agentic_ai` `#agentic_framework` `#ai_agents` `#harness` `#multi_agent` `#terminal_agent` `#tui`
+
+🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent)
+- 👤 **Developer:** [ApodexAI](https://github.com/ApodexAI)
 
 
 ---

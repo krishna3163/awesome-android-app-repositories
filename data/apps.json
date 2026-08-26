@@ -1,5 +1,40 @@
 [
   {
+    "id": "apodexai-frontieragent",
+    "name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/ApodexAI/FrontierAgent",
+    "developer": {
+      "name": "ApodexAI",
+      "url": "https://github.com/ApodexAI"
+    },
+    "features": [],
+    "tags": [
+      "agent_orchestration",
+      "agentic_ai",
+      "agentic_framework",
+      "ai_agents",
+      "harness",
+      "multi_agent",
+      "terminal_agent",
+      "tui"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13701,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T10:00:03+00:00",
+    "updated_at": "2026-08-26T10:26:18.081513+00:00"
+  },
+  {
     "id": "tennis",
     "name": "Tennis",
     "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",

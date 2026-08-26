@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `779`
+> **Total Apps in Category:** `780`
 
 ---
 
@@ -13566,6 +13566,19 @@ FBGraphics (FBG) is a simple C 24 bpp graphics library for the Linux framebuffer
 
 - 🐙 **Source Code:** [https://github.com/grz0zrg/fbg](https://github.com/grz0zrg/fbg)
 - 👤 **Developer:** [grz0zrg](https://github.com/grz0zrg)
+
+
+---
+
+### 📦 ApodexAI/FrontierAgent
+
+> **Categories:** `#agent_orchestration` `#agentic_ai` `#agentic_framework` `#ai_agents` `#harness` `#multi_agent` `#terminal_agent` `#tui`
+
+🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent)
+- 👤 **Developer:** [ApodexAI](https://github.com/ApodexAI)
 
 
 ---
