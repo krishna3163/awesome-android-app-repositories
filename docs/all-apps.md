@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16977`
+> **Total Cataloged Projects:** `16978`
 
 ---
 
@@ -1259,6 +1259,7 @@
 | **Archcraft** | __Archcraft is very minimalistic and lightweight. It can run using on… | [GitHub](https://github.com/archcraft-os/archcraft) | — | `Shell, OS, Linux` |
 | **archercreat/titan** | Titan is a VMProtect devirtualizer | [GitHub](https://github.com/archercreat/titan) | — | `llvm, vmprotect` |
 | **ArchGPT/insomnium** | Insomnium is a fast local API testing tool that is privacy-focus and… | [GitHub](https://github.com/ArchGPT/insomnium) | [Website](https://github.com/Kong/insomnia) | `GitHub, OpenSource` |
+| **Archify** | Archify turns a codebase or system description into an interactive sy… | [GitHub](https://github.com/tt-a1i/archify) | — | `html, agent_skills, architecture_as_code, architecture_diagram, claude_skill, code_visualization, codex, coding_agents, data_flow_diagram, deepseek_harness, developer_tools, diagram_as_code, diagrams, diagrams_as_code, dsh_plugin, mermaid_alternative, opencode, sequence_diagram, software_architecture, system_design, text_to_diagram` |
 | **archinetai/audio-ai-timeline** | A timeline of the latest AI models for audio generation, starting in… | [GitHub](https://github.com/archinetai/audio-ai-timeline) | — | `artificial_intelligence, audio_generation, machine_learning` |
 | **Archipelago** | Archipelago is a tool that lets you play many different games in a ra… | [GitHub](https://github.com/ArchipelagoMW/Archipelago) | — | `python, alttp, archipelago, factorio, minecraft, multiworld, randomizer` |
 | **archit-p/editable-react-table** | React table built to resemble a database. | [GitHub](https://github.com/archit-p/editable-react-table) | — | `react, database, datatables, table, datagrid` |

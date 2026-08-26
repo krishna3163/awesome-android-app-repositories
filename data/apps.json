@@ -1,5 +1,53 @@
 [
   {
+    "id": "archify",
+    "name": "Archify",
+    "description": "Archify turns a codebase or system description into an interactive system map you can use in chat. It helps you see architecture, compare changes, trace paths, and export shareable files like HTML and images, so you can understand systems faster, review them more safely, and share clear technical diagrams.\n\nhttps://github.com/tt-a1i/archify",
+    "website": "",
+    "repository": "https://github.com/tt-a1i/archify",
+    "developer": {
+      "name": "tt-a1i",
+      "url": "https://github.com/tt-a1i"
+    },
+    "features": [],
+    "tags": [
+      "html",
+      "agent_skills",
+      "architecture_as_code",
+      "architecture_diagram",
+      "claude_skill",
+      "code_visualization",
+      "codex",
+      "coding_agents",
+      "data_flow_diagram",
+      "deepseek_harness",
+      "developer_tools",
+      "diagram_as_code",
+      "diagrams",
+      "diagrams_as_code",
+      "dsh_plugin",
+      "mermaid_alternative",
+      "opencode",
+      "sequence_diagram",
+      "software_architecture",
+      "system_design",
+      "text_to_diagram"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15954,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T12:30:02+00:00",
+    "updated_at": "2026-08-26T12:33:40.359324+00:00"
+  },
+  {
     "id": "apodexai-frontieragent",
     "name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.\n**Language**: Python",

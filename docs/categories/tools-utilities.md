@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13386`
+> **Total Apps in Category:** `13387`
 
 ---
 
@@ -197390,6 +197390,20 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 Archify
+
+> **Categories:** `#html` `#agent_skills` `#architecture_as_code` `#architecture_diagram` `#claude_skill` `#code_visualization` `#codex` `#coding_agents` `#data_flow_diagram` `#deepseek_harness` `#developer_tools` `#diagram_as_code` `#diagrams` `#diagrams_as_code` `#dsh_plugin` `#mermaid_alternative` `#opencode` `#sequence_diagram` `#software_architecture` `#system_design` `#text_to_diagram`
+
+Archify turns a codebase or system description into an interactive system map you can use in chat. It helps you see architecture, compare changes, trace paths, and export shareable files like HTML and images, so you can understand systems faster, review them more safely, and share clear technical diagrams.
+
+https://github.com/tt-a1i/archify
+
+- 🐙 **Source Code:** [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
+- 👤 **Developer:** [tt-a1i](https://github.com/tt-a1i)
 
 
 ---
