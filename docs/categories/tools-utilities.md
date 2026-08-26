@@ -4,7 +4,21 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13388`
+> **Total Apps in Category:** `13389`
+
+---
+
+### 📦 Garden Skills
+
+> **Categories:** `#css` `#agent` `#claude` `#gpt_image_2` `#rag` `#skills` `#web_design`
+
+This project gives you ready-made AI skills for making web presentations, better web designs, image prompts, local knowledge search, and polished articles. You can install them in several ways, including a simple command, plugins, zip files, or manual copy. The benefit is faster, higher-quality work: you can turn ideas into clean slides, strong UI, useful images, well-sourced answers, and readable articles with less effort and more control.
+
+https://github.com/ConardLi/garden-skills
+
+- 🐙 **Source Code:** [https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+- 👤 **Developer:** [ConardLi](https://github.com/ConardLi)
+
 
 ---
 
@@ -197408,16 +197422,13 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Garden Skills
+### 📦 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-> **Categories:** `#css` `#agent` `#claude` `#gpt_image_2` `#rag` `#skills` `#web_design`
+> **Categories:** `#GitHub` `#OpenSource`
 
-This project gives you ready-made AI skills for making web presentations, better web designs, image prompts, local knowledge search, and polished articles. You can install them in several ways, including a simple command, plugins, zip files, or manual copy. The benefit is faster, higher-quality work: you can turn ideas into clean slides, strong UI, useful images, well-sourced answers, and readable articles with less effort and more control.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-https://github.com/ConardLi/garden-skills
-
-- 🐙 **Source Code:** [https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
-- 👤 **Developer:** [ConardLi](https://github.com/ConardLi)
+- 🐙 **Source Code:** [https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github](https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github)
 
 
 ---

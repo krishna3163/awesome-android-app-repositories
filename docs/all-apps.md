@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16979`
+> **Total Cataloged Projects:** `16980`
 
 ---
 
@@ -4555,6 +4555,7 @@
 | **ernestoyaquello/DragDropSwipeRecyclerview** | Kotlin Android library that extends RecyclerView to support gestures… | [GitHub](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview) | — | `GitHub, OpenSource` |
 | **Ernie** | ERNIE 4.5 is a powerful AI model family that understands and generate… | [GitHub](https://github.com/PaddlePaddle/ERNIE) | — | `python, ernie, ernie_45, ernie_45_vl, erniekit, llm, vlm` |
 | **Eros Samsung Flasher** | Eros is a lightweight Android app (3MB) designed to flash firmware on… | [GitHub](https://t.me/ErosMobileTool) | — | `Android, Samsung, Tools` |
+| **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Pl… | [GitHub](https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github) | — | `GitHub, OpenSource` |
 | **Eruda** | **4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy) | [GitHub](https://github.com/liriliri/eruda) | — | `GitHub, OpenSource` |
 | **erwold/qwen2vl-flux** | **Language**: Python | [GitHub](https://github.com/erwold/qwen2vl-flux) | — | `GitHub, OpenSource` |
 | **Es Toolkit** | The es-toolkit is a powerful and efficient JavaScript library that pr… | [GitHub](https://github.com/toss/es-toolkit) | — | `typescript, GitHub, OpenSource` |
@@ -7882,7 +7883,7 @@
 | **komeilmehranfar/visa-sponsers-companies-for-iranians** | **Stars**: 134 **Issues**: 1 **Forks**: 6 | [GitHub](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians) | — | `GitHub, OpenSource` |
 | **Komi Store** | Komi Store is a free, open-source, cross-platform app store focused o… | [GitHub](https://github.com/kurikomi-labs/komi-store) | — | `Android, Windows, Mac, Linux, Store, FOSS` |
 | **Komikku** | A free and open source manga reader which is based off TachiyomiSY &… | [GitHub](https://github.com/komikku-app/komikku) | — | `Android` |
-| **Komorebi** | You want tilling manager experience like linux users? i got chu | [GitHub](https://github.com/LGUG2Z/komorebi) | — | `getting, Windows, Interesting, Extension` |
+| **Komorebi** | You want tilling manager experience like linux users? i got chu | [GitHub](https://github.com/LGUG2Z/komorebi) | — | `getting, Windows, Interesting, Extension, GitHub, OpenSource` |
 | **KonaBess** | A GPU overclock & undervolt tool for various Snapdragon chips | [GitHub](https://t.me/adreno_konabess) | — | `Android, Root, Tools` |
 | **Konfig** | To use Konfig, you need to download the repository and set up your en… | [GitHub](https://github.com/konfig-dev/konfig) | — | `typescript, api, documentation, sdks` |
 | **konne88/functorio** | **Language**: Lean | [GitHub](https://github.com/konne88/functorio) | — | `GitHub, OpenSource` |

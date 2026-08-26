@@ -9057,7 +9057,7 @@ Inspired from Oto Music (Android) by Piyush Mamidwar.
 
 ### 📦 Komorebi
 
-> **Categories:** `#getting` `#Windows` `#Interesting` `#Extension`
+> **Categories:** `#getting` `#Windows` `#Interesting` `#Extension` `#GitHub` `#OpenSource`
 
 You want tilling manager experience like linux users? i got chu
 

@@ -1,5 +1,34 @@
 [
   {
+    "id": "error-500-server-error-1500-thats-an-error-there-w",
+    "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "website": "",
+    "repository": "https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github",
+    "developer": {
+      "name": "",
+      "url": ""
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11115,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T14:20:00+00:00",
+    "updated_at": "2026-08-26T14:36:18.061304+00:00"
+  },
+  {
     "id": "garden-skills",
     "name": "Garden Skills",
     "description": "This project gives you ready-made AI skills for making web presentations, better web designs, image prompts, local knowledge search, and polished articles. You can install them in several ways, including a simple command, plugins, zip files, or manual copy. The benefit is faster, higher-quality work: you can turn ideas into clean slides, strong UI, useful images, well-sourced answers, and readable articles with less effort and more control.\n\nhttps://github.com/ConardLi/garden-skills",
@@ -294980,7 +295009,9 @@
       "getting",
       "Windows",
       "Interesting",
-      "Extension"
+      "Extension",
+      "GitHub",
+      "OpenSource"
     ],
     "images": {
       "cover": "",
@@ -294994,7 +295025,7 @@
     },
     "status": "active",
     "created_at": "2023-10-27T06:07:42+00:00",
-    "updated_at": "2026-08-23T09:00:34.769641+00:00"
+    "updated_at": "2026-08-26T14:36:17.588560+00:00"
   },
   {
     "id": "phoneprofilesplus",

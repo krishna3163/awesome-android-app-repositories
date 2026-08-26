@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16979`
+- 📦 **Total Discovered Apps & Projects:** `16980`
 - 🏷️ **Unique Categories / Tags:** `15517`
-- 🔄 **Last Automatically Synchronized:** `2026-08-26 13:46 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-26 14:36 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13388 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13389 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `780 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `692 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,27 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1048 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `346 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16979 cataloged applications | `16979 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16980 cataloged applications | `16980 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16979 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16980 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Garden Skills
+
+> **Categories:** `#css` `#agent` `#claude` `#gpt_image_2` `#rag` `#skills` `#web_design`
+
+This project gives you ready-made AI skills for making web presentations, better web designs, image prompts, local knowledge search, and polished articles. You can install them in several ways, including a simple command, plugins, zip files, or manual copy. The benefit is faster, higher-quality work: you can turn ideas into clean slides, strong UI, useful images, well-sourced answers, and readable articles with less effort and more control.
+
+https://github.com/ConardLi/garden-skills
+
+- 🐙 **Source Code:** [https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+- 👤 **Developer:** [ConardLi](https://github.com/ConardLi)
+
+
+---
 
 ### 📦 Archify
 
@@ -662,21 +676,6 @@ SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea
 
 - 🐙 **Source Code:** [https://github.com/jeremy-prt/bloub](https://github.com/jeremy-prt/bloub)
 - 👤 **Developer:** [jeremy-prt](https://github.com/jeremy-prt)
-
-
----
-
-### 📦 Nervercc/gpt_nerver
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows
-**Language**: Python
-**Stars**: 650 **Issues**: 0 **Forks**: 87
-[https://github.com/Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver)
-
-- 🐙 **Source Code:** [https://github.com/Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver)
-- 👤 **Developer:** [Nervercc](https://github.com/Nervercc)
 
 
 ---
