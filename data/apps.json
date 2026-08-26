@@ -1,5 +1,63 @@
 [
   {
+    "id": "amagine-ai-amagine3d",
+    "name": "amagine-ai/Amagine3D",
+    "description": "Amagine3D: From hardware requirements to editable 3D designs\n**Language**: TypeScript\n**Stars**: 642 **Issues**: 2 **Forks**: 41\n[https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)",
+    "website": "",
+    "repository": "https://github.com/amagine-ai/Amagine3D",
+    "developer": {
+      "name": "amagine-ai",
+      "url": "https://github.com/amagine-ai"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13702,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T16:00:03+00:00",
+    "updated_at": "2026-08-26T16:11:11.236244+00:00"
+  },
+  {
+    "id": "tamari",
+    "name": "Tamari",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/alexbates/Tamari",
+    "developer": {
+      "name": "alexbates",
+      "url": "https://github.com/alexbates"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11116,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T15:20:13+00:00",
+    "updated_at": "2026-08-26T16:11:16.510999+00:00"
+  },
+  {
     "id": "error-500-server-error-1500-thats-an-error-there-w",
     "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",

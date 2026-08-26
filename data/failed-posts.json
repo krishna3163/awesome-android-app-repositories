@@ -134370,5 +134370,12 @@
     "error": "Message does not contain repository or website link",
     "raw_text": "The madarchod opencode removed OX Alpha model. Pitube was almost done 😭 idk what to do at this point",
     "timestamp": "2026-08-26T14:36:11.466788+00:00"
+  },
+  {
+    "channel": "@popMODS",
+    "message_id": 8685,
+    "error": "Message does not contain repository or website link",
+    "raw_text": "Try, feed will not work properly. (Thats the remaining part)",
+    "timestamp": "2026-08-26T16:11:10.355163+00:00"
   }
 ]

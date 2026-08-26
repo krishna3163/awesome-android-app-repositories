@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16980`
+> **Total Cataloged Projects:** `16982`
 
 ---
 
@@ -860,6 +860,7 @@
 | **alyssaxuu/mapus** | The real-time collaborative map tool 🗺️ | [GitHub](https://github.com/alyssaxuu/mapus) | — | `map, drawing, real_time, annotation, maps, google_maps, leaflet, collaboration, planning, trip` |
 | **alyssaxuu/omni** | The all-in-one interface for Chrome | [GitHub](https://github.com/alyssaxuu/omni) | — | `bookmarks, bookmarks_manager, chrome, chrome_extension, commands, dark, history, interface, omnisearch, productivity, raycast, shortcuts, spotlight, tabs_management` |
 | **amachanic/sp_whoisactive** | sp_whoisactive | [GitHub](https://github.com/amachanic/sp_whoisactive) | — | `monitoring, sql, sqlserver` |
+| **amagine-ai/Amagine3D** | Amagine3D: From hardware requirements to editable 3D designs | [GitHub](https://github.com/amagine-ai/Amagine3D) | — | `GitHub, OpenSource` |
 | **AMAI-GmbH/AI-Expert-Roadmap** | Roadmap to becoming an Artificial Intelligence Expert in 2020 | [GitHub](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | — | `ai_roadmap, artificial_intelligence, data_analysis, data_science, deep_learning, machine_learning, neural_network, roadmap, study_plan, GitHub, OpenSource, AI, Interesting` |
 | **amalmurali47/git_rce** | Exploit PoC for CVE-2024-32002 | [GitHub](https://github.com/amalmurali47/git_rce) | — | `cve_2024_32002, git, proof_of_concept, rce` |
 | **Amanieu/hashbrown** | Rust port of Google's SwissTable hash map | [GitHub](https://github.com/Amanieu/hashbrown) | — | `GitHub, OpenSource` |
@@ -14297,6 +14298,7 @@
 | **talknagish/react-native-turbo-starter** | React 0.68+ Turbo Module starter using codegen with typescript for Ob… | [GitHub](https://github.com/talknagish/react-native-turbo-starter) | — | `GitHub, OpenSource` |
 | **Talkybotty** | **4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy) | [GitHub](https://github.com/LucaLuke13/TalkyBotty) | — | `GitHub, OpenSource` |
 | **Talos V2** | Without a graphics processor. 🚫📺 | [GitHub](https://github.com/Luthiraa/TALOS-V2) | — | `GitHub, OpenSource` |
+| **Tamari** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/alexbates/Tamari) | — | `GitHub, OpenSource` |
 | **Tambo** | Tambo AI is a free React SDK that lets AI generate and control your a… | [GitHub](https://github.com/tambo-ai/tambo) | — | `typescript, agent, agents, ai, assistant, assistant_chat_bots, generative_ui, js, react, reactjs, ui, ui_components, GitHub, OpenSource` |
 | **tamnd/kage** | Shadow any website for offline viewing, with the JavaScript stripped… | [GitHub](https://github.com/tamnd/kage) | — | `GitHub, OpenSource` |
 | **tanakh/cargo-atcoder** | Cargo subcommand for AtCoder | [GitHub](https://github.com/tanakh/cargo-atcoder) | — | `GitHub, OpenSource` |

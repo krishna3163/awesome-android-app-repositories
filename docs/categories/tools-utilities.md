@@ -4,7 +4,18 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13389`
+> **Total Apps in Category:** `13391`
+
+---
+
+### 📦 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github](https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github)
+
 
 ---
 
@@ -197422,13 +197433,29 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+### 📦 amagine-ai/Amagine3D
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Amagine3D: From hardware requirements to editable 3D designs
+**Language**: TypeScript
+**Stars**: 642 **Issues**: 2 **Forks**: 41
+[https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
 
-- 🐙 **Source Code:** [https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github](https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github)
+- 🐙 **Source Code:** [https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
+- 👤 **Developer:** [amagine-ai](https://github.com/amagine-ai)
+
+
+---
+
+### 📦 Tamari
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/alexbates/Tamari](https://github.com/alexbates/Tamari)
+- 👤 **Developer:** [alexbates](https://github.com/alexbates)
 
 
 ---
