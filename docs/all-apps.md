@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16974`
+> **Total Cataloged Projects:** `16975`
 
 ---
 
@@ -6623,6 +6623,7 @@
 | **iam4722202468/ThinkpadBattery** | Open source Thinkpad T420 battery design | [GitHub](https://github.com/iam4722202468/ThinkpadBattery) | — | `GitHub, OpenSource` |
 | **iamakulov/awesome-webpack-perf** | A curated list of webpack tools for web performance | — | [Website](https://github.com/iamakulov/awesome-webpack-perf) | `GitHub, OpenSource` |
 | **iAmCorey/coreychiu-portfolio-template** | portfolio template by corey chiu | [GitHub](https://github.com/iAmCorey/coreychiu-portfolio-template) | — | `portfolio, portfolio_template` |
+| **iAmCorey/Wake** | Every coding-agent session on your Mac in one place — browse, search,… | [GitHub](https://github.com/iAmCorey/Wake) | — | `GitHub, OpenSource` |
 | **IamCreateAI/Ruyi-Models** | **Language**: Python | [GitHub](https://github.com/IamCreateAI/Ruyi-Models) | — | `GitHub, OpenSource` |
 | **Iamlooker/Droid-ify** | F-Droid client with Material UI. | [GitHub](https://github.com/Iamlooker/Droid-ify) | — | `GitHub, OpenSource` |
 | **iammert/AppLocker** | 🔐 Open source app locker, vault, call blocker application | [GitHub](https://github.com/iammert/AppLocker) | — | `applock, applocker, browser, callblock, callblocker, dagger, dagger2, filecrypt, kotlin, mvvm, rxjava2, vault` |

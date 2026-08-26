@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13384`
+> **Total Apps in Category:** `13385`
 
 ---
 
@@ -197363,6 +197363,21 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 iAmCorey/Wake
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.
+**Language**: Rust
+**Stars**: 606 **Issues**: 5 **Forks**: 36
+[https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
+
+- 🐙 **Source Code:** [https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
+- 👤 **Developer:** [iAmCorey](https://github.com/iAmCorey)
 
 
 ---

@@ -1,5 +1,34 @@
 [
   {
+    "id": "iamcorey-wake",
+    "name": "iAmCorey/Wake",
+    "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.\n**Language**: Rust\n**Stars**: 606 **Issues**: 5 **Forks**: 36\n[https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)",
+    "website": "",
+    "repository": "https://github.com/iAmCorey/Wake",
+    "developer": {
+      "name": "iAmCorey",
+      "url": "https://github.com/iAmCorey"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13700,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T04:00:03+00:00",
+    "updated_at": "2026-08-26T04:31:44.709296+00:00"
+  },
+  {
     "id": "nateherkai-scroll-craft",
     "name": "nateherkai/scroll-craft",
     "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.\n**Language**: JavaScript",
