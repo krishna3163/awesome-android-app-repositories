@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16977`
 - 🏷️ **Unique Categories / Tags:** `15511`
-- 🔄 **Last Automatically Synchronized:** `2026-08-26 10:26 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-26 11:21 UTC`
 
 ---
 
@@ -290,6 +290,19 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16977 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 ApodexAI/FrontierAgent
+
+> **Categories:** `#agent_orchestration` `#agentic_ai` `#agentic_framework` `#ai_agents` `#harness` `#multi_agent` `#terminal_agent` `#tui`
+
+🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent)
+- 👤 **Developer:** [ApodexAI](https://github.com/ApodexAI)
+
+
+---
 
 ### 📦 Tennis
 
@@ -664,19 +677,6 @@ https://github.com/ophub/amlogic-s9xxx-openwrt
 
 - 🐙 **Source Code:** [https://github.com/ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - 👤 **Developer:** [ophub](https://github.com/ophub)
-
-
----
-
-### 📦 MengTo/threeui
-
-> **Categories:** `#react` `#shaders` `#threejs` `#ui_components` `#webgl`
-
-Open-source ThreeUI Community catalog with live interactive components and complete Community source.
-**Language**: HTML
-
-- 🐙 **Source Code:** [https://github.com/MengTo/threeui](https://github.com/MengTo/threeui)
-- 👤 **Developer:** [MengTo](https://github.com/MengTo)
 
 
 ---
