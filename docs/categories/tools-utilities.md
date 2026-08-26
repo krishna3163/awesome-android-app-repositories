@@ -4,7 +4,21 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13387`
+> **Total Apps in Category:** `13388`
+
+---
+
+### 📦 Archify
+
+> **Categories:** `#html` `#agent_skills` `#architecture_as_code` `#architecture_diagram` `#claude_skill` `#code_visualization` `#codex` `#coding_agents` `#data_flow_diagram` `#deepseek_harness` `#developer_tools` `#diagram_as_code` `#diagrams` `#diagrams_as_code` `#dsh_plugin` `#mermaid_alternative` `#opencode` `#sequence_diagram` `#software_architecture` `#system_design` `#text_to_diagram`
+
+Archify turns a codebase or system description into an interactive system map you can use in chat. It helps you see architecture, compare changes, trace paths, and export shareable files like HTML and images, so you can understand systems faster, review them more safely, and share clear technical diagrams.
+
+https://github.com/tt-a1i/archify
+
+- 🐙 **Source Code:** [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
+- 👤 **Developer:** [tt-a1i](https://github.com/tt-a1i)
+
 
 ---
 
@@ -197394,16 +197408,16 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Archify
+### 📦 Garden Skills
 
-> **Categories:** `#html` `#agent_skills` `#architecture_as_code` `#architecture_diagram` `#claude_skill` `#code_visualization` `#codex` `#coding_agents` `#data_flow_diagram` `#deepseek_harness` `#developer_tools` `#diagram_as_code` `#diagrams` `#diagrams_as_code` `#dsh_plugin` `#mermaid_alternative` `#opencode` `#sequence_diagram` `#software_architecture` `#system_design` `#text_to_diagram`
+> **Categories:** `#css` `#agent` `#claude` `#gpt_image_2` `#rag` `#skills` `#web_design`
 
-Archify turns a codebase or system description into an interactive system map you can use in chat. It helps you see architecture, compare changes, trace paths, and export shareable files like HTML and images, so you can understand systems faster, review them more safely, and share clear technical diagrams.
+This project gives you ready-made AI skills for making web presentations, better web designs, image prompts, local knowledge search, and polished articles. You can install them in several ways, including a simple command, plugins, zip files, or manual copy. The benefit is faster, higher-quality work: you can turn ideas into clean slides, strong UI, useful images, well-sourced answers, and readable articles with less effort and more control.
 
-https://github.com/tt-a1i/archify
+https://github.com/ConardLi/garden-skills
 
-- 🐙 **Source Code:** [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
-- 👤 **Developer:** [tt-a1i](https://github.com/tt-a1i)
+- 🐙 **Source Code:** [https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+- 👤 **Developer:** [ConardLi](https://github.com/ConardLi)
 
 
 ---

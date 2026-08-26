@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16978`
+- 📦 **Total Discovered Apps & Projects:** `16979`
 - 🏷️ **Unique Categories / Tags:** `15517`
-- 🔄 **Last Automatically Synchronized:** `2026-08-26 12:33 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-26 13:46 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13387 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13388 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `780 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `692 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,27 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1048 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `346 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16978 cataloged applications | `16978 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16979 cataloged applications | `16979 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16978 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16979 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Archify
+
+> **Categories:** `#html` `#agent_skills` `#architecture_as_code` `#architecture_diagram` `#claude_skill` `#code_visualization` `#codex` `#coding_agents` `#data_flow_diagram` `#deepseek_harness` `#developer_tools` `#diagram_as_code` `#diagrams` `#diagrams_as_code` `#dsh_plugin` `#mermaid_alternative` `#opencode` `#sequence_diagram` `#software_architecture` `#system_design` `#text_to_diagram`
+
+Archify turns a codebase or system description into an interactive system map you can use in chat. It helps you see architecture, compare changes, trace paths, and export shareable files like HTML and images, so you can understand systems faster, review them more safely, and share clear technical diagrams.
+
+https://github.com/tt-a1i/archify
+
+- 🐙 **Source Code:** [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
+- 👤 **Developer:** [tt-a1i](https://github.com/tt-a1i)
+
+
+---
 
 ### 📦 ApodexAI/FrontierAgent
 
@@ -663,20 +677,6 @@ ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + 
 
 - 🐙 **Source Code:** [https://github.com/Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver)
 - 👤 **Developer:** [Nervercc](https://github.com/Nervercc)
-
-
----
-
-### 📦 Amlogic S9Xxx Openwrt
-
-> **Categories:** `#shell` `#a311d` `#allwinner` `#amlogic` `#h96` `#hg680p` `#hk1` `#n1` `#openwrt` `#r66s` `#r68s` `#rockchip` `#s905` `#s905d` `#s905x` `#s905x2` `#s905x3` `#s912` `#s922x` `#ugoos` `#x96`
-
-OpenWrt turns a TV box or router into a flexible Linux system you can customize with many packages. You can install it, update the system or kernel, make swap space, back up the old system, and reset it if needed. This helps you give old hardware new life, add features you want, and fix problems more easily.
-
-https://github.com/ophub/amlogic-s9xxx-openwrt
-
-- 🐙 **Source Code:** [https://github.com/ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
-- 👤 **Developer:** [ophub](https://github.com/ophub)
 
 
 ---

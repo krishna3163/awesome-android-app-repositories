@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16978`
+> **Total Cataloged Projects:** `16979`
 
 ---
 
@@ -5434,6 +5434,7 @@
 | **GaParmar/clean-fid** | FID calculation with proper image resizing and quantization steps | [GitHub](https://github.com/GaParmar/clean-fid) | — | `computer_graphics, computer_vision, deep_learning, gan, generative_adversarial_network, image_generation, image_manipulation, pytorch` |
 | **garagesteve1155/PowerTrader_AI** | Fully automated crypto trading powered by a custom price prediction A… | [GitHub](https://github.com/garagesteve1155/PowerTrader_AI) | — | `GitHub, OpenSource` |
 | **Garak** | `garak` is a free tool that helps check if large language models (LLM… | [GitHub](https://github.com/NVIDIA/garak) | — | `python, ai, llm_evaluation, llm_security, security_scanners, vulnerability_assessment, GitHub, OpenSource` |
+| **Garden Skills** | This project gives you ready-made AI skills for making web presentati… | [GitHub](https://github.com/ConardLi/garden-skills) | — | `css, agent, claude, gpt_image_2, rag, skills, web_design` |
 | **garnix-io/garnix-ci** | CI and hosting for nix-based, flakified github repos | [GitHub](https://github.com/garnix-io/garnix-ci) | — | `GitHub, OpenSource` |
 | **garrytan/gbrain** | Garry's Opinionated OpenClaw/Hermes Agent Brain | [GitHub](https://github.com/garrytan/gbrain) | — | `GitHub, OpenSource` |
 | **garrytan/gstack** | Use Garry Tan's exact Claude Code setup: 6 opinionated tools that ser… | [GitHub](https://github.com/garrytan/gstack) | — | `GitHub, OpenSource` |
