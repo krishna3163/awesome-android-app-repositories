@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16982`
 - 🏷️ **Unique Categories / Tags:** `15517`
-- 🔄 **Last Automatically Synchronized:** `2026-08-26 16:11 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-26 18:52 UTC`
 
 ---
 
@@ -290,6 +290,33 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16982 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 amagine-ai/Amagine3D
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Amagine3D: From hardware requirements to editable 3D designs
+**Language**: TypeScript
+**Stars**: 642 **Issues**: 2 **Forks**: 41
+[https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
+
+- 🐙 **Source Code:** [https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
+- 👤 **Developer:** [amagine-ai](https://github.com/amagine-ai)
+
+
+---
+
+### 📦 Tamari
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/alexbates/Tamari](https://github.com/alexbates/Tamari)
+- 👤 **Developer:** [alexbates](https://github.com/alexbates)
+
+
+---
 
 ### 📦 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -647,33 +674,6 @@ Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dic
 
 - 🐙 **Source Code:** [https://github.com/Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap)
 - 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
-
-
----
-
-### 📦 Claude Plugins Community
-
-> **Categories:** `#python`
-
-This is a read-only list of community plugins for Claude Cowork and Claude Code. Each plugin was submitted through the official form, checked for security, and approved before being added. You can install them from the Claude plugins site or by adding the marketplace in Claude Code. The benefit is simple: you get a safe, approved place to find useful plugins without needing to sort through unverified ones.
-
-https://github.com/anthropics/claude-plugins-community
-
-- 🐙 **Source Code:** [https://github.com/anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
-- 👤 **Developer:** [anthropics](https://github.com/anthropics)
-
-
----
-
-### 📦 Spielewoy/autoprompt-skill
-
-> **Categories:** `#agent_orchestration` `#agent_skills` `#agentic_workflows` `#ai_agents` `#ai_coding` `#automated_testing` `#autonomous_agents` `#claude_code` `#cli` `#code_review` `#codex` `#coding_agent` `#developer_tools` `#github_copilot` `#multi_agent_systems` `#opencode` `#prompt_engineering` `#subagents` `#test_driven_development` `#workflow_automation`
-
-Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill)
-- 👤 **Developer:** [Spielewoy](https://github.com/Spielewoy)
 
 
 ---
