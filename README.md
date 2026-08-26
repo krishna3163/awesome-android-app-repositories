@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16975`
 - 🏷️ **Unique Categories / Tags:** `15510`
-- 🔄 **Last Automatically Synchronized:** `2026-08-26 04:31 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-26 05:26 UTC`
 
 ---
 
@@ -290,6 +290,21 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16975 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 iAmCorey/Wake
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.
+**Language**: Rust
+**Stars**: 606 **Issues**: 5 **Forks**: 36
+[https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
+
+- 🐙 **Source Code:** [https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
+- 👤 **Developer:** [iAmCorey](https://github.com/iAmCorey)
+
+
+---
 
 ### 📦 nateherkai/scroll-craft
 
@@ -664,20 +679,6 @@ Ideal for investigators, pentesters and anyone who needs an effective reconnaiss
 
 - 🐙 **Source Code:** [https://github.com/Clats97/ClatScope](https://github.com/Clats97/ClatScope)
 - 👤 **Developer:** [Clats97](https://github.com/Clats97)
-
-
----
-
-### 📦 Alain00/blobatar
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: TypeScript
-**Stars**: 620 **Issues**: 3 **Forks**: 38
-[https://github.com/Alain00/blobatar](https://github.com/Alain00/blobatar)
-
-- 🐙 **Source Code:** [https://github.com/Alain00/blobatar](https://github.com/Alain00/blobatar)
-- 👤 **Developer:** [Alain00](https://github.com/Alain00)
 
 
 ---

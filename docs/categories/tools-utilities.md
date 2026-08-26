@@ -8,6 +8,21 @@
 
 ---
 
+### 📦 iAmCorey/Wake
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.
+**Language**: Rust
+**Stars**: 606 **Issues**: 5 **Forks**: 36
+[https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
+
+- 🐙 **Source Code:** [https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
+- 👤 **Developer:** [iAmCorey](https://github.com/iAmCorey)
+
+
+---
+
 ### 📦 nateherkai/scroll-craft
 
 > **Categories:** `#accessibility` `#agent_skills` `#ai_web_design` `#anthropic` `#claude_code` `#claude_code_plugin` `#creative_coding` `#design_system` `#frontend` `#interaction_design` `#landing_page` `#scroll_animation` `#scrollytelling` `#typography` `#web_design`
@@ -197363,21 +197378,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 iAmCorey/Wake
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.
-**Language**: Rust
-**Stars**: 606 **Issues**: 5 **Forks**: 36
-[https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
-
-- 🐙 **Source Code:** [https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
-- 👤 **Developer:** [iAmCorey](https://github.com/iAmCorey)
 
 
 ---
