@@ -44603,5 +44603,27 @@
     "message_id": 11121,
     "raw_text": "[**Imgcompress**](https://github.com/karimz1/imgcompress) — это набор инструментов для самостоятельной обработки изображений, который позволяет сжимать файлы, конвертировать форматы и удалять фон с помощью искусственного интеллекта в едином веб-интерфейсе. \n\nОн поддерживает более 70 входных форматов (включая PSD, HEIC и RAW) и может выводить файлы в распространенных форматах или генерировать PDF-файлы без отправки файлов во внешние сервисы.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-27T13:23:30.286008+00:00"
+  },
+  {
+    "incoming_name": "Folio",
+    "incoming_normalized": "folio",
+    "matched_project_id": "al-folio",
+    "matched_project_name": "al-folio",
+    "similarity_score": 83.33333333333334,
+    "channel": "@github",
+    "message_id": 11125,
+    "raw_text": "[**Folio**](https://github.com/carlos7ags/folio) — библиотека для работы с PDF на языке Go — механизм компоновки, преобразование HTML в PDF, форматирование текста для языков с написанием слева направо, справа налево, индийских языков и китайского, японского и корейского, редактирование, формы, цифровые подписи, штрихкоды, импорт страниц и соответствие стандарту PDF/A.\n\n🐱[** **](https://t.me/techno_news)[**GitHu**](https://t.me/github)[**b**](https://t.me/+cWuBx6rLtukxN2Uy)",
+    "timestamp": "2026-08-27T23:23:51.558483+00:00"
+  },
+  {
+    "incoming_name": "Heroicgameslauncher",
+    "incoming_normalized": "heroicgameslauncher",
+    "matched_project_id": "flavioislima-heroicgameslauncher",
+    "matched_project_name": "flavioislima/HeroicGamesLauncher",
+    "similarity_score": 76.0,
+    "channel": "@github",
+    "message_id": 11126,
+    "raw_text": "[**HeroicGamesLauncher**](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) — игровой лаунчер для GOG, Amazon и Epic Games для Linux, Windows и macOS.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-27T23:23:52.749249+00:00"
   }
 ]

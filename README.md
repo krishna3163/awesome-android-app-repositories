@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16987`
-- 🏷️ **Unique Categories / Tags:** `15522`
-- 🔄 **Last Automatically Synchronized:** `2026-08-27 13:23 UTC`
+- 📦 **Total Discovered Apps & Projects:** `16991`
+- 🏷️ **Unique Categories / Tags:** `15530`
+- 🔄 **Last Automatically Synchronized:** `2026-08-27 23:23 UTC`
 
 ---
 
@@ -275,21 +275,63 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13395 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13398 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
-| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `780 apps` | [**Explore →**](docs/categories/linux.md) |
-| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `692 apps` | [**Explore →**](docs/categories/apple.md) |
+| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `781 apps` | [**Explore →**](docs/categories/linux.md) |
+| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `693 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `473 apps` | [**Explore →**](docs/categories/media-music.md) |
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `346 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16987 cataloged applications | `16987 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16991 cataloged applications | `16991 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16987 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16991 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Go Modern Guidelines
+
+> **Categories:** `#go` `#ai_agents` `#coding_agent` `#developer_tools` `#golang` `#guidelines`
+
+This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.
+
+https://github.com/JetBrains/go-modern-guidelines
+
+- 🐙 **Source Code:** [https://github.com/JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
+
+
+---
+
+### 📦 wide-trace/open-higgsfield
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+**Language**: TypeScript
+**Stars**: 638 **Issues**: 0 **Forks**: 0
+[https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+
+- 🐙 **Source Code:** [https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+- 👤 **Developer:** [wide-trace](https://github.com/wide-trace)
+
+
+---
+
+### 📦 Zyrexnn/Cybermes
+
+> **Categories:** `#ai_agent` `#appsec` `#bug_bounty` `#cvss_v3` `#cybersecurity` `#devsecops` `#exploit_validation` `#hermes_agent` `#infosec` `#llm_security` `#nuclei` `#offensive_security` `#penetration_testing` `#playwright` `#reconnaissance` `#red_teaming` `#security_tools` `#sqlmap` `#threat_research` `#vulnerability_scanner`
+
+Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)
+- 👤 **Developer:** [Zyrexnn](https://github.com/Zyrexnn)
+
+
+---
 
 ### 📦 bryllim/workout-guide
 
@@ -627,50 +669,6 @@ Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite 
 
 - 🐙 **Source Code:** [https://github.com/ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)
 - 👤 **Developer:** [ShadowAqueduct](https://github.com/ShadowAqueduct)
-
-
----
-
-### 📦 PokeTokenBar
-
-> **Categories:** `#Tracking` `#TokenUsage`
-
-A macOS menu bar app that tracks your daily token usage across Claude Code, Codex, Gemini CLI, Cursor, and Grok then turns those tokens into a Pokémon companion that hatches from an egg, evolves through its real evolution line, and fills a Pokédex. One of the most creative dev tools in 2026.
-
-Creator: chattymin
-Stars ⭐️: 271
-Forked by: 72
-
-- 🐙 **Source Code:** [https://github.com/chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar)
-- 👤 **Developer:** chattymin
-
-
----
-
-### 📦 duty1g/x64dbg-mcp-server
-
-> **Categories:** `#ai_agents` `#ai_debugging` `#binary_analysis` `#claude` `#claude_code` `#malware_analysis` `#malware_research` `#malware_scanner` `#mcp` `#mcp_server` `#mcp_servers` `#x64dbg` `#x64dbg_mcp` `#x64dbg_plugin` `#x64dbg_tools` `#xdbg` `#zig` `#zig_lang` `#ziglang`
-
-x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
-**Language**: Zig
-
-- 🐙 **Source Code:** [https://github.com/duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
-- 👤 **Developer:** [duty1g](https://github.com/duty1g)
-
-
----
-
-### 📦 Leutenegger/claudish-to-english
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.
-**Language**: Shell
-**Stars**: 581 **Issues**: 0 **Forks**: 61
-[https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
-
-- 🐙 **Source Code:** [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
-- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
 
 
 ---

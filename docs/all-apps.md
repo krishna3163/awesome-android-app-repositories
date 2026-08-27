@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16987`
+> **Total Cataloged Projects:** `16991`
 
 ---
 
@@ -5199,6 +5199,7 @@
 | **formulahendry/mcp-server-spec-driven-development** | Spec-Driven Development MCP Server, no just Vibe Coding | [GitHub](https://github.com/formulahendry/mcp-server-spec-driven-development) | — | `mcp, mcp_server, spec_driven_development, vibe_coding` |
 | **fornclake/TetraForce** | GBC Zelda-inspired game with online multiplayer. Built with Godot Eng… | [GitHub](https://github.com/fornclake/TetraForce) | — | `GitHub, OpenSource` |
 | **ForrestKnight/open-source-cs** | **Stars**: 162 **Issues**: 1 **Forks**: 39 | [GitHub](https://github.com/ForrestKnight/open-source-cs) | — | `GitHub, OpenSource, ComputerScience, SelfTaught, readme, computer_science` |
+| **Forsy-AI/biosecurity-agent** | AI agent that builds a live biosecurity world around any target. | [GitHub](https://github.com/Forsy-AI/biosecurity-agent) | — | `GitHub, OpenSource` |
 | **fortra/No-Consolation** | A BOF that runs unmanaged PEs inline | [GitHub](https://github.com/fortra/No-Consolation) | — | `bof, cna, cobalt_strike, pe_loader` |
 | **fortress-build/whirlwind** | 🌀 Ridiculously fast, fully asynchronous, sharded hashmap for Rust. | [GitHub](https://github.com/fortress-build/whirlwind) | — | `async, async_rust, concurrency, concurrent_hashmap, hashmap, rust, tokio` |
 | **foru17/clash-master** | A modern and elegant dashboard for visualizing and managing Clash net… | [GitHub](https://github.com/foru17/clash-master) | — | `clash, openclash, traffic_monitor` |
@@ -5759,6 +5760,7 @@
 | **godotengine/tps-demo** | Third Person Shooter with high quality assets and lighting | [GitHub](https://github.com/godotengine/tps-demo) | — | `GitHub, OpenSource` |
 | **GodotHan/TrueGodot** | A truegame engine is just a game engine | [GitHub](https://github.com/GodotHan/TrueGodot) | — | `GitHub, OpenSource` |
 | **godruoyi/go-snowflake** | ❄ An Lock Free ID Generator for Golang based on Snowflake Algorithm (… | [GitHub](https://github.com/godruoyi/go-snowflake) | — | `go_snowflake, snowflake` |
+| **Gods Eye View** | God’s Eye View is a browser app that shows a real-time 3D Earth with… | [GitHub](https://github.com/bilawalsidhu/gods-eye-view) | — | `javascript, 3d_globe, cesium, flight_tracking, geospatial, geospatial_intelligence, gis, osint, photogrammetry, satellite_tracking, spatial_intelligence, webgl, worldview` |
 | **GODSPEED #RESURRECT #OF #MADNESS #PRO #MAGISK #PADI** | — | — | [Website](https://t.me/godspeedmode) | `GODSPEED, RESURRECT, OF, MADNESS, PRO, MAGISK, PADI, MODULE` |
 | **GodSVG** | GodSVG is a structured SVG editor[**.**](https://godsvg.com/) Unlike… | [GitHub](https://github.com/MewPurPur/GodSVG) | — | `Android, Linux, Windows, MacOS, Tools, Design, GitHub, OpenSource` |
 | **goenning/google-indexing-script** | Script to get your site indexed on Google in less than 48 hours | [GitHub](https://github.com/goenning/google-indexing-script) | — | `google, indexing, seo` |
@@ -14564,6 +14566,7 @@
 | **Textql** | ⤷ [Available for download](https://github.com/dinedal/textql) | [GitHub](https://github.com/dinedal/textql) | — | `Interesting, Go` |
 | **Textsnatcher** | ⤷ [Project Link](https://github.com/RajSolai/TextSnatcher) | [GitHub](https://github.com/RajSolai/TextSnatcher) | — | `Linux, OCR, Interesting, Useful, Text, GitHub, OpenSource` |
 | **Textual Paint** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/1j01/textual-paint) | — | `GitHub, OpenSource` |
+| **Textual Web** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/Textualize/textual-web) | — | `GitHub, OpenSource` |
 | **Textypie** | Modify, adapt, convert safely - now you can do it all! | [GitHub](https://github.com/unmilley/textypie) | — | `GitHub, OpenSource` |
 | **Tface** | ⤷ [Project link](https://github.com/Tencent/TFace) | [GitHub](https://github.com/Tencent/TFace) | — | `Interesting, Python` |
 | **TFNS/CTFNote** | CTFNote is a collaborative tool aiming to help CTF teams to organise… | [GitHub](https://github.com/TFNS/CTFNote) | — | `ctf, ctf_tools` |
@@ -14642,6 +14645,7 @@
 | **thelinuxchoice/catchyou** | FUD win32 msfvenom payload generator | [GitHub](https://github.com/thelinuxchoice/catchyou) | — | `GitHub, OpenSource` |
 | **thelinuxchoice/hmmcookies** | Grab cookies from Firefox, Chrome, Opera using a shortcut file (bypas… | [GitHub](https://github.com/thelinuxchoice/hmmcookies) | — | `GitHub, OpenSource` |
 | **thelumiereguy/ShaderShowcaseApp** | A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragmen… | [GitHub](https://github.com/thelumiereguy/ShaderShowcaseApp) | — | `android, android_application, androidx, jetpack_android, jetpack_compose, jetpack_palette, kotlin, kotlin_android, opengl, opengl_es` |
+| **themartiano/try-omarchy** | Try Omarchy on Apple Silicon without any setup. | [GitHub](https://github.com/themartiano/try-omarchy) | — | `apple_silicon, archlinux, community, linux, macos, omarchy, qemu, virtualization` |
 | **Theme Academic Cv** | The Hugo Academic CV Template helps you create a professional online… | [GitHub](https://github.com/HugoBlox/theme-academic-cv) | — | `tex, academic, academic_website, blog_engine, blogdown, digital_garden, hugo, hugo_academic, hugo_site, hugo_theme, netlify, obsidian, personal_website, portfolio_template, portfolio_website, resume_builder, resume_template, rmarkdown, roamresearch, rstudio, website_generation` |
 | **THEME GENERATOR FOR TELEGRAM ANDROID** | ❗Requires: Android 12+ | [GitHub](https://github.com/c3r5b8/Telegram-Monet) | — | `apps` |
 | **Themer** | In other words, this is a program for convenient management of variab… | [GitHub](https://github.com/uwumouse/themer) | — | `Interesting, Useful` |

@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `692`
+> **Total Apps in Category:** `693`
 
 ---
 
@@ -11573,6 +11573,19 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
+
+
+---
+
+### 📦 themartiano/try-omarchy
+
+> **Categories:** `#apple_silicon` `#archlinux` `#community` `#linux` `#macos` `#omarchy` `#qemu` `#virtualization`
+
+Try Omarchy on Apple Silicon without any setup.
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
+- 👤 **Developer:** [themartiano](https://github.com/themartiano)
 
 
 ---

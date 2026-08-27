@@ -1,5 +1,138 @@
 [
   {
+    "id": "forsy-ai-biosecurity-agent",
+    "name": "Forsy-AI/biosecurity-agent",
+    "description": "AI agent that builds a live biosecurity world around any target.\n**Language**: TypeScript\n**Stars**: 512 **Issues**: 0 **Forks**: 17\n[https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)",
+    "website": "",
+    "repository": "https://github.com/Forsy-AI/biosecurity-agent",
+    "developer": {
+      "name": "Forsy-AI",
+      "url": "https://github.com/Forsy-AI"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13707,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T22:00:02+00:00",
+    "updated_at": "2026-08-27T23:23:42.115471+00:00"
+  },
+  {
+    "id": "gods-eye-view",
+    "name": "Gods Eye View",
+    "description": "God’s Eye View is a browser app that shows a real-time 3D Earth with live flights, ships, satellites, earthquakes, traffic, public cameras, and voice control. It helps you explore the world fast, see what is happening in one place, and track public signals without signing up.\n\nhttps://github.com/bilawalsidhu/gods-eye-view",
+    "website": "",
+    "repository": "https://github.com/bilawalsidhu/gods-eye-view",
+    "developer": {
+      "name": "bilawalsidhu",
+      "url": "https://github.com/bilawalsidhu"
+    },
+    "features": [],
+    "tags": [
+      "javascript",
+      "3d_globe",
+      "cesium",
+      "flight_tracking",
+      "geospatial",
+      "geospatial_intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite_tracking",
+      "spatial_intelligence",
+      "webgl",
+      "worldview"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15957,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T20:30:05+00:00",
+    "updated_at": "2026-08-27T23:23:46.312644+00:00"
+  },
+  {
+    "id": "themartiano-try-omarchy",
+    "name": "themartiano/try-omarchy",
+    "description": "Try Omarchy on Apple Silicon without any setup.\n**Language**: Shell",
+    "website": "",
+    "repository": "https://github.com/themartiano/try-omarchy",
+    "developer": {
+      "name": "themartiano",
+      "url": "https://github.com/themartiano"
+    },
+    "features": [],
+    "tags": [
+      "apple_silicon",
+      "archlinux",
+      "community",
+      "linux",
+      "macos",
+      "omarchy",
+      "qemu",
+      "virtualization"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13706,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T16:00:02+00:00",
+    "updated_at": "2026-08-27T23:23:41.893304+00:00"
+  },
+  {
+    "id": "textual-web",
+    "name": "Textual Web",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/Textualize/textual-web",
+    "developer": {
+      "name": "Textualize",
+      "url": "https://github.com/Textualize"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11124,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T14:33:51+00:00",
+    "updated_at": "2026-08-27T23:23:50.260566+00:00"
+  },
+  {
     "id": "go-modern-guidelines",
     "name": "Go Modern Guidelines",
     "description": "This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.\n\nhttps://github.com/JetBrains/go-modern-guidelines",
@@ -30734,7 +30867,7 @@
     },
     "status": "active",
     "created_at": "2026-05-29T16:57:04+00:00",
-    "updated_at": "2026-08-23T11:00:17.449328+00:00"
+    "updated_at": "2026-08-27T23:23:54.807806+00:00"
   },
   {
     "id": "alfiyahkamilah1239298-wallpaperdownloader-26",

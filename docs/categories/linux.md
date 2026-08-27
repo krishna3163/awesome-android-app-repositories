@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `780`
+> **Total Apps in Category:** `781`
 
 ---
 
@@ -13579,6 +13579,19 @@ FBGraphics (FBG) is a simple C 24 bpp graphics library for the Linux framebuffer
 
 - 🐙 **Source Code:** [https://github.com/grz0zrg/fbg](https://github.com/grz0zrg/fbg)
 - 👤 **Developer:** [grz0zrg](https://github.com/grz0zrg)
+
+
+---
+
+### 📦 themartiano/try-omarchy
+
+> **Categories:** `#apple_silicon` `#archlinux` `#community` `#linux` `#macos` `#omarchy` `#qemu` `#virtualization`
+
+Try Omarchy on Apple Silicon without any setup.
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
+- 👤 **Developer:** [themartiano](https://github.com/themartiano)
 
 
 ---

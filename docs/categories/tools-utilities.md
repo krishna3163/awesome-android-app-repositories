@@ -4,7 +4,49 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13395`
+> **Total Apps in Category:** `13398`
+
+---
+
+### 📦 Go Modern Guidelines
+
+> **Categories:** `#go` `#ai_agents` `#coding_agent` `#developer_tools` `#golang` `#guidelines`
+
+This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.
+
+https://github.com/JetBrains/go-modern-guidelines
+
+- 🐙 **Source Code:** [https://github.com/JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
+
+
+---
+
+### 📦 wide-trace/open-higgsfield
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+**Language**: TypeScript
+**Stars**: 638 **Issues**: 0 **Forks**: 0
+[https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+
+- 🐙 **Source Code:** [https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+- 👤 **Developer:** [wide-trace](https://github.com/wide-trace)
+
+
+---
+
+### 📦 Zyrexnn/Cybermes
+
+> **Categories:** `#ai_agent` `#appsec` `#bug_bounty` `#cvss_v3` `#cybersecurity` `#devsecops` `#exploit_validation` `#hermes_agent` `#infosec` `#llm_security` `#nuclei` `#offensive_security` `#penetration_testing` `#playwright` `#reconnaissance` `#red_teaming` `#security_tools` `#sqlmap` `#threat_research` `#vulnerability_scanner`
+
+Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)
+- 👤 **Developer:** [Zyrexnn](https://github.com/Zyrexnn)
+
 
 ---
 
@@ -197455,44 +197497,43 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Zyrexnn/Cybermes
-
-> **Categories:** `#ai_agent` `#appsec` `#bug_bounty` `#cvss_v3` `#cybersecurity` `#devsecops` `#exploit_validation` `#hermes_agent` `#infosec` `#llm_security` `#nuclei` `#offensive_security` `#penetration_testing` `#playwright` `#reconnaissance` `#red_teaming` `#security_tools` `#sqlmap` `#threat_research` `#vulnerability_scanner`
-
-Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)
-- 👤 **Developer:** [Zyrexnn](https://github.com/Zyrexnn)
-
-
----
-
-### 📦 wide-trace/open-higgsfield
+### 📦 Forsy-AI/biosecurity-agent
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+AI agent that builds a live biosecurity world around any target.
 **Language**: TypeScript
-**Stars**: 638 **Issues**: 0 **Forks**: 0
-[https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+**Stars**: 512 **Issues**: 0 **Forks**: 17
+[https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
 
-- 🐙 **Source Code:** [https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
-- 👤 **Developer:** [wide-trace](https://github.com/wide-trace)
+- 🐙 **Source Code:** [https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
+- 👤 **Developer:** [Forsy-AI](https://github.com/Forsy-AI)
 
 
 ---
 
-### 📦 Go Modern Guidelines
+### 📦 Gods Eye View
 
-> **Categories:** `#go` `#ai_agents` `#coding_agent` `#developer_tools` `#golang` `#guidelines`
+> **Categories:** `#javascript` `#3d_globe` `#cesium` `#flight_tracking` `#geospatial` `#geospatial_intelligence` `#gis` `#osint` `#photogrammetry` `#satellite_tracking` `#spatial_intelligence` `#webgl` `#worldview`
 
-This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.
+God’s Eye View is a browser app that shows a real-time 3D Earth with live flights, ships, satellites, earthquakes, traffic, public cameras, and voice control. It helps you explore the world fast, see what is happening in one place, and track public signals without signing up.
 
-https://github.com/JetBrains/go-modern-guidelines
+https://github.com/bilawalsidhu/gods-eye-view
 
-- 🐙 **Source Code:** [https://github.com/JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
-- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
+- 🐙 **Source Code:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- 👤 **Developer:** [bilawalsidhu](https://github.com/bilawalsidhu)
+
+
+---
+
+### 📦 Textual Web
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Textualize/textual-web](https://github.com/Textualize/textual-web)
+- 👤 **Developer:** [Textualize](https://github.com/Textualize)
 
 
 ---
