@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16982`
+> **Total Cataloged Projects:** `16984`
 
 ---
 
@@ -2200,6 +2200,7 @@
 | **bryanswkim/Chain-of-Zoom** | Official repository for "Chain-of-Zoom: Extreme Super-Resolution via… | [GitHub](https://github.com/bryanswkim/Chain-of-Zoom) | — | `GitHub, OpenSource` |
 | **brycebostwick/FixTheGulf** | A Chrome extension that restores the Gulf of Mexico's name | [GitHub](https://github.com/brycebostwick/FixTheGulf) | — | `GitHub, OpenSource` |
 | **brycebostwick/WidgetAnimation** | Proof of concept for Animated iOS Widgets using Public APIs | [GitHub](https://github.com/brycebostwick/WidgetAnimation) | — | `GitHub, OpenSource` |
+| **bryllim/workout-guide** | 302 open exercise illustrations and a framework-neutral npm package b… | [GitHub](https://github.com/bryllim/workout-guide) | — | `exercise, expo, fitness, npm_package, open_source, react_native, workout` |
 | **Bsc** | BNB Smart Chain is a blockchain that combines the best of Ethereum's… | [GitHub](https://github.com/bnb-chain/bsc) | — | `go, blockchain, bnb, ethereum` |
 | **bscript/rep** | rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI… | [GitHub](https://github.com/bscript/rep) | — | `GitHub, OpenSource` |
 | **bsideup/jabel** | Jabel - javac 12 plugin that makes it emit Java 8 bytecode | [GitHub](https://github.com/bsideup/jabel) | — | `GitHub, OpenSource` |
@@ -14937,6 +14938,7 @@
 | **tonyke-bot/ore-miner** | ORE Miner built on top of Jito bundle with both CPU and GPU support. | [GitHub](https://github.com/tonyke-bot/ore-miner) | — | `GitHub, OpenSource` |
 | **tonysm/tailwindcss-laravel** | This package wraps up the standalone executable version of the Tailwi… | [GitHub](https://github.com/tonysm/tailwindcss-laravel) | — | `GitHub, OpenSource` |
 | **Tonzhon Music** | Copper Bell is a free website app focused on listening to music. It o… | [GitHub](https://github.com/enzeberg/tonzhon-music) | — | `javascript, antd, music, music_player, nodejs, react, react_router, redux, webapp, webpack` |
+| **Tookie Osint** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/Alfredredbird/tookie-osint) | — | `GitHub, OpenSource` |
 | **Tool for mass webcam hacking** | Entropy Toolkit is a powerful webcam penetration testing utility. It… | [GitHub](https://github.com/evildevill/entropy) | — | `GitHub, OpenSource` |
 | **Tool Shells** | Is an application to edit the apk. | [GitHub](https://github.com/kakathic/Tool-Shells) | — | `Android` |
 | **Tool Telegram** | Send messages on telegram as a bot, easily. | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/dev.trindadedev.tooltelegram) | — | `Android, Tools, java, telegram, Interesting, Privacy, Security, GitHub, OpenSource` |

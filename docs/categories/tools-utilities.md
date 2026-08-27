@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13391`
+> **Total Apps in Category:** `13393`
 
 ---
 
@@ -197456,6 +197456,31 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 bryllim/workout-guide
+
+> **Categories:** `#exercise` `#expo` `#fitness` `#npm_package` `#open_source` `#react_native` `#workout`
+
+302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+**Language**: Astro
+
+- 🐙 **Source Code:** [https://github.com/bryllim/workout-guide](https://github.com/bryllim/workout-guide)
+- 👤 **Developer:** [bryllim](https://github.com/bryllim)
+
+
+---
+
+### 📦 Tookie Osint
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
+- 👤 **Developer:** [Alfredredbird](https://github.com/Alfredredbird)
 
 
 ---

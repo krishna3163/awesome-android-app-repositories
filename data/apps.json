@@ -1,5 +1,68 @@
 [
   {
+    "id": "bryllim-workout-guide",
+    "name": "bryllim/workout-guide",
+    "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim\n**Language**: Astro",
+    "website": "",
+    "repository": "https://github.com/bryllim/workout-guide",
+    "developer": {
+      "name": "bryllim",
+      "url": "https://github.com/bryllim"
+    },
+    "features": [],
+    "tags": [
+      "exercise",
+      "expo",
+      "fitness",
+      "npm_package",
+      "open_source",
+      "react_native",
+      "workout"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13703,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T22:00:02+00:00",
+    "updated_at": "2026-08-27T02:26:50.594628+00:00"
+  },
+  {
+    "id": "tookie-osint",
+    "name": "Tookie Osint",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/Alfredredbird/tookie-osint",
+    "developer": {
+      "name": "Alfredredbird",
+      "url": "https://github.com/Alfredredbird"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11119,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-26T21:45:16+00:00",
+    "updated_at": "2026-08-27T02:26:54.306238+00:00"
+  },
+  {
     "id": "amagine-ai-amagine3d",
     "name": "amagine-ai/Amagine3D",
     "description": "Amagine3D: From hardware requirements to editable 3D designs\n**Language**: TypeScript\n**Stars**: 642 **Issues**: 2 **Forks**: 41\n[https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)",
