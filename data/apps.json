@@ -1,5 +1,114 @@
 [
   {
+    "id": "go-modern-guidelines",
+    "name": "Go Modern Guidelines",
+    "description": "This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.\n\nhttps://github.com/JetBrains/go-modern-guidelines",
+    "website": "",
+    "repository": "https://github.com/JetBrains/go-modern-guidelines",
+    "developer": {
+      "name": "JetBrains",
+      "url": "https://github.com/JetBrains"
+    },
+    "features": [],
+    "tags": [
+      "go",
+      "ai_agents",
+      "coding_agent",
+      "developer_tools",
+      "golang",
+      "guidelines"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15956,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T12:30:02+00:00",
+    "updated_at": "2026-08-27T13:23:27.023274+00:00"
+  },
+  {
+    "id": "wide-trace-open-higgsfield",
+    "name": "wide-trace/open-higgsfield",
+    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.\n**Language**: TypeScript\n**Stars**: 638 **Issues**: 0 **Forks**: 0\n[https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)",
+    "website": "",
+    "repository": "https://github.com/wide-trace/open-higgsfield",
+    "developer": {
+      "name": "wide-trace",
+      "url": "https://github.com/wide-trace"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13705,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T10:00:03+00:00",
+    "updated_at": "2026-08-27T13:23:24.012110+00:00"
+  },
+  {
+    "id": "zyrexnn-cybermes",
+    "name": "Zyrexnn/Cybermes",
+    "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/Zyrexnn/Cybermes",
+    "developer": {
+      "name": "Zyrexnn",
+      "url": "https://github.com/Zyrexnn"
+    },
+    "features": [],
+    "tags": [
+      "ai_agent",
+      "appsec",
+      "bug_bounty",
+      "cvss_v3",
+      "cybersecurity",
+      "devsecops",
+      "exploit_validation",
+      "hermes_agent",
+      "infosec",
+      "llm_security",
+      "nuclei",
+      "offensive_security",
+      "penetration_testing",
+      "playwright",
+      "reconnaissance",
+      "red_teaming",
+      "security_tools",
+      "sqlmap",
+      "threat_research",
+      "vulnerability_scanner"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13704,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-27T04:00:03+00:00",
+    "updated_at": "2026-08-27T13:23:23.714281+00:00"
+  },
+  {
     "id": "bryllim-workout-guide",
     "name": "bryllim/workout-guide",
     "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim\n**Language**: Astro",
@@ -15579,7 +15688,10 @@
     "tags": [
       "GitHub",
       "OpenSource",
-      "typescript"
+      "typescript",
+      "Design",
+      "AI",
+      "DeveloperTools"
     ],
     "images": {
       "cover": "",
@@ -15593,7 +15705,7 @@
     },
     "status": "active",
     "created_at": "2026-07-10T20:51:51+00:00",
-    "updated_at": "2026-08-23T08:11:17.338989+00:00"
+    "updated_at": "2026-08-27T13:23:25.026542+00:00"
   },
   {
     "id": "ipban",
@@ -223599,7 +223711,9 @@
       "prompting",
       "swarms",
       "transformer_models",
-      "tree_of_thoughts"
+      "tree_of_thoughts",
+      "GitHub",
+      "OpenSource"
     ],
     "images": {
       "cover": "",
@@ -223613,7 +223727,7 @@
     },
     "status": "active",
     "created_at": "2024-10-15T10:57:01+00:00",
-    "updated_at": "2026-08-23T08:06:06.741411+00:00"
+    "updated_at": "2026-08-27T13:23:30.948345+00:00"
   },
   {
     "id": "panphp-pan",

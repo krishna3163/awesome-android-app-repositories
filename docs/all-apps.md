@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16984`
+> **Total Cataloged Projects:** `16987`
 
 ---
 
@@ -5733,6 +5733,7 @@
 | **Go Genai** | The Google Gen AI Go SDK helps developers use advanced AI models like… | [GitHub](https://github.com/googleapis/go-genai) | — | `go` |
 | **Go Github** | The `go-github` library is a tool for accessing the GitHub API using… | [GitHub](https://github.com/google/go-github) | — | `go, github, github_api, golang, hacktoberfest` |
 | **Go Interview Practice** | You can practice and improve your Go programming skills with an inter… | [GitHub](https://github.com/RezaSi/go-interview-practice) | — | `go, go_interview_questions, go_practice, golang, golang_interview_questions, golang_practice, hacktoberfest, interview, interview_practice, interview_questions, learn_to_code, learning_resources` |
+| **Go Modern Guidelines** | This project helps coding agents write modern Go by using newer Go fe… | [GitHub](https://github.com/JetBrains/go-modern-guidelines) | — | `go, ai_agents, coding_agent, developer_tools, golang, guidelines` |
 | **Go Proxy** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/yusing/go-proxy) | — | `GitHub, OpenSource` |
 | **Go Sdk** | The MCP Go SDK is an official software toolkit for the Go programming… | [GitHub](https://github.com/modelcontextprotocol/go-sdk) | — | `go` |
 | **Go Tachicrypt** | **4️⃣**** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/voodooEntity/go-tachicrypt) | — | `GitHub, OpenSource` |
@@ -13975,7 +13976,7 @@
 | **Stipple Effect** | **4️⃣**** **[**GitHub**](https://t.me/github_tg) | [GitHub](https://github.com/jbunke/stipple-effect) | — | `GitHub, OpenSource` |
 | **Stirling-PDF** | Stirling-PDF is a robust, locally hosted web-based PDF manipulation t… | [GitHub](https://github.com/Stirling-Tools/Stirling-PDF) | [Website](https://stirlingpdf.com) | `Windows, Tools, pdf, Privacy, SelfHosted, 1, readme, java, docker, pdf_converter, pdf_manipulation, pdfmerger, pdf_merger, pdf_tools, pdf_editor, pdf_web_apps, pdf_ocr, Interesting, AI, GitHub, OpenSource` |
 | **Stitch** | Yet another app to create awesome longshots. | [GitHub](https://github.com/ekibun/Stitch) | — | `Android` |
-| **Stitch Skills** | 🔗 [https://github.com/google-labs-code/stitch-skills](https://github.… | [GitHub](https://github.com/google-labs-code/stitch-skills) | — | `GitHub, OpenSource, typescript` |
+| **Stitch Skills** | 🔗 [https://github.com/google-labs-code/stitch-skills](https://github.… | [GitHub](https://github.com/google-labs-code/stitch-skills) | — | `GitHub, OpenSource, typescript, Design, AI, DeveloperTools` |
 | **stitionai/devika** | Devika is an Agentic AI Software Engineer that can understand high-le… | [GitHub](https://github.com/stitionai/devika) | — | `GitHub, OpenSource` |
 | **Stockfish** | Does not include a GUI for displaying the chessboard and entering mov… | [GitHub](https://github.com/official-stockfish/Stockfish) | — | `Interesting, Chess` |
 | **stokry/wp-sqlite** | WordPress running on an SQLite database | [GitHub](https://github.com/stokry/wp-sqlite) | — | `GitHub, OpenSource` |
@@ -14157,7 +14158,7 @@
 | **Swall0w/torchstat** | Model analyzer in PyTorch | [GitHub](https://github.com/Swall0w/torchstat) | — | `python, pytorch` |
 | **swan-io/boxed** | Utility types for functional TypeScript | [GitHub](https://github.com/swan-io/boxed) | — | `adt, fp, functional, future, option, result, typescript` |
 | **Swaptop** | Lists processes using swap, displays consumption per process/program,… | [GitHub](https://github.com/luis-ota/swaptop) | — | `GitHub, OpenSource` |
-| **swarm** | Educational framework exploring ergonomic, lightweight multi-agent or… | [GitHub](https://github.com/openai/swarm) | — | `openai, python, agents, ai, artificial_intelligence, attention_mechanism, chatgpt, gpt4, gpt4all, huggingface, langchain, langchain_python, machine_learning, multi_modal_imaging, multi_modality, multimodal, prompt_engineering, prompt_toolkit, prompting, swarms, transformer_models, tree_of_thoughts` |
+| **swarm** | Educational framework exploring ergonomic, lightweight multi-agent or… | [GitHub](https://github.com/openai/swarm) | — | `openai, python, agents, ai, artificial_intelligence, attention_mechanism, chatgpt, gpt4, gpt4all, huggingface, langchain, langchain_python, machine_learning, multi_modal_imaging, multi_modality, multimodal, prompt_engineering, prompt_toolkit, prompting, swarms, transformer_models, tree_of_thoughts, GitHub, OpenSource` |
 | **Swarm Forge** | 🔗 [https://github.com/unclebob/swarm-forge](https://github.com/uncleb… | [GitHub](https://github.com/unclebob/swarm-forge) | — | `GitHub, OpenSource, clojure` |
 | **Swc** | 🔗 [https://github.com/swc-project/swc](https://github.com/swc-project… | [GitHub](https://github.com/swc-project/swc) | — | `GitHub, OpenSource` |
 | **Sweep** | Sweep automatically handles Devex improvements such as adding hints o… | [GitHub](https://github.com/sweepai/sweep) | — | `GitHub, OpenSource` |
@@ -16036,6 +16037,7 @@
 | **wibyweb/wiby** | Wiby Search Engine | [GitHub](https://github.com/wibyweb/wiby) | — | `GitHub, OpenSource` |
 | **Wick Editor** | It is designed to be the most accessible tool for creating multimedia… | [GitHub](https://github.com/Wicklets/wick-editor) | — | `GitHub, OpenSource` |
 | **Wicketkeeper** | Wicketkeeper protects your web forms from simple bots without requiri… | [GitHub](https://github.com/a-ve/wicketkeeper) | — | `GitHub, OpenSource` |
+| **wide-trace/open-higgsfield** | A studio for image and video generation — one prompt bar, each model’… | [GitHub](https://github.com/wide-trace/open-higgsfield) | — | `GitHub, OpenSource` |
 | **Widelands** | Widelands is a free, open-source real-time strategy game like Settler… | [GitHub](https://github.com/widelands/widelands) | — | `cplusplus, apple_silicon, bsd, c_plus_plus, cmake, floss, game, gplv2, json, linux, lua, macos_app, python, strategy, windows, GitHub, OpenSource` |
 | **widevinedump/LenovoTB-X505X-L1-KEY** | Working L1 CDM FOR NETFLIX & ALL SITES |AMZN-DSNP-Blocked| | [GitHub](https://github.com/widevinedump/LenovoTB-X505X-L1-KEY) | — | `GitHub, OpenSource` |
 | **widevinedump/Netflix-4K-Script** | Tool to download Netflix in 4k | [GitHub](https://github.com/widevinedump/Netflix-4K-Script) | — | `GitHub, OpenSource` |
@@ -16864,6 +16866,7 @@
 | **zylo117/Yet-Another-EfficientDet-Pytorch** | The pytorch re-implement of the official efficientdet with SOTA perfo… | [GitHub](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) | — | `bifpn, detection, efficientdet, efficientnet, object_detection, pytorch` |
 | **zyn3rgy/LdapRelayScan** | Check for LDAP protections regarding the relay of NTLM authentication | [GitHub](https://github.com/zyn3rgy/LdapRelayScan) | — | `GitHub, OpenSource` |
 | **Zyphra/Zonos** | **Language**: Python | [GitHub](https://github.com/Zyphra/Zonos) | — | `GitHub, OpenSource` |
+| **Zyrexnn/Cybermes** | Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framewo… | [GitHub](https://github.com/Zyrexnn/Cybermes) | — | `ai_agent, appsec, bug_bounty, cvss_v3, cybersecurity, devsecops, exploit_validation, hermes_agent, infosec, llm_security, nuclei, offensive_security, penetration_testing, playwright, reconnaissance, red_teaming, security_tools, sqlmap, threat_research, vulnerability_scanner` |
 | **zyylhn/zscan** | Zscan a scan blasting tool set | [GitHub](https://github.com/zyylhn/zscan) | — | `GitHub, OpenSource` |
 | **zzanehip/The-OldOS-Project** | Recreating a fully functional version of iOS 4 in SwiftUI. | [GitHub](https://github.com/zzanehip/The-OldOS-Project) | — | `GitHub, OpenSource` |
 | **zzzhhh1/free-nodes** | **Language**: Python | [GitHub](https://github.com/zzzhhh1/free-nodes) | — | `GitHub, OpenSource` |

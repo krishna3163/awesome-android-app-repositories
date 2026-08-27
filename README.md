@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16984`
-- 🏷️ **Unique Categories / Tags:** `15518`
-- 🔄 **Last Automatically Synchronized:** `2026-08-27 02:26 UTC`
+- 📦 **Total Discovered Apps & Projects:** `16987`
+- 🏷️ **Unique Categories / Tags:** `15522`
+- 🔄 **Last Automatically Synchronized:** `2026-08-27 13:23 UTC`
 
 ---
 
@@ -275,21 +275,46 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13393 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13395 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `780 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `692 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `473 apps` | [**Explore →**](docs/categories/media-music.md) |
-| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1048 apps` | [**Explore →**](docs/categories/web-ai.md) |
+| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `346 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16984 cataloged applications | `16984 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16987 cataloged applications | `16987 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16984 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16987 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 bryllim/workout-guide
+
+> **Categories:** `#exercise` `#expo` `#fitness` `#npm_package` `#open_source` `#react_native` `#workout`
+
+302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+**Language**: Astro
+
+- 🐙 **Source Code:** [https://github.com/bryllim/workout-guide](https://github.com/bryllim/workout-guide)
+- 👤 **Developer:** [bryllim](https://github.com/bryllim)
+
+
+---
+
+### 📦 Tookie Osint
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
+- 👤 **Developer:** [Alfredredbird](https://github.com/Alfredredbird)
+
+
+---
 
 ### 📦 amagine-ai/Amagine3D
 
@@ -645,34 +670,6 @@ Claude Code plugin that rewrites each assistant message into plain language on s
 [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
 
 - 🐙 **Source Code:** [https://github.com/Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
-- 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
-
-
----
-
-### 📦 missuo/herdrm
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Native macOS console for herdr — all your coding agents and their live terminals, across devices
-**Language**: Swift
-**Stars**: 607 **Issues**: 1 **Forks**: 37
-[https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
-
-- 🐙 **Source Code:** [https://github.com/missuo/herdrm](https://github.com/missuo/herdrm)
-- 👤 **Developer:** [missuo](https://github.com/missuo)
-
-
----
-
-### 📦 Leutenegger/coldcard-airgap
-
-> **Categories:** `#airgap` `#airgap_devkit` `#airgap_download` `#airgap_setup` `#airgap_tutorial` `#bitcoin` `#bitcoin_wallet` `#coldcard` `#coldcard_mk2` `#coldcard_mk4` `#cryptography` `#cryptography_algorithms` `#cryptography_tools` `#ledger` `#ledger_cli` `#ledger_wallet` `#metamask` `#metamask_desktop`
-
-Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap)
 - 👤 **Developer:** [Leutenegger](https://github.com/Leutenegger)
 
 

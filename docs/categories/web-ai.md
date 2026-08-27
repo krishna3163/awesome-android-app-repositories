@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `1048`
+> **Total Apps in Category:** `1049`
 
 ---
 
@@ -805,6 +805,36 @@ Terraform helps you manage your infrastructure as code - automate your workflow 
 
 - 🐙 **Source Code:** [https://github.com/hashicorp/terraform](https://github.com/hashicorp/terraform)
 - 👤 **Developer:** [hashicorp](https://github.com/hashicorp)
+
+
+---
+
+### 📦 Stitch Skills
+
+> **Categories:** `#GitHub` `#OpenSource` `#typescript` `#Design` `#AI` `#DeveloperTools`
+
+🔗 [https://github.com/google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+──────────────────────────────
+
+The **google-labs-code/stitch-skills** GitHub repository offers a collection of agent skills and plugins for __Google Stitch__, following the `Agent Skills` open standard. These skills are compatible with coding agents like Codex, Antigravity, and Gemini CLI.
+
+To get started, you can install plugins using the `Codex CLI` or UI, or add skills selectively. The repository includes design-focused skills (`stitch-design`), build and component skills (`stitch-build`), and utility skills (`stitch-utilities`).
+
+Some key features include:
+- Converting frontend code to Stitch Design
+- Generating new screens from text or images
+- Managing design systems and uploading local assets
+
+The repository is structured to follow the Agent Skills standard, with each skill having its own directory and files for scripts, resources, and examples.
+
+**Key takeaway:** The __google-labs-code/stitch-skills__ repository provides a robust set of skills and plugins to enhance your Google Stitch experience, and is a great resource for developers looking to streamline their design and development workflow.
+
+──────────────────────────────
+🧠 **Channel: ****https://t.me/GithubRe**
+
+- 🐙 **Source Code:** [https://github.com/google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- 👤 **Developer:** [google-labs-code](https://github.com/google-labs-code)
 
 
 ---
@@ -9580,7 +9610,7 @@ https://github.com/easzlab/kubeasz
 
 ### 📦 swarm
 
-> **Categories:** `#openai` `#python` `#agents` `#ai` `#artificial_intelligence` `#attention_mechanism` `#chatgpt` `#gpt4` `#gpt4all` `#huggingface` `#langchain` `#langchain_python` `#machine_learning` `#multi_modal_imaging` `#multi_modality` `#multimodal` `#prompt_engineering` `#prompt_toolkit` `#prompting` `#swarms` `#transformer_models` `#tree_of_thoughts`
+> **Categories:** `#openai` `#python` `#agents` `#ai` `#artificial_intelligence` `#attention_mechanism` `#chatgpt` `#gpt4` `#gpt4all` `#huggingface` `#langchain` `#langchain_python` `#machine_learning` `#multi_modal_imaging` `#multi_modality` `#multimodal` `#prompt_engineering` `#prompt_toolkit` `#prompting` `#swarms` `#transformer_models` `#tree_of_thoughts` `#GitHub` `#OpenSource`
 
 Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 

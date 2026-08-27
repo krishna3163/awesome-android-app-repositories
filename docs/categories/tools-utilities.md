@@ -4,7 +4,32 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13393`
+> **Total Apps in Category:** `13395`
+
+---
+
+### 📦 bryllim/workout-guide
+
+> **Categories:** `#exercise` `#expo` `#fitness` `#npm_package` `#open_source` `#react_native` `#workout`
+
+302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+**Language**: Astro
+
+- 🐙 **Source Code:** [https://github.com/bryllim/workout-guide](https://github.com/bryllim/workout-guide)
+- 👤 **Developer:** [bryllim](https://github.com/bryllim)
+
+
+---
+
+### 📦 Tookie Osint
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
+- 👤 **Developer:** [Alfredredbird](https://github.com/Alfredredbird)
+
 
 ---
 
@@ -5827,36 +5852,6 @@ Evidence-based learning engine for Claude Code — first-principles curricula, f
 
 - 🐙 **Source Code:** [https://github.com/nagisanzenin/engram](https://github.com/nagisanzenin/engram)
 - 👤 **Developer:** [nagisanzenin](https://github.com/nagisanzenin)
-
-
----
-
-### 📦 Stitch Skills
-
-> **Categories:** `#GitHub` `#OpenSource` `#typescript`
-
-🔗 [https://github.com/google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-──────────────────────────────
-
-The **google-labs-code/stitch-skills** GitHub repository offers a collection of agent skills and plugins for __Google Stitch__, following the `Agent Skills` open standard. These skills are compatible with coding agents like Codex, Antigravity, and Gemini CLI.
-
-To get started, you can install plugins using the `Codex CLI` or UI, or add skills selectively. The repository includes design-focused skills (`stitch-design`), build and component skills (`stitch-build`), and utility skills (`stitch-utilities`).
-
-Some key features include:
-- Converting frontend code to Stitch Design
-- Generating new screens from text or images
-- Managing design systems and uploading local assets
-
-The repository is structured to follow the Agent Skills standard, with each skill having its own directory and files for scripts, resources, and examples.
-
-**Key takeaway:** The __google-labs-code/stitch-skills__ repository provides a robust set of skills and plugins to enhance your Google Stitch experience, and is a great resource for developers looking to streamline their design and development workflow.
-
-──────────────────────────────
-🧠 **Channel: ****https://t.me/GithubRe**
-
-- 🐙 **Source Code:** [https://github.com/google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-- 👤 **Developer:** [google-labs-code](https://github.com/google-labs-code)
 
 
 ---
@@ -197460,27 +197455,44 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 bryllim/workout-guide
+### 📦 Zyrexnn/Cybermes
 
-> **Categories:** `#exercise` `#expo` `#fitness` `#npm_package` `#open_source` `#react_native` `#workout`
+> **Categories:** `#ai_agent` `#appsec` `#bug_bounty` `#cvss_v3` `#cybersecurity` `#devsecops` `#exploit_validation` `#hermes_agent` `#infosec` `#llm_security` `#nuclei` `#offensive_security` `#penetration_testing` `#playwright` `#reconnaissance` `#red_teaming` `#security_tools` `#sqlmap` `#threat_research` `#vulnerability_scanner`
 
-302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-**Language**: Astro
+Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
+**Language**: Python
 
-- 🐙 **Source Code:** [https://github.com/bryllim/workout-guide](https://github.com/bryllim/workout-guide)
-- 👤 **Developer:** [bryllim](https://github.com/bryllim)
+- 🐙 **Source Code:** [https://github.com/Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)
+- 👤 **Developer:** [Zyrexnn](https://github.com/Zyrexnn)
 
 
 ---
 
-### 📦 Tookie Osint
+### 📦 wide-trace/open-higgsfield
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-🐱** **[**GitHub**](https://t.me/github)
+A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+**Language**: TypeScript
+**Stars**: 638 **Issues**: 0 **Forks**: 0
+[https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
 
-- 🐙 **Source Code:** [https://github.com/Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
-- 👤 **Developer:** [Alfredredbird](https://github.com/Alfredredbird)
+- 🐙 **Source Code:** [https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+- 👤 **Developer:** [wide-trace](https://github.com/wide-trace)
+
+
+---
+
+### 📦 Go Modern Guidelines
+
+> **Categories:** `#go` `#ai_agents` `#coding_agent` `#developer_tools` `#golang` `#guidelines`
+
+This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.
+
+https://github.com/JetBrains/go-modern-guidelines
+
+- 🐙 **Source Code:** [https://github.com/JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
 
 
 ---
