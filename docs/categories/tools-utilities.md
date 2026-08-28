@@ -4,7 +4,48 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13398`
+> **Total Apps in Category:** `13399`
+
+---
+
+### 📦 Forsy-AI/biosecurity-agent
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+AI agent that builds a live biosecurity world around any target.
+**Language**: TypeScript
+**Stars**: 512 **Issues**: 0 **Forks**: 17
+[https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
+
+- 🐙 **Source Code:** [https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
+- 👤 **Developer:** [Forsy-AI](https://github.com/Forsy-AI)
+
+
+---
+
+### 📦 Gods Eye View
+
+> **Categories:** `#javascript` `#3d_globe` `#cesium` `#flight_tracking` `#geospatial` `#geospatial_intelligence` `#gis` `#osint` `#photogrammetry` `#satellite_tracking` `#spatial_intelligence` `#webgl` `#worldview`
+
+God’s Eye View is a browser app that shows a real-time 3D Earth with live flights, ships, satellites, earthquakes, traffic, public cameras, and voice control. It helps you explore the world fast, see what is happening in one place, and track public signals without signing up.
+
+https://github.com/bilawalsidhu/gods-eye-view
+
+- 🐙 **Source Code:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- 👤 **Developer:** [bilawalsidhu](https://github.com/bilawalsidhu)
+
+
+---
+
+### 📦 Textual Web
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Textualize/textual-web](https://github.com/Textualize/textual-web)
+- 👤 **Developer:** [Textualize](https://github.com/Textualize)
+
 
 ---
 
@@ -2845,7 +2886,7 @@ One-liner takeaway: **Reasonix is the ultimate AI-powered coding companion that 
 
 ### 📦 microsoft/skill-recorder
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#AIAgents` `#Automation`
 
 **Language**: TypeScript
 **Stars**: 418 **Issues**: 26 **Forks**: 49
@@ -197497,43 +197538,17 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Forsy-AI/biosecurity-agent
+### 📦 localai-org/kimodo.cpp
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-AI agent that builds a live biosecurity world around any target.
-**Language**: TypeScript
-**Stars**: 512 **Issues**: 0 **Forks**: 17
-[https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
+NVIDIA Kimodo ported to C++/GGML
+**Language**: C++
+**Stars**: 496 **Issues**: 0 **Forks**: 43
+[https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
 
-- 🐙 **Source Code:** [https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
-- 👤 **Developer:** [Forsy-AI](https://github.com/Forsy-AI)
-
-
----
-
-### 📦 Gods Eye View
-
-> **Categories:** `#javascript` `#3d_globe` `#cesium` `#flight_tracking` `#geospatial` `#geospatial_intelligence` `#gis` `#osint` `#photogrammetry` `#satellite_tracking` `#spatial_intelligence` `#webgl` `#worldview`
-
-God’s Eye View is a browser app that shows a real-time 3D Earth with live flights, ships, satellites, earthquakes, traffic, public cameras, and voice control. It helps you explore the world fast, see what is happening in one place, and track public signals without signing up.
-
-https://github.com/bilawalsidhu/gods-eye-view
-
-- 🐙 **Source Code:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-- 👤 **Developer:** [bilawalsidhu](https://github.com/bilawalsidhu)
-
-
----
-
-### 📦 Textual Web
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/Textualize/textual-web](https://github.com/Textualize/textual-web)
-- 👤 **Developer:** [Textualize](https://github.com/Textualize)
+- 🐙 **Source Code:** [https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
+- 👤 **Developer:** [localai-org](https://github.com/localai-org)
 
 
 ---

@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 themartiano/try-omarchy
+
+> **Categories:** `#apple_silicon` `#archlinux` `#community` `#linux` `#macos` `#omarchy` `#qemu` `#virtualization`
+
+Try Omarchy on Apple Silicon without any setup.
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
+- 👤 **Developer:** [themartiano](https://github.com/themartiano)
+
+
+---
+
 ### 📦 ApodexAI/FrontierAgent
 
 > **Categories:** `#agent_orchestration` `#agentic_ai` `#agentic_framework` `#ai_agents` `#harness` `#multi_agent` `#terminal_agent` `#tui`
@@ -13579,19 +13592,6 @@ FBGraphics (FBG) is a simple C 24 bpp graphics library for the Linux framebuffer
 
 - 🐙 **Source Code:** [https://github.com/grz0zrg/fbg](https://github.com/grz0zrg/fbg)
 - 👤 **Developer:** [grz0zrg](https://github.com/grz0zrg)
-
-
----
-
-### 📦 themartiano/try-omarchy
-
-> **Categories:** `#apple_silicon` `#archlinux` `#community` `#linux` `#macos` `#omarchy` `#qemu` `#virtualization`
-
-Try Omarchy on Apple Silicon without any setup.
-**Language**: Shell
-
-- 🐙 **Source Code:** [https://github.com/themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
-- 👤 **Developer:** [themartiano](https://github.com/themartiano)
 
 
 ---

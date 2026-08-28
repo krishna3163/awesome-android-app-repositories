@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16991`
-- 🏷️ **Unique Categories / Tags:** `15530`
-- 🔄 **Last Automatically Synchronized:** `2026-08-27 23:23 UTC`
+- 📦 **Total Discovered Apps & Projects:** `16992`
+- 🏷️ **Unique Categories / Tags:** `15531`
+- 🔄 **Last Automatically Synchronized:** `2026-08-28 08:08 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13398 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13399 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `781 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `693 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,67 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `346 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16991 cataloged applications | `16991 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16992 cataloged applications | `16992 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16991 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16992 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Forsy-AI/biosecurity-agent
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+AI agent that builds a live biosecurity world around any target.
+**Language**: TypeScript
+**Stars**: 512 **Issues**: 0 **Forks**: 17
+[https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
+
+- 🐙 **Source Code:** [https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
+- 👤 **Developer:** [Forsy-AI](https://github.com/Forsy-AI)
+
+
+---
+
+### 📦 Gods Eye View
+
+> **Categories:** `#javascript` `#3d_globe` `#cesium` `#flight_tracking` `#geospatial` `#geospatial_intelligence` `#gis` `#osint` `#photogrammetry` `#satellite_tracking` `#spatial_intelligence` `#webgl` `#worldview`
+
+God’s Eye View is a browser app that shows a real-time 3D Earth with live flights, ships, satellites, earthquakes, traffic, public cameras, and voice control. It helps you explore the world fast, see what is happening in one place, and track public signals without signing up.
+
+https://github.com/bilawalsidhu/gods-eye-view
+
+- 🐙 **Source Code:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- 👤 **Developer:** [bilawalsidhu](https://github.com/bilawalsidhu)
+
+
+---
+
+### 📦 themartiano/try-omarchy
+
+> **Categories:** `#apple_silicon` `#archlinux` `#community` `#linux` `#macos` `#omarchy` `#qemu` `#virtualization`
+
+Try Omarchy on Apple Silicon without any setup.
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
+- 👤 **Developer:** [themartiano](https://github.com/themartiano)
+
+
+---
+
+### 📦 Textual Web
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/Textualize/textual-web](https://github.com/Textualize/textual-web)
+- 👤 **Developer:** [Textualize](https://github.com/Textualize)
+
+
+---
 
 ### 📦 Go Modern Guidelines
 
@@ -589,86 +643,6 @@ Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m
 
 - 🐙 **Source Code:** [https://github.com/amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel)
 - 👤 **Developer:** [amirh00sain](https://github.com/amirh00sain)
-
-
----
-
-### 📦 cclank/lanshu-create-ai-presenter-video
-
-> **Categories:** `#ai_video` `#codex` `#codex_skill` `#digital_human` `#video_generation`
-
-Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)
-- 👤 **Developer:** [cclank](https://github.com/cclank)
-
-
----
-
-### 📦 Free Coding Models
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models)
-- 👤 **Developer:** [vava-nessa](https://github.com/vava-nessa)
-
-
----
-
-### 📦 Komi Store
-
-> **Categories:** `#Android` `#Windows` `#Mac` `#Linux` `#Store` `#FOSS`
-
-Komi Store is a free, open-source, cross-platform app store focused on discovering and installing software published through GitHub, Codeberg, and Forgejo releases. It brings release discovery, app information, downloads, installation, and update tracking into one clean interface.
-
-- 🐙 **Source Code:** [https://github.com/kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)
-- 👤 **Developer:** [KuriKomi](https://github.com/kurikomi-labs/)
-
-<details>
-<summary><b>✨ Key Features (24)</b> — <i>Click to expand</i></summary>
-
-- Open-source app discovery
-- Curated app categories
-- GitHub, Codeberg & Forgejo support
-- Multi-platform app support
-- One-click app installation
-- Automatic release & update tracking
-- App library & favourites
-- Recently viewed apps
-- Download mirrors
-- SHA-256 download verification
-- APK metadata inspection
-- APK signing information
-- Permissions & components inspection
-- App compatibility information
-- GitHub repository browsing
-- Release, issues & pull request information
-- Privacy-focused & ad-free
-- No account required for basic usage
-- Custom themes & accent colors
-- Manga & Classic UI personalities
-- Light, Dark & System modes
-- AMOLED true-black mode
-- Multi-language support
-- Customizable connection settings
-
-</details>
-
-
----
-
-### 📦 ShadowAqueduct/watermark-remover
-
-> **Categories:** `#claude_ai` `#claude_code` `#claude_code_plugin` `#claude_skills` `#codex` `#codex_cli` `#codex_skill` `#codex_skills` `#watermark`
-
-Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)
-- 👤 **Developer:** [ShadowAqueduct](https://github.com/ShadowAqueduct)
 
 
 ---

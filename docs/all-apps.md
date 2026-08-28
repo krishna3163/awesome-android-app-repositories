@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16991`
+> **Total Cataloged Projects:** `16992`
 
 ---
 
@@ -8568,6 +8568,7 @@
 | **Local Img Pdf File Converter** | The application runs entirely locally on your computer - without an I… | [GitHub](https://github.com/demureiskander/Local-img-pdf-File-Converter) | — | `GitHub, OpenSource` |
 | **Local Web Camera** | Stream video from the camera to another device on the local network w… | [GitHub](https://github.com/mehmetkahya0/local-web-camera) | — | `GitHub, OpenSource` |
 | **LocalAI** | The free, Open Source alternative to OpenAI, Claude and others. Self-… | [GitHub](https://github.com/mudler/LocalAI) | [Website](https://localai.io) | `LLM, opensource, readme, api, ai, mcp, decentralized, text_generation, distributed, tts, image_generation, llama, object_detection, mamba, libp2p, gemma, mistral, audio_generation, stable_diffusion, rwkv, musicgen, rerank, cplusplus, gpt4all, kubernetes, llama3, p2p, GitHub` |
+| **localai-org/kimodo.cpp** | NVIDIA Kimodo ported to C++/GGML | [GitHub](https://github.com/localai-org/kimodo.cpp) | — | `GitHub, OpenSource` |
 | **localjo/react-tater** | A React component to add annotations to any element on a page 🥔 | [GitHub](https://github.com/localjo/react-tater) | — | `GitHub, OpenSource` |
 | **localllm** | **Run LLMs locally on Cloud Workstations. | [GitHub](https://github.com/GoogleCloudPlatform/localllm) | — | `GitHub, OpenSource` |
 | **Locallock** | Easy to use interface, biometric authentication, local data storage,… | [GitHub](https://github.com/PriyavKaneria/LocalLock) | — | `Android, Security, Interesting` |
@@ -9407,7 +9408,7 @@
 | **microsoft/PowerToys** | Windows system utilities to maximize productivity | [GitHub](https://github.com/microsoft/PowerToys) | — | `GitHub, OpenSource, microsoft, powertoys, Windows, Productivity, DeveloperTools, readme, color_picker, desktop, keyboard_manager, fancyzones, microsoft_powertoys, powerrename, csharp, Useful, Interesting` |
 | **microsoft/ProcMon-for-Linux** | Procmon is a Linux reimagining of the classic Procmon tool from the S… | [GitHub](https://github.com/microsoft/ProcMon-for-Linux) | — | `GitHub, OpenSource` |
 | **microsoft/promptbase** | All things prompt engineering | [GitHub](https://github.com/microsoft/promptbase) | — | `GitHub, OpenSource` |
-| **microsoft/skill-recorder** | **Language**: TypeScript | [GitHub](https://github.com/microsoft/skill-recorder) | — | `GitHub, OpenSource` |
+| **microsoft/skill-recorder** | **Language**: TypeScript | [GitHub](https://github.com/microsoft/skill-recorder) | — | `GitHub, OpenSource, AIAgents, Automation` |
 | **microsoft/Swin-Transformer** | a general-purpose Transformer based vision backbone | [GitHub](https://github.com/microsoft/Swin-Transformer) | — | `GitHub, OpenSource, python, ade20k, image_classification, imagenet, mask_rcnn, mscoco, object_detection, semantic_segmentation, swin_transformer` |
 | **Microsoft/TypeScript-New-Handbook** | Incubation repository for the new TypeScript handbook 🐣 | [GitHub](https://github.com/Microsoft/TypeScript-New-Handbook) | — | `GitHub, OpenSource` |
 | **microsoft/VibeVoice** | Frontier Open-Source Text-to-Speech | [GitHub](https://github.com/microsoft/VibeVoice) | [Website](https://github.com/microsoft/VibeVoice#readme) | `GitHub, OpenSource, readme, python` |
