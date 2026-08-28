@@ -4,7 +4,22 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13399`
+> **Total Apps in Category:** `13400`
+
+---
+
+### 📦 localai-org/kimodo.cpp
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+NVIDIA Kimodo ported to C++/GGML
+**Language**: C++
+**Stars**: 496 **Issues**: 0 **Forks**: 43
+[https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
+
+- 🐙 **Source Code:** [https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
+- 👤 **Developer:** [localai-org](https://github.com/localai-org)
+
 
 ---
 
@@ -197538,17 +197553,16 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 localai-org/kimodo.cpp
+### 📦 HEJustinSun/my-girlfriend-jingtian-latex
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-NVIDIA Kimodo ported to C++/GGML
-**Language**: C++
-**Stars**: 496 **Issues**: 0 **Forks**: 43
-[https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
+**Language**: TeX
+**Stars**: 2683 **Issues**: 335 **Forks**: 437
+[https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
 
-- 🐙 **Source Code:** [https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
-- 👤 **Developer:** [localai-org](https://github.com/localai-org)
+- 🐙 **Source Code:** [https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
+- 👤 **Developer:** [HEJustinSun](https://github.com/HEJustinSun)
 
 
 ---

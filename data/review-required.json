@@ -44636,5 +44636,60 @@
     "message_id": 11128,
     "raw_text": "[**LUPINE**](https://github.com/lupinemachines/lupine) — это мост GPU over IP, позволяющий подключать графические процессоры на удаленных машинах к машинам с только центральным процессором.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-28T08:08:05.325470+00:00"
+  },
+  {
+    "incoming_name": "sapientinc/PRAXIST",
+    "incoming_normalized": "sapientincpraxist",
+    "matched_project_id": "sapientinc-hrm-text",
+    "matched_project_name": "sapientinc/HRM-Text",
+    "similarity_score": 76.47058823529412,
+    "channel": "@github_repos",
+    "message_id": 13710,
+    "raw_text": "**sapientinc/PRAXIST**\nAutonomous research system for measurable, computer-executable research.\n**Language**: Python\n**Stars**: 906 **Issues**: 0 **Forks**: 113\n[https://github.com/sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)",
+    "timestamp": "2026-08-28T20:31:13.566624+00:00"
+  },
+  {
+    "incoming_name": "Tailcat",
+    "incoming_normalized": "tailcat",
+    "matched_project_id": "mailcat",
+    "matched_project_name": "Mailcat",
+    "similarity_score": 85.71428571428572,
+    "channel": "@githubtrending",
+    "message_id": 15958,
+    "raw_text": "#go \n\nTailcat is a free, open source tool that lets two machines connect with encrypted WireGuard traffic without a Tailscale account or admin access. One side starts a server, gets a short token, and the other side uses that token to connect, send files, use SSH, or forward ports. The benefit is simple: you can make a secure, temporary or reusable private tunnel between devices with little setup and no changes to your network settings.\n\nhttps://github.com/tailscale/tailcat",
+    "timestamp": "2026-08-28T20:31:16.582270+00:00"
+  },
+  {
+    "incoming_name": "Imgcompress",
+    "incoming_normalized": "imgcompress",
+    "matched_project_id": "compressor",
+    "matched_project_name": "Compressor",
+    "similarity_score": 76.19047619047619,
+    "channel": "@github",
+    "message_id": 11129,
+    "raw_text": "[**Imgcompress**](https://github.com/karimz1/imgcompress) — это набор инструментов для самостоятельной обработки изображений, который позволяет сжимать файлы, конвертировать форматы и удалять фон с помощью искусственного интеллекта в едином веб-интерфейсе. \n\nОн поддерживает более 70 входных форматов (включая PSD, HEIC и RAW) и может выводить файлы в распространенных форматах или генерировать PDF-файлы без отправки файлов во внешние сервисы.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-28T20:31:18.642843+00:00"
+  },
+  {
+    "incoming_name": "Folio",
+    "incoming_normalized": "folio",
+    "matched_project_id": "al-folio",
+    "matched_project_name": "al-folio",
+    "similarity_score": 83.33333333333334,
+    "channel": "@github",
+    "message_id": 11132,
+    "raw_text": "[**Folio**](https://github.com/carlos7ags/folio) — библиотека для работы с PDF на языке Go — механизм компоновки, преобразование HTML в PDF, форматирование текста для языков с написанием слева направо, справа налево, индийских языков и китайского, японского и корейского, редактирование, формы, цифровые подписи, штрихкоды, импорт страниц и соответствие стандарту PDF/A.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-28T20:31:19.687637+00:00"
+  },
+  {
+    "incoming_name": "Heroicgameslauncher",
+    "incoming_normalized": "heroicgameslauncher",
+    "matched_project_id": "flavioislima-heroicgameslauncher",
+    "matched_project_name": "flavioislima/HeroicGamesLauncher",
+    "similarity_score": 76.0,
+    "channel": "@github",
+    "message_id": 11133,
+    "raw_text": "[**HeroicGamesLauncher**](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) — игровой лаунчер для GOG, Amazon и Epic Games для Linux, Windows и macOS.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-28T20:31:20.101530+00:00"
   }
 ]

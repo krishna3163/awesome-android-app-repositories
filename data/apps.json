@@ -1,5 +1,62 @@
 [
   {
+    "id": "typephp",
+    "name": "Typephp",
+    "description": "TypePHP turns PHP code into fast native programs, extensions, or shared libraries before you run them, so you get better speed, no warm-up time, and stronger source protection. It keeps normal PHP syntax, adds compile-time types, and can help you build CLI tools, services, or performance-heavy code with less runtime overhead, which can make your app faster and easier to ship.\n\nhttps://github.com/swoole/typephp",
+    "website": "",
+    "repository": "https://github.com/swoole/typephp",
+    "developer": {
+      "name": "swoole",
+      "url": "https://github.com/swoole"
+    },
+    "features": [],
+    "tags": [
+      "php"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15959,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-28T17:00:02+00:00",
+    "updated_at": "2026-08-28T20:31:16.857899+00:00"
+  },
+  {
+    "id": "hejustinsun-my-girlfriend-jingtian-latex",
+    "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+    "description": "**Language**: TeX\n**Stars**: 2683 **Issues**: 335 **Forks**: 437\n[https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)",
+    "website": "",
+    "repository": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+    "developer": {
+      "name": "HEJustinSun",
+      "url": "https://github.com/HEJustinSun"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13709,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-28T10:00:02+00:00",
+    "updated_at": "2026-08-28T20:31:13.280292+00:00"
+  },
+  {
     "id": "localai-org-kimodo-cpp",
     "name": "localai-org/kimodo.cpp",
     "description": "NVIDIA Kimodo ported to C++/GGML\n**Language**: C++\n**Stars**: 496 **Issues**: 0 **Forks**: 43\n[https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)",
@@ -159,7 +216,7 @@
     },
     "status": "active",
     "created_at": "2026-08-27T14:33:51+00:00",
-    "updated_at": "2026-08-27T23:23:50.260566+00:00"
+    "updated_at": "2026-08-28T20:31:19.172933+00:00"
   },
   {
     "id": "go-modern-guidelines",
@@ -223891,7 +223948,7 @@
     },
     "status": "active",
     "created_at": "2024-10-15T10:57:01+00:00",
-    "updated_at": "2026-08-27T13:23:30.948345+00:00"
+    "updated_at": "2026-08-28T20:31:19.049551+00:00"
   },
   {
     "id": "panphp-pan",

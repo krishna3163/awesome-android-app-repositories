@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16992`
+> **Total Cataloged Projects:** `16994`
 
 ---
 
@@ -6274,6 +6274,7 @@
 | **hectorm/docker-qemu-win2000** | A Docker image for Windows 2000 Advanced Server with SP4. | [GitHub](https://github.com/hectorm/docker-qemu-win2000) | — | `GitHub, OpenSource` |
 | **hediet/vscode-drawio** | This extension integrates Draw.io into VS Code. | [GitHub](https://github.com/hediet/vscode-drawio) | — | `GitHub, OpenSource, TypeScript, Code, Interesting` |
 | **hediet/vscode-realtime-debugging** | An extension for VS Code that visualizes how a program is being execu… | [GitHub](https://github.com/hediet/vscode-realtime-debugging) | — | `GitHub, OpenSource` |
+| **HEJustinSun/my-girlfriend-jingtian-latex** | **Language**: TeX | [GitHub](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | — | `GitHub, OpenSource` |
 | **HeliBoard** | **HeliBoard** is an __up-to-date__ fork of [OpenBoard](https://github… | [GitHub](https://github.com/openboard-team/openboard) | — | `Android, Keyboard, AI, Interesting` |
 | **Helicone** | Helicone is an all-in-one, open-source platform for developing and ma… | [GitHub](https://github.com/Helicone/helicone) | — | `typescript, agent_monitoring, analytics, evaluation, gpt, langchain, large_language_models, llama_index, llm, llm_cost, llm_evaluation, llm_observability, llmops, monitoring, open_source, openai, playground, prompt_engineering, prompt_management, ycombinator, GitHub, OpenSource` |
 | **Helium** | Helium is a Python library that makes it easier to automate web brows… | [GitHub](https://github.com/mherrmann/helium) | — | `python, chrome, firefox, helium, python3, selenium, selenium_python, web_automation, web_scraping, webdriver, GitHub, OpenSource` |
@@ -15196,6 +15197,7 @@
 | **typeddjango/awesome-python-typing** | Collection of awesome Python types, stubs, plugins, and tools to work… | [GitHub](https://github.com/typeddjango/awesome-python-typing) | — | `awesome_list, mypy, mypy_plugins, mypy_stubs, pep484, pyi, python, python_stubs, python_types` |
 | **Typeid Python** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/akhundMurad/typeid-python) | — | `GitHub, OpenSource` |
 | **Typeorm** | TypeORM is a powerful tool for managing databases in various JavaScri… | [GitHub](https://github.com/typeorm/typeorm) | — | `typescript, active_record, cockroachdb, data_mapper, database, electron, hacktoberfest, javascript, mariadb, mysql, oracle, orm, postgresql, react_native, sap, sap_hana, sqlite, sqlserver, typeorm, websql` |
+| **Typephp** | TypePHP turns PHP code into fast native programs, extensions, or shar… | [GitHub](https://github.com/swoole/typephp) | — | `php` |
 | **Typescript** | 🔗 [https://github.com/microsoft/TypeScript](https://github.com/micros… | [GitHub](https://github.com/microsoft/TypeScript) | — | `typescript, javascript, language, typechecker, go` |
 | **typescript-eslint/typescript-eslint** | :sparkles: Monorepo for all the tooling which enables ESLint to suppo… | [GitHub](https://github.com/typescript-eslint/typescript-eslint) | — | `GitHub, OpenSource, typescript, eslint, eslint_plugin, eslintplugin, plugin, tslint` |
 | **typescript-tutorial** | **typescript tutorials | [GitHub](https://github.com/wangdoc/typescript-tutorial) | — | `typescript` |
