@@ -4,7 +4,20 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13401`
+> **Total Apps in Category:** `13402`
+
+---
+
+### 📦 Tencent/WeMM-Embedding
+
+> **Categories:** `#embedding_models` `#multimodal` `#multimodal_llm`
+
+WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
+- 👤 **Developer:** [Tencent](https://github.com/Tencent)
+
 
 ---
 
@@ -197567,15 +197580,17 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Tencent/WeMM-Embedding
+### 📦 N4darae/anti-mage
 
-> **Categories:** `#embedding_models` `#multimodal` `#multimodal_llm`
+> **Categories:** `#GitHub` `#OpenSource`
 
-WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
-**Language**: Python
+Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.
+**Language**: Go
+**Stars**: 607 **Issues**: 0 **Forks**: 36
+[https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
 
-- 🐙 **Source Code:** [https://github.com/Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
-- 👤 **Developer:** [Tencent](https://github.com/Tencent)
+- 🐙 **Source Code:** [https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+- 👤 **Developer:** [N4darae](https://github.com/N4darae)
 
 
 ---

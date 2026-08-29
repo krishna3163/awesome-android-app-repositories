@@ -44691,5 +44691,27 @@
     "message_id": 11133,
     "raw_text": "[**HeroicGamesLauncher**](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) — игровой лаунчер для GOG, Amazon и Epic Games для Linux, Windows и macOS.\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-28T20:31:20.101530+00:00"
+  },
+  {
+    "incoming_name": "Opendocs",
+    "incoming_normalized": "opendocs",
+    "matched_project_id": "opendrop",
+    "matched_project_name": "opendrop",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11135,
+    "raw_text": "[**OpenDocs**](https://github.com/ioteverythin/OpenDocs) — инструмент, который мгновенно преобразует репозитории в документацию.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-29T09:43:30.522982+00:00"
+  },
+  {
+    "incoming_name": "Deep Eye",
+    "incoming_normalized": "deepeye",
+    "matched_project_id": "deepep",
+    "matched_project_name": "Deepep",
+    "similarity_score": 76.92307692307692,
+    "channel": "@github",
+    "message_id": 11136,
+    "raw_text": "[**Deep Eye**](https://github.com/zakirkun/deep-eye) управляет несколькими поставщиками искусственного интеллекта (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) для интеллектуальной генерации полезной нагрузки, сканирует цели на наличие более 45 типов уязвимостей и создает профессиональные отчеты с отображением соответствия требованиям.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "timestamp": "2026-08-29T09:43:31.252552+00:00"
   }
 ]

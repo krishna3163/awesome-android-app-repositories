@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16995`
+> **Total Cataloged Projects:** `16996`
 
 ---
 
@@ -9983,6 +9983,7 @@
 | **N-l1/home-assistant-config** | 💫 Lovelace soft UI configuration | — | [Website](https://github.com/N-l1/home-assistant-config) | `home_assistant_config, lovelace_ui` |
 | **n1xbyte/CVE-2019-0708** | dump | [GitHub](https://github.com/n1xbyte/CVE-2019-0708) | — | `GitHub, OpenSource` |
 | **n3r4zzurr0/svg-spinners** | A collection of 24 x 24 dp SVG spinners! | [GitHub](https://github.com/n3r4zzurr0/svg-spinners) | — | `GitHub, OpenSource` |
+| **N4darae/anti-mage** | Browser testing utilizes various methods and algorithms, and performs… | [GitHub](https://github.com/N4darae/anti-mage) | — | `GitHub, OpenSource` |
 | **n7olkachev/imgdiff** | Faster than the fastest in the world pixel-by-pixel image difference… | [GitHub](https://github.com/n7olkachev/imgdiff) | — | `GitHub, OpenSource` |
 | **n8n** | Fair-code workflow automation platform with native AI capabilities. C… | [GitHub](https://github.com/n8n-io/n8n) | [Website](https://github.com/open-webui/open-webui) | `github, typescript, apis, automated, automation, cli, data_flow, development, docker, integration_framework, integrations, ipaas, low_code, low_code_development_platform, low_code_platform, n8n, no_code, node, self_hosted, workflow, workflow_automation, OpenSource` |
 | **N8N Mcp** | 🔗 [https://github.com/czlonkowski/n8n-mcp](https://github.com/czlonko… | [GitHub](https://github.com/czlonkowski/n8n-mcp) | — | `GitHub, OpenSource, typescript, mcp, mcp_server, n8n, workflows` |

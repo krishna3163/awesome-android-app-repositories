@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16995`
+- 📦 **Total Discovered Apps & Projects:** `16996`
 - 🏷️ **Unique Categories / Tags:** `15532`
-- 🔄 **Last Automatically Synchronized:** `2026-08-29 02:57 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-29 09:43 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13401 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13402 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `781 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `693 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,26 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `347 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16995 cataloged applications | `16995 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16996 cataloged applications | `16996 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16995 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16996 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Tencent/WeMM-Embedding
+
+> **Categories:** `#embedding_models` `#multimodal` `#multimodal_llm`
+
+WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
+- 👤 **Developer:** [Tencent](https://github.com/Tencent)
+
+
+---
 
 ### 📦 Typephp
 
@@ -610,39 +623,6 @@ ACME's completely free, open source SSL certificate self-hosting tool that autom
 
 - 🐙 **Source Code:** [https://github.com/tobi/walgit](https://github.com/tobi/walgit)
 - 👤 **Developer:** [tobi](https://github.com/tobi)
-
-
----
-
-### 📦 L.L.E. — Legacy Lockscreen Effects
-
-> **Categories:** `#Android` `#Utilities` `#Customization`
-
-Bring classic Android lockscreen effects to modern devices — no root, fully customizable and private.
-
-- 🐙 **Source Code:** [https://t.me/popCLOUDS/13578](https://t.me/popCLOUDS/13578)
-- 👤 **Developer:** [Manuel Biagini](https://github.com/Brazzo978)
-
-<details>
-<summary><b>✨ Key Features (15)</b> — <i>Click to expand</i></summary>
-
-- **Classic Android Lockscreen Effects** — brings back classic unlock effects
-- **No Root Required** — works without root access
-- **Open Source** — public and auditable source code
-- **Offline / Local by Design** — does not request INTERNET permission
-- **Custom Touch Area** — lets you configure the touch area for the effect
-- **Custom Wallpaper Support** — captures the lockscreen or uses an image selected by the user
-- **Lock & Unlock Sounds** — several effects include classic sounds
-- **Charging Doodles** — animations/doodles displayed while charging
-- **Seasonal Effects** — Spring, Summer, Autumn, and Winter
-- **Samsung Fold Support** — separate settings for the Cover and Main screens
-- **Automatic Lockscreen Detection** — uses Accessibility to detect lock and unlock events
-- Android 6+ Support
-- **ARM64 Optimized** — the ARM64 version is the main and most up-to-date build
-- **Debug Report** — generates local diagnostic reports
-- **Privacy Focused** — wallpapers, captures, settings, and reports remain on the device
-
-</details>
 
 
 ---
