@@ -14127,7 +14127,7 @@ Turn any technical book PDF into a Claude Code skill — ready to study, referen
 
 ### 📦 9Router
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#go` `#agentic_coding` `#ai_gateway` `#anthropic` `#claude_code` `#codex` `#model_router` `#openai_compatible`
 
 🔗 [https://github.com/decolua/9router](https://github.com/decolua/9router)
 📝 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.

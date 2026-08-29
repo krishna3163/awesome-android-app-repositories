@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `693`
+> **Total Apps in Category:** `694`
 
 ---
 
@@ -11586,6 +11586,19 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
+
+
+---
+
+### 📦 totec448-spec/chat-on-steroids
+
+> **Categories:** `#automation` `#chatgpt` `#chrome_extension` `#electron` `#linux` `#local_first` `#macos` `#mcp` `#multi_agent` `#windows`
+
+Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+- 👤 **Developer:** [totec448-spec](https://github.com/totec448-spec)
 
 
 ---

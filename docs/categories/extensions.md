@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `347`
+> **Total Apps in Category:** `348`
 
 ---
 
@@ -5566,6 +5566,19 @@ A Burp Suite extension to help pentesters to bypass WAFs or test their effective
 
 - 🐙 **Source Code:** [https://github.com/nccgroup/BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
 - 👤 **Developer:** [nccgroup](https://github.com/nccgroup)
+
+
+---
+
+### 📦 totec448-spec/chat-on-steroids
+
+> **Categories:** `#automation` `#chatgpt` `#chrome_extension` `#electron` `#linux` `#local_first` `#macos` `#mcp` `#multi_agent` `#windows`
+
+Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+- 👤 **Developer:** [totec448-spec](https://github.com/totec448-spec)
 
 
 ---

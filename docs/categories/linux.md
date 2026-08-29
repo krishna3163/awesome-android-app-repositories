@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `781`
+> **Total Apps in Category:** `782`
 
 ---
 
@@ -13592,6 +13592,19 @@ FBGraphics (FBG) is a simple C 24 bpp graphics library for the Linux framebuffer
 
 - 🐙 **Source Code:** [https://github.com/grz0zrg/fbg](https://github.com/grz0zrg/fbg)
 - 👤 **Developer:** [grz0zrg](https://github.com/grz0zrg)
+
+
+---
+
+### 📦 totec448-spec/chat-on-steroids
+
+> **Categories:** `#automation` `#chatgpt` `#chrome_extension` `#electron` `#linux` `#local_first` `#macos` `#mcp` `#multi_agent` `#windows`
+
+Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+- 👤 **Developer:** [totec448-spec](https://github.com/totec448-spec)
 
 
 ---

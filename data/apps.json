@@ -1,5 +1,42 @@
 [
   {
+    "id": "totec448-spec-chat-on-steroids",
+    "name": "totec448-spec/chat-on-steroids",
+    "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.\n**Language**: TypeScript",
+    "website": "",
+    "repository": "https://github.com/totec448-spec/chat-on-steroids",
+    "developer": {
+      "name": "totec448-spec",
+      "url": "https://github.com/totec448-spec"
+    },
+    "features": [],
+    "tags": [
+      "automation",
+      "chatgpt",
+      "chrome_extension",
+      "electron",
+      "linux",
+      "local_first",
+      "macos",
+      "mcp",
+      "multi_agent",
+      "windows"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13715,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-29T22:00:02+00:00",
+    "updated_at": "2026-08-29T23:44:43.750521+00:00"
+  },
+  {
     "id": "voicelive-api-salescoach",
     "name": "Voicelive Api Salescoach",
     "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -11500,7 +11537,7 @@
     },
     "status": "active",
     "created_at": "2026-07-22T14:32:06+00:00",
-    "updated_at": "2026-08-23T08:10:19.654207+00:00"
+    "updated_at": "2026-08-29T23:44:47.532324+00:00"
   },
   {
     "id": "edit-mind",
@@ -38623,7 +38660,15 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "go",
+      "agentic_coding",
+      "ai_gateway",
+      "anthropic",
+      "claude_code",
+      "codex",
+      "model_router",
+      "openai_compatible"
     ],
     "images": {
       "cover": "",
@@ -38637,7 +38682,7 @@
     },
     "status": "active",
     "created_at": "2026-05-07T20:01:01+00:00",
-    "updated_at": "2026-08-23T07:57:14.145600+00:00"
+    "updated_at": "2026-08-29T23:44:45.946189+00:00"
   },
   {
     "id": "expensy",

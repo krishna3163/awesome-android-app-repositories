@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16999`
+> **Total Cataloged Projects:** `17000`
 
 ---
 
@@ -223,7 +223,7 @@
 | **996icu/****996.ICU** | Repo for counting stars and contributing. Press F to pay respect to g… | [GitHub](https://github.com/996icu/996.ICU) | — | `GitHub, OpenSource` |
 | **9emin1/charlotte** | c++ fully undetected shellcode launcher ;) | [GitHub](https://github.com/9emin1/charlotte) | — | `GitHub, OpenSource` |
 | **9j/claude-code-mux** | High-performance AI routing proxy built in Rust with automatic failov… | [GitHub](https://github.com/9j/claude-code-mux) | — | `ai, anthropic, claude_code, claude_code_router, openai` |
-| **9Router** | 🔗 [https://github.com/decolua/9router](https://github.com/decolua/9ro… | [GitHub](https://github.com/decolua/9router) | — | `GitHub, OpenSource` |
+| **9Router** | 🔗 [https://github.com/decolua/9router](https://github.com/decolua/9ro… | [GitHub](https://github.com/decolua/9router) | — | `GitHub, OpenSource, go, agentic_coding, ai_gateway, anthropic, claude_code, codex, model_router, openai_compatible` |
 | **[** | ](https://telegra.ph/file/f4d7def36e401ae727022.jpg)**We use a script… | [GitHub](https://github.com/Cesar-Hack-Gray/SocialSploit) | — | `GitHub, OpenSource` |
 | **[** | ](https://telegra.ph/file/bb790668d1bd51465d01a.jpg)**​🔖 A selection… | [GitHub](https://github.com/enaqx/awesome-pentest) | [Website](https://github.com/anubi5egypt/awesome-web-pentest) | `Selection, Linux, OSINT, Cobalt_Strike, Pentest, Android, Anonymity, Book, Course` |
 | **[** | ](https://telegra.ph/file/a7ed9785b311121043ad8.jpg)**​🔖 A selection… | [GitHub](https://t.me/Social_engineering/1093) | — | `security, Selection, Linux, Anonymity, Book, Course, Pentest` |
@@ -14986,6 +14986,7 @@
 | **total-typescript/ts-reset** | A 'CSS reset' for TypeScript, improving types for common JavaScript A… | [GitHub](https://github.com/total-typescript/ts-reset) | — | `reset, typescript, ts` |
 | **total-typescript/typescript-generics-tutorial** | Interactive tutorial on using generics in TypeScript | [GitHub](https://github.com/total-typescript/typescript-generics-tutorial) | — | `tutorial, typescript` |
 | **totannymars271/SpotifyStreamingBot** | spotify stream bot 💥 updated feb 2024 💥 spotify streamer bot can stre… | [GitHub](https://github.com/totannymars271/SpotifyStreamingBot) | — | `GitHub, OpenSource` |
+| **totec448-spec/chat-on-steroids** | Cross-platform local MCP capabilities for ChatGPT with Chrome integra… | [GitHub](https://github.com/totec448-spec/chat-on-steroids) | — | `automation, chatgpt, chrome_extension, electron, linux, local_first, macos, mcp, multi_agent, windows` |
 | **tothi/ad-honeypot-autodeploy** | Deploy a small, intentionally insecure, vulnerable Windows Domain for… | [GitHub](https://github.com/tothi/ad-honeypot-autodeploy) | — | `GitHub, OpenSource` |
 | **Totoro97/NeuS** | Code release for NeuS | [GitHub](https://github.com/Totoro97/NeuS) | — | `GitHub, OpenSource` |
 | **tottie000/GopherIllustrations** | This is an illustration of Gopher, the mascot of the Go programming l… | [GitHub](https://github.com/tottie000/GopherIllustrations) | — | `GitHub, OpenSource` |
