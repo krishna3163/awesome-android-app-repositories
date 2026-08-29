@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16994`
+> **Total Cataloged Projects:** `16995`
 
 ---
 
@@ -14476,6 +14476,7 @@
 | **Tencent/TubeMQ** | TubeMQ focuses on high-performance storage and transmission of massiv… | [GitHub](https://github.com/Tencent/TubeMQ) | — | `GitHub, OpenSource` |
 | **Tencent/TurboTransformers** | a fast and user-friendly tool for transformer inference on CPU and GPU | [GitHub](https://github.com/Tencent/TurboTransformers) | — | `GitHub, OpenSource` |
 | **Tencent/UnLua** | A feature-rich, easy-learning and highly optimized Lua scripting plug… | [GitHub](https://github.com/Tencent/UnLua) | — | `GitHub, OpenSource, cplusplus` |
+| **Tencent/WeMM-Embedding** | WeMM-Embedding is a family of universal multimodal embedding models b… | [GitHub](https://github.com/Tencent/WeMM-Embedding) | — | `embedding_models, multimodal, multimodal_llm` |
 | **Tencent/Youtu-agent** | A simple yet powerful agent framework that delivers with open-source… | [GitHub](https://github.com/Tencent/Youtu-agent) | — | `agent_framework, agents, openai_agents, python, GitHub, OpenSource` |
 | **TencentARC/BrushEdit** | The official implementation of paper "BrushEdit: All-In-One Image Inp… | [GitHub](https://github.com/TencentARC/BrushEdit) | — | `diffusion_models, image_editing, image_inpainting` |
 | **TencentARC/ColorFlow** | The official implementation of paper "ColorFlow: Retrieval-Augmented… | [GitHub](https://github.com/TencentARC/ColorFlow) | — | `GitHub, OpenSource` |

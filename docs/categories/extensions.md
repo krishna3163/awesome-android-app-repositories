@@ -8,6 +8,20 @@
 
 ---
 
+### 📦 Typephp
+
+> **Categories:** `#php`
+
+TypePHP turns PHP code into fast native programs, extensions, or shared libraries before you run them, so you get better speed, no warm-up time, and stronger source protection. It keeps normal PHP syntax, adds compile-time types, and can help you build CLI tools, services, or performance-heavy code with less runtime overhead, which can make your app faster and easier to ship.
+
+https://github.com/swoole/typephp
+
+- 🐙 **Source Code:** [https://github.com/swoole/typephp](https://github.com/swoole/typephp)
+- 👤 **Developer:** [swoole](https://github.com/swoole)
+
+
+---
+
 ### 📦 b-nnett/grok-bot-0.18-reconstructed
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -5552,20 +5566,6 @@ A Burp Suite extension to help pentesters to bypass WAFs or test their effective
 
 - 🐙 **Source Code:** [https://github.com/nccgroup/BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
 - 👤 **Developer:** [nccgroup](https://github.com/nccgroup)
-
-
----
-
-### 📦 Typephp
-
-> **Categories:** `#php`
-
-TypePHP turns PHP code into fast native programs, extensions, or shared libraries before you run them, so you get better speed, no warm-up time, and stronger source protection. It keeps normal PHP syntax, adds compile-time types, and can help you build CLI tools, services, or performance-heavy code with less runtime overhead, which can make your app faster and easier to ship.
-
-https://github.com/swoole/typephp
-
-- 🐙 **Source Code:** [https://github.com/swoole/typephp](https://github.com/swoole/typephp)
-- 👤 **Developer:** [swoole](https://github.com/swoole)
 
 
 ---

@@ -1,5 +1,35 @@
 [
   {
+    "id": "tencent-wemm-embedding",
+    "name": "Tencent/WeMM-Embedding",
+    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/Tencent/WeMM-Embedding",
+    "developer": {
+      "name": "Tencent",
+      "url": "https://github.com/Tencent"
+    },
+    "features": [],
+    "tags": [
+      "embedding_models",
+      "multimodal",
+      "multimodal_llm"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13711,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-28T22:00:03+00:00",
+    "updated_at": "2026-08-29T02:57:38.705515+00:00"
+  },
+  {
     "id": "typephp",
     "name": "Typephp",
     "description": "TypePHP turns PHP code into fast native programs, extensions, or shared libraries before you run them, so you get better speed, no warm-up time, and stronger source protection. It keeps normal PHP syntax, adds compile-time types, and can help you build CLI tools, services, or performance-heavy code with less runtime overhead, which can make your app faster and easier to ship.\n\nhttps://github.com/swoole/typephp",
@@ -30955,7 +30985,7 @@
     },
     "status": "active",
     "created_at": "2026-05-29T16:57:04+00:00",
-    "updated_at": "2026-08-27T23:23:54.807806+00:00"
+    "updated_at": "2026-08-29T02:57:42.625691+00:00"
   },
   {
     "id": "alfiyahkamilah1239298-wallpaperdownloader-26",

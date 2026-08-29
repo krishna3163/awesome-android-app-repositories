@@ -4,7 +4,21 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13400`
+> **Total Apps in Category:** `13401`
+
+---
+
+### 📦 HEJustinSun/my-girlfriend-jingtian-latex
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: TeX
+**Stars**: 2683 **Issues**: 335 **Forks**: 437
+[https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
+
+- 🐙 **Source Code:** [https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
+- 👤 **Developer:** [HEJustinSun](https://github.com/HEJustinSun)
+
 
 ---
 
@@ -197553,16 +197567,15 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 HEJustinSun/my-girlfriend-jingtian-latex
+### 📦 Tencent/WeMM-Embedding
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#embedding_models` `#multimodal` `#multimodal_llm`
 
-**Language**: TeX
-**Stars**: 2683 **Issues**: 335 **Forks**: 437
-[https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
+WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+**Language**: Python
 
-- 🐙 **Source Code:** [https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
-- 👤 **Developer:** [HEJustinSun](https://github.com/HEJustinSun)
+- 🐙 **Source Code:** [https://github.com/Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
+- 👤 **Developer:** [Tencent](https://github.com/Tencent)
 
 
 ---
