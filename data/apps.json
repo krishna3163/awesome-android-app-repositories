@@ -1,5 +1,67 @@
 [
   {
+    "id": "voicelive-api-salescoach",
+    "name": "Voicelive Api Salescoach",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "website": "",
+    "repository": "https://github.com/Azure-Samples/voicelive-api-salescoach",
+    "developer": {
+      "name": "Azure-Samples",
+      "url": "https://github.com/Azure-Samples"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11139,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-29T17:33:29+00:00",
+    "updated_at": "2026-08-29T18:03:05.114221+00:00"
+  },
+  {
+    "id": "xiaoduoya-codex-with-chatgpt",
+    "name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.\n**Language**: TypeScript",
+    "website": "",
+    "repository": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "developer": {
+      "name": "XiaoDuoYa",
+      "url": "https://github.com/XiaoDuoYa"
+    },
+    "features": [],
+    "tags": [
+      "ai_agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model_context_protocol",
+      "oauth"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13714,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-29T16:00:03+00:00",
+    "updated_at": "2026-08-29T18:02:59.960702+00:00"
+  },
+  {
     "id": "amosblomqvist-learn",
     "name": "amosblomqvist/learn",
     "description": "My AI learning system.\n**Language**: TypeScript\n**Stars**: 675 **Issues**: 4 **Forks**: 71\n[https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)",
@@ -233064,7 +233126,9 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "Llama",
+      "KnowledgeGraph"
     ],
     "images": {
       "cover": "",
@@ -233078,7 +233142,7 @@
     },
     "status": "active",
     "created_at": "2024-09-20T16:00:03+00:00",
-    "updated_at": "2026-08-23T09:18:24.337129+00:00"
+    "updated_at": "2026-08-29T18:03:01.307544+00:00"
   },
   {
     "id": "enclosed",

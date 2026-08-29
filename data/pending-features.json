@@ -30290,5 +30290,68 @@
     "channel": "popCLOUDS",
     "message_id": 13547,
     "received_at": "2026-08-23T04:49:18.389611+00:00"
+  },
+  {
+    "raw_title": "Screenshots of SideDeck:",
+    "normalized_title": "sidedeck",
+    "features": [],
+    "image_paths": [],
+    "channel": "popCLOUDS",
+    "message_id": 13579,
+    "received_at": "2026-08-29T18:03:06.578662+00:00"
+  },
+  {
+    "raw_title": "Features of SideDeck:",
+    "normalized_title": "sidedeck",
+    "features": [
+      {
+        "title": "Dual-Deck Mixing",
+        "description": "mix two tracks at the same time"
+      },
+      {
+        "title": "Live Waveforms",
+        "description": "visual waveforms for both decks"
+      },
+      {
+        "title": "BPM & Key Detection",
+        "description": "automatically analyzes tempo and musical key"
+      },
+      {
+        "title": "Auto Sync",
+        "description": "synchronizes track BPM for easier mixing"
+      },
+      {
+        "title": "EQ & Crossfader",
+        "description": "built-in 3-band EQ, filter, volume, and crossfader"
+      },
+      {
+        "title": "Loop & Beat Jump",
+        "description": "create loops and quickly jump through tracks"
+      },
+      {
+        "title": "MP3 & WAV Support",
+        "description": "plays local audio files"
+      },
+      {
+        "title": "Subsonic / Navidrome Support",
+        "description": "stream and cache tracks from your own music server"
+      },
+      {
+        "title": "USB Mixer Support",
+        "description": "routes each deck to separate USB audio channels"
+      },
+      {
+        "title": "Open Source",
+        "description": "public and auditable source code"
+      },
+      {
+        "title": "Android 8+ Support",
+        "description": "designed for modern Android devices"
+      }
+    ],
+    "image_paths": [],
+    "channel": "popCLOUDS",
+    "message_id": 13586,
+    "received_at": "2026-08-29T18:03:06.749847+00:00"
   }
 ]

@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16997`
+> **Total Cataloged Projects:** `16999`
 
 ---
 
@@ -11855,7 +11855,7 @@
 | **Punch-hole Download Progress** | Xposed module that shows download progress as a ring around the camer… | [GitHub](https://github.com/hxreborn/punch-hole-download-progress) | — | `Android, Xposed, Modules, Customization` |
 | **Pungyeon/clean-go-article** | The motivation behind writing this document, is to create a resource… | [GitHub](https://github.com/Pungyeon/clean-go-article) | — | `GitHub, OpenSource` |
 | **Punktf** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/Shemnei/punktf) | — | `GitHub, OpenSource` |
-| **punnerud/Local_Knowledge_Graph** | **Language**: Python | [GitHub](https://github.com/punnerud/Local_Knowledge_Graph) | — | `GitHub, OpenSource` |
+| **punnerud/Local_Knowledge_Graph** | **Language**: Python | [GitHub](https://github.com/punnerud/Local_Knowledge_Graph) | — | `GitHub, OpenSource, Llama, KnowledgeGraph` |
 | **Puppeteer** | 🔗 [https://github.com/puppeteer/puppeteer](https://github.com/puppete… | [GitHub](https://github.com/puppeteer/puppeteer) | — | `GitHub, OpenSource, typescript, automation, chrome, chromium, developer_tools, firefox, headless_chrome, node_module, testing, web, API` |
 | **Puppygit** | ✳️** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/catpuppyapp/PuppyGit) | — | `GitHub, OpenSource` |
 | **Pure Bash Bible** | Using snippets from this bible can help remove unnecessary dependenci… | [GitHub](https://github.com/dylanaraps/pure-bash-bible) | — | `Interesting, Bash, Archive` |
@@ -15680,6 +15680,7 @@
 | **Voicebox** | 🔗 [https://github.com/jamiepine/voicebox](https://github.com/jamiepin… | [GitHub](https://github.com/jamiepine/voicebox) | — | `GitHub, OpenSource, typescript, ai, cuda, mlx, qwen3_tts, qwen3_tts_ui, voice_ai, voice_clone, whisper` |
 | **Voicecraft** | VoiceCraft is a powerful tool that lets you edit speech and convert t… | [GitHub](https://github.com/jasonppy/VoiceCraft) | — | `jupyter_notebook, GitHub, OpenSource` |
 | **Voiceink** | VoiceInk is a powerful voice-to-text app for macOS that transcribes y… | [GitHub](https://github.com/Beingpax/VoiceInk) | — | `swift, macos, macos_app` |
+| **Voicelive Api Salescoach** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Pl… | [GitHub](https://github.com/Azure-Samples/voicelive-api-salescoach) | — | `GitHub, OpenSource` |
 | **Voidauth** | It's easy to use for both administrators and end users and supports u… | [GitHub](https://github.com/voidauth/voidauth) | — | `GitHub, OpenSource` |
 | **voideditor/void** | **Language**: TypeScript | [GitHub](https://github.com/voideditor/void) | — | `chatgpt, claude, copilot, cursor, developer_tools, editor, llm, open_source, openai, visual_studio_code, vscode, vscode_extension, typescript` |
 | **voidstarsec/hw-hacking-lab** | Guide to setting up a hardware hacking lab | [GitHub](https://github.com/voidstarsec/hw-hacking-lab) | — | `GitHub, OpenSource` |
@@ -16325,6 +16326,7 @@
 | **xiangsx/gpt4free-ts** | This is a replication project for the typescript version of xtekky/gp… | [GitHub](https://github.com/xiangsx/gpt4free-ts) | — | `chatbot, chatbots, chatgpt, chatgpt_free, chatgpt4, free_gpt, gpt, gpt_3, gpt_35_turbo, gpt_4, gpt4, gpt4_api, gpt4free, nodejs, openai, typescript` |
 | **xianzhez/Coding-Interview-101** | Coding interview tips | [GitHub](https://github.com/xianzhez/Coding-Interview-101) | — | `GitHub, OpenSource` |
 | **xiaobright/dsh-anchored-standard** | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then fu… | [GitHub](https://github.com/xiaobright/dsh-anchored-standard) | — | `deepseek, deepseek_harness, dsh_plugin, llm_agent` |
+| **XiaoDuoYa/codex-with-chatgpt** | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while… | [GitHub](https://github.com/XiaoDuoYa/codex-with-chatgpt) | — | `ai_agents, chatgpt, codex, mcp, model_context_protocol, oauth` |
 | **Xiaoju Survey** | XIAOJUSURVEY is a lightweight and secure survey system that helps you… | [GitHub](https://github.com/didi/xiaoju-survey) | — | `typescript, dynamic_form_builder, enterprises, form, form_builder, java, nodejs, question, quiz, react_native, survey, vue3` |
 | **xiaolai-sqlai/mobilenetv3** | mobilenetv3 with pytorch，provide pre-train model | [GitHub](https://github.com/xiaolai-sqlai/mobilenetv3) | — | `GitHub, OpenSource` |
 | **xiaolai/bitcoin-whitepaper-chinese-translation** | **Language**: HTML | [GitHub](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) | — | `GitHub, OpenSource` |

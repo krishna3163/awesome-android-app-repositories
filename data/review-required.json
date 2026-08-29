@@ -44724,5 +44724,16 @@
     "message_id": 11137,
     "raw_text": "[**Netscanner**](https://github.com/Chleba/netscanner) — сканер терминальной сети и диагностический инструмент с современным TUI\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-29T14:50:12.512051+00:00"
+  },
+  {
+    "incoming_name": "SideDeck",
+    "incoming_normalized": "sidedeck",
+    "matched_project_id": "sidekick",
+    "matched_project_name": "Sidekick",
+    "similarity_score": 75.0,
+    "channel": "@popMODS",
+    "message_id": 8686,
+    "raw_text": "SideDeck\n\nAndroid DJ deck for local files and a Subsonic music server. Landscape dual decks, waveforms, and an internal mixer, or four-channel USB out to an external mixer such as the Teenage Engineering EP-136 K.O. Sidekick.\n\n🔗 Links: \n- [Download](https://github.com/manueljpy/SideDeck/releases/tag/v1.0.4)\n- [Screenshots](https://t.me/popCLOUDS/13580?single)\n- [Features](https://t.me/popCLOUDS/13586)\n- [Source code](https://github.com/manueljpy/SideDeck)\nDeveloper: [manueljpy](https://github.co",
+    "timestamp": "2026-08-29T18:02:58.771569+00:00"
   }
 ]

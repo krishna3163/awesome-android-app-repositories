@@ -4,7 +4,22 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13403`
+> **Total Apps in Category:** `13405`
+
+---
+
+### 📦 amosblomqvist/learn
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+My AI learning system.
+**Language**: TypeScript
+**Stars**: 675 **Issues**: 4 **Forks**: 71
+[https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+
+- 🐙 **Source Code:** [https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+- 👤 **Developer:** [amosblomqvist](https://github.com/amosblomqvist)
+
 
 ---
 
@@ -81677,7 +81692,7 @@ Visualize npm downloads in a beautiful chart, ready to be shared with your commu
 
 ### 📦 punnerud/Local_Knowledge_Graph
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#Llama` `#KnowledgeGraph`
 
 **Language**: Python
 **Stars**: 209 **Issues**: 0 **Forks**: 14
@@ -197595,17 +197610,27 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 amosblomqvist/learn
+### 📦 XiaoDuoYa/codex-with-chatgpt
+
+> **Categories:** `#ai_agents` `#chatgpt` `#codex` `#mcp` `#model_context_protocol` `#oauth`
+
+ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
+- 👤 **Developer:** [XiaoDuoYa](https://github.com/XiaoDuoYa)
+
+
+---
+
+### 📦 Voicelive Api Salescoach
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-My AI learning system.
-**Language**: TypeScript
-**Stars**: 675 **Issues**: 4 **Forks**: 71
-[https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-- 🐙 **Source Code:** [https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
-- 👤 **Developer:** [amosblomqvist](https://github.com/amosblomqvist)
+- 🐙 **Source Code:** [https://github.com/Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach)
+- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
 
 
 ---
