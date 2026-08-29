@@ -14743,7 +14743,7 @@
 | **threepointone/react-act-examples** | Notes and examples on ReactTestUtils.act(...) | [GitHub](https://github.com/threepointone/react-act-examples) | — | `GitHub, OpenSource` |
 | **Threezh1/JSFinder** | JSFinder is a tool for quickly extracting URLs and subdomains from JS… | [GitHub](https://github.com/Threezh1/JSFinder) | — | `GitHub, OpenSource` |
 | **Thrift** | Apache Thrift is a tool that helps programs written in different prog… | [GitHub](https://github.com/apache/thrift) | — | `cplusplus, actionscript, c, csharp, d, dart, http, library, network_client, network_server, thrift` |
-| **THU-MAIC/OpenMAIC** | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agen… | [GitHub](https://github.com/THU-MAIC/OpenMAIC) | — | `GitHub, OpenSource` |
+| **THU-MAIC/OpenMAIC** | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agen… | [GitHub](https://github.com/THU-MAIC/OpenMAIC) | — | `GitHub, OpenSource, typescript` |
 | **THU-MIG/yolov10** | YOLOv10: Real-Time End-to-End Object Detection | [GitHub](https://github.com/THU-MIG/yolov10) | — | `GitHub, OpenSource` |
 | **thu-ml/prolificdreamer** | ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with… | [GitHub](https://github.com/thu-ml/prolificdreamer) | — | `diffusion_model, dreamfusion, nerf, prolificdreamer, stablediffusion, text_to_3d` |
 | **thu-ml/SageAttention** | Quantized Attention that achieves speedups of 2.1x and 2.7x compared… | [GitHub](https://github.com/thu-ml/SageAttention) | — | `attention, inference_acceleration, llm, quantization` |

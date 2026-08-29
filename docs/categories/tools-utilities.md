@@ -8,6 +8,31 @@
 
 ---
 
+### 📦 Voicelive Api Salescoach
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://github.com/Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach)
+- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
+
+
+---
+
+### 📦 XiaoDuoYa/codex-with-chatgpt
+
+> **Categories:** `#ai_agents` `#chatgpt` `#codex` `#mcp` `#model_context_protocol` `#oauth`
+
+ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
+- 👤 **Developer:** [XiaoDuoYa](https://github.com/XiaoDuoYa)
+
+
+---
+
 ### 📦 amosblomqvist/learn
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -19106,7 +19131,7 @@ https://github.com/YishenTu/claudian
 
 ### 📦 THU-MAIC/OpenMAIC
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#typescript`
 
 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 **Language**: TypeScript
@@ -197606,31 +197631,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 XiaoDuoYa/codex-with-chatgpt
-
-> **Categories:** `#ai_agents` `#chatgpt` `#codex` `#mcp` `#model_context_protocol` `#oauth`
-
-ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
-- 👤 **Developer:** [XiaoDuoYa](https://github.com/XiaoDuoYa)
-
-
----
-
-### 📦 Voicelive Api Salescoach
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-- 🐙 **Source Code:** [https://github.com/Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach)
-- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
 
 
 ---

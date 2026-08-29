@@ -53831,7 +53831,8 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "typescript"
     ],
     "images": {
       "cover": "",
@@ -53845,7 +53846,7 @@
     },
     "status": "active",
     "created_at": "2026-03-16T10:00:02+00:00",
-    "updated_at": "2026-08-23T07:47:59.175857+00:00"
+    "updated_at": "2026-08-29T21:25:04.930622+00:00"
   },
   {
     "id": "libretranslate",
@@ -163201,7 +163202,7 @@
     },
     "status": "active",
     "created_at": "2025-03-23T19:36:34+00:00",
-    "updated_at": "2026-08-23T09:44:45.305063+00:00"
+    "updated_at": "2026-08-29T21:25:06.386648+00:00"
   },
   {
     "id": "financetoolkit",

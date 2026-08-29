@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `16999`
 - 🏷️ **Unique Categories / Tags:** `15534`
-- 🔄 **Last Automatically Synchronized:** `2026-08-29 18:03 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-29 21:25 UTC`
 
 ---
 
@@ -290,6 +290,31 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **16999 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Voicelive Api Salescoach
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://github.com/Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach)
+- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
+
+
+---
+
+### 📦 XiaoDuoYa/codex-with-chatgpt
+
+> **Categories:** `#ai_agents` `#chatgpt` `#codex` `#mcp` `#model_context_protocol` `#oauth`
+
+ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
+- 👤 **Developer:** [XiaoDuoYa](https://github.com/XiaoDuoYa)
+
+
+---
 
 ### 📦 amosblomqvist/learn
 
@@ -600,31 +625,6 @@ Every coding-agent session on your Mac in one place — browse, search, resume. 
 
 - 🐙 **Source Code:** [https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
 - 👤 **Developer:** [iAmCorey](https://github.com/iAmCorey)
-
-
----
-
-### 📦 nateherkai/scroll-craft
-
-> **Categories:** `#accessibility` `#agent_skills` `#ai_web_design` `#anthropic` `#claude_code` `#claude_code_plugin` `#creative_coding` `#design_system` `#frontend` `#interaction_design` `#landing_page` `#scroll_animation` `#scrollytelling` `#typography` `#web_design`
-
-Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.
-**Language**: JavaScript
-
-- 🐙 **Source Code:** [https://github.com/nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)
-- 👤 **Developer:** [nateherkai](https://github.com/nateherkai)
-
-
----
-
-### 📦 Mobile Mcp
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-- 🐙 **Source Code:** [https://github.com/mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
-- 👤 **Developer:** [mobile-next](https://github.com/mobile-next)
 
 
 ---

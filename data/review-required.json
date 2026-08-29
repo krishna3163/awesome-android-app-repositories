@@ -44735,5 +44735,16 @@
     "message_id": 8686,
     "raw_text": "SideDeck\n\nAndroid DJ deck for local files and a Subsonic music server. Landscape dual decks, waveforms, and an internal mixer, or four-channel USB out to an external mixer such as the Teenage Engineering EP-136 K.O. Sidekick.\n\n🔗 Links: \n- [Download](https://github.com/manueljpy/SideDeck/releases/tag/v1.0.4)\n- [Screenshots](https://t.me/popCLOUDS/13580?single)\n- [Features](https://t.me/popCLOUDS/13586)\n- [Source code](https://github.com/manueljpy/SideDeck)\nDeveloper: [manueljpy](https://github.co",
     "timestamp": "2026-08-29T18:02:58.771569+00:00"
+  },
+  {
+    "incoming_name": "User Scanner",
+    "incoming_normalized": "userscanner",
+    "matched_project_id": "secretscanner",
+    "matched_project_name": "Secretscanner",
+    "similarity_score": 83.33333333333334,
+    "channel": "@githubtrending",
+    "message_id": 15960,
+    "raw_text": "#python #cybersecurity #cybersecurity_tools #email_osint #ethical_hacking #ethical_hacking_tools #identification #infosec #osint #osint_email #osint_tool #osint_tools #osint_username #pentesting #python #redteam_tools #redteaming #threat_intelligence \n\nUser Scanner is a tool for checking emails and usernames across 455+ sites to find accounts, profile details, links, and other public traces. It can also scan in bulk, make reports, use proxies, and connect to AI tools. This helps you save time, f",
+    "timestamp": "2026-08-29T21:25:04.922560+00:00"
   }
 ]
