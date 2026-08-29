@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `16996`
+- 📦 **Total Discovered Apps & Projects:** `16997`
 - 🏷️ **Unique Categories / Tags:** `15532`
-- 🔄 **Last Automatically Synchronized:** `2026-08-29 09:43 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-29 14:50 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13402 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13403 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `825 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `781 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `693 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,28 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `347 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 16996 cataloged applications | `16996 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 16997 cataloged applications | `16997 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **16996 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **16997 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 N4darae/anti-mage
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.
+**Language**: Go
+**Stars**: 607 **Issues**: 0 **Forks**: 36
+[https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+
+- 🐙 **Source Code:** [https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+- 👤 **Developer:** [N4darae](https://github.com/N4darae)
+
+
+---
 
 ### 📦 Tencent/WeMM-Embedding
 
@@ -609,20 +624,6 @@ ACME's completely free, open source SSL certificate self-hosting tool that autom
 
 - 🐙 **Source Code:** [https://github.com/certimate-go/certimate](https://github.com/certimate-go/certimate)
 - 👤 **Developer:** [certimate-go](https://github.com/certimate-go)
-
-
----
-
-### 📦 tobi/walgit
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Rust
-**Stars**: 1219 **Issues**: 0 **Forks**: 68
-[https://github.com/tobi/walgit](https://github.com/tobi/walgit)
-
-- 🐙 **Source Code:** [https://github.com/tobi/walgit](https://github.com/tobi/walgit)
-- 👤 **Developer:** [tobi](https://github.com/tobi)
 
 
 ---

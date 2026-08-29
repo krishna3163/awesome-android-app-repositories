@@ -4,7 +4,22 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13402`
+> **Total Apps in Category:** `13403`
+
+---
+
+### 📦 N4darae/anti-mage
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.
+**Language**: Go
+**Stars**: 607 **Issues**: 0 **Forks**: 36
+[https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+
+- 🐙 **Source Code:** [https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+- 👤 **Developer:** [N4darae](https://github.com/N4darae)
+
 
 ---
 
@@ -197580,17 +197595,17 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 N4darae/anti-mage
+### 📦 amosblomqvist/learn
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.
-**Language**: Go
-**Stars**: 607 **Issues**: 0 **Forks**: 36
-[https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+My AI learning system.
+**Language**: TypeScript
+**Stars**: 675 **Issues**: 4 **Forks**: 71
+[https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
 
-- 🐙 **Source Code:** [https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
-- 👤 **Developer:** [N4darae](https://github.com/N4darae)
+- 🐙 **Source Code:** [https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+- 👤 **Developer:** [amosblomqvist](https://github.com/amosblomqvist)
 
 
 ---

@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `16996`
+> **Total Cataloged Projects:** `16997`
 
 ---
 
@@ -904,6 +904,7 @@
 | **ammaarreshi/Generals-Mac-iOS-iPad** | Command & Conquer Generals: Zero Hour running natively on macOS, iPho… | [GitHub](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | — | `apple_silicon, command_and_conquer, dxvk, game_port, generals_zero_hour, ios, ipad, macos, moltenvk, open_source_game, rts, sdl3` |
 | **AmmarkoV/SAM3DBody-cpp** | Real-time 3D full-body reconstruction from a single camera, Multipers… | [GitHub](https://github.com/AmmarkoV/SAM3DBody-cpp) | — | `3d_human_pose, bvh, computer_vision, cpp, cuda, ggml, motion_capture, multi_person_pose_estimation, onnx, opengl, pose_detection, pose_estimation, pose_tracking, real_time, sam_3d_body` |
 | **Amnezia Client** | 🔗 [https://github.com/amnezia-vpn/amnezia-client](https://github.com/… | [GitHub](https://github.com/amnezia-vpn/amnezia-client) | — | `GitHub, OpenSource, cplusplus, cloak, gfw, ikev2, openvpn, shadowsocks, vpn, vpn_client, vpn_server, wireguard` |
+| **amosblomqvist/learn** | My AI learning system. | [GitHub](https://github.com/amosblomqvist/learn) | — | `GitHub, OpenSource` |
 | **amotile/stable-diffusion-studio** | An animation focused workflow frontend for Stable Diffusion | [GitHub](https://github.com/amotile/stable-diffusion-studio) | — | `GitHub, OpenSource` |
 | **Amoy Todo Wallpaper** | This is a Python program written by claude-sonnet-3.5 with minor modi… | [GitHub](https://github.com/casualwriter/amoy-todo-wallpaper) | — | `GitHub, OpenSource` |
 | **Ampersand** | Ampersand is a research project, and also an app. It wants to do one… | [GitHub](https://github.com/NyaomiDEV/Ampersand) | — | `Android, Utilities` |
