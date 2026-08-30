@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `17000`
 - 🏷️ **Unique Categories / Tags:** `15535`
-- 🔄 **Last Automatically Synchronized:** `2026-08-29 23:44 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-30 02:39 UTC`
 
 ---
 
@@ -290,6 +290,19 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **17000 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 totec448-spec/chat-on-steroids
+
+> **Categories:** `#automation` `#chatgpt` `#chrome_extension` `#electron` `#linux` `#local_first` `#macos` `#mcp` `#multi_agent` `#windows`
+
+Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+- 👤 **Developer:** [totec448-spec](https://github.com/totec448-spec)
+
+
+---
 
 ### 📦 Voicelive Api Salescoach
 
@@ -610,21 +623,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 - 🐙 **Source Code:** [https://github.com/gurgeous/tennis](https://github.com/gurgeous/tennis)
 - 👤 **Developer:** [gurgeous](https://github.com/gurgeous)
-
-
----
-
-### 📦 iAmCorey/Wake
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.
-**Language**: Rust
-**Stars**: 606 **Issues**: 5 **Forks**: 36
-[https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
-
-- 🐙 **Source Code:** [https://github.com/iAmCorey/Wake](https://github.com/iAmCorey/Wake)
-- 👤 **Developer:** [iAmCorey](https://github.com/iAmCorey)
 
 
 ---
