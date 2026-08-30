@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17006`
+> **Total Cataloged Projects:** `17008`
 
 ---
 
@@ -4797,6 +4797,7 @@
 | **faker-js/faker** | Generate massive amounts of fake data in the browser and node.js | [GitHub](https://github.com/faker-js/faker) | — | `browser, data, fake, faker, nodejs` |
 | **fakerybakery/claude-code-kimi-groq** | A basic proxy to use Kimi K2 on Claude Code through Groq | [GitHub](https://github.com/fakerybakery/claude-code-kimi-groq) | — | `GitHub, OpenSource` |
 | **FakeTraveler** | Fake where your phone is located (Mock location for Android) | [GitHub](https://github.com/mcastillof/FakeTraveler) | — | `android, material3, locationmock, maps, GitHub, OpenSource` |
+| **Fal Nanobanana Studio** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/amrrs/fal-nanobanana-studio) | — | `GitHub, OpenSource` |
 | **fal-ai/aura-sr** | AuraSR: GAN-based Super-Resolution for real-world | [GitHub](https://github.com/fal-ai/aura-sr) | — | `GitHub, OpenSource` |
 | **Falcon** | ⤷ [Ссылка на проект](https://github.com/plotly/falcon) | [GitHub](https://github.com/plotly/falcon) | — | `Interesting, SQL, Useful` |
 | **FalconForceTeam/FalconHound** | FalconHound is a blue team multi-tool. It allows you to utilize and e… | [GitHub](https://github.com/FalconForceTeam/FalconHound) | — | `GitHub, OpenSource` |
@@ -15015,6 +15016,7 @@
 | **TrackerControl** | TrackerControl is an Android app that detects and controls hidden dat… | [GitHub](https://apt.izzysoft.de/fdroid/index/apk/net.kollnig.missioncontrol) | — | `Android` |
 | **Trackers Library is Officially Released!** 🚀** | If you're working in computer vision and object tracking, this one's… | [GitHub](https://www.linkedin.com/posts/skalskip92_trackers-library-is-out-plugandplay-activity-7321128111503253504-3U6-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXwhVcBcv2n3wq8JzEai3TfWmKLRLTefYo) | — | `ComputerVision, ObjectTracking, OpenSource, DeepLearning, AI` |
 | **Trackerslist** | This list provides updated public BitTorrent trackers that are automa… | [GitHub](https://github.com/ngosang/trackerslist) | — | `other, bittorrent, bittorrent_tracker, bittorrent_trackers, http, list, lists, public_tracker, public_trackers, torrent, tracker, trackers, trackerslist, udp, webtorrent, ws` |
+| **tradecatlabs/shulihuazixuecongshu** | **Language**: Python | [GitHub](https://github.com/tradecatlabs/shulihuazixuecongshu) | — | `GitHub, OpenSource` |
 | **TraderAlice/OpenAlice** | File-driven AI trading agent engine for crypto and securities markets | [GitHub](https://github.com/TraderAlice/OpenAlice) | — | `GitHub, OpenSource` |
 | **Tradingagents** | 🔗 [https://github.com/TauricResearch/TradingAgents](https://github.co… | [GitHub](https://github.com/TauricResearch/TradingAgents) | — | `GitHub, OpenSource, python, agent, finance, llm, multiagent, trading` |
 | **Tradingview Mcp** | 🔗 [https://github.com/tradesdontlie/tradingview-mcp](https://github.c… | [GitHub](https://github.com/tradesdontlie/tradingview-mcp) | — | `GitHub, OpenSource, javascript` |

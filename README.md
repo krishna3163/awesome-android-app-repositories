@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17006`
+- 📦 **Total Discovered Apps & Projects:** `17008`
 - 🏷️ **Unique Categories / Tags:** `15541`
-- 🔄 **Last Automatically Synchronized:** `2026-08-30 14:08 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-30 18:17 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13411 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13413 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `826 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `782 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `694 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,67 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17006 cataloged applications | `17006 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17008 cataloged applications | `17008 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17006 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17008 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Checkstyle
+
+> **Categories:** `#java` `#code_quality` `#command_line_tool` `#hacktoberfest` `#static_analysis` `#static_code_analysis`
+
+Checkstyle is a Java tool that finds code style and best-practice problems, so you can catch mistakes early and keep code clean. It is easy to add to your build, has docs and examples, and helps you spot issues like a switch-case fall-through before they cause bugs, making your code safer and easier to maintain.
+
+https://github.com/checkstyle/checkstyle
+
+- 🐙 **Source Code:** [https://github.com/checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+- 👤 **Developer:** [checkstyle](https://github.com/checkstyle)
+
+
+---
+
+### 📦 Patent Disclosure Skill
+
+> **Categories:** `#python` `#chinese` `#disclosure` `#obsidian` `#patent` `#skill`
+
+This tool helps you turn project files into clear patent drafts for invention, utility model, and design patents, and it can also explain patents in simple words. It can find patent points, make charts and Word files, build line drawings, organize patent notes, and help with search, policy updates, and office reply drafts. The benefit to you is faster patent work, clearer patent reading, and better support for writing, revising, and reusing patent knowledge.
+
+https://github.com/handsomestWei/patent-disclosure-skill
+
+- 🐙 **Source Code:** [https://github.com/handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+- 👤 **Developer:** [handsomestWei](https://github.com/handsomestWei)
+
+
+---
+
+### 📦 Microduck Rl
+
+> **Categories:** `#python`
+
+Microduck RL gives training environments for a small biped robot, so you can teach it walking, standing up, sitting, tricks, and roller tasks in simulation, then export the learned policy to run on the real robot. It includes realistic motor physics, backlash, and random changes to help sim-to-real transfer. The benefit to you is faster robot training, easier testing, and safer deployment because one shared setup lets different skills swap on the robot without changing the runtime.
+
+https://github.com/pollen-robotics/microduck_rl
+
+- 🐙 **Source Code:** [https://github.com/pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
+- 👤 **Developer:** [pollen-robotics](https://github.com/pollen-robotics)
+
+
+---
+
+### 📦 Ataru
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://github.com/lovstudio/Ataru](https://github.com/lovstudio/Ataru)
+- 👤 **Developer:** [lovstudio](https://github.com/lovstudio)
+
+
+---
 
 ### 📦 Guardian Cli
 
@@ -572,57 +626,6 @@ Amagine3D: From hardware requirements to editable 3D designs
 
 - 🐙 **Source Code:** [https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
 - 👤 **Developer:** [amagine-ai](https://github.com/amagine-ai)
-
-
----
-
-### 📦 Tamari
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/alexbates/Tamari](https://github.com/alexbates/Tamari)
-- 👤 **Developer:** [alexbates](https://github.com/alexbates)
-
-
----
-
-### 📦 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-- 🐙 **Source Code:** [https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github](https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&utm_medium=telegram&utm_campaign=ai_github)
-
-
----
-
-### 📦 Garden Skills
-
-> **Categories:** `#css` `#agent` `#claude` `#gpt_image_2` `#rag` `#skills` `#web_design`
-
-This project gives you ready-made AI skills for making web presentations, better web designs, image prompts, local knowledge search, and polished articles. You can install them in several ways, including a simple command, plugins, zip files, or manual copy. The benefit is faster, higher-quality work: you can turn ideas into clean slides, strong UI, useful images, well-sourced answers, and readable articles with less effort and more control.
-
-https://github.com/ConardLi/garden-skills
-
-- 🐙 **Source Code:** [https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
-- 👤 **Developer:** [ConardLi](https://github.com/ConardLi)
-
-
----
-
-### 📦 Archify
-
-> **Categories:** `#html` `#agent_skills` `#architecture_as_code` `#architecture_diagram` `#claude_skill` `#code_visualization` `#codex` `#coding_agents` `#data_flow_diagram` `#deepseek_harness` `#developer_tools` `#diagram_as_code` `#diagrams` `#diagrams_as_code` `#dsh_plugin` `#mermaid_alternative` `#opencode` `#sequence_diagram` `#software_architecture` `#system_design` `#text_to_diagram`
-
-Archify turns a codebase or system description into an interactive system map you can use in chat. It helps you see architecture, compare changes, trace paths, and export shareable files like HTML and images, so you can understand systems faster, review them more safely, and share clear technical diagrams.
-
-https://github.com/tt-a1i/archify
-
-- 🐙 **Source Code:** [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
-- 👤 **Developer:** [tt-a1i](https://github.com/tt-a1i)
 
 
 ---

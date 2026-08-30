@@ -1,5 +1,63 @@
 [
   {
+    "id": "fal-nanobanana-studio",
+    "name": "Fal Nanobanana Studio",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/amrrs/fal-nanobanana-studio",
+    "developer": {
+      "name": "amrrs",
+      "url": "https://github.com/amrrs"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11147,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T17:31:01+00:00",
+    "updated_at": "2026-08-30T18:17:50.187730+00:00"
+  },
+  {
+    "id": "tradecatlabs-shulihuazixuecongshu",
+    "name": "tradecatlabs/shulihuazixuecongshu",
+    "description": "**Language**: Python\n**Stars**: 695 **Issues**: 0 **Forks**: 137\n[https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)",
+    "website": "",
+    "repository": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+    "developer": {
+      "name": "tradecatlabs",
+      "url": "https://github.com/tradecatlabs"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13718,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T16:00:03+00:00",
+    "updated_at": "2026-08-30T18:17:44.840424+00:00"
+  },
+  {
     "id": "checkstyle",
     "name": "Checkstyle",
     "description": "Checkstyle is a Java tool that finds code style and best-practice problems, so you can catch mistakes early and keep code clean. It is easy to add to your build, has docs and examples, and helps you spot issues like a switch-case fall-through before they cause bugs, making your code safer and easier to maintain.\n\nhttps://github.com/checkstyle/checkstyle",
@@ -73911,7 +73969,7 @@
     },
     "status": "active",
     "created_at": "2026-01-12T05:32:02+00:00",
-    "updated_at": "2026-08-23T11:03:15.826529+00:00"
+    "updated_at": "2026-08-30T18:17:48.521767+00:00"
   },
   {
     "id": "faringcuddles443-iris",

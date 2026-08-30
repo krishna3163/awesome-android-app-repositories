@@ -4,7 +4,61 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13411`
+> **Total Apps in Category:** `13413`
+
+---
+
+### 📦 Checkstyle
+
+> **Categories:** `#java` `#code_quality` `#command_line_tool` `#hacktoberfest` `#static_analysis` `#static_code_analysis`
+
+Checkstyle is a Java tool that finds code style and best-practice problems, so you can catch mistakes early and keep code clean. It is easy to add to your build, has docs and examples, and helps you spot issues like a switch-case fall-through before they cause bugs, making your code safer and easier to maintain.
+
+https://github.com/checkstyle/checkstyle
+
+- 🐙 **Source Code:** [https://github.com/checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+- 👤 **Developer:** [checkstyle](https://github.com/checkstyle)
+
+
+---
+
+### 📦 Patent Disclosure Skill
+
+> **Categories:** `#python` `#chinese` `#disclosure` `#obsidian` `#patent` `#skill`
+
+This tool helps you turn project files into clear patent drafts for invention, utility model, and design patents, and it can also explain patents in simple words. It can find patent points, make charts and Word files, build line drawings, organize patent notes, and help with search, policy updates, and office reply drafts. The benefit to you is faster patent work, clearer patent reading, and better support for writing, revising, and reusing patent knowledge.
+
+https://github.com/handsomestWei/patent-disclosure-skill
+
+- 🐙 **Source Code:** [https://github.com/handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+- 👤 **Developer:** [handsomestWei](https://github.com/handsomestWei)
+
+
+---
+
+### 📦 Microduck Rl
+
+> **Categories:** `#python`
+
+Microduck RL gives training environments for a small biped robot, so you can teach it walking, standing up, sitting, tricks, and roller tasks in simulation, then export the learned policy to run on the real robot. It includes realistic motor physics, backlash, and random changes to help sim-to-real transfer. The benefit to you is faster robot training, easier testing, and safer deployment because one shared setup lets different skills swap on the robot without changing the runtime.
+
+https://github.com/pollen-robotics/microduck_rl
+
+- 🐙 **Source Code:** [https://github.com/pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
+- 👤 **Developer:** [pollen-robotics](https://github.com/pollen-robotics)
+
+
+---
+
+### 📦 Ataru
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://github.com/lovstudio/Ataru](https://github.com/lovstudio/Ataru)
+- 👤 **Developer:** [lovstudio](https://github.com/lovstudio)
+
 
 ---
 
@@ -197660,56 +197714,28 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Microduck Rl
-
-> **Categories:** `#python`
-
-Microduck RL gives training environments for a small biped robot, so you can teach it walking, standing up, sitting, tricks, and roller tasks in simulation, then export the learned policy to run on the real robot. It includes realistic motor physics, backlash, and random changes to help sim-to-real transfer. The benefit to you is faster robot training, easier testing, and safer deployment because one shared setup lets different skills swap on the robot without changing the runtime.
-
-https://github.com/pollen-robotics/microduck_rl
-
-- 🐙 **Source Code:** [https://github.com/pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
-- 👤 **Developer:** [pollen-robotics](https://github.com/pollen-robotics)
-
-
----
-
-### 📦 Patent Disclosure Skill
-
-> **Categories:** `#python` `#chinese` `#disclosure` `#obsidian` `#patent` `#skill`
-
-This tool helps you turn project files into clear patent drafts for invention, utility model, and design patents, and it can also explain patents in simple words. It can find patent points, make charts and Word files, build line drawings, organize patent notes, and help with search, policy updates, and office reply drafts. The benefit to you is faster patent work, clearer patent reading, and better support for writing, revising, and reusing patent knowledge.
-
-https://github.com/handsomestWei/patent-disclosure-skill
-
-- 🐙 **Source Code:** [https://github.com/handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
-- 👤 **Developer:** [handsomestWei](https://github.com/handsomestWei)
-
-
----
-
-### 📦 Checkstyle
-
-> **Categories:** `#java` `#code_quality` `#command_line_tool` `#hacktoberfest` `#static_analysis` `#static_code_analysis`
-
-Checkstyle is a Java tool that finds code style and best-practice problems, so you can catch mistakes early and keep code clean. It is easy to add to your build, has docs and examples, and helps you spot issues like a switch-case fall-through before they cause bugs, making your code safer and easier to maintain.
-
-https://github.com/checkstyle/checkstyle
-
-- 🐙 **Source Code:** [https://github.com/checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-- 👤 **Developer:** [checkstyle](https://github.com/checkstyle)
-
-
----
-
-### 📦 Ataru
+### 📦 tradecatlabs/shulihuazixuecongshu
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Language**: Python
+**Stars**: 695 **Issues**: 0 **Forks**: 137
+[https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
 
-- 🐙 **Source Code:** [https://github.com/lovstudio/Ataru](https://github.com/lovstudio/Ataru)
-- 👤 **Developer:** [lovstudio](https://github.com/lovstudio)
+- 🐙 **Source Code:** [https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+- 👤 **Developer:** [tradecatlabs](https://github.com/tradecatlabs)
+
+
+---
+
+### 📦 Fal Nanobanana Studio
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio)
+- 👤 **Developer:** [amrrs](https://github.com/amrrs)
 
 
 ---
