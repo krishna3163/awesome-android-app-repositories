@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `17008`
 - 🏷️ **Unique Categories / Tags:** `15541`
-- 🔄 **Last Automatically Synchronized:** `2026-08-30 18:17 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-08-30 21:45 UTC`
 
 ---
 
@@ -290,6 +290,32 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **17008 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Fal Nanobanana Studio
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio)
+- 👤 **Developer:** [amrrs](https://github.com/amrrs)
+
+
+---
+
+### 📦 tradecatlabs/shulihuazixuecongshu
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 695 **Issues**: 0 **Forks**: 137
+[https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+
+- 🐙 **Source Code:** [https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+- 👤 **Developer:** [tradecatlabs](https://github.com/tradecatlabs)
+
+
+---
 
 ### 📦 Checkstyle
 
@@ -599,33 +625,6 @@ Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered 
 
 - 🐙 **Source Code:** [https://github.com/bryllim/workout-guide](https://github.com/bryllim/workout-guide)
 - 👤 **Developer:** [bryllim](https://github.com/bryllim)
-
-
----
-
-### 📦 Tookie Osint
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
-- 👤 **Developer:** [Alfredredbird](https://github.com/Alfredredbird)
-
-
----
-
-### 📦 amagine-ai/Amagine3D
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Amagine3D: From hardware requirements to editable 3D designs
-**Language**: TypeScript
-**Stars**: 642 **Issues**: 2 **Forks**: 41
-[https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
-
-- 🐙 **Source Code:** [https://github.com/amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
-- 👤 **Developer:** [amagine-ai](https://github.com/amagine-ai)
 
 
 ---

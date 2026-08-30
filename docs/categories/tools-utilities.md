@@ -8,6 +8,32 @@
 
 ---
 
+### 📦 Fal Nanobanana Studio
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio)
+- 👤 **Developer:** [amrrs](https://github.com/amrrs)
+
+
+---
+
+### 📦 tradecatlabs/shulihuazixuecongshu
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+**Language**: Python
+**Stars**: 695 **Issues**: 0 **Forks**: 137
+[https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+
+- 🐙 **Source Code:** [https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+- 👤 **Developer:** [tradecatlabs](https://github.com/tradecatlabs)
+
+
+---
+
 ### 📦 Checkstyle
 
 > **Categories:** `#java` `#code_quality` `#command_line_tool` `#hacktoberfest` `#static_analysis` `#static_code_analysis`
@@ -197710,32 +197736,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 tradecatlabs/shulihuazixuecongshu
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: Python
-**Stars**: 695 **Issues**: 0 **Forks**: 137
-[https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
-
-- 🐙 **Source Code:** [https://github.com/tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
-- 👤 **Developer:** [tradecatlabs](https://github.com/tradecatlabs)
-
-
----
-
-### 📦 Fal Nanobanana Studio
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio)
-- 👤 **Developer:** [amrrs](https://github.com/amrrs)
 
 
 ---
