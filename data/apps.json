@@ -1,5 +1,73 @@
 [
   {
+    "id": "guardian-cli",
+    "name": "Guardian Cli",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/zakirkun/guardian-cli",
+    "developer": {
+      "name": "zakirkun",
+      "url": "https://github.com/zakirkun"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11144,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T08:32:32+00:00",
+    "updated_at": "2026-08-30T08:44:26.804856+00:00"
+  },
+  {
+    "id": "nanako0129-sepia",
+    "name": "Nanako0129/sepia",
+    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).\n**Language**: Shell",
+    "website": "",
+    "repository": "https://github.com/Nanako0129/sepia",
+    "developer": {
+      "name": "Nanako0129",
+      "url": "https://github.com/Nanako0129"
+    },
+    "features": [],
+    "tags": [
+      "agent_skills",
+      "ai_writing",
+      "antigravity",
+      "claude_code",
+      "codex",
+      "developer_tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt_engineering",
+      "writing_tools"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13716,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T04:00:03+00:00",
+    "updated_at": "2026-08-30T08:44:21.094248+00:00"
+  },
+  {
     "id": "totec448-spec-chat-on-steroids",
     "name": "totec448-spec/chat-on-steroids",
     "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.\n**Language**: TypeScript",
@@ -263860,7 +263928,7 @@
     },
     "status": "active",
     "created_at": "2024-04-08T01:42:33+00:00",
-    "updated_at": "2026-08-23T10:45:10.456183+00:00"
+    "updated_at": "2026-08-30T08:44:26.352792+00:00"
   },
   {
     "id": "buserror-libmui",

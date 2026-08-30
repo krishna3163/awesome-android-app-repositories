@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13405`
+> **Total Apps in Category:** `13407`
 
 ---
 
@@ -197631,6 +197631,31 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 Nanako0129/sepia
+
+> **Categories:** `#agent_skills` `#ai_writing` `#antigravity` `#claude_code` `#codex` `#developer_tools` `#fiction` `#grok` `#humanizer` `#llm` `#prompt_engineering` `#writing_tools`
+
+De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/Nanako0129/sepia](https://github.com/Nanako0129/sepia)
+- 👤 **Developer:** [Nanako0129](https://github.com/Nanako0129)
+
+
+---
+
+### 📦 Guardian Cli
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli)
+- 👤 **Developer:** [zakirkun](https://github.com/zakirkun)
 
 
 ---

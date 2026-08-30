@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17000`
+> **Total Cataloged Projects:** `17002`
 
 ---
 
@@ -6029,6 +6029,7 @@
 | **Guanghan/lighttrack** | Code for paper "LightTrack: A Generic Framework for Online Top-Down H… | [GitHub](https://github.com/Guanghan/lighttrack) | — | `artificial_intelligence, computer_vision, pose_estimation, pose_tracking, visual_object_tracking` |
 | **guanyingc/latex_paper_writing_tips** | Tips for Writing a Research Paper using LaTeX | [GitHub](https://github.com/guanyingc/latex_paper_writing_tips) | — | `latex, paper` |
 | **Guarddog** | It performs a series of heuristic checks on a package's source code (… | [GitHub](https://github.com/DataDog/guarddog) | — | `heuristics` |
+| **Guardian Cli** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/zakirkun/guardian-cli) | — | `GitHub, OpenSource` |
 | **guardrailsio/awesome-php-security** | Awesome PHP Security Resources 🕶🐘🔐 | [GitHub](https://github.com/guardrailsio/awesome-php-security) | — | `application_security, awesome, awesome_list, devsecops, php, security, security_tools` |
 | **Guava** | 🔗 [https://github.com/google/guava](https://github.com/google/guava) | [GitHub](https://github.com/google/guava) | — | `GitHub, OpenSource` |
 | **Gucken** | Gucken is a Terminal User Interface which allows you to browse and wa… | [GitHub](https://github.com/Commandcracker/gucken) | — | `Android, Linux, Windows` |
@@ -10010,6 +10011,7 @@
 | **NamKhoa-07/Voidstrap** | Voidstrap is a simple yet advanced fork of Bloxstrap, advanced custom… | [GitHub](https://github.com/NamKhoa-07/Voidstrap) | — | `bloxstrap, open_source, roblox, voidstrap` |
 | **Nammayatri** | Namma Yatri is a mobility platform that helps drivers and users in se… | [GitHub](https://github.com/nammayatri/nammayatri) | — | `purescript` |
 | **Nanako0129/coralline** | 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one promp… | [GitHub](https://github.com/Nanako0129/coralline) | — | `bash, claude, claude_code, nerd_fonts, powerlevel10k, statusline, terminal, vibe_coding` |
+| **Nanako0129/sepia** | De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravi… | [GitHub](https://github.com/Nanako0129/sepia) | — | `agent_skills, ai_writing, antigravity, claude_code, codex, developer_tools, fiction, grok, humanizer, llm, prompt_engineering, writing_tools` |
 | **nandorojo/burnt** | Crunchy toasts for React Native. 🍞 | [GitHub](https://github.com/nandorojo/burnt) | — | `GitHub, OpenSource` |
 | **NanmiCoder/claude-code-haha** | Claude Code leaked source - locally runnable version | [GitHub](https://github.com/NanmiCoder/claude-code-haha) | — | `GitHub, OpenSource` |
 | **NanmiCoder/dsh-agent-teams** | AgentTeams plugin for DeepSeek Harness | [GitHub](https://github.com/NanmiCoder/dsh-agent-teams) | — | `agentteams, deepseekharness, dsh, dsh_agent_teams, dsh_plugin` |
