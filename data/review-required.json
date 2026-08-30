@@ -44746,5 +44746,27 @@
     "message_id": 15960,
     "raw_text": "#python #cybersecurity #cybersecurity_tools #email_osint #ethical_hacking #ethical_hacking_tools #identification #infosec #osint #osint_email #osint_tool #osint_tools #osint_username #pentesting #python #redteam_tools #redteaming #threat_intelligence \n\nUser Scanner is a tool for checking emails and usernames across 455+ sites to find accounts, profile details, links, and other public traces. It can also scan in bulk, make reports, use proxies, and connect to AI tools. This helps you save time, f",
     "timestamp": "2026-08-29T21:25:04.922560+00:00"
+  },
+  {
+    "incoming_name": "MetaMask-AI/metamask-desktop",
+    "incoming_normalized": "metamaskaimetamaskdesktop",
+    "matched_project_id": "metamask-desktop-metamask-desktop",
+    "matched_project_name": "metamask-desktop/metamask-desktop",
+    "similarity_score": 83.63636363636364,
+    "channel": "@github_repos",
+    "message_id": 13717,
+    "raw_text": "**MetaMask-AI/metamask-desktop**\n🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites\n**Language**: CSS\n#bitcoin #bitcoin_wallet #crypto #cryptocoins #cryptocompare_api #cryptocurrency #dapp #ethereum #ethereum_blockchain #ethereum_wallet #evm #evm_wallet #macos #metamask #metamask_dapp #metamask_desktop #metamask_io #solana #web3 #windows\n**Stars**: 830 **Issues**: 1 **Forks**: 91\n[https://github.com/MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/meta",
+    "timestamp": "2026-08-30T14:08:32.781648+00:00"
+  },
+  {
+    "incoming_name": "Corsair",
+    "incoming_normalized": "corsair",
+    "matched_project_id": "colors-ai",
+    "matched_project_name": "Colors AI",
+    "similarity_score": 80.0,
+    "channel": "@githubtrending",
+    "message_id": 15963,
+    "raw_text": "#typescript \n\nCorsair helps you connect users to many apps with one system. It uses a REST API, so the same setup works for agents, backend tools, and user dashboards. It also gives one simple way to handle different integrations, saving you from writing extra glue code. Because it is open source, you can self-host it and keep control of your data and tokens.\n\nhttps://github.com/corsairdev/corsair",
+    "timestamp": "2026-08-30T14:08:36.290013+00:00"
   }
 ]

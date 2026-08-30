@@ -4,7 +4,32 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13407`
+> **Total Apps in Category:** `13411`
+
+---
+
+### 📦 Guardian Cli
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli)
+- 👤 **Developer:** [zakirkun](https://github.com/zakirkun)
+
+
+---
+
+### 📦 Nanako0129/sepia
+
+> **Categories:** `#agent_skills` `#ai_writing` `#antigravity` `#claude_code` `#codex` `#developer_tools` `#fiction` `#grok` `#humanizer` `#llm` `#prompt_engineering` `#writing_tools`
+
+De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/Nanako0129/sepia](https://github.com/Nanako0129/sepia)
+- 👤 **Developer:** [Nanako0129](https://github.com/Nanako0129)
+
 
 ---
 
@@ -5998,7 +6023,7 @@ In short, Abseil is a powerful and flexible library that can help take your C++ 
 
 ### 📦 oso95/scroll-world
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#WebDesign` `#CreativeTools`
 
 A skill that turn any brand into a scrollable 3D world
 **Language**: JavaScript
@@ -20677,7 +20702,7 @@ Browser Data Migrator is a powerful open-source tool designed for power users wh
 
 ### 📦 Lakr233/vphone-cli
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#GitHub` `#OpenSource` `#swift`
 
 **Language**: Python
 **Stars**: 735 **Issues**: 4 **Forks**: 86
@@ -197635,27 +197660,56 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Nanako0129/sepia
+### 📦 Microduck Rl
 
-> **Categories:** `#agent_skills` `#ai_writing` `#antigravity` `#claude_code` `#codex` `#developer_tools` `#fiction` `#grok` `#humanizer` `#llm` `#prompt_engineering` `#writing_tools`
+> **Categories:** `#python`
 
-De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-**Language**: Shell
+Microduck RL gives training environments for a small biped robot, so you can teach it walking, standing up, sitting, tricks, and roller tasks in simulation, then export the learned policy to run on the real robot. It includes realistic motor physics, backlash, and random changes to help sim-to-real transfer. The benefit to you is faster robot training, easier testing, and safer deployment because one shared setup lets different skills swap on the robot without changing the runtime.
 
-- 🐙 **Source Code:** [https://github.com/Nanako0129/sepia](https://github.com/Nanako0129/sepia)
-- 👤 **Developer:** [Nanako0129](https://github.com/Nanako0129)
+https://github.com/pollen-robotics/microduck_rl
+
+- 🐙 **Source Code:** [https://github.com/pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
+- 👤 **Developer:** [pollen-robotics](https://github.com/pollen-robotics)
 
 
 ---
 
-### 📦 Guardian Cli
+### 📦 Patent Disclosure Skill
+
+> **Categories:** `#python` `#chinese` `#disclosure` `#obsidian` `#patent` `#skill`
+
+This tool helps you turn project files into clear patent drafts for invention, utility model, and design patents, and it can also explain patents in simple words. It can find patent points, make charts and Word files, build line drawings, organize patent notes, and help with search, policy updates, and office reply drafts. The benefit to you is faster patent work, clearer patent reading, and better support for writing, revising, and reusing patent knowledge.
+
+https://github.com/handsomestWei/patent-disclosure-skill
+
+- 🐙 **Source Code:** [https://github.com/handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+- 👤 **Developer:** [handsomestWei](https://github.com/handsomestWei)
+
+
+---
+
+### 📦 Checkstyle
+
+> **Categories:** `#java` `#code_quality` `#command_line_tool` `#hacktoberfest` `#static_analysis` `#static_code_analysis`
+
+Checkstyle is a Java tool that finds code style and best-practice problems, so you can catch mistakes early and keep code clean. It is easy to add to your build, has docs and examples, and helps you spot issues like a switch-case fall-through before they cause bugs, making your code safer and easier to maintain.
+
+https://github.com/checkstyle/checkstyle
+
+- 🐙 **Source Code:** [https://github.com/checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+- 👤 **Developer:** [checkstyle](https://github.com/checkstyle)
+
+
+---
+
+### 📦 Ataru
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-🐱** **[**GitHub**](https://t.me/github)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-- 🐙 **Source Code:** [https://github.com/zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli)
-- 👤 **Developer:** [zakirkun](https://github.com/zakirkun)
+- 🐙 **Source Code:** [https://github.com/lovstudio/Ataru](https://github.com/lovstudio/Ataru)
+- 👤 **Developer:** [lovstudio](https://github.com/lovstudio)
 
 
 ---

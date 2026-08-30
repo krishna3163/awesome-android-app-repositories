@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17002`
-- 🏷️ **Unique Categories / Tags:** `15537`
-- 🔄 **Last Automatically Synchronized:** `2026-08-30 08:44 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17006`
+- 🏷️ **Unique Categories / Tags:** `15541`
+- 🔄 **Last Automatically Synchronized:** `2026-08-30 14:08 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13407 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13411 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `826 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `782 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `694 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,38 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17002 cataloged applications | `17002 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17006 cataloged applications | `17006 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17002 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17006 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Guardian Cli
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli)
+- 👤 **Developer:** [zakirkun](https://github.com/zakirkun)
+
+
+---
+
+### 📦 Nanako0129/sepia
+
+> **Categories:** `#agent_skills` `#ai_writing` `#antigravity` `#claude_code` `#codex` `#developer_tools` `#fiction` `#grok` `#humanizer` `#llm` `#prompt_engineering` `#writing_tools`
+
+De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+**Language**: Shell
+
+- 🐙 **Source Code:** [https://github.com/Nanako0129/sepia](https://github.com/Nanako0129/sepia)
+- 👤 **Developer:** [Nanako0129](https://github.com/Nanako0129)
+
+
+---
 
 ### 📦 totec448-spec/chat-on-steroids
 
@@ -598,31 +623,6 @@ https://github.com/tt-a1i/archify
 
 - 🐙 **Source Code:** [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
 - 👤 **Developer:** [tt-a1i](https://github.com/tt-a1i)
-
-
----
-
-### 📦 ApodexAI/FrontierAgent
-
-> **Categories:** `#agent_orchestration` `#agentic_ai` `#agentic_framework` `#ai_agents` `#harness` `#multi_agent` `#terminal_agent` `#tui`
-
-🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent)
-- 👤 **Developer:** [ApodexAI](https://github.com/ApodexAI)
-
-
----
-
-### 📦 Tennis
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-- 🐙 **Source Code:** [https://github.com/gurgeous/tennis](https://github.com/gurgeous/tennis)
-- 👤 **Developer:** [gurgeous](https://github.com/gurgeous)
 
 
 ---

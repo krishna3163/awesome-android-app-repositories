@@ -1,5 +1,128 @@
 [
   {
+    "id": "checkstyle",
+    "name": "Checkstyle",
+    "description": "Checkstyle is a Java tool that finds code style and best-practice problems, so you can catch mistakes early and keep code clean. It is easy to add to your build, has docs and examples, and helps you spot issues like a switch-case fall-through before they cause bugs, making your code safer and easier to maintain.\n\nhttps://github.com/checkstyle/checkstyle",
+    "website": "",
+    "repository": "https://github.com/checkstyle/checkstyle",
+    "developer": {
+      "name": "checkstyle",
+      "url": "https://github.com/checkstyle"
+    },
+    "features": [],
+    "tags": [
+      "java",
+      "code_quality",
+      "command_line_tool",
+      "hacktoberfest",
+      "static_analysis",
+      "static_code_analysis"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15967,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T13:30:01+00:00",
+    "updated_at": "2026-08-30T14:08:37.162685+00:00"
+  },
+  {
+    "id": "patent-disclosure-skill",
+    "name": "Patent Disclosure Skill",
+    "description": "This tool helps you turn project files into clear patent drafts for invention, utility model, and design patents, and it can also explain patents in simple words. It can find patent points, make charts and Word files, build line drawings, organize patent notes, and help with search, policy updates, and office reply drafts. The benefit to you is faster patent work, clearer patent reading, and better support for writing, revising, and reusing patent knowledge.\n\nhttps://github.com/handsomestWei/patent-disclosure-skill",
+    "website": "",
+    "repository": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "developer": {
+      "name": "handsomestWei",
+      "url": "https://github.com/handsomestWei"
+    },
+    "features": [],
+    "tags": [
+      "python",
+      "chinese",
+      "disclosure",
+      "obsidian",
+      "patent",
+      "skill"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15966,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T13:00:02+00:00",
+    "updated_at": "2026-08-30T14:08:36.870156+00:00"
+  },
+  {
+    "id": "microduck-rl",
+    "name": "Microduck Rl",
+    "description": "Microduck RL gives training environments for a small biped robot, so you can teach it walking, standing up, sitting, tricks, and roller tasks in simulation, then export the learned policy to run on the real robot. It includes realistic motor physics, backlash, and random changes to help sim-to-real transfer. The benefit to you is faster robot training, easier testing, and safer deployment because one shared setup lets different skills swap on the robot without changing the runtime.\n\nhttps://github.com/pollen-robotics/microduck_rl",
+    "website": "",
+    "repository": "https://github.com/pollen-robotics/microduck_rl",
+    "developer": {
+      "name": "pollen-robotics",
+      "url": "https://github.com/pollen-robotics"
+    },
+    "features": [],
+    "tags": [
+      "python"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15964,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T12:00:02+00:00",
+    "updated_at": "2026-08-30T14:08:36.572522+00:00"
+  },
+  {
+    "id": "ataru",
+    "name": "Ataru",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "website": "",
+    "repository": "https://github.com/lovstudio/Ataru",
+    "developer": {
+      "name": "lovstudio",
+      "url": "https://github.com/lovstudio"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11145,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T11:31:01+00:00",
+    "updated_at": "2026-08-30T14:08:39.042865+00:00"
+  },
+  {
     "id": "guardian-cli",
     "name": "Guardian Cli",
     "description": "🐱** **[**GitHub**](https://t.me/github)",
@@ -15960,7 +16083,9 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "WebDesign",
+      "CreativeTools"
     ],
     "images": {
       "cover": "",
@@ -15974,7 +16099,7 @@
     },
     "status": "active",
     "created_at": "2026-07-11T10:00:03+00:00",
-    "updated_at": "2026-08-23T07:49:28.459901+00:00"
+    "updated_at": "2026-08-30T14:08:33.902474+00:00"
   },
   {
     "id": "crossmacro",
@@ -58690,7 +58815,8 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "swift"
     ],
     "images": {
       "cover": "",
@@ -58704,7 +58830,7 @@
     },
     "status": "active",
     "created_at": "2026-03-02T05:00:03+00:00",
-    "updated_at": "2026-08-23T07:47:48.478429+00:00"
+    "updated_at": "2026-08-30T14:08:36.588470+00:00"
   },
   {
     "id": "ylytdeng-wechat-decrypt",

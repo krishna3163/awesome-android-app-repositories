@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17002`
+> **Total Cataloged Projects:** `17006`
 
 ---
 
@@ -1399,6 +1399,7 @@
 | **Asynclocationkit** | "__Allows you to take advantage of new Swift language features when w… | [GitHub](https://github.com/AsyncSwift/AsyncLocationKit) | — | `iOS, Swift, SwiftConcurrency, Async` |
 | **Asynq** | **Overview of how Asynq works:** | [GitHub](https://github.com/hibiken/asynq) | — | `Go, Task, Queue` |
 | **atakankizilyuce/makine-ogrenmesi-turkce** | Makine öğrenmesi ve Derin öğrenme hakkında bulduğum Türkçe kaynaklar. | [GitHub](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce) | — | `data_science, deep_learning, derin_ogrenme, machine_learning, makine_ogrenmesi, veribilimi` |
+| **Ataru** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Pl… | [GitHub](https://github.com/lovstudio/Ataru) | — | `GitHub, OpenSource` |
 | **ataulm/material-design-components-showcase** | A glorified layout file to which you can apply your Android theme | [GitHub](https://github.com/ataulm/material-design-components-showcase) | — | `GitHub, OpenSource` |
 | **atcoder/ac-library** | AtCoder Library | [GitHub](https://github.com/atcoder/ac-library) | — | `atcoder, atcoder_library, competitive_programming` |
 | **atConf/atswift-2018-resources** | Resource files for atswift conference 2018, including pdf, source pro… | [GitHub](https://atswift.swift.gg) | — | `GitHub, OpenSource` |
@@ -2569,6 +2570,7 @@
 | **Checkmate** | Checkmate is a free, open-source tool that helps you monitor your ser… | [GitHub](https://github.com/bluewave-labs/checkmate) | — | `javascript, good_first_contribution, good_first_issue, good_first_project, help_wanted, incident, infrastructure, infrastructure_monitoring, mui, mui_material, server_monitor, server_monitoring, server_monitoring_tools, statuspage, uptime, uptime_checker, uptime_monitor, uptime_monitoring, uptime_status, uptimerobot, GitHub, OpenSource` |
 | **Checkout** | 🔗 [https://github.com/actions/checkout](https://github.com/actions/ch… | [GitHub](https://github.com/actions/checkout) | — | `GitHub, OpenSource, typescript` |
 | **checkra1n/BugTracker** | checkra1n bug tracker | [GitHub](https://github.com/checkra1n/BugTracker) | — | `GitHub, OpenSource` |
+| **Checkstyle** | Checkstyle is a Java tool that finds code style and best-practice pro… | [GitHub](https://github.com/checkstyle/checkstyle) | — | `java, code_quality, command_line_tool, hacktoberfest, static_analysis, static_code_analysis` |
 | **Checksum/****critic.sh** | Dead simple testing framework for Bash with coverage reporting | [GitHub](https://github.com/Checksum/critic.sh) | — | `bash, bash_testing, coverage, coverage_testing, shell, testing` |
 | **Chef** | Chef by Convex is an AI tool that builds complete web apps with backe… | [GitHub](https://github.com/get-convex/chef) | — | `typescript, GitHub, OpenSource` |
 | **Chemist Lab** | A comprehensive simulation lab for exploring chemical elements | [GitHub](https://github.com/MrMR-711/Web-Chemistry-Lab) | — | `Android, Website, Learning` |
@@ -8064,7 +8066,7 @@
 | **Lakr233/SafariYYDS** | **Language**: Swift | [GitHub](https://github.com/Lakr233/SafariYYDS) | — | `GitHub, OpenSource` |
 | **Lakr233/Sentry** | A powerful macOS security monitoring application that detects unautho… | [GitHub](https://github.com/Lakr233/Sentry) | — | `GitHub, OpenSource` |
 | **Lakr233/SwiftCourse** | A repository to store PPTs for my students learning Swift. | [GitHub](https://github.com/Lakr233/SwiftCourse) | — | `GitHub, OpenSource` |
-| **Lakr233/vphone-cli** | **Language**: Python | [GitHub](https://github.com/Lakr233/vphone-cli) | — | `GitHub, OpenSource` |
+| **Lakr233/vphone-cli** | **Language**: Python | [GitHub](https://github.com/Lakr233/vphone-cli) | — | `GitHub, OpenSource, swift` |
 | **laktak/zfind** | search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter | [GitHub](https://github.com/laktak/zfind) | — | `cli, find, sql` |
 | **lalamove/konfig** | Composable, observable and performant config handling for Go for the… | [GitHub](https://github.com/lalamove/konfig) | — | `composable, config, configuration, etcd, golang, golang_package, kubernetes, polyglot, reloading, state_management, vault` |
 | **Lallassu/gorss** | Go RSS Reader | [GitHub](https://github.com/Lallassu/gorss) | — | `atom, atom_feed, atom_reader, go, golang, gorss, opml, reader, rss, rss_feed, rss_reader` |
@@ -9383,6 +9385,7 @@
 | **mickamy/sql-tap** | Watch SQL traffic in real-time with a TUI | [GitHub](https://github.com/mickamy/sql-tap) | — | `GitHub, OpenSource` |
 | **micodeyt/ascii-webcam** | **Language**: Python | [GitHub](https://github.com/micodeyt/ascii-webcam) | — | `GitHub, OpenSource` |
 | **Microdalle** | It can save each generated image to disk with a corresponding prompt. | [GitHub](https://github.com/Blizarre/microdalle) | — | `GitHub, OpenSource` |
+| **Microduck Rl** | Microduck RL gives training environments for a small biped robot, so… | [GitHub](https://github.com/pollen-robotics/microduck_rl) | — | `python` |
 | **MicroG RE** | MicroG RE, The Best replacement for the original MicroG App, with mat… | [GitHub](https://www.apkmirror.com/apk/wstxda/microg-re-microg-services-redesign-revanced) | — | `Android, Tools` |
 | **micromatch/picomatch** | Blazing fast and accurate glob matcher written JavaScript, with no de… | [GitHub](https://github.com/micromatch/picomatch) | — | `glob, globber, match, matcher, micromatch, minimatch, multimatch, node_glob, regex, regexp, regular_expression` |
 | **Micromathematics** | Aimed at students and anyone who is interested in mathematics or need… | [GitHub](https://github.com/mkulesh/microMathematics) | — | `Interesting, Useful` |
@@ -11000,7 +11003,7 @@
 | **Osint Stuff Tool Collection** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/cipher387/osint_stuff_tool_collection) | — | `GitHub, OpenSource` |
 | **osintbrazuca/OSINT-Brazuca** | Repositório criado com intuito de reunir informações, fontes(websites… | [GitHub](https://github.com/osintbrazuca/OSINT-Brazuca) | — | `osint, hacking, threat_hunting, brasil, threatintel, threat_intelligence` |
 | **oskarsve/ms-teams-rce** | **Stars**: 506 **Issues**: 0 **Forks**: 34 | [GitHub](https://github.com/oskarsve/ms-teams-rce) | — | `GitHub, OpenSource` |
-| **oso95/scroll-world** | A skill that turn any brand into a scrollable 3D world | [GitHub](https://github.com/oso95/scroll-world) | — | `GitHub, OpenSource` |
+| **oso95/scroll-world** | A skill that turn any brand into a scrollable 3D world | [GitHub](https://github.com/oso95/scroll-world) | — | `GitHub, OpenSource, WebDesign, CreativeTools` |
 | **ospfranco/sol** | A Raycast/Alfred/Spotlight alternative | [GitHub](https://github.com/ospfranco/sol) | — | `GitHub, OpenSource` |
 | **osresearch/airbreak** | CPAP jailbreak to allow it to be used as a temporary ventilator | [GitHub](https://github.com/osresearch/airbreak) | — | `GitHub, OpenSource` |
 | **OSS Card Wallet** | OSS Card Wallet is an Open Source app to scan and store all your card… | [GitHub](https://play.google.com/store/apps/details?id=com.akylas.cardwallet) | — | `Android, Tools` |
@@ -11190,6 +11193,7 @@
 | **Pastebinsearch** | It supports multiple browsers and handles special characters in searc… | [GitHub](https://github.com/byfranke/PastebinSearch) | — | `GitHub, OpenSource` |
 | **patchbay-pub/patchbay-simple-server** | Intended to serve as a starting point for a self-hostable version of… | [GitHub](https://github.com/patchbay-pub/patchbay-simple-server) | — | `GitHub, OpenSource` |
 | **patchfighterway90/cs2-external-overlay** | The cs2 external helper tool is a software utility designed for gamer… | [GitHub](https://github.com/patchfighterway90/cs2-external-overlay) | — | `c_plus_plus, cs2, directx, external, game_development, game_helper, game_module, game_tool, game_utility, graphics_programming, overlay, python, windows, windows_api, windows_overlay` |
+| **Patent Disclosure Skill** | This tool helps you turn project files into clear patent drafts for i… | [GitHub](https://github.com/handsomestWei/patent-disclosure-skill) | — | `python, chinese, disclosure, obsidian, patent, skill` |
 | **Path Of Building** | Offline build planner for Path of Exile. | [GitHub](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | — | `GitHub, OpenSource, lua, pathofbuilding, pathofexile, pob, poe` |
 | **pathartl/BleemSync** | An application manage and launch PlayStation Classic games from USB s… | [GitHub](https://github.com/pathartl/BleemSync) | — | `GitHub, OpenSource` |
 | **Pathpicker** | Users can edit selected files in their favorite text editor or execut… | [GitHub](https://github.com/facebook/PathPicker) | — | `Interesting, Useful` |
