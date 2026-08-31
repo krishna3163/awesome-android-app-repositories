@@ -4,7 +4,22 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `695`
+> **Total Apps in Category:** `696`
+
+---
+
+### 📦 jprx/darwin-vm
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+**Language**: Python
+**Stars**: 567 **Issues**: 1 **Forks**: 43
+[https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+
+- 🐙 **Source Code:** [https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+- 👤 **Developer:** [jprx](https://github.com/jprx)
+
 
 ---
 
@@ -11603,17 +11618,15 @@ Android Messages as a Cross-platform Desktop App
 
 ---
 
-### 📦 jprx/darwin-vm
+### 📦 crmne/fastpotify
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#audio` `#cross_platform` `#desktop_app` `#egui` `#gui` `#librespot` `#linux` `#macos` `#mpris` `#music` `#music_player` `#rust` `#spotify` `#spotify_client` `#spotify_connect` `#windows`
 
-Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
-**Language**: Python
-**Stars**: 567 **Issues**: 1 **Forks**: 43
-[https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+**Language**: Rust
 
-- 🐙 **Source Code:** [https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)
-- 👤 **Developer:** [jprx](https://github.com/jprx)
+- 🐙 **Source Code:** [https://github.com/crmne/fastpotify](https://github.com/crmne/fastpotify)
+- 👤 **Developer:** [crmne](https://github.com/crmne)
 
 
 ---

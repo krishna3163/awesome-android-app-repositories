@@ -1,5 +1,48 @@
 [
   {
+    "id": "crmne-fastpotify",
+    "name": "crmne/fastpotify",
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.\n**Language**: Rust",
+    "website": "",
+    "repository": "https://github.com/crmne/fastpotify",
+    "developer": {
+      "name": "crmne",
+      "url": "https://github.com/crmne"
+    },
+    "features": [],
+    "tags": [
+      "audio",
+      "cross_platform",
+      "desktop_app",
+      "egui",
+      "gui",
+      "librespot",
+      "linux",
+      "macos",
+      "mpris",
+      "music",
+      "music_player",
+      "rust",
+      "spotify",
+      "spotify_client",
+      "spotify_connect",
+      "windows"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13720,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-31T04:00:03+00:00",
+    "updated_at": "2026-08-31T06:27:36.648792+00:00"
+  },
+  {
     "id": "jprx-darwin-vm",
     "name": "jprx/darwin-vm",
     "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.\n**Language**: Python\n**Stars**: 567 **Issues**: 1 **Forks**: 43\n[https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)",

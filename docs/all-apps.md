@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17010`
+> **Total Cataloged Projects:** `17011`
 
 ---
 
@@ -3178,6 +3178,7 @@
 | **cristim/serverless-failure-stories** | Compilation of public failure/horror stories related to Serverless, i… | [GitHub](https://github.com/cristim/serverless-failure-stories) | — | `GitHub, OpenSource` |
 | **criticalstack/quake-kube** | Quake 3 on Kubernetes | [GitHub](https://github.com/criticalstack/quake-kube) | — | `kubernetes, quake, quake3` |
 | **Crmeb Java** | CRMEB is an open-source e-commerce system built with Java, Vue, and U… | [GitHub](https://github.com/crmeb/crmeb_java) | — | `java` |
+| **crmne/fastpotify** | Spotify, native and fast. One lightweight Rust app for your whole lib… | [GitHub](https://github.com/crmne/fastpotify) | — | `audio, cross_platform, desktop_app, egui, gui, librespot, linux, macos, mpris, music, music_player, rust, spotify, spotify_client, spotify_connect, windows` |
 | **crnacura/AmbientCanvasBackgrounds** | Five ambient webpage backgrounds created using the HTML5 Canvas API a… | [GitHub](https://github.com/crnacura/AmbientCanvasBackgrounds) | — | `GitHub, OpenSource` |
 | **Croc** | croc is a simple, secure, and fast command-line file transfer tool th… | [GitHub](https://github.com/schollz/croc) | [Website](https://github.com/schollz/croc#readme) | `Windows, Mac, linux, readme, golang, tcp, transfer, peer_to_peer, file_sharing, data_transfer, pake, GitHub, OpenSource, go, Interesting, Useful` |
 | **crocofied/PortNote** | Keep track of used ports | [GitHub](https://github.com/crocofied/PortNote) | — | `GitHub, OpenSource` |

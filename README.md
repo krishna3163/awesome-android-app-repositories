@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17010`
-- 🏷️ **Unique Categories / Tags:** `15541`
-- 🔄 **Last Automatically Synchronized:** `2026-08-31 00:04 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17011`
+- 🏷️ **Unique Categories / Tags:** `15545`
+- 🔄 **Last Automatically Synchronized:** `2026-08-31 06:27 UTC`
 
 ---
 
@@ -276,20 +276,47 @@ Explore our organized category directories to find the exact apps and tools you 
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
 | **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13414 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
-| **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `826 apps` | [**Explore →**](docs/categories/windows.md) |
-| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `782 apps` | [**Explore →**](docs/categories/linux.md) |
-| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `695 apps` | [**Explore →**](docs/categories/apple.md) |
-| **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `473 apps` | [**Explore →**](docs/categories/media-music.md) |
+| **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
+| **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
+| **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
+| **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `474 apps` | [**Explore →**](docs/categories/media-music.md) |
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17010 cataloged applications | `17010 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17011 cataloged applications | `17011 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17010 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17011 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 jprx/darwin-vm
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+**Language**: Python
+**Stars**: 567 **Issues**: 1 **Forks**: 43
+[https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+
+- 🐙 **Source Code:** [https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+- 👤 **Developer:** [jprx](https://github.com/jprx)
+
+
+---
+
+### 📦 Infographic
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+- 🐙 **Source Code:** [https://github.com/antvis/Infographic](https://github.com/antvis/Infographic)
+- 👤 **Developer:** [antvis](https://github.com/antvis)
+
+
+---
 
 ### 📦 Fal Nanobanana Studio
 
@@ -599,32 +626,6 @@ A studio for image and video generation — one prompt bar, each model’s own s
 
 - 🐙 **Source Code:** [https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
 - 👤 **Developer:** [wide-trace](https://github.com/wide-trace)
-
-
----
-
-### 📦 Zyrexnn/Cybermes
-
-> **Categories:** `#ai_agent` `#appsec` `#bug_bounty` `#cvss_v3` `#cybersecurity` `#devsecops` `#exploit_validation` `#hermes_agent` `#infosec` `#llm_security` `#nuclei` `#offensive_security` `#penetration_testing` `#playwright` `#reconnaissance` `#red_teaming` `#security_tools` `#sqlmap` `#threat_research` `#vulnerability_scanner`
-
-Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)
-- 👤 **Developer:** [Zyrexnn](https://github.com/Zyrexnn)
-
-
----
-
-### 📦 bryllim/workout-guide
-
-> **Categories:** `#exercise` `#expo` `#fitness` `#npm_package` `#open_source` `#react_native` `#workout`
-
-302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-**Language**: Astro
-
-- 🐙 **Source Code:** [https://github.com/bryllim/workout-guide](https://github.com/bryllim/workout-guide)
-- 👤 **Developer:** [bryllim](https://github.com/bryllim)
 
 
 ---
