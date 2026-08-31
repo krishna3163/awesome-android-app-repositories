@@ -4,7 +4,50 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13417`
+> **Total Apps in Category:** `13419`
+
+---
+
+### 📦 Instapy
+
+> **Categories:** `#python` `#automation` `#bot` `#clarifai` `#instagram` `#script` `#selenium`
+
+This project is about using AI and Python tools to automate social media tasks like likes, comments, and followers. The main benefit for you is learning practical automation ideas, tools, and examples that can save time and help you build your own bots, but it also warns that heavy use can lead to bans.
+
+https://github.com/InstaPy/InstaPy
+
+- 🐙 **Source Code:** [https://github.com/InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
+- 👤 **Developer:** [InstaPy](https://github.com/InstaPy)
+
+
+---
+
+### 📦 Agx
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It is built on top of Tauri, SvelteKit and Plot and can work in two ways: as a native desktop application using (Clickhouse) or as a web interface connected to a remote server.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/agnosticeng/agx](https://github.com/agnosticeng/agx)
+- 👤 **Developer:** [agnosticeng](https://github.com/agnosticeng)
+
+
+---
+
+### 📦 kacperkapusciak/goldie
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+✨ agentic app store previews and screenshots
+**Language**: TypeScript
+**Stars**: 834 **Issues**: 5 **Forks**: 59
+[https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+
+- 🐙 **Source Code:** [https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+- 👤 **Developer:** [kacperkapusciak](https://github.com/kacperkapusciak)
+
 
 ---
 
@@ -197752,45 +197795,29 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 kacperkapusciak/goldie
+### 📦 jub0t/Concat
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#audio_processor` `#auto_caption` `#automation` `#capcut` `#capcut_alternative` `#content_creation` `#cross_platform` `#desktop_app` `#ffmpeg` `#free_video_editor` `#non_linear_editor` `#offline_first` `#open_source_video_editor` `#rust_lang` `#tauri_app` `#video_editing` `#video_editing_software` `#video_processing_tool` `#whisper_cpp`
 
-✨ agentic app store previews and screenshots
+Free & Open-Source CapCut replacement.
 **Language**: TypeScript
-**Stars**: 834 **Issues**: 5 **Forks**: 59
-[https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
 
-- 🐙 **Source Code:** [https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
-- 👤 **Developer:** [kacperkapusciak](https://github.com/kacperkapusciak)
+- 🐙 **Source Code:** [https://github.com/jub0t/Concat](https://github.com/jub0t/Concat)
+- 👤 **Developer:** [jub0t](https://github.com/jub0t)
 
 
 ---
 
-### 📦 Instapy
-
-> **Categories:** `#python` `#automation` `#bot` `#clarifai` `#instagram` `#script` `#selenium`
-
-This project is about using AI and Python tools to automate social media tasks like likes, comments, and followers. The main benefit for you is learning practical automation ideas, tools, and examples that can save time and help you build your own bots, but it also warns that heavy use can lead to bans.
-
-https://github.com/InstaPy/InstaPy
-
-- 🐙 **Source Code:** [https://github.com/InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
-- 👤 **Developer:** [InstaPy](https://github.com/InstaPy)
-
-
----
-
-### 📦 Agx
+### 📦 Rust By Practice
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-It is built on top of Tauri, SvelteKit and Plot and can work in two ways: as a native desktop application using (Clickhouse) or as a web interface connected to a remote server.
+It is very easy to use. All you have to do is compile each exercise without ERROR or panic!
 
 🐱** **[**GitHub**](https://t.me/github)
 
-- 🐙 **Source Code:** [https://github.com/agnosticeng/agx](https://github.com/agnosticeng/agx)
-- 👤 **Developer:** [agnosticeng](https://github.com/agnosticeng)
+- 🐙 **Source Code:** [https://github.com/sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
+- 👤 **Developer:** [sunface](https://github.com/sunface)
 
 
 ---

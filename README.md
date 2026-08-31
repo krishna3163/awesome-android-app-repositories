@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17014`
-- 🏷️ **Unique Categories / Tags:** `15547`
-- 🔄 **Last Automatically Synchronized:** `2026-08-31 14:39 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17016`
+- 🏷️ **Unique Categories / Tags:** `15555`
+- 🔄 **Last Automatically Synchronized:** `2026-08-31 20:31 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13417 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13419 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,56 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17014 cataloged applications | `17014 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17016 cataloged applications | `17016 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17014 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17016 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Instapy
+
+> **Categories:** `#python` `#automation` `#bot` `#clarifai` `#instagram` `#script` `#selenium`
+
+This project is about using AI and Python tools to automate social media tasks like likes, comments, and followers. The main benefit for you is learning practical automation ideas, tools, and examples that can save time and help you build your own bots, but it also warns that heavy use can lead to bans.
+
+https://github.com/InstaPy/InstaPy
+
+- 🐙 **Source Code:** [https://github.com/InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
+- 👤 **Developer:** [InstaPy](https://github.com/InstaPy)
+
+
+---
+
+### 📦 Agx
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It is built on top of Tauri, SvelteKit and Plot and can work in two ways: as a native desktop application using (Clickhouse) or as a web interface connected to a remote server.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/agnosticeng/agx](https://github.com/agnosticeng/agx)
+- 👤 **Developer:** [agnosticeng](https://github.com/agnosticeng)
+
+
+---
+
+### 📦 kacperkapusciak/goldie
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+✨ agentic app store previews and screenshots
+**Language**: TypeScript
+**Stars**: 834 **Issues**: 5 **Forks**: 59
+[https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+
+- 🐙 **Source Code:** [https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+- 👤 **Developer:** [kacperkapusciak](https://github.com/kacperkapusciak)
+
+
+---
 
 ### 📦 crmne/fastpotify
 
@@ -585,45 +628,6 @@ https://github.com/bilawalsidhu/gods-eye-view
 
 - 🐙 **Source Code:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - 👤 **Developer:** [bilawalsidhu](https://github.com/bilawalsidhu)
-
-
----
-
-### 📦 themartiano/try-omarchy
-
-> **Categories:** `#apple_silicon` `#archlinux` `#community` `#linux` `#macos` `#omarchy` `#qemu` `#virtualization`
-
-Try Omarchy on Apple Silicon without any setup.
-**Language**: Shell
-
-- 🐙 **Source Code:** [https://github.com/themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
-- 👤 **Developer:** [themartiano](https://github.com/themartiano)
-
-
----
-
-### 📦 Textual Web
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/Textualize/textual-web](https://github.com/Textualize/textual-web)
-- 👤 **Developer:** [Textualize](https://github.com/Textualize)
-
-
----
-
-### 📦 Go Modern Guidelines
-
-> **Categories:** `#go` `#ai_agents` `#coding_agent` `#developer_tools` `#golang` `#guidelines`
-
-This project helps coding agents write modern Go by using newer Go features and stdlib tools instead of old patterns, based on the Go version in `go.mod`. It supports Go 1.25+ and works with Junie, Claude Code, Codex, Cursor, and other agents. The benefit to you is cleaner, newer Go code with less manual fixing later.
-
-https://github.com/JetBrains/go-modern-guidelines
-
-- 🐙 **Source Code:** [https://github.com/JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
-- 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
 
 
 ---

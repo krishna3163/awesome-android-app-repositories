@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17014`
+> **Total Cataloged Projects:** `17016`
 
 ---
 
@@ -7478,6 +7478,7 @@
 | **JTV-GO Server** | **Access JioTV Go - streamlined for quick access and optimal performa… | [GitHub](https://t.me/popCLOUDS/9327) | — | `Android, Livetv, Stream, Entertaiment` |
 | **jtydhr88/ComfyUI-qwenmultiangle** | A ComfyUI custom node for 3D camera angle control. Provides an intera… | [GitHub](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) | — | `GitHub, OpenSource` |
 | **Juanpe/About-SwiftUI** | Gathering all info published, both by Apple and by others, about new… | [GitHub](https://github.com/Juanpe/About-SwiftUI) | — | `apple, articles, docs, learning, list, swift, swiftui, uikit, videos, wwdc` |
+| **jub0t/Concat** | Free & Open-Source CapCut replacement. | [GitHub](https://github.com/jub0t/Concat) | — | `audio_processor, auto_caption, automation, capcut, capcut_alternative, content_creation, cross_platform, desktop_app, ffmpeg, free_video_editor, non_linear_editor, offline_first, open_source_video_editor, rust_lang, tauri_app, video_editing, video_editing_software, video_processing_tool, whisper_cpp` |
 | **jucasoliveira/terminalGPT** | Get GPT like chatGPT on your terminal | [GitHub](https://github.com/jucasoliveira/terminalGPT) | — | `GitHub, OpenSource` |
 | **juchain-network/chain** | JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+Po… | [GitHub](https://github.com/juchain-network/chain) | — | `GitHub, OpenSource` |
 | **Judge0** | Judge0 is a free, open-source tool that safely runs code from over 90… | [GitHub](https://github.com/judge0/judge0) | — | `html, ai_agent_tools, ai_agents, ai_tools, code_execution, code_executor, code_runner, competitive_programming, online_compiler, online_judge, online_judges, onlinejudge, onlinejudge_solution, GitHub, OpenSource` |
@@ -12717,6 +12718,7 @@
 | **Russian Offensive Security Questions** | Using this material, you can prepare for an upcoming interview or fig… | [GitHub](https://github.com/curiv/russian-offensive-security-questions) | — | `GitHub, OpenSource` |
 | **Russian Swears** | **Contents:** | [GitHub](https://github.com/nickname76/russian-swears) | — | `GitHub, OpenSource` |
 | **Russian System Of Anpr** | [GitHub](https://t.me/github_community) | #Cpp #Interesting | [GitHub](https://github.com/KostyaKulakov/Russian_System_of_ANPR) | — | `Cpp, Interesting` |
+| **Rust By Practice** | It is very easy to use. All you have to do is compile each exercise w… | [GitHub](https://github.com/sunface/rust-by-practice) | — | `GitHub, OpenSource` |
 | **rust-aimbot-cheat/rust-cheat** | Rust Cheat – advanced aimbot, ESP, wallhack, and farming tools for Ru… | [GitHub](https://github.com/rust-aimbot-cheat/rust-cheat) | — | `GitHub, OpenSource` |
 | **rust-in-action/code** | Source code for the book Rust in Action | [GitHub](https://github.com/rust-in-action/code) | — | `book, manning_publications, rust, rust_in_action, rustlang` |
 | **rustasync/runtime** | Empowering everyone to build asynchronous software | [GitHub](https://github.com/rustasync/runtime) | — | `GitHub, OpenSource` |
