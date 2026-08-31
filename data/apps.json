@@ -1,5 +1,63 @@
 [
   {
+    "id": "jprx-darwin-vm",
+    "name": "jprx/darwin-vm",
+    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.\n**Language**: Python\n**Stars**: 567 **Issues**: 1 **Forks**: 43\n[https://github.com/jprx/darwin-vm](https://github.com/jprx/darwin-vm)",
+    "website": "",
+    "repository": "https://github.com/jprx/darwin-vm",
+    "developer": {
+      "name": "jprx",
+      "url": "https://github.com/jprx"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13719,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T22:00:02+00:00",
+    "updated_at": "2026-08-31T00:04:08.642623+00:00"
+  },
+  {
+    "id": "infographic",
+    "name": "Infographic",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "website": "",
+    "repository": "https://github.com/antvis/Infographic",
+    "developer": {
+      "name": "antvis",
+      "url": "https://github.com/antvis"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11149,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-30T21:45:13+00:00",
+    "updated_at": "2026-08-31T00:04:12.823466+00:00"
+  },
+  {
     "id": "fal-nanobanana-studio",
     "name": "Fal Nanobanana Studio",
     "description": "🐱** **[**GitHub**](https://t.me/github)",

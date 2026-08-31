@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17008`
+> **Total Cataloged Projects:** `17010`
 
 ---
 
@@ -6813,6 +6813,7 @@
 | **Infinitrix** | Written in Python3, PyQt5 and PyQtWebEngine. There is support for cha… | [GitHub](https://github.com/smallcms/infinitrix) | — | `Python, CRM, Interesting` |
 | **Infinity Loop** | You enter any topic and AI, powered by Google Gemini and Tavily searc… | [GitHub](https://github.com/arelove/infinity-loop) | — | `GitHub, OpenSource` |
 | **Infisical** | Teams use it to centralize their application configurations and secre… | [GitHub](https://github.com/Infisical/infisical) | — | `GitHub, OpenSource` |
+| **Infographic** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Pl… | [GitHub](https://github.com/antvis/Infographic) | — | `GitHub, OpenSource` |
 | **Infomaniak Workspace** | Infomaniak Workspace is an online service that gives you access to yo… | [GitHub](https://www.infomaniak.com/en/ksuite) | — | `Workspace, Android, IOS, Windows, MacOS, Linux` |
 | **infosecn1nja/AD-Attack-Defense** | Active Directory Security For Red & Blue Team | [GitHub](https://github.com/infosecn1nja/AD-Attack-Defense) | — | `GitHub, OpenSource` |
 | **infosecn1nja/awesome-mitre-attack** | A curated list of awesome resources related to Mitre ATT&CK™ Framework | [GitHub](https://github.com/infosecn1nja/awesome-mitre-attack) | — | `GitHub, OpenSource` |
@@ -7425,6 +7426,7 @@
 | **JPCERTCC/EmoCheck** | Emotet detection tool for Windows OS | [GitHub](https://github.com/JPCERTCC/EmoCheck) | — | `emotet, malware_detection, security` |
 | **Jpgtomalware** | https://github.com/abdulkadir-gungor/JPGtoMalware | [GitHub](https://github.com/abdulkadir-gungor/JPGtoMalware) | — | `GitHub, OpenSource` |
 | **jphall663/awesome-machine-learning-interpretability** | A curated list of awesome machine learning interpretability resources. | [GitHub](https://github.com/jphall663/awesome-machine-learning-interpretability) | — | `accountability, awesome, awesome_list, data_mining, data_science, fairness, fatml, iml, interpretability, machine_learning, python, r, transparency, xai, readme, ai_safety, privacy_enhancing_technologies, interpretable_ai, interpretable_ml, explainable_ml, interpretable_machine_learning, privacy_preserving_machine_learning, machine_learning_interpretability, secure_ml, reliable_ai` |
+| **jprx/darwin-vm** | Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-… | [GitHub](https://github.com/jprx/darwin-vm) | — | `GitHub, OpenSource` |
 | **jpschroeder/pipe-to-me** | Stream data over http using curl. | [GitHub](https://github.com/jpschroeder/pipe-to-me) | — | `GitHub, OpenSource` |
 | **jpsim/ZenTuner** | A minimal chromatic tuner. | [GitHub](https://github.com/jpsim/ZenTuner) | — | `ios, macos, music, swift, swiftui, tuner` |
 | **jpudysz/react-native-unistyles** | Level up your React Native StyleSheet | [GitHub](https://github.com/jpudysz/react-native-unistyles) | — | `react, react_native, react_native_web, typescript` |
