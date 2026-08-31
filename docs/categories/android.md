@@ -24341,12 +24341,29 @@ SmartTube Android TV app is a free and open source player for YouTube content on
 
 ### 📦 RustDesk
 
-> **Categories:** `#snapshots` `#Android` `#Windows` `#MacOS` `#Linux` `#GitHub` `#OpenSource` `#rust` `#anydesk` `#dart` `#flutter` `#flutter_apps` `#flutter_desktop` `#flutter_examples` `#flutter_mobile` `#flutter_ui` `#flutter_web` `#hacktoberfest` `#p2p` `#rdp` `#remote_control` `#remote_desktop` `#rust_lang` `#teamviewer` `#vnc` `#wayland` `#Interesting` `#Code`
+> **Categories:** `#snapshots` `#Android` `#Windows` `#MacOS` `#Linux` `#GitHub` `#OpenSource` `#rust` `#anydesk` `#dart` `#flutter` `#flutter_apps` `#flutter_desktop` `#flutter_examples` `#flutter_mobile` `#flutter_ui` `#flutter_web` `#hacktoberfest` `#p2p` `#rdp` `#remote_control` `#remote_desktop` `#rust_lang` `#teamviewer` `#vnc` `#wayland` `#Interesting` `#Code` `#Mac` `#ios` `#RemoteDesktop`
 
 **Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security.
 
 - 🐙 **Source Code:** [https://github.com/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - 👤 **Developer:** rustdesk
+
+<details>
+<summary><b>✨ Key Features (11)</b> — <i>Click to expand</i></summary>
+
+- Open-source & privacy-focused
+- Remote desktop access & control
+- P2P connections
+- End-to-end encryption
+- File transfer
+- Multi-platform support
+- Self-hosted server support
+- Keyboard & mouse control
+- Remote reboot & shutdown
+- Lightweight & fast
+- Cross-platform connectivity
+
+</details>
 
 
 ---

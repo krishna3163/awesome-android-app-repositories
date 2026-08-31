@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13414`
+> **Total Apps in Category:** `13417`
 
 ---
 
@@ -197748,6 +197748,49 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 kacperkapusciak/goldie
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+✨ agentic app store previews and screenshots
+**Language**: TypeScript
+**Stars**: 834 **Issues**: 5 **Forks**: 59
+[https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+
+- 🐙 **Source Code:** [https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+- 👤 **Developer:** [kacperkapusciak](https://github.com/kacperkapusciak)
+
+
+---
+
+### 📦 Instapy
+
+> **Categories:** `#python` `#automation` `#bot` `#clarifai` `#instagram` `#script` `#selenium`
+
+This project is about using AI and Python tools to automate social media tasks like likes, comments, and followers. The main benefit for you is learning practical automation ideas, tools, and examples that can save time and help you build your own bots, but it also warns that heavy use can lead to bans.
+
+https://github.com/InstaPy/InstaPy
+
+- 🐙 **Source Code:** [https://github.com/InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
+- 👤 **Developer:** [InstaPy](https://github.com/InstaPy)
+
+
+---
+
+### 📦 Agx
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It is built on top of Tauri, SvelteKit and Plot and can work in two ways: as a native desktop application using (Clickhouse) or as a web interface connected to a remote server.
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/agnosticeng/agx](https://github.com/agnosticeng/agx)
+- 👤 **Developer:** [agnosticeng](https://github.com/agnosticeng)
 
 
 ---

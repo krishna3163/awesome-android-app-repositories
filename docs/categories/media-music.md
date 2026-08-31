@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 crmne/fastpotify
+
+> **Categories:** `#audio` `#cross_platform` `#desktop_app` `#egui` `#gui` `#librespot` `#linux` `#macos` `#mpris` `#music` `#music_player` `#rust` `#spotify` `#spotify_client` `#spotify_connect` `#windows`
+
+Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/crmne/fastpotify](https://github.com/crmne/fastpotify)
+- 👤 **Developer:** [crmne](https://github.com/crmne)
+
+
+---
+
 ### 📦 Audiomonitorrouter
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -8810,19 +8823,6 @@ A music player developed based on electron-vue, the interface imitates QQ Music,
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
-
-
----
-
-### 📦 crmne/fastpotify
-
-> **Categories:** `#audio` `#cross_platform` `#desktop_app` `#egui` `#gui` `#librespot` `#linux` `#macos` `#mpris` `#music` `#music_player` `#rust` `#spotify` `#spotify_client` `#spotify_connect` `#windows`
-
-Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/crmne/fastpotify](https://github.com/crmne/fastpotify)
-- 👤 **Developer:** [crmne](https://github.com/crmne)
 
 
 ---

@@ -44768,5 +44768,16 @@
     "message_id": 15963,
     "raw_text": "#typescript \n\nCorsair helps you connect users to many apps with one system. It uses a REST API, so the same setup works for agents, backend tools, and user dashboards. It also gives one simple way to handle different integrations, saving you from writing extra glue code. Because it is open source, you can self-host it and keep control of your data and tokens.\n\nhttps://github.com/corsairdev/corsair",
     "timestamp": "2026-08-30T14:08:36.290013+00:00"
+  },
+  {
+    "incoming_name": "Basemulti",
+    "incoming_normalized": "basemulti",
+    "matched_project_id": "base-ui",
+    "matched_project_name": "Base Ui",
+    "similarity_score": 80.0,
+    "channel": "@github",
+    "message_id": 11151,
+    "raw_text": "[**Basemulti**](https://github.com/basemulti/basemulti) — подключите свою базу данных. \n\nПолучите административную панель за считаные секунды. Никакого облака. Без привязки.\n\n🐱[** **](https://t.me/techno_news)[**GitHu**](https://t.me/github)[**b**](https://t.me/+cWuBx6rLtukxN2Uy)",
+    "timestamp": "2026-08-31T14:39:07.765626+00:00"
   }
 ]

@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17011`
-- 🏷️ **Unique Categories / Tags:** `15545`
-- 🔄 **Last Automatically Synchronized:** `2026-08-31 06:27 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17014`
+- 🏷️ **Unique Categories / Tags:** `15547`
+- 🔄 **Last Automatically Synchronized:** `2026-08-31 14:39 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13414 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13417 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,26 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17011 cataloged applications | `17011 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17014 cataloged applications | `17014 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17011 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17014 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 crmne/fastpotify
+
+> **Categories:** `#audio` `#cross_platform` `#desktop_app` `#egui` `#gui` `#librespot` `#linux` `#macos` `#mpris` `#music` `#music_player` `#rust` `#spotify` `#spotify_client` `#spotify_connect` `#windows`
+
+Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/crmne/fastpotify](https://github.com/crmne/fastpotify)
+- 👤 **Developer:** [crmne](https://github.com/crmne)
+
+
+---
 
 ### 📦 jprx/darwin-vm
 
@@ -611,21 +624,6 @@ https://github.com/JetBrains/go-modern-guidelines
 
 - 🐙 **Source Code:** [https://github.com/JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
 - 👤 **Developer:** [JetBrains](https://github.com/JetBrains)
-
-
----
-
-### 📦 wide-trace/open-higgsfield
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
-**Language**: TypeScript
-**Stars**: 638 **Issues**: 0 **Forks**: 0
-[https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
-
-- 🐙 **Source Code:** [https://github.com/wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
-- 👤 **Developer:** [wide-trace](https://github.com/wide-trace)
 
 
 ---

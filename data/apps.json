@@ -1,5 +1,97 @@
 [
   {
+    "id": "instapy",
+    "name": "Instapy",
+    "description": "This project is about using AI and Python tools to automate social media tasks like likes, comments, and followers. The main benefit for you is learning practical automation ideas, tools, and examples that can save time and help you build your own bots, but it also warns that heavy use can lead to bans.\n\nhttps://github.com/InstaPy/InstaPy",
+    "website": "",
+    "repository": "https://github.com/InstaPy/InstaPy",
+    "developer": {
+      "name": "InstaPy",
+      "url": "https://github.com/InstaPy"
+    },
+    "features": [],
+    "tags": [
+      "python",
+      "automation",
+      "bot",
+      "clarifai",
+      "instagram",
+      "script",
+      "selenium"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@githubtrending",
+      "main_message_id": 15968,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-31T12:00:02+00:00",
+    "updated_at": "2026-08-31T14:39:04.970285+00:00"
+  },
+  {
+    "id": "agx",
+    "name": "Agx",
+    "description": "It is built on top of Tauri, SvelteKit and Plot and can work in two ways: as a native desktop application using (Clickhouse) or as a web interface connected to a remote server.\n\n🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/agnosticeng/agx",
+    "developer": {
+      "name": "agnosticeng",
+      "url": "https://github.com/agnosticeng"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11152,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-31T11:32:40+00:00",
+    "updated_at": "2026-08-31T14:39:08.910549+00:00"
+  },
+  {
+    "id": "kacperkapusciak-goldie",
+    "name": "kacperkapusciak/goldie",
+    "description": "✨ agentic app store previews and screenshots\n**Language**: TypeScript\n**Stars**: 834 **Issues**: 5 **Forks**: 59\n[https://github.com/kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)",
+    "website": "",
+    "repository": "https://github.com/kacperkapusciak/goldie",
+    "developer": {
+      "name": "kacperkapusciak",
+      "url": "https://github.com/kacperkapusciak"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13721,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-31T10:00:03+00:00",
+    "updated_at": "2026-08-31T14:39:00.487285+00:00"
+  },
+  {
     "id": "crmne-fastpotify",
     "name": "crmne/fastpotify",
     "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.\n**Language**: Rust",
@@ -313393,7 +313485,52 @@
       "name": "rustdesk",
       "url": ""
     },
-    "features": [],
+    "features": [
+      {
+        "title": "Open-source & privacy-focused",
+        "description": ""
+      },
+      {
+        "title": "Remote desktop access & control",
+        "description": ""
+      },
+      {
+        "title": "P2P connections",
+        "description": ""
+      },
+      {
+        "title": "End-to-end encryption",
+        "description": ""
+      },
+      {
+        "title": "File transfer",
+        "description": ""
+      },
+      {
+        "title": "Multi-platform support",
+        "description": ""
+      },
+      {
+        "title": "Self-hosted server support",
+        "description": ""
+      },
+      {
+        "title": "Keyboard & mouse control",
+        "description": ""
+      },
+      {
+        "title": "Remote reboot & shutdown",
+        "description": ""
+      },
+      {
+        "title": "Lightweight & fast",
+        "description": ""
+      },
+      {
+        "title": "Cross-platform connectivity",
+        "description": ""
+      }
+    ],
     "tags": [
       "snapshots",
       "Android",
@@ -313422,7 +313559,10 @@
       "vnc",
       "wayland",
       "Interesting",
-      "Code"
+      "Code",
+      "Mac",
+      "ios",
+      "RemoteDesktop"
     ],
     "images": {
       "cover": "",
@@ -313431,12 +313571,12 @@
     "telegram": {
       "main_channel": "@popMODS",
       "main_message_id": 3472,
-      "features_channel": "",
-      "features_message_id": null
+      "features_channel": "@popCLOUDS",
+      "features_message_id": 13597
     },
     "status": "active",
     "created_at": "2023-08-11T02:14:31+00:00",
-    "updated_at": "2026-08-23T09:15:26.969188+00:00"
+    "updated_at": "2026-08-31T14:39:10.420209+00:00"
   },
   {
     "id": "serenity",
@@ -427454,7 +427594,7 @@
     },
     "status": "active",
     "created_at": "2021-06-10T13:37:35+00:00",
-    "updated_at": "2026-08-23T10:00:03.416548+00:00"
+    "updated_at": "2026-08-31T14:39:01.781108+00:00"
   },
   {
     "id": "zzanehip-the-oldos-project",

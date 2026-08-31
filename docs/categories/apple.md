@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 crmne/fastpotify
+
+> **Categories:** `#audio` `#cross_platform` `#desktop_app` `#egui` `#gui` `#librespot` `#linux` `#macos` `#mpris` `#music` `#music_player` `#rust` `#spotify` `#spotify_client` `#spotify_connect` `#windows`
+
+Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+**Language**: Rust
+
+- 🐙 **Source Code:** [https://github.com/crmne/fastpotify](https://github.com/crmne/fastpotify)
+- 👤 **Developer:** [crmne](https://github.com/crmne)
+
+
+---
+
 ### 📦 jprx/darwin-vm
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -8778,12 +8791,29 @@ It is currently available for Windows and GNU/Linux, with potential future suppo
 
 ### 📦 RustDesk
 
-> **Categories:** `#snapshots` `#Android` `#Windows` `#MacOS` `#Linux` `#GitHub` `#OpenSource` `#rust` `#anydesk` `#dart` `#flutter` `#flutter_apps` `#flutter_desktop` `#flutter_examples` `#flutter_mobile` `#flutter_ui` `#flutter_web` `#hacktoberfest` `#p2p` `#rdp` `#remote_control` `#remote_desktop` `#rust_lang` `#teamviewer` `#vnc` `#wayland` `#Interesting` `#Code`
+> **Categories:** `#snapshots` `#Android` `#Windows` `#MacOS` `#Linux` `#GitHub` `#OpenSource` `#rust` `#anydesk` `#dart` `#flutter` `#flutter_apps` `#flutter_desktop` `#flutter_examples` `#flutter_mobile` `#flutter_ui` `#flutter_web` `#hacktoberfest` `#p2p` `#rdp` `#remote_control` `#remote_desktop` `#rust_lang` `#teamviewer` `#vnc` `#wayland` `#Interesting` `#Code` `#Mac` `#ios` `#RemoteDesktop`
 
 **Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security.
 
 - 🐙 **Source Code:** [https://github.com/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - 👤 **Developer:** rustdesk
+
+<details>
+<summary><b>✨ Key Features (11)</b> — <i>Click to expand</i></summary>
+
+- Open-source & privacy-focused
+- Remote desktop access & control
+- P2P connections
+- End-to-end encryption
+- File transfer
+- Multi-platform support
+- Self-hosted server support
+- Keyboard & mouse control
+- Remote reboot & shutdown
+- Lightweight & fast
+- Cross-platform connectivity
+
+</details>
 
 
 ---
@@ -11614,19 +11644,6 @@ Android Messages as a Cross-platform Desktop App
 
 - 🐙 **Source Code:** [https://github.com/steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music)
 - 👤 **Developer:** [steve228uk](https://github.com/steve228uk)
-
-
----
-
-### 📦 crmne/fastpotify
-
-> **Categories:** `#audio` `#cross_platform` `#desktop_app` `#egui` `#gui` `#librespot` `#linux` `#macos` `#mpris` `#music` `#music_player` `#rust` `#spotify` `#spotify_client` `#spotify_connect` `#windows`
-
-Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-**Language**: Rust
-
-- 🐙 **Source Code:** [https://github.com/crmne/fastpotify](https://github.com/crmne/fastpotify)
-- 👤 **Developer:** [crmne](https://github.com/crmne)
 
 
 ---

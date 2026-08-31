@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17011`
+> **Total Cataloged Projects:** `17014`
 
 ---
 
@@ -529,6 +529,7 @@
 | **agno-agi/dash** | Self-learning data agent that grounds its answers in 6 layers of cont… | [GitHub](https://github.com/agno-agi/dash) | — | `GitHub, OpenSource` |
 | **AgriciDaniel/claude-obsidian** | Claude + Obsidian knowledge companion. Persistent, compounding wiki v… | [GitHub](https://github.com/AgriciDaniel/claude-obsidian) | — | `ai, claude_code, claude_code_skill, knowledge_management, obsidian, open_source, second_brain, python, agent_skills, ai_note_taking, ai_second_brain, claude_memory, claude_plugin, karpathy_llm_wiki, knowledge_graph, note_taking, notion_alternative, obsidian_ai, obsidian_plugin, obsidian_second_brain, personal_knowledge_management, pkm` |
 | **Agrona** | **4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy) | [GitHub](https://github.com/real-logic/agrona) | — | `GitHub, OpenSource` |
+| **Agx** | It is built on top of Tauri, SvelteKit and Plot and can work in two w… | [GitHub](https://github.com/agnosticeng/agx) | — | `GitHub, OpenSource` |
 | **AharonSambol/PrettyPrintTree** | Python library to print trees | [GitHub](https://github.com/AharonSambol/PrettyPrintTree) | — | `GitHub, OpenSource` |
 | **AHEKOT/ComfyUI_VNCCS** | Visual Novel Character Creation Suite is a comprehensive tool for cre… | [GitHub](https://github.com/AHEKOT/ComfyUI_VNCCS) | — | `GitHub, OpenSource` |
 | **ahembree/ansible-hms-docker** | Ansible playbook for automated home media server setup | [GitHub](https://github.com/ahembree/ansible-hms-docker) | — | `GitHub, OpenSource` |
@@ -6860,6 +6861,7 @@
 | **InstantID/InstantID** | InstantID : Zero-shot Identity-Preserving Generation in Seconds | [GitHub](https://github.com/InstantID/InstantID) | — | `GitHub, OpenSource` |
 | **instantpage/****instant.page** | Make your site’s pages instant in 1 minute and improve your conversio… | [GitHub](https://github.com/instantpage/instant.page) | — | `instant, performance` |
 | **instantX-research/Regional-Prompting-FLUX** | Training-free Regional Prompting for Diffusion Transformers 🔥 | [GitHub](https://github.com/instantX-research/Regional-Prompting-FLUX) | — | `GitHub, OpenSource` |
+| **Instapy** | This project is about using AI and Python tools to automate social me… | [GitHub](https://github.com/InstaPy/InstaPy) | — | `python, automation, bot, clarifai, instagram, script, selenium` |
 | **Instatic** | 🔗 [https://github.com/CoreBunch/Instatic](https://github.com/CoreBunc… | [GitHub](https://github.com/CoreBunch/Instatic) | — | `GitHub, OpenSource, typescript, cms, css, css_framework, page_builder, static, website` |
 | **Instill Core** | It simplifies all aspects of developing universal AI applications | [GitHub](https://github.com/instill-ai/instill-core) | — | `GitHub, OpenSource` |
 | **instructa/browser-echo** | ⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents | [GitHub](https://github.com/instructa/browser-echo) | — | `ai, browser, claude_code, codex_cli, cursor, gemini_cli, llm, log, logging` |
@@ -7552,6 +7554,7 @@
 | **K8Up** | **4️⃣**** **[**GitHub**](https://t.me/github_tg) | [GitHub](https://github.com/k8up-io/k8up) | — | `GitHub, OpenSource` |
 | **K9S** | K9s is a tool that helps you manage your Kubernetes clusters more eas… | [GitHub](https://github.com/derailed/k9s) | — | `go, golang, k8s, k8s_cluster, k9s, kubernetes, kubernetes_cli, kubernetes_clusters` |
 | **kabinspace/AstroVim** | AstroVim is an aesthetic and feature-rich neovim config that is exten… | [GitHub](https://github.com/kabinspace/AstroVim) | — | `astrovim, ide, lua, neovim, neovim_config, neovim_configuration, neovim_lua, neovim_setup, nvim, vim, GitHub, OpenSource` |
+| **kacperkapusciak/goldie** | ✨ agentic app store previews and screenshots | [GitHub](https://github.com/kacperkapusciak/goldie) | — | `GitHub, OpenSource` |
 | **Kadenio/Pancakeswap-Sniper-Bot-Free** | A free sniper bot for Pancakeswap C# | [GitHub](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) | — | `binance_api, binance_smart_chain, bot, bsc, free, free_bot, free_bot_binance, metamask, pancakes, pancakeswap, pancakeswap_bot, pancakeswap_bot_prediction, pancakeswap_prediction_winner, pancakeswap_sniper_bot, sniper, sniper_bot, sniperbot` |
 | **kadirnar/segment-anything-video** | MetaSeg: Packaged version of the Segment Anything repository | [GitHub](https://github.com/kadirnar/segment-anything-video) | — | `object_detection, object_segmentation, segment_anything, segmentation` |
 | **Kafka** | To use Apache Kafka, you need to have Java installed. Here’s what you… | [GitHub](https://github.com/apache/kafka) | — | `java, kafka, scala` |
@@ -12718,7 +12721,7 @@
 | **rust-in-action/code** | Source code for the book Rust in Action | [GitHub](https://github.com/rust-in-action/code) | — | `book, manning_publications, rust, rust_in_action, rustlang` |
 | **rustasync/runtime** | Empowering everyone to build asynchronous software | [GitHub](https://github.com/rustasync/runtime) | — | `GitHub, OpenSource` |
 | **rustcc/RustChinaConf2020** | All pdf slides in RustChinaConf2020 | [GitHub](https://github.com/rustcc/RustChinaConf2020) | — | `GitHub, OpenSource` |
-| **RustDesk** | **Yet another remote desktop software, written in Rust. Works out of… | [GitHub](https://github.com/rustdesk/rustdesk) | — | `snapshots, Android, Windows, MacOS, Linux, GitHub, OpenSource, rust, anydesk, dart, flutter, flutter_apps, flutter_desktop, flutter_examples, flutter_mobile, flutter_ui, flutter_web, hacktoberfest, p2p, rdp, remote_control, remote_desktop, rust_lang, teamviewer, vnc, wayland, Interesting, Code` |
+| **RustDesk** | **Yet another remote desktop software, written in Rust. Works out of… | [GitHub](https://github.com/rustdesk/rustdesk) | — | `snapshots, Android, Windows, MacOS, Linux, GitHub, OpenSource, rust, anydesk, dart, flutter, flutter_apps, flutter_desktop, flutter_examples, flutter_mobile, flutter_ui, flutter_web, hacktoberfest, p2p, rdp, remote_control, remote_desktop, rust_lang, teamviewer, vnc, wayland, Interesting, Code, Mac, ios, RemoteDesktop` |
 | **Rustedlesspass** | **4️⃣**** **[**GitHub**](https://t.me/+rB2DxiwI4X5iYjcy) | [GitHub](https://github.com/RustedLessPass/RustedLessPass) | — | `GitHub, OpenSource` |
 | **Rustfs** | RustFS is a fast and safe distributed object storage system built wit… | [GitHub](https://github.com/rustfs/rustfs) | — | `rust, bigdata, cloud_native, distributed_systems, filesystem, minio, object_storage, oss, s3, GitHub, OpenSource` |
 | **rusticstuff/simdutf8** | SIMD-accelerated UTF-8 validation for Rust. | [GitHub](https://github.com/rusticstuff/simdutf8) | — | `rust, simd_extensions, unicode, utf_8` |
