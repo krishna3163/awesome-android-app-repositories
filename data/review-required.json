@@ -44812,5 +44812,16 @@
     "message_id": 943,
     "raw_text": "**OpenBot**\n\nOpenBot gives every AI agent its own computer - a real browser with its own logins, its own files, and only the tools you grant it. Every action a bot take is decided before it happens and recorded after.\n\nCreator: CopilotKit\nStars ⭐️: 2,600\nForked by: 295\n\nGitHub Repo: \nhttps://github.com/CopilotKit/openbot\n\n#AI #Agents #SelfHosted\n➖➖➖➖➖➖➖➖➖➖➖➖➖\nJoin @github_repositories_bds for more cool repositories. This channel belongs to @bigdataspecialist group",
     "timestamp": "2026-09-01T10:50:36.470422+00:00"
+  },
+  {
+    "incoming_name": "Voicestudio",
+    "incoming_normalized": "voicestudio",
+    "matched_project_id": "coze-studio",
+    "matched_project_name": "Coze Studio",
+    "similarity_score": 76.19047619047619,
+    "channel": "@githubtrending",
+    "message_id": 15971,
+    "raw_text": "#python #ai #audiobook #cuda #dubbing #elevenlabs_alternative #huggingface #local_first #mlx #omnivoice_studio #speech_to_text #tauri #text_to_speech #transcription #translate #tts #voice_ai #voice_cloning #voice_generation #voicestudio #workflow \n\nVoiceStudio is a local app for voice cloning, dubbing, dictation, and long audio work on macOS, Windows, and Linux. It works offline after setup, keeps your voices and files on your machine by default, and gives you many engines and languages to choos",
+    "timestamp": "2026-09-01T15:20:47.784971+00:00"
   }
 ]

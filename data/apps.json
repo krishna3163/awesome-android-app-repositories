@@ -1,5 +1,67 @@
 [
   {
+    "id": "youdo",
+    "name": "YouDO",
+    "description": "Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT and other exam aspirants. Build a 6-level syllabus blueprint, schedule precise task slices, run pause-aware focus sessions, and sync daily execution with long-term goal progress.",
+    "website": "",
+    "repository": "https://t.me/+-manVNAPhThkMzRl",
+    "developer": {
+      "name": "Jatin Parmar",
+      "url": "https://github.com/mattedhairr"
+    },
+    "features": [
+      {
+        "title": "Six-Level Blueprint",
+        "description": "Structure your syllabus as Goal → Phase → Section → Task → Sub-task → Leaf Task, using only the depth your plan actually needs."
+      },
+      {
+        "title": "Blueprint Studio",
+        "description": "Build large plans without repetitive entry — one question at a time, bulk-add named items or numbered ranges, develop one phase while leaving others as shells, and undo the whole operation in one tap."
+      },
+      {
+        "title": "Step-Slice Scheduling",
+        "description": "Schedule only the steps you intend to finish today instead of moving an entire task at once; progress writes back to the original goal tree."
+      },
+      {
+        "title": "Honest Today & Backlog",
+        "description": "Unfinished work keeps its planning context and stays visible in Backlog — nothing silently disappears or auto-moves."
+      },
+      {
+        "title": "Pause-Aware Focus Sessions",
+        "description": "Tracks net focus separately from total elapsed time, with pause/resume from lock screen or notification, Ambient full-screen timer mode, and safe recovery of interrupted sessions."
+      },
+      {
+        "title": "Adaptive Daily Briefing",
+        "description": "\"Today at a Glance\" shifts from morning briefing to live progress view, showing planning load, backlog pressure, streaks, and time left in the day."
+      },
+      {
+        "title": "Honour-System Streaks & Board",
+        "description": "Set your own daily focus threshold, recover broken streaks with real work, and optionally join a private-by-default public leaderboard ranked by net focus."
+      },
+      {
+        "title": "Local-First & Private",
+        "description": "Works fully offline in guest mode, optional account sync across devices, local JSON backup/export, and no ads or paid tier."
+      }
+    ],
+    "tags": [
+      "Android",
+      "Utilities"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@popMODS",
+      "main_message_id": 8691,
+      "features_channel": "@popCLOUDS",
+      "features_message_id": 13608
+    },
+    "status": "active",
+    "created_at": "2026-09-01T12:32:35+00:00",
+    "updated_at": "2026-09-01T15:20:51.981473+00:00"
+  },
+  {
     "id": "damejan80-tokentab",
     "name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.\n**Language**: Python",
@@ -50088,7 +50150,13 @@
     "features": [],
     "tags": [
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "typescript",
+      "ai",
+      "ai_agent",
+      "ai_tools",
+      "cli",
+      "coding"
     ],
     "images": {
       "cover": "",
@@ -50102,7 +50170,7 @@
     },
     "status": "active",
     "created_at": "2026-04-02T10:00:03+00:00",
-    "updated_at": "2026-08-23T07:48:12.334735+00:00"
+    "updated_at": "2026-09-01T15:20:47.488820+00:00"
   },
   {
     "id": "rivo-phone",
@@ -121113,7 +121181,7 @@
     },
     "status": "active",
     "created_at": "2025-08-11T07:33:00+00:00",
-    "updated_at": "2026-08-23T07:58:55.949244+00:00"
+    "updated_at": "2026-09-01T15:20:49.935618+00:00"
   },
   {
     "id": "docker-selenium",
@@ -127243,7 +127311,7 @@
     },
     "status": "active",
     "created_at": "2025-07-21T11:30:03+00:00",
-    "updated_at": "2026-08-23T09:16:25.613058+00:00"
+    "updated_at": "2026-09-01T15:20:50.621288+00:00"
   },
   {
     "id": "bugthesystem-flux",
@@ -360373,7 +360441,8 @@
       "AI",
       "Useful",
       "GitHub",
-      "OpenSource"
+      "OpenSource",
+      "html"
     ],
     "images": {
       "cover": "",
@@ -360387,7 +360456,7 @@
     },
     "status": "active",
     "created_at": "2022-09-12T14:45:00+00:00",
-    "updated_at": "2026-08-23T10:50:18.690941+00:00"
+    "updated_at": "2026-09-01T15:20:47.479322+00:00"
   },
   {
     "id": "flecs",

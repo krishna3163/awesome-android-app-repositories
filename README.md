@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17021`
+- 📦 **Total Discovered Apps & Projects:** `17022`
 - 🏷️ **Unique Categories / Tags:** `15556`
-- 🔄 **Last Automatically Synchronized:** `2026-09-01 10:50 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-09-01 15:20 UTC`
 
 ---
 
@@ -274,22 +274,58 @@ Explore our organized category directories to find the exact apps and tools you 
 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
-| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1611 apps` | [**Explore →**](docs/categories/android.md) |
+| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1612 apps` | [**Explore →**](docs/categories/android.md) |
 | **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13423 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `474 apps` | [**Explore →**](docs/categories/media-music.md) |
-| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1050 apps` | [**Explore →**](docs/categories/web-ai.md) |
+| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1051 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17021 cataloged applications | `17021 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17022 cataloged applications | `17022 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17021 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17022 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 damejan80/tokentab
+
+> **Categories:** `#ai` `#claude` `#claude_code` `#cursor` `#python` `#token_optimization` `#token_usage`
+
+A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/damejan80/tokentab](https://github.com/damejan80/tokentab)
+- 👤 **Developer:** [damejan80](https://github.com/damejan80)
+
+
+---
+
+### 📦 GPT INPUT FROM JUST US$0.03 / 1M TOKENS!
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+⚡️ Top up US$20 in a single payment to unlock the 1.5% GPT official rate:
+
+- gpt-5.6-terra: US$0.03 input｜US$0.18 output
+- gpt-5.6-sol / gpt-5.5: US$0.075 input｜US$0.45 output
+
+All prices are per 1 million tokens.
+
+🔑 One API key for GPT, Claude, Grok, Gemini, DeepSeek, and more.
+
+🎁 Sign up and get US$0.25 in free trial credit.
+
+Claim your credit and start testing now 👇
+[https://modelflare.dev/](https://modelflare.dev/sign-up?utm_source=telegram_xuliya2&utm_medium=paid_social&utm_campaign=modelflare_en_202608&utm_content=tg_price_v1)
+
+- 🐙 **Source Code:** [https://modelflare.dev](https://modelflare.dev)
+
+
+---
 
 ### 📦 chrisgreg/boop
 
@@ -595,34 +631,6 @@ My AI learning system.
 
 - 🐙 **Source Code:** [https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
 - 👤 **Developer:** [amosblomqvist](https://github.com/amosblomqvist)
-
-
----
-
-### 📦 N4darae/anti-mage
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.
-**Language**: Go
-**Stars**: 607 **Issues**: 0 **Forks**: 36
-[https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
-
-- 🐙 **Source Code:** [https://github.com/N4darae/anti-mage](https://github.com/N4darae/anti-mage)
-- 👤 **Developer:** [N4darae](https://github.com/N4darae)
-
-
----
-
-### 📦 Tencent/WeMM-Embedding
-
-> **Categories:** `#embedding_models` `#multimodal` `#multimodal_llm`
-
-WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
-- 👤 **Developer:** [Tencent](https://github.com/Tencent)
 
 
 ---

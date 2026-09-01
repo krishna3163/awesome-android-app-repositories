@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17021`
+> **Total Cataloged Projects:** `17022`
 
 ---
 
@@ -5662,7 +5662,7 @@
 | **Gitignore: A Collection of .gitignore Templates** | **GitHub stars: 111,000 | [GitHub](https://github.com/github/gitignore) | — | `GitHub, OpenSource, Interesting` |
 | **GitJournal** | GitJournal is a note taking app focused on privacy and data portabili… | [GitHub](https://apps.apple.com/us/app/gitjournal/id1466519634?uo=4) | — | `community, Android, Linux, MacOS, GitHub, OpenSource` |
 | **Gitlab Ci Local** | You can run GitLab CI pipelines locally using `gitlab-ci-local`, whic… | [GitHub](https://github.com/firecow/gitlab-ci-local) | — | `typescript, cd, ci, git, gitlab, gitlab_ci, local, pipeline, push, uncomitted, untracked` |
-| **Gitlawb/openclaude** | Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and… | [GitHub](https://github.com/Gitlawb/openclaude) | — | `GitHub, OpenSource` |
+| **Gitlawb/openclaude** | Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and… | [GitHub](https://github.com/Gitlawb/openclaude) | — | `GitHub, OpenSource, typescript, ai, ai_agent, ai_tools, cli, coding` |
 | **Gitlint** | Works on Linux and Mac, Windows is still in experimental mode | [GitHub](https://github.com/jorisroovers/gitlint) | — | `Interesting, Python` |
 | **Gitlogue** | Watch commits unfold with realistic typing animations, syntax highlig… | [GitHub](https://github.com/unhappychoice/gitlogue) | — | `GitHub, OpenSource` |
 | **Gitminer** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/UnkL4b/GitMiner) | — | `GitHub, OpenSource` |
@@ -12224,7 +12224,7 @@
 | **rbignon/doctoshotgun** | Script to automatically book a vaccine slot on Doctolib for today or… | [GitHub](https://github.com/rbignon/doctoshotgun) | — | `vaccine` |
 | **rbong/vim-crystalline** | Functions for taking the monotony out of building your own fancy stat… | [GitHub](https://github.com/rbong/vim-crystalline) | — | `GitHub, OpenSource` |
 | **rcarriga/nvim-notify** | A fancy, configurable, notification manager for NeoVim | [GitHub](https://github.com/rcarriga/nvim-notify) | — | `GitHub, OpenSource` |
-| **Rclip** | Requests are not limited to kittens; you can search for other objects… | [GitHub](https://github.com/yurijmikhalevich/rclip) | — | `Interesting, Terminal, AI, Useful, GitHub, OpenSource` |
+| **Rclip** | Requests are not limited to kittens; you can search for other objects… | [GitHub](https://github.com/yurijmikhalevich/rclip) | — | `Interesting, Terminal, AI, Useful, GitHub, OpenSource, html` |
 | **Rclone** | Rclone is a tool that helps you sync files and directories between yo… | [GitHub](https://github.com/rclone/rclone) | — | `go, azure_blob, azure_blob_storage, azure_files, backblaze_b2, cloud_storage, dropbox, encryption, ftp, fuse_filesystem, golang, google_cloud_storage, google_drive, onedrive, openstack_swift, rclone, s3, sftp, sync, webdav, Interesting, Useful, GitHub, OpenSource` |
 | **rcmaehl/WhyNotWin11** | Detection Script to help identify why your PC isn't Windows 11 ready | [GitHub](https://github.com/rcmaehl/WhyNotWin11) | — | `readiness, windows_11` |
 | **RCStep/CSSG** | Cobalt Strike Shellcode Generator | [GitHub](https://github.com/RCStep/CSSG) | — | `GitHub, OpenSource` |
@@ -16587,6 +16587,7 @@
 | **You Have Mail** | Small application to notify you when you receive an email in your ema… | [GitHub](https://f-droid.org/packages/dev.lbeernaert.youhavemail) | — | `Android, Tools, GitHub, OpenSource` |
 | **you-dont-need/You-Dont-Need-Momentjs** | List of date-fns or native functions which you can use to replace mom… | [GitHub](https://github.com/you-dont-need/You-Dont-Need-Momentjs) | — | `bundle_size, date_fns, esmodules, moment_js, pure_function, tree_shaking` |
 | **You.c**om** - Google Search Engine alternative** | [You.com](http://You.com/) is the search engine you control — your ti… | — | [Website](https://t.me/popmodschat/58995) | `Android, Web` |
+| **YouDO** | Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT a… | [GitHub](https://t.me/+-manVNAPhThkMzRl) | — | `Android, Utilities` |
 | **YoukiDex** | YoukiDEX is an Android application that provides a full desktop-like… | [GitHub](https://t.me/popCLOUDS/12124) | — | `Android, Foss, Tools, Utilities, Desktop, Taskbar, DesktopMode` |
 | **YouLy+** | YouLy+ is a browser extension that enhances your YouTube Music experi… | [GitHub](https://github.com/ibratabian17/YouLyPlus) | — | `installation, Extension, Music` |
 | **YouMind-OpenLab/awesome-nano-banana-pro-prompts** | 🍌 500+ selected Nano Banana Pro prompts with images, multilingual sup… | [GitHub](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | — | `gemini_ai, nano_banana_pro, prompt_engineering, GitHub, OpenSource` |

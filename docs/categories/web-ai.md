@@ -4,7 +4,20 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `1050`
+> **Total Apps in Category:** `1051`
+
+---
+
+### 📦 damejan80/tokentab
+
+> **Categories:** `#ai` `#claude` `#claude_code` `#cursor` `#python` `#token_optimization` `#token_usage`
+
+A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/damejan80/tokentab](https://github.com/damejan80/tokentab)
+- 👤 **Developer:** [damejan80](https://github.com/damejan80)
+
 
 ---
 
@@ -2754,6 +2767,21 @@ AI API identity gateway — reverse proxy that normalizes device fingerprints an
 
 - 🐙 **Source Code:** [https://github.com/motiful/cc-gateway](https://github.com/motiful/cc-gateway)
 - 👤 **Developer:** [motiful](https://github.com/motiful)
+
+
+---
+
+### 📦 Gitlawb/openclaude
+
+> **Categories:** `#GitHub` `#OpenSource` `#typescript` `#ai` `#ai_agent` `#ai_tools` `#cli` `#coding`
+
+Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim
+**Language**: TypeScript
+**Stars**: 4613 **Issues**: 32 **Forks**: 1768
+[https://github.com/Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+
+- 🐙 **Source Code:** [https://github.com/Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+- 👤 **Developer:** [Gitlawb](https://github.com/Gitlawb)
 
 
 ---
@@ -14960,7 +14988,7 @@ A self-hosted alternative to proprietary connectivity solutions.
 
 ### 📦 Rclip
 
-> **Categories:** `#Interesting` `#Terminal` `#AI` `#Useful` `#GitHub` `#OpenSource`
+> **Categories:** `#Interesting` `#Terminal` `#AI` `#Useful` `#GitHub` `#OpenSource` `#html`
 
 Requests are not limited to kittens; you can search for other objects, actions or even images
 
@@ -17212,19 +17240,6 @@ A JavaScript Chart Library
 
 - 🐙 **Source Code:** [https://github.com/SteamDatabase/SalienCheat](https://github.com/SteamDatabase/SalienCheat)
 - 👤 **Developer:** [SteamDatabase](https://github.com/SteamDatabase)
-
-
----
-
-### 📦 damejan80/tokentab
-
-> **Categories:** `#ai` `#claude` `#claude_code` `#cursor` `#python` `#token_optimization` `#token_usage`
-
-A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/damejan80/tokentab](https://github.com/damejan80/tokentab)
-- 👤 **Developer:** [damejan80](https://github.com/damejan80)
 
 
 ---

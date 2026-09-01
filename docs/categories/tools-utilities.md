@@ -8,6 +8,29 @@
 
 ---
 
+### 📦 GPT INPUT FROM JUST US$0.03 / 1M TOKENS!
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+⚡️ Top up US$20 in a single payment to unlock the 1.5% GPT official rate:
+
+- gpt-5.6-terra: US$0.03 input｜US$0.18 output
+- gpt-5.6-sol / gpt-5.5: US$0.075 input｜US$0.45 output
+
+All prices are per 1 million tokens.
+
+🔑 One API key for GPT, Claude, Grok, Gemini, DeepSeek, and more.
+
+🎁 Sign up and get US$0.25 in free trial credit.
+
+Claim your credit and start testing now 👇
+[https://modelflare.dev/](https://modelflare.dev/sign-up?utm_source=telegram_xuliya2&utm_medium=paid_social&utm_campaign=modelflare_en_202608&utm_content=tg_price_v1)
+
+- 🐙 **Source Code:** [https://modelflare.dev](https://modelflare.dev)
+
+
+---
+
 ### 📦 chrisgreg/boop
 
 > **Categories:** `#GitHub` `#OpenSource`
@@ -17735,21 +17758,6 @@ https://github.com/Yeachan-Heo/oh-my-codex
 
 - 🐙 **Source Code:** [https://github.com/Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 - 👤 **Developer:** [Yeachan-Heo](https://github.com/Yeachan-Heo)
-
-
----
-
-### 📦 Gitlawb/openclaude
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim
-**Language**: TypeScript
-**Stars**: 4613 **Issues**: 32 **Forks**: 1768
-[https://github.com/Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-
-- 🐙 **Source Code:** [https://github.com/Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-- 👤 **Developer:** [Gitlawb](https://github.com/Gitlawb)
 
 
 ---
@@ -197862,25 +197870,28 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 GPT INPUT FROM JUST US$0.03 / 1M TOKENS!
+### 📦 YouDO
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#Android` `#Utilities`
 
-⚡️ Top up US$20 in a single payment to unlock the 1.5% GPT official rate:
+Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT and other exam aspirants. Build a 6-level syllabus blueprint, schedule precise task slices, run pause-aware focus sessions, and sync daily execution with long-term goal progress.
 
-- gpt-5.6-terra: US$0.03 input｜US$0.18 output
-- gpt-5.6-sol / gpt-5.5: US$0.075 input｜US$0.45 output
+- 🐙 **Source Code:** [https://t.me/+-manVNAPhThkMzRl](https://t.me/+-manVNAPhThkMzRl)
+- 👤 **Developer:** [Jatin Parmar](https://github.com/mattedhairr)
 
-All prices are per 1 million tokens.
+<details>
+<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
 
-🔑 One API key for GPT, Claude, Grok, Gemini, DeepSeek, and more.
+- **Six-Level Blueprint** — Structure your syllabus as Goal → Phase → Section → Task → Sub-task → Leaf Task, using only the depth your plan actually needs.
+- **Blueprint Studio** — Build large plans without repetitive entry — one question at a time, bulk-add named items or numbered ranges, develop one phase while leaving others as shells, and undo the whole operation in one tap.
+- **Step-Slice Scheduling** — Schedule only the steps you intend to finish today instead of moving an entire task at once; progress writes back to the original goal tree.
+- **Honest Today & Backlog** — Unfinished work keeps its planning context and stays visible in Backlog — nothing silently disappears or auto-moves.
+- **Pause-Aware Focus Sessions** — Tracks net focus separately from total elapsed time, with pause/resume from lock screen or notification, Ambient full-screen timer mode, and safe recovery of interrupted sessions.
+- **Adaptive Daily Briefing** — "Today at a Glance" shifts from morning briefing to live progress view, showing planning load, backlog pressure, streaks, and time left in the day.
+- **Honour-System Streaks & Board** — Set your own daily focus threshold, recover broken streaks with real work, and optionally join a private-by-default public leaderboard ranked by net focus.
+- **Local-First & Private** — Works fully offline in guest mode, optional account sync across devices, local JSON backup/export, and no ads or paid tier.
 
-🎁 Sign up and get US$0.25 in free trial credit.
-
-Claim your credit and start testing now 👇
-[https://modelflare.dev/](https://modelflare.dev/sign-up?utm_source=telegram_xuliya2&utm_medium=paid_social&utm_campaign=modelflare_en_202608&utm_content=tg_price_v1)
-
-- 🐙 **Source Code:** [https://modelflare.dev](https://modelflare.dev)
+</details>
 
 
 ---
