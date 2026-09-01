@@ -1,5 +1,52 @@
 [
   {
+    "id": "gangtailorupgrade-coomertool",
+    "name": "GangTailorUpgrade/CoomeRtool",
+    "description": "Coomer Tool\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/GangTailorUpgrade/CoomeRtool",
+    "developer": {
+      "name": "GangTailorUpgrade",
+      "url": "https://github.com/GangTailorUpgrade"
+    },
+    "features": [],
+    "tags": [
+      "coomer",
+      "coomer_download",
+      "coomer_downloader",
+      "coomer_party",
+      "coomer_porn",
+      "coomer_st",
+      "coomer_su",
+      "kemomo",
+      "kemon_party",
+      "kemoni",
+      "kemono",
+      "kemono_downloader",
+      "kemono_oarty",
+      "kemono_party",
+      "kemono_porn",
+      "kemono_su",
+      "kemono_su_downloader",
+      "kemono_xxx",
+      "kemonoparty",
+      "kenmono"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13726,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-09-01T16:00:02+00:00",
+    "updated_at": "2026-09-01T19:02:32.142153+00:00"
+  },
+  {
     "id": "youdo",
     "name": "YouDO",
     "description": "Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT and other exam aspirants. Build a 6-level syllabus blueprint, schedule precise task slices, run pause-aware focus sessions, and sync daily execution with long-term goal progress.",

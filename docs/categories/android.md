@@ -8,6 +8,32 @@
 
 ---
 
+### 📦 YouDO
+
+> **Categories:** `#Android` `#Utilities`
+
+Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT and other exam aspirants. Build a 6-level syllabus blueprint, schedule precise task slices, run pause-aware focus sessions, and sync daily execution with long-term goal progress.
+
+- 🐙 **Source Code:** [https://t.me/+-manVNAPhThkMzRl](https://t.me/+-manVNAPhThkMzRl)
+- 👤 **Developer:** [Jatin Parmar](https://github.com/mattedhairr)
+
+<details>
+<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
+
+- **Six-Level Blueprint** — Structure your syllabus as Goal → Phase → Section → Task → Sub-task → Leaf Task, using only the depth your plan actually needs.
+- **Blueprint Studio** — Build large plans without repetitive entry — one question at a time, bulk-add named items or numbered ranges, develop one phase while leaving others as shells, and undo the whole operation in one tap.
+- **Step-Slice Scheduling** — Schedule only the steps you intend to finish today instead of moving an entire task at once; progress writes back to the original goal tree.
+- **Honest Today & Backlog** — Unfinished work keeps its planning context and stays visible in Backlog — nothing silently disappears or auto-moves.
+- **Pause-Aware Focus Sessions** — Tracks net focus separately from total elapsed time, with pause/resume from lock screen or notification, Ambient full-screen timer mode, and safe recovery of interrupted sessions.
+- **Adaptive Daily Briefing** — "Today at a Glance" shifts from morning briefing to live progress view, showing planning load, backlog pressure, streaks, and time left in the day.
+- **Honour-System Streaks & Board** — Set your own daily focus threshold, recover broken streaks with real work, and optionally join a private-by-default public leaderboard ranked by net focus.
+- **Local-First & Private** — Works fully offline in guest mode, optional account sync across devices, local JSON backup/export, and no ads or paid tier.
+
+</details>
+
+
+---
+
 ### 📦 Quarry
 
 > **Categories:** `#screenshots` `#features` `#Android` `#Utilities`
@@ -31150,32 +31176,6 @@ Android UI适配方案
 
 - 🐙 **Source Code:** [https://github.com/ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
 - 👤 **Developer:** [ladingwu](https://github.com/ladingwu)
-
-
----
-
-### 📦 YouDO
-
-> **Categories:** `#Android` `#Utilities`
-
-Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT and other exam aspirants. Build a 6-level syllabus blueprint, schedule precise task slices, run pause-aware focus sessions, and sync daily execution with long-term goal progress.
-
-- 🐙 **Source Code:** [https://t.me/+-manVNAPhThkMzRl](https://t.me/+-manVNAPhThkMzRl)
-- 👤 **Developer:** [Jatin Parmar](https://github.com/mattedhairr)
-
-<details>
-<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
-
-- **Six-Level Blueprint** — Structure your syllabus as Goal → Phase → Section → Task → Sub-task → Leaf Task, using only the depth your plan actually needs.
-- **Blueprint Studio** — Build large plans without repetitive entry — one question at a time, bulk-add named items or numbered ranges, develop one phase while leaving others as shells, and undo the whole operation in one tap.
-- **Step-Slice Scheduling** — Schedule only the steps you intend to finish today instead of moving an entire task at once; progress writes back to the original goal tree.
-- **Honest Today & Backlog** — Unfinished work keeps its planning context and stays visible in Backlog — nothing silently disappears or auto-moves.
-- **Pause-Aware Focus Sessions** — Tracks net focus separately from total elapsed time, with pause/resume from lock screen or notification, Ambient full-screen timer mode, and safe recovery of interrupted sessions.
-- **Adaptive Daily Briefing** — "Today at a Glance" shifts from morning briefing to live progress view, showing planning load, backlog pressure, streaks, and time left in the day.
-- **Honour-System Streaks & Board** — Set your own daily focus threshold, recover broken streaks with real work, and optionally join a private-by-default public leaderboard ranked by net focus.
-- **Local-First & Private** — Works fully offline in guest mode, optional account sync across devices, local JSON backup/export, and no ads or paid tier.
-
-</details>
 
 
 ---

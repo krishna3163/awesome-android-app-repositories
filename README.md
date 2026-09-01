@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17022`
-- 🏷️ **Unique Categories / Tags:** `15556`
-- 🔄 **Last Automatically Synchronized:** `2026-09-01 15:20 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17023`
+- 🏷️ **Unique Categories / Tags:** `15576`
+- 🔄 **Last Automatically Synchronized:** `2026-09-01 19:02 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1612 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13423 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13424 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,39 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1051 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17022 cataloged applications | `17022 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17023 cataloged applications | `17023 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17022 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17023 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 YouDO
+
+> **Categories:** `#Android` `#Utilities`
+
+Goal-driven Android execution system for UPSC, JEE, NEET, GATE, CAT and other exam aspirants. Build a 6-level syllabus blueprint, schedule precise task slices, run pause-aware focus sessions, and sync daily execution with long-term goal progress.
+
+- 🐙 **Source Code:** [https://t.me/+-manVNAPhThkMzRl](https://t.me/+-manVNAPhThkMzRl)
+- 👤 **Developer:** [Jatin Parmar](https://github.com/mattedhairr)
+
+<details>
+<summary><b>✨ Key Features (8)</b> — <i>Click to expand</i></summary>
+
+- **Six-Level Blueprint** — Structure your syllabus as Goal → Phase → Section → Task → Sub-task → Leaf Task, using only the depth your plan actually needs.
+- **Blueprint Studio** — Build large plans without repetitive entry — one question at a time, bulk-add named items or numbered ranges, develop one phase while leaving others as shells, and undo the whole operation in one tap.
+- **Step-Slice Scheduling** — Schedule only the steps you intend to finish today instead of moving an entire task at once; progress writes back to the original goal tree.
+- **Honest Today & Backlog** — Unfinished work keeps its planning context and stays visible in Backlog — nothing silently disappears or auto-moves.
+- **Pause-Aware Focus Sessions** — Tracks net focus separately from total elapsed time, with pause/resume from lock screen or notification, Ambient full-screen timer mode, and safe recovery of interrupted sessions.
+- **Adaptive Daily Briefing** — "Today at a Glance" shifts from morning briefing to live progress view, showing planning load, backlog pressure, streaks, and time left in the day.
+- **Honour-System Streaks & Board** — Set your own daily focus threshold, recover broken streaks with real work, and optionally join a private-by-default public leaderboard ranked by net focus.
+- **Local-First & Private** — Works fully offline in guest mode, optional account sync across devices, local JSON backup/export, and no ads or paid tier.
+
+</details>
+
+
+---
 
 ### 📦 damejan80/tokentab
 
@@ -616,21 +642,6 @@ ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the
 
 - 🐙 **Source Code:** [https://github.com/XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
 - 👤 **Developer:** [XiaoDuoYa](https://github.com/XiaoDuoYa)
-
-
----
-
-### 📦 amosblomqvist/learn
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-My AI learning system.
-**Language**: TypeScript
-**Stars**: 675 **Issues**: 4 **Forks**: 71
-[https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
-
-- 🐙 **Source Code:** [https://github.com/amosblomqvist/learn](https://github.com/amosblomqvist/learn)
-- 👤 **Developer:** [amosblomqvist](https://github.com/amosblomqvist)
 
 
 ---

@@ -44823,5 +44823,16 @@
     "message_id": 15971,
     "raw_text": "#python #ai #audiobook #cuda #dubbing #elevenlabs_alternative #huggingface #local_first #mlx #omnivoice_studio #speech_to_text #tauri #text_to_speech #transcription #translate #tts #voice_ai #voice_cloning #voice_generation #voicestudio #workflow \n\nVoiceStudio is a local app for voice cloning, dubbing, dictation, and long audio work on macOS, Windows, and Linux. It works offline after setup, keeps your voices and files on your machine by default, and gives you many engines and languages to choos",
     "timestamp": "2026-09-01T15:20:47.784971+00:00"
+  },
+  {
+    "incoming_name": "Voice Pro",
+    "incoming_normalized": "voicepro",
+    "matched_project_id": "voicebox",
+    "matched_project_name": "Voicebox",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11161,
+    "raw_text": "[**Voice-Pro**](https://github.com/abus-aikorea/voice-pro) — это современное веб-приложение, которое упрощает создание мультимедийного контента. \n\nОн объединяет в одном мощном инструменте функции загрузки видео с YouTube, разделения голоса и текста, распознавания речи, перевода и преобразования текста в речь для авторов, исследователей и специалистов, работающих с несколькими языками.\n\n🐱[** **](https://t.me/techno_news)[**GitHu**](https://t.me/github)[**b**](https://t.me/+cWuBx6rLtukxN2Uy)",
+    "timestamp": "2026-09-01T19:02:37.185326+00:00"
   }
 ]
