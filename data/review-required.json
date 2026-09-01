@@ -44790,5 +44790,16 @@
     "message_id": 11155,
     "raw_text": "[**MacOptimizer**](https://github.com/ddlmanus/MacOptimizer) — это инструмент оптимизации системы, разработанный специально для macOS, с современным интерфейсом SwiftUI\n\n🐱** **[**GitHub**](https://t.me/github)",
     "timestamp": "2026-08-31T20:31:32.696144+00:00"
+  },
+  {
+    "incoming_name": "Vidbee",
+    "incoming_normalized": "vidbee",
+    "matched_project_id": "vibe",
+    "matched_project_name": "Vibe",
+    "similarity_score": 80.0,
+    "channel": "@github",
+    "message_id": 11156,
+    "raw_text": "[**VidBee**](https://github.com/nexmoe/VidBee) — это современный загрузчик видео с открытым исходным кодом, который позволяет скачивать видео и аудио с более чем 1000 сайтов по всему миру.\n\nVidBee, созданный на основе Electron и yt-dlp, предлагает понятный и удобный интерфейс с мощными функциями для скачивания любых материалов, включая автоматическую загрузку RSS, которая автоматически подписывается на каналы и в фоновом режиме загружает новые видео от ваших любимых авторов.\n\n🐱** **[**GitHub**](",
+    "timestamp": "2026-09-01T00:14:46.573885+00:00"
   }
 ]

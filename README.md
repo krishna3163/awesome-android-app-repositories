@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17016`
-- 🏷️ **Unique Categories / Tags:** `15555`
-- 🔄 **Last Automatically Synchronized:** `2026-08-31 20:31 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17017`
+- 🏷️ **Unique Categories / Tags:** `15556`
+- 🔄 **Last Automatically Synchronized:** `2026-09-01 00:14 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13419 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13420 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,40 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17016 cataloged applications | `17016 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17017 cataloged applications | `17017 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17016 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17017 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 Rust By Practice
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It is very easy to use. All you have to do is compile each exercise without ERROR or panic!
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
+- 👤 **Developer:** [sunface](https://github.com/sunface)
+
+
+---
+
+### 📦 jub0t/Concat
+
+> **Categories:** `#audio_processor` `#auto_caption` `#automation` `#capcut` `#capcut_alternative` `#content_creation` `#cross_platform` `#desktop_app` `#ffmpeg` `#free_video_editor` `#non_linear_editor` `#offline_first` `#open_source_video_editor` `#rust_lang` `#tauri_app` `#video_editing` `#video_editing_software` `#video_processing_tool` `#whisper_cpp`
+
+Free & Open-Source CapCut replacement.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/jub0t/Concat](https://github.com/jub0t/Concat)
+- 👤 **Developer:** [jub0t](https://github.com/jub0t)
+
+
+---
 
 ### 📦 Instapy
 
@@ -599,35 +626,6 @@ NVIDIA Kimodo ported to C++/GGML
 
 - 🐙 **Source Code:** [https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
 - 👤 **Developer:** [localai-org](https://github.com/localai-org)
-
-
----
-
-### 📦 Forsy-AI/biosecurity-agent
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-AI agent that builds a live biosecurity world around any target.
-**Language**: TypeScript
-**Stars**: 512 **Issues**: 0 **Forks**: 17
-[https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
-
-- 🐙 **Source Code:** [https://github.com/Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent)
-- 👤 **Developer:** [Forsy-AI](https://github.com/Forsy-AI)
-
-
----
-
-### 📦 Gods Eye View
-
-> **Categories:** `#javascript` `#3d_globe` `#cesium` `#flight_tracking` `#geospatial` `#geospatial_intelligence` `#gis` `#osint` `#photogrammetry` `#satellite_tracking` `#spatial_intelligence` `#webgl` `#worldview`
-
-God’s Eye View is a browser app that shows a real-time 3D Earth with live flights, ships, satellites, earthquakes, traffic, public cameras, and voice control. It helps you explore the world fast, see what is happening in one place, and track public signals without signing up.
-
-https://github.com/bilawalsidhu/gods-eye-view
-
-- 🐙 **Source Code:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-- 👤 **Developer:** [bilawalsidhu](https://github.com/bilawalsidhu)
 
 
 ---

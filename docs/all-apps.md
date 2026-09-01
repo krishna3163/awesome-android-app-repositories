@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17016`
+> **Total Cataloged Projects:** `17017`
 
 ---
 
@@ -2443,6 +2443,7 @@
 | **CB-ysx/pageDesign** | **Web version poster layout design | [GitHub](https://github.com/CB-ysx/pageDesign) | — | `GitHub, OpenSource` |
 | **cbh123/emoji** | Make emojis for slack using AI | [GitHub](https://github.com/cbh123/emoji) | — | `GitHub, OpenSource` |
 | **cbh123/narrator** | David Attenborough narrates your life | [GitHub](https://github.com/cbh123/narrator) | — | `GitHub, OpenSource` |
+| **cbrock84/headcount** | An agent organization for Claude Code, structured as a company — 15+… | [GitHub](https://github.com/cbrock84/headcount) | — | `agent_marketplace, claude_code, claude_code_plugin, claude_plugin, claude_skills, mcp` |
 | **Cbrutekrag** | This tool is intended for ethical testing purposes only. | [GitHub](https://github.com/matricali/cbrutekrag) | — | `Interesting, Useful` |
 | **cbsudux/awesome-human-pose-estimation** | A collection of awesome resources in Human Pose estimation. | [GitHub](https://github.com/cbsudux/awesome-human-pose-estimation) | — | `2d_human_pose, 3d_human_pose, awesome_list, computer_vision, deep_learning, deep_learning_papers, human_pose_estimation, pose_estimation` |
 | **cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION** | Support ALL Windows Version | [GitHub](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION) | — | `GitHub, OpenSource` |

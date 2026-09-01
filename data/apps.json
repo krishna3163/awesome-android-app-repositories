@@ -1,5 +1,38 @@
 [
   {
+    "id": "cbrock84-headcount",
+    "name": "cbrock84/headcount",
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.\n**Language**: Markdown",
+    "website": "",
+    "repository": "https://github.com/cbrock84/headcount",
+    "developer": {
+      "name": "cbrock84",
+      "url": "https://github.com/cbrock84"
+    },
+    "features": [],
+    "tags": [
+      "agent_marketplace",
+      "claude_code",
+      "claude_code_plugin",
+      "claude_plugin",
+      "claude_skills",
+      "mcp"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13723,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-08-31T22:00:03+00:00",
+    "updated_at": "2026-09-01T00:14:39.975941+00:00"
+  },
+  {
     "id": "rust-by-practice",
     "name": "Rust By Practice",
     "description": "It is very easy to use. All you have to do is compile each exercise without ERROR or panic!\n\n🐱** **[**GitHub**](https://t.me/github)",

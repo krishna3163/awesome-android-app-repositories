@@ -4,7 +4,34 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13419`
+> **Total Apps in Category:** `13420`
+
+---
+
+### 📦 Rust By Practice
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+It is very easy to use. All you have to do is compile each exercise without ERROR or panic!
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
+- 👤 **Developer:** [sunface](https://github.com/sunface)
+
+
+---
+
+### 📦 jub0t/Concat
+
+> **Categories:** `#audio_processor` `#auto_caption` `#automation` `#capcut` `#capcut_alternative` `#content_creation` `#cross_platform` `#desktop_app` `#ffmpeg` `#free_video_editor` `#non_linear_editor` `#offline_first` `#open_source_video_editor` `#rust_lang` `#tauri_app` `#video_editing` `#video_editing_software` `#video_processing_tool` `#whisper_cpp`
+
+Free & Open-Source CapCut replacement.
+**Language**: TypeScript
+
+- 🐙 **Source Code:** [https://github.com/jub0t/Concat](https://github.com/jub0t/Concat)
+- 👤 **Developer:** [jub0t](https://github.com/jub0t)
+
 
 ---
 
@@ -197795,29 +197822,15 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 jub0t/Concat
+### 📦 cbrock84/headcount
 
-> **Categories:** `#audio_processor` `#auto_caption` `#automation` `#capcut` `#capcut_alternative` `#content_creation` `#cross_platform` `#desktop_app` `#ffmpeg` `#free_video_editor` `#non_linear_editor` `#offline_first` `#open_source_video_editor` `#rust_lang` `#tauri_app` `#video_editing` `#video_editing_software` `#video_processing_tool` `#whisper_cpp`
+> **Categories:** `#agent_marketplace` `#claude_code` `#claude_code_plugin` `#claude_plugin` `#claude_skills` `#mcp`
 
-Free & Open-Source CapCut replacement.
-**Language**: TypeScript
+An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
+**Language**: Markdown
 
-- 🐙 **Source Code:** [https://github.com/jub0t/Concat](https://github.com/jub0t/Concat)
-- 👤 **Developer:** [jub0t](https://github.com/jub0t)
-
-
----
-
-### 📦 Rust By Practice
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-It is very easy to use. All you have to do is compile each exercise without ERROR or panic!
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
-- 👤 **Developer:** [sunface](https://github.com/sunface)
+- 🐙 **Source Code:** [https://github.com/cbrock84/headcount](https://github.com/cbrock84/headcount)
+- 👤 **Developer:** [cbrock84](https://github.com/cbrock84)
 
 
 ---
