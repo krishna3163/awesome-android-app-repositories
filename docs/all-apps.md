@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17023`
+> **Total Cataloged Projects:** `17025`
 
 ---
 
@@ -1571,6 +1571,7 @@
 | **Awesome Web Scraping** | Programming libraries: | [GitHub](https://github.com/lorien/awesome-web-scraping) | — | `Data, Interesting, Web, Awesome, GitHub, OpenSource` |
 | **Awesome Weekly Robotics** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/msadowski/awesome-weekly-robotics) | — | `GitHub, OpenSource` |
 | **Awesome Windows** | **4️⃣**** **[**GitHub**](https://t.me/github_tg) | [GitHub](https://github.com/0PandaDEV/awesome-windows) | — | `GitHub, OpenSource` |
+| **Awesome Workflow Automation** | 🐱** **[**GitHub**](https://t.me/github) | [GitHub](https://github.com/dariubs/awesome-workflow-automation) | — | `GitHub, OpenSource` |
 | **Awesome-AIGC-Tutorials** | **Awesome AIGC Tutorials houses a curated collection of tutorials and… | [GitHub](https://github.com/luban-agi/Awesome-AIGC-Tutorials) | — | `awesome, AIGC, GitHub, OpenSource` |
 | **awesome-assistants/awesome-assistants** | A curated list of awesome AI assistants. Example Telegram bot with al… | [GitHub](https://github.com/awesome-assistants/awesome-assistants) | — | `awesome_ai, awesome_gpt, awesome_gpts, awesome_list, bots, chatbot, chatgpt, chatgpt_api, language, looking_for_contributors` |
 | **awesome-cheatsheets** | **Awesome cheatsheets for popular programming languages, frameworks a… | [GitHub](https://github.com/LeCoupa/awesome-cheatsheets) | — | `GitHub, OpenSource, Cheatsheets, QuickReference, Dev` |
@@ -6395,6 +6396,7 @@
 | **hkgumbs/elm-beam** | Exploring Elm on the Erlang VM | [GitHub](https://github.com/hkgumbs/elm-beam) | — | `GitHub, OpenSource` |
 | **hkgumbs/multi** | Create a custom, lightweight macOS app from a group of websites | [GitHub](https://github.com/hkgumbs/multi) | — | `GitHub, OpenSource` |
 | **hkirat/project-ideas** | Projects to get you started on full stack | [GitHub](https://github.com/hkirat/project-ideas) | — | `GitHub, OpenSource` |
+| **hkqr/my-free-code** | Open-source multi-provider AI gateway for Claude Code and other codin… | [GitHub](https://github.com/hkqr/my-free-code) | — | `ai, claude_code, free_claude_api, multi_provider, multi_provider_llm` |
 | **hktalent/spring-spel-0day-poc** | spring-cloud / spring-cloud-function,spring.cloud.function.routing-ex… | [GitHub](https://github.com/hktalent/spring-spel-0day-poc) | — | `0day, exp, java, poc, rce, spel, spring, spring_cloud_function` |
 | **hku-mars/FAST-Calib** | A Handy Extrinsic Calibration Tool for LiDAR-camera Systems. | [GitHub](https://github.com/hku-mars/FAST-Calib) | — | `GitHub, OpenSource` |
 | **hku-mars/ImMesh** | ImMesh: An Immediate LiDAR Localization and Meshing Framework | [GitHub](https://github.com/hku-mars/ImMesh) | — | `3d_reconstruction, lidar_inertial_odometry, lidar_slam, meshing, slam` |

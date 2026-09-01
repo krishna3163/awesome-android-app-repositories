@@ -1,5 +1,66 @@
 [
   {
+    "id": "hkqr-my-free-code",
+    "name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support\n**Language**: Python",
+    "website": "",
+    "repository": "https://github.com/hkqr/my-free-code",
+    "developer": {
+      "name": "hkqr",
+      "url": "https://github.com/hkqr"
+    },
+    "features": [],
+    "tags": [
+      "ai",
+      "claude_code",
+      "free_claude_api",
+      "multi_provider",
+      "multi_provider_llm"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13727,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-09-01T22:00:03+00:00",
+    "updated_at": "2026-09-01T22:13:24.792173+00:00"
+  },
+  {
+    "id": "awesome-workflow-automation",
+    "name": "Awesome Workflow Automation",
+    "description": "🐱** **[**GitHub**](https://t.me/github)",
+    "website": "",
+    "repository": "https://github.com/dariubs/awesome-workflow-automation",
+    "developer": {
+      "name": "dariubs",
+      "url": "https://github.com/dariubs"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github",
+      "main_message_id": 11163,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-09-01T21:45:13+00:00",
+    "updated_at": "2026-09-01T22:13:32.313166+00:00"
+  },
+  {
     "id": "gangtailorupgrade-coomertool",
     "name": "GangTailorUpgrade/CoomeRtool",
     "description": "Coomer Tool\n**Language**: Python",
@@ -192288,7 +192349,7 @@
     },
     "status": "active",
     "created_at": "2024-12-30T15:00:02+00:00",
-    "updated_at": "2026-08-23T11:02:05.093232+00:00"
+    "updated_at": "2026-09-01T22:13:30.711199+00:00"
   },
   {
     "id": "praisonai",

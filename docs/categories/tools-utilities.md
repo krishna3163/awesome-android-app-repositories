@@ -4,7 +4,20 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13424`
+> **Total Apps in Category:** `13425`
+
+---
+
+### 📦 GangTailorUpgrade/CoomeRtool
+
+> **Categories:** `#coomer` `#coomer_download` `#coomer_downloader` `#coomer_party` `#coomer_porn` `#coomer_st` `#coomer_su` `#kemomo` `#kemon_party` `#kemoni` `#kemono` `#kemono_downloader` `#kemono_oarty` `#kemono_party` `#kemono_porn` `#kemono_su` `#kemono_su_downloader` `#kemono_xxx` `#kemonoparty` `#kenmono`
+
+Coomer Tool
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool)
+- 👤 **Developer:** [GangTailorUpgrade](https://github.com/GangTailorUpgrade)
+
 
 ---
 
@@ -197896,15 +197909,14 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 GangTailorUpgrade/CoomeRtool
+### 📦 Awesome Workflow Automation
 
-> **Categories:** `#coomer` `#coomer_download` `#coomer_downloader` `#coomer_party` `#coomer_porn` `#coomer_st` `#coomer_su` `#kemomo` `#kemon_party` `#kemoni` `#kemono` `#kemono_downloader` `#kemono_oarty` `#kemono_party` `#kemono_porn` `#kemono_su` `#kemono_su_downloader` `#kemono_xxx` `#kemonoparty` `#kenmono`
+> **Categories:** `#GitHub` `#OpenSource`
 
-Coomer Tool
-**Language**: Python
+🐱** **[**GitHub**](https://t.me/github)
 
-- 🐙 **Source Code:** [https://github.com/GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool)
-- 👤 **Developer:** [GangTailorUpgrade](https://github.com/GangTailorUpgrade)
+- 🐙 **Source Code:** [https://github.com/dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation)
+- 👤 **Developer:** [dariubs](https://github.com/dariubs)
 
 
 ---

@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17023`
-- 🏷️ **Unique Categories / Tags:** `15576`
-- 🔄 **Last Automatically Synchronized:** `2026-09-01 19:02 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17025`
+- 🏷️ **Unique Categories / Tags:** `15578`
+- 🔄 **Last Automatically Synchronized:** `2026-09-01 22:13 UTC`
 
 ---
 
@@ -275,21 +275,34 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1612 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13424 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13425 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `474 apps` | [**Explore →**](docs/categories/media-music.md) |
-| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1051 apps` | [**Explore →**](docs/categories/web-ai.md) |
+| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1052 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17023 cataloged applications | `17023 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17025 cataloged applications | `17025 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17023 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17025 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 GangTailorUpgrade/CoomeRtool
+
+> **Categories:** `#coomer` `#coomer_download` `#coomer_downloader` `#coomer_party` `#coomer_porn` `#coomer_st` `#coomer_su` `#kemomo` `#kemon_party` `#kemoni` `#kemono` `#kemono_downloader` `#kemono_oarty` `#kemono_party` `#kemono_porn` `#kemono_su` `#kemono_su_downloader` `#kemono_xxx` `#kemonoparty` `#kenmono`
+
+Coomer Tool
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool)
+- 👤 **Developer:** [GangTailorUpgrade](https://github.com/GangTailorUpgrade)
+
+
+---
 
 ### 📦 YouDO
 
@@ -629,19 +642,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 - 🐙 **Source Code:** [https://github.com/Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach)
 - 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
-
-
----
-
-### 📦 XiaoDuoYa/codex-with-chatgpt
-
-> **Categories:** `#ai_agents` `#chatgpt` `#codex` `#mcp` `#model_context_protocol` `#oauth`
-
-ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
-- 👤 **Developer:** [XiaoDuoYa](https://github.com/XiaoDuoYa)
 
 
 ---
