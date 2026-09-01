@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `1049`
+> **Total Apps in Category:** `1050`
 
 ---
 
@@ -17212,6 +17212,19 @@ A JavaScript Chart Library
 
 - 🐙 **Source Code:** [https://github.com/SteamDatabase/SalienCheat](https://github.com/SteamDatabase/SalienCheat)
 - 👤 **Developer:** [SteamDatabase](https://github.com/SteamDatabase)
+
+
+---
+
+### 📦 damejan80/tokentab
+
+> **Categories:** `#ai` `#claude` `#claude_code` `#cursor` `#python` `#token_optimization` `#token_usage`
+
+A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/damejan80/tokentab](https://github.com/damejan80/tokentab)
+- 👤 **Developer:** [damejan80](https://github.com/damejan80)
 
 
 ---

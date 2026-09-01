@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17019`
+> **Total Cataloged Projects:** `17021`
 
 ---
 
@@ -3413,6 +3413,7 @@
 | **Dalle Mini** | ⤷ [Demo](https://huggingface.co/spaces/dalle-mini/dalle-mini) in real… | [GitHub](https://github.com/borisdayma/dalle-mini) | — | `Python, AI, Interesting` |
 | **Dalle2 Google Extension** | API key required for DALL-E 2 | [GitHub](https://github.com/alonstern/DALLE2-google-extension) | — | `Interesting, AI, Extension, Browser` |
 | **dalmia/siren** | PyTorch implementation of Sinusodial Representation networks (SIREN) | [GitHub](https://github.com/dalmia/siren) | — | `activation_functions, deep_learning, machine_learning, pytorch` |
+| **damejan80/tokentab** | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and… | [GitHub](https://github.com/damejan80/tokentab) | — | `ai, claude, claude_code, cursor, python, token_optimization, token_usage` |
 | **Dammyjay93/claude-design-skill** | A Claude Code skill for crafted, enterprise-grade UI design | [GitHub](https://github.com/Dammyjay93/claude-design-skill) | — | `GitHub, OpenSource` |
 | **dan-lovelace/giggle** | A self-hosted, customizable and ad-free Google Search experience | [GitHub](https://github.com/dan-lovelace/giggle) | — | `GitHub, OpenSource` |
 | **danakt/pshe** | An indispensable assistant for working with git | [GitHub](https://github.com/danakt/pshe) | — | `GitHub, OpenSource` |
@@ -5918,6 +5919,7 @@
 | **GPT + DALL-E + WhatsApp = AI Assistant 🚀** | This WhatsApp bot uses OpenAI's GPT and DALL-E 2 to respond to user i… | [GitHub](https://github.com/askrella/whatsapp-chatgpt) | — | `chatgpt, whatsapp` |
 | **Gpt Cli** | Covers explanations of technical terms, git diff checks, writing comm… | [GitHub](https://github.com/MattSegal/gpt-cli) | — | `AI, Terminal` |
 | **GPT Engineer** | Specify what you want it to build, the AI asks for clarification, and… | [GitHub](https://github.com/AntonOsika/gpt-engineer) | — | `GPT, AI, GPT_Enginner, codegeneration, codingasssistant, Interesting` |
+| **GPT INPUT FROM JUST US$0.03 / 1M TOKENS!** | ⚡️ Top up US$20 in a single payment to unlock the 1.5% GPT official r… | [GitHub](https://modelflare.dev) | — | `GitHub, OpenSource` |
 | **Gpt Researcher** | GPT Researcher is a tool that helps you do thorough research on any t… | [GitHub](https://github.com/assafelovic/gpt-researcher) | — | `python, agent, ai, automation, llms, openai, research, search, webscraping, GitHub, OpenSource` |
 | **Gpt Vuln Analyzer** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/morpheuslord/GPT_Vuln-analyzer) | — | `GitHub, OpenSource` |
 | **gpt-omni/mini-omni** | open-source multimodel large language model that can hear, talk while… | [GitHub](https://github.com/gpt-omni/mini-omni) | — | `GitHub, OpenSource` |

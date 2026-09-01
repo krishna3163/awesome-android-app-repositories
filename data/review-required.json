@@ -44801,5 +44801,16 @@
     "message_id": 11156,
     "raw_text": "[**VidBee**](https://github.com/nexmoe/VidBee) — это современный загрузчик видео с открытым исходным кодом, который позволяет скачивать видео и аудио с более чем 1000 сайтов по всему миру.\n\nVidBee, созданный на основе Electron и yt-dlp, предлагает понятный и удобный интерфейс с мощными функциями для скачивания любых материалов, включая автоматическую загрузку RSS, которая автоматически подписывается на каналы и в фоновом режиме загружает новые видео от ваших любимых авторов.\n\n🐱** **[**GitHub**](",
     "timestamp": "2026-09-01T00:14:46.573885+00:00"
+  },
+  {
+    "incoming_name": "OpenBot",
+    "incoming_normalized": "openbot",
+    "matched_project_id": "opennote",
+    "matched_project_name": "OpenNote",
+    "similarity_score": 80.0,
+    "channel": "@github_repositories_bds",
+    "message_id": 943,
+    "raw_text": "**OpenBot**\n\nOpenBot gives every AI agent its own computer - a real browser with its own logins, its own files, and only the tools you grant it. Every action a bot take is decided before it happens and recorded after.\n\nCreator: CopilotKit\nStars ⭐️: 2,600\nForked by: 295\n\nGitHub Repo: \nhttps://github.com/CopilotKit/openbot\n\n#AI #Agents #SelfHosted\n➖➖➖➖➖➖➖➖➖➖➖➖➖\nJoin @github_repositories_bds for more cool repositories. This channel belongs to @bigdataspecialist group",
+    "timestamp": "2026-09-01T10:50:36.470422+00:00"
   }
 ]

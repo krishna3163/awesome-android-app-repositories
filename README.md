@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17019`
+- 📦 **Total Discovered Apps & Projects:** `17021`
 - 🏷️ **Unique Categories / Tags:** `15556`
-- 🔄 **Last Automatically Synchronized:** `2026-09-01 05:54 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-09-01 10:50 UTC`
 
 ---
 
@@ -275,21 +275,48 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1611 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13422 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13423 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
 | **🎵 Media, Video & Music Players** | Music players, streaming frontends, audio equalizers, and video downloaders. | `474 apps` | [**Explore →**](docs/categories/media-music.md) |
-| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
+| **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1050 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17019 cataloged applications | `17019 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17021 cataloged applications | `17021 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17019 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17021 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 chrisgreg/boop
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
+**Language**: Go
+**Stars**: 633 **Issues**: 3 **Forks**: 30
+[https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+
+- 🐙 **Source Code:** [https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+- 👤 **Developer:** [chrisgreg](https://github.com/chrisgreg)
+
+
+---
+
+### 📦 Quarry
+
+> **Categories:** `#screenshots` `#features` `#Android` `#Utilities`
+
+Quarry is an open-source Android storage analyzer that gives you a clear visual view of what’s taking up space. Find large, duplicate, and unused files, explore your storage in detail, and clean up with complete control over what stays and what goes.
+
+- 🐙 **Source Code:** [https://github.com/tanvirr007/quarry-app](https://github.com/tanvirr007/quarry-app)
+- 👤 **Developer:** [Tanvir Hasan](https://github.com/tanvirr007)
+
+
+---
 
 ### 📦 cbrock84/headcount
 
@@ -596,34 +623,6 @@ WeMM-Embedding is a family of universal multimodal embedding models by the WeCha
 
 - 🐙 **Source Code:** [https://github.com/Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
 - 👤 **Developer:** [Tencent](https://github.com/Tencent)
-
-
----
-
-### 📦 Typephp
-
-> **Categories:** `#php`
-
-TypePHP turns PHP code into fast native programs, extensions, or shared libraries before you run them, so you get better speed, no warm-up time, and stronger source protection. It keeps normal PHP syntax, adds compile-time types, and can help you build CLI tools, services, or performance-heavy code with less runtime overhead, which can make your app faster and easier to ship.
-
-https://github.com/swoole/typephp
-
-- 🐙 **Source Code:** [https://github.com/swoole/typephp](https://github.com/swoole/typephp)
-- 👤 **Developer:** [swoole](https://github.com/swoole)
-
-
----
-
-### 📦 HEJustinSun/my-girlfriend-jingtian-latex
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-**Language**: TeX
-**Stars**: 2683 **Issues**: 335 **Forks**: 437
-[https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
-
-- 🐙 **Source Code:** [https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
-- 👤 **Developer:** [HEJustinSun](https://github.com/HEJustinSun)
 
 
 ---

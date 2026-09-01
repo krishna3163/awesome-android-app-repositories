@@ -4,7 +4,34 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13422`
+> **Total Apps in Category:** `13423`
+
+---
+
+### 📦 chrisgreg/boop
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
+**Language**: Go
+**Stars**: 633 **Issues**: 3 **Forks**: 30
+[https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+
+- 🐙 **Source Code:** [https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+- 👤 **Developer:** [chrisgreg](https://github.com/chrisgreg)
+
+
+---
+
+### 📦 Quarry
+
+> **Categories:** `#screenshots` `#features` `#Android` `#Utilities`
+
+Quarry is an open-source Android storage analyzer that gives you a clear visual view of what’s taking up space. Find large, duplicate, and unused files, explore your storage in detail, and clean up with complete control over what stays and what goes.
+
+- 🐙 **Source Code:** [https://github.com/tanvirr007/quarry-app](https://github.com/tanvirr007/quarry-app)
+- 👤 **Developer:** [Tanvir Hasan](https://github.com/tanvirr007)
+
 
 ---
 
@@ -197835,29 +197862,25 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 Quarry
-
-> **Categories:** `#screenshots` `#features` `#Android` `#Utilities`
-
-Quarry is an open-source Android storage analyzer that gives you a clear visual view of what’s taking up space. Find large, duplicate, and unused files, explore your storage in detail, and clean up with complete control over what stays and what goes.
-
-- 🐙 **Source Code:** [https://github.com/tanvirr007/quarry-app](https://github.com/tanvirr007/quarry-app)
-- 👤 **Developer:** [Tanvir Hasan](https://github.com/tanvirr007)
-
-
----
-
-### 📦 chrisgreg/boop
+### 📦 GPT INPUT FROM JUST US$0.03 / 1M TOKENS!
 
 > **Categories:** `#GitHub` `#OpenSource`
 
-A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
-**Language**: Go
-**Stars**: 633 **Issues**: 3 **Forks**: 30
-[https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+⚡️ Top up US$20 in a single payment to unlock the 1.5% GPT official rate:
 
-- 🐙 **Source Code:** [https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
-- 👤 **Developer:** [chrisgreg](https://github.com/chrisgreg)
+- gpt-5.6-terra: US$0.03 input｜US$0.18 output
+- gpt-5.6-sol / gpt-5.5: US$0.075 input｜US$0.45 output
+
+All prices are per 1 million tokens.
+
+🔑 One API key for GPT, Claude, Grok, Gemini, DeepSeek, and more.
+
+🎁 Sign up and get US$0.25 in free trial credit.
+
+Claim your credit and start testing now 👇
+[https://modelflare.dev/](https://modelflare.dev/sign-up?utm_source=telegram_xuliya2&utm_medium=paid_social&utm_campaign=modelflare_en_202608&utm_content=tg_price_v1)
+
+- 🐙 **Source Code:** [https://modelflare.dev](https://modelflare.dev)
 
 
 ---
