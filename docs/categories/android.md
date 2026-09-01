@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `1610`
+> **Total Apps in Category:** `1611`
 
 ---
 
@@ -31138,6 +31138,18 @@ Android UI适配方案
 
 - 🐙 **Source Code:** [https://github.com/ladingwu/dimens_sw](https://github.com/ladingwu/dimens_sw)
 - 👤 **Developer:** [ladingwu](https://github.com/ladingwu)
+
+
+---
+
+### 📦 Quarry
+
+> **Categories:** `#screenshots` `#features` `#Android` `#Utilities`
+
+Quarry is an open-source Android storage analyzer that gives you a clear visual view of what’s taking up space. Find large, duplicate, and unused files, explore your storage in detail, and clean up with complete control over what stays and what goes.
+
+- 🐙 **Source Code:** [https://github.com/tanvirr007/quarry-app](https://github.com/tanvirr007/quarry-app)
+- 👤 **Developer:** [Tanvir Hasan](https://github.com/tanvirr007)
 
 
 ---

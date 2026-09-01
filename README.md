@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17017`
+- 📦 **Total Discovered Apps & Projects:** `17019`
 - 🏷️ **Unique Categories / Tags:** `15556`
-- 🔄 **Last Automatically Synchronized:** `2026-09-01 00:14 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-09-01 05:54 UTC`
 
 ---
 
@@ -274,8 +274,8 @@ Explore our organized category directories to find the exact apps and tools you 
 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
-| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1610 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13420 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1611 apps` | [**Explore →**](docs/categories/android.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13422 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,26 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1049 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17017 cataloged applications | `17017 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17019 cataloged applications | `17019 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17017 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17019 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 cbrock84/headcount
+
+> **Categories:** `#agent_marketplace` `#claude_code` `#claude_code_plugin` `#claude_plugin` `#claude_skills` `#mcp`
+
+An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
+**Language**: Markdown
+
+- 🐙 **Source Code:** [https://github.com/cbrock84/headcount](https://github.com/cbrock84/headcount)
+- 👤 **Developer:** [cbrock84](https://github.com/cbrock84)
+
+
+---
 
 ### 📦 Rust By Practice
 
@@ -611,21 +624,6 @@ https://github.com/swoole/typephp
 
 - 🐙 **Source Code:** [https://github.com/HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
 - 👤 **Developer:** [HEJustinSun](https://github.com/HEJustinSun)
-
-
----
-
-### 📦 localai-org/kimodo.cpp
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-NVIDIA Kimodo ported to C++/GGML
-**Language**: C++
-**Stars**: 496 **Issues**: 0 **Forks**: 43
-[https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
-
-- 🐙 **Source Code:** [https://github.com/localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
-- 👤 **Developer:** [localai-org](https://github.com/localai-org)
 
 
 ---

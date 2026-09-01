@@ -4,7 +4,20 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13420`
+> **Total Apps in Category:** `13422`
+
+---
+
+### 📦 cbrock84/headcount
+
+> **Categories:** `#agent_marketplace` `#claude_code` `#claude_code_plugin` `#claude_plugin` `#claude_skills` `#mcp`
+
+An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
+**Language**: Markdown
+
+- 🐙 **Source Code:** [https://github.com/cbrock84/headcount](https://github.com/cbrock84/headcount)
+- 👤 **Developer:** [cbrock84](https://github.com/cbrock84)
+
 
 ---
 
@@ -197822,15 +197835,29 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 cbrock84/headcount
+### 📦 Quarry
 
-> **Categories:** `#agent_marketplace` `#claude_code` `#claude_code_plugin` `#claude_plugin` `#claude_skills` `#mcp`
+> **Categories:** `#screenshots` `#features` `#Android` `#Utilities`
 
-An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
-**Language**: Markdown
+Quarry is an open-source Android storage analyzer that gives you a clear visual view of what’s taking up space. Find large, duplicate, and unused files, explore your storage in detail, and clean up with complete control over what stays and what goes.
 
-- 🐙 **Source Code:** [https://github.com/cbrock84/headcount](https://github.com/cbrock84/headcount)
-- 👤 **Developer:** [cbrock84](https://github.com/cbrock84)
+- 🐙 **Source Code:** [https://github.com/tanvirr007/quarry-app](https://github.com/tanvirr007/quarry-app)
+- 👤 **Developer:** [Tanvir Hasan](https://github.com/tanvirr007)
+
+
+---
+
+### 📦 chrisgreg/boop
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
+**Language**: Go
+**Stars**: 633 **Issues**: 3 **Forks**: 30
+[https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+
+- 🐙 **Source Code:** [https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)
+- 👤 **Developer:** [chrisgreg](https://github.com/chrisgreg)
 
 
 ---

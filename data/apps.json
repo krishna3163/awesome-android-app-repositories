@@ -1,5 +1,65 @@
 [
   {
+    "id": "chrisgreg-boop",
+    "name": "chrisgreg/boop",
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.\n**Language**: Go\n**Stars**: 633 **Issues**: 3 **Forks**: 30\n[https://github.com/chrisgreg/boop](https://github.com/chrisgreg/boop)",
+    "website": "",
+    "repository": "https://github.com/chrisgreg/boop",
+    "developer": {
+      "name": "chrisgreg",
+      "url": "https://github.com/chrisgreg"
+    },
+    "features": [],
+    "tags": [
+      "GitHub",
+      "OpenSource"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13724,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-09-01T04:00:03+00:00",
+    "updated_at": "2026-09-01T05:54:46.703760+00:00"
+  },
+  {
+    "id": "quarry",
+    "name": "Quarry",
+    "description": "Quarry is an open-source Android storage analyzer that gives you a clear visual view of what’s taking up space. Find large, duplicate, and unused files, explore your storage in detail, and clean up with complete control over what stays and what goes.",
+    "website": "",
+    "repository": "https://github.com/tanvirr007/quarry-app",
+    "developer": {
+      "name": "Tanvir Hasan",
+      "url": "https://github.com/tanvirr007"
+    },
+    "features": [],
+    "tags": [
+      "screenshots",
+      "features",
+      "Android",
+      "Utilities"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@popMODS",
+      "main_message_id": 8690,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-09-01T03:01:52+00:00",
+    "updated_at": "2026-09-01T05:54:45.493915+00:00"
+  },
+  {
     "id": "cbrock84-headcount",
     "name": "cbrock84/headcount",
     "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.\n**Language**: Markdown",
@@ -75259,7 +75319,7 @@
     },
     "status": "active",
     "created_at": "2026-01-08T11:00:02+00:00",
-    "updated_at": "2026-08-23T10:45:23.893395+00:00"
+    "updated_at": "2026-09-01T05:54:53.564867+00:00"
   },
   {
     "id": "rohunvora-just-fucking-cancel",

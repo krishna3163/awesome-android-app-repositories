@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17017`
+> **Total Cataloged Projects:** `17019`
 
 ---
 
@@ -2636,6 +2636,7 @@
 | **ChrisCavs/bounds.js** | Asynchronous boundary detection - lazy-loading, infinite scroll, and… | [GitHub](https://github.com/ChrisCavs/bounds.js) | — | `GitHub, OpenSource` |
 | **chrisdone/dynamic** | Dynamic typing in Haskell | [GitHub](https://github.com/chrisdone/dynamic) | — | `analytics, dynamic_typing, enterprise_software, haskell` |
 | **chriseidhof/TerminalUI** | **Language**: Swift | [GitHub](https://github.com/chriseidhof/TerminalUI) | — | `GitHub, OpenSource` |
+| **chrisgreg/boop** | A tiny, self-hosted notification inbox for developers. Something happ… | [GitHub](https://github.com/chrisgreg/boop) | — | `GitHub, OpenSource` |
 | **chrishayuk/mcp-cli** | **Language**: Python | [GitHub](https://github.com/chrishayuk/mcp-cli) | — | `GitHub, OpenSource` |
 | **chrisknepper/android-messages-desktop** | Android Messages as a Cross-platform Desktop App | [GitHub](https://github.com/chrisknepper/android-messages-desktop) | — | `android, android_messages, android_messaging, desktop, linux, macos, sms, windows` |
 | **chrisloop/URP2020ToonShader** | **Language**: C# | [GitHub](https://github.com/chrisloop/URP2020ToonShader) | — | `GitHub, OpenSource` |
@@ -12026,6 +12027,7 @@
 | **quarkslab/binbloom** | Raw binary firmware analysis software | [GitHub](https://github.com/quarkslab/binbloom) | — | `GitHub, OpenSource` |
 | **Quarkus** | Quarkus is a Java framework designed for cloud-native and container-f… | [GitHub](https://github.com/quarkusio/quarkus) | — | `java, cloud_native, hacktoberfest, kubernetes, reactive` |
 | **Quarm-AI/Quarm** | An AI agent swarm framework built in Python | [GitHub](https://github.com/Quarm-AI/Quarm) | — | `GitHub, OpenSource` |
+| **Quarry** | Quarry is an open-source Android storage analyzer that gives you a cl… | [GitHub](https://github.com/tanvirr007/quarry-app) | — | `screenshots, features, Android, Utilities` |
 | **Quasar** | 5️⃣** **[**GitHub**](https://t.me/+3xphzXTayGE1NDVi) | [GitHub](https://github.com/quasarframework/quasar) | — | `GitHub, OpenSource` |
 | **QuaX** | QuaX is a cleaner, calmer way to browse X, built around control, priv… | [GitHub](https://github.com/Teskann/QuaX) | — | `Android, X, Client, Social` |
 | **quay/quay** | Build, Store, and Distribute your Applications and Containers | [GitHub](https://github.com/quay/quay) | — | `GitHub, OpenSource` |
