@@ -8,6 +8,18 @@
 
 ---
 
+### 📦 Awesome Workflow Automation
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation)
+- 👤 **Developer:** [dariubs](https://github.com/dariubs)
+
+
+---
+
 ### 📦 GangTailorUpgrade/CoomeRtool
 
 > **Categories:** `#coomer` `#coomer_download` `#coomer_downloader` `#coomer_party` `#coomer_porn` `#coomer_st` `#coomer_su` `#kemomo` `#kemon_party` `#kemoni` `#kemono` `#kemono_downloader` `#kemono_oarty` `#kemono_party` `#kemono_porn` `#kemono_su` `#kemono_su_downloader` `#kemono_xxx` `#kemonoparty` `#kenmono`
@@ -197905,18 +197917,6 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
-
-
----
-
-### 📦 Awesome Workflow Automation
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-🐱** **[**GitHub**](https://t.me/github)
-
-- 🐙 **Source Code:** [https://github.com/dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation)
-- 👤 **Developer:** [dariubs](https://github.com/dariubs)
 
 
 ---

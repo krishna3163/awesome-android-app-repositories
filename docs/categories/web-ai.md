@@ -8,6 +8,19 @@
 
 ---
 
+### 📦 hkqr/my-free-code
+
+> **Categories:** `#ai` `#claude_code` `#free_claude_api` `#multi_provider` `#multi_provider_llm`
+
+Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/hkqr/my-free-code](https://github.com/hkqr/my-free-code)
+- 👤 **Developer:** [hkqr](https://github.com/hkqr)
+
+
+---
+
 ### 📦 damejan80/tokentab
 
 > **Categories:** `#ai` `#claude` `#claude_code` `#cursor` `#python` `#token_optimization` `#token_usage`
@@ -17240,19 +17253,6 @@ A JavaScript Chart Library
 
 - 🐙 **Source Code:** [https://github.com/SteamDatabase/SalienCheat](https://github.com/SteamDatabase/SalienCheat)
 - 👤 **Developer:** [SteamDatabase](https://github.com/SteamDatabase)
-
-
----
-
-### 📦 hkqr/my-free-code
-
-> **Categories:** `#ai` `#claude_code` `#free_claude_api` `#multi_provider` `#multi_provider_llm`
-
-Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support
-**Language**: Python
-
-- 🐙 **Source Code:** [https://github.com/hkqr/my-free-code](https://github.com/hkqr/my-free-code)
-- 👤 **Developer:** [hkqr](https://github.com/hkqr)
 
 
 ---

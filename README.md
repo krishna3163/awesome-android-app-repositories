@@ -38,7 +38,7 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 - 📦 **Total Discovered Apps & Projects:** `17025`
 - 🏷️ **Unique Categories / Tags:** `15578`
-- 🔄 **Last Automatically Synchronized:** `2026-09-01 22:13 UTC`
+- 🔄 **Last Automatically Synchronized:** `2026-09-02 00:42 UTC`
 
 ---
 
@@ -290,6 +290,31 @@ Explore our organized category directories to find the exact apps and tools you 
 ## 🆕 Latest Discovered Projects (Top 25)
 
 > Showing the newest **25 additions**. To browse all **17025 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 hkqr/my-free-code
+
+> **Categories:** `#ai` `#claude_code` `#free_claude_api` `#multi_provider` `#multi_provider_llm`
+
+Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support
+**Language**: Python
+
+- 🐙 **Source Code:** [https://github.com/hkqr/my-free-code](https://github.com/hkqr/my-free-code)
+- 👤 **Developer:** [hkqr](https://github.com/hkqr)
+
+
+---
+
+### 📦 Awesome Workflow Automation
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+🐱** **[**GitHub**](https://t.me/github)
+
+- 🐙 **Source Code:** [https://github.com/dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation)
+- 👤 **Developer:** [dariubs](https://github.com/dariubs)
+
+
+---
 
 ### 📦 GangTailorUpgrade/CoomeRtool
 
@@ -617,31 +642,6 @@ De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narr
 
 - 🐙 **Source Code:** [https://github.com/Nanako0129/sepia](https://github.com/Nanako0129/sepia)
 - 👤 **Developer:** [Nanako0129](https://github.com/Nanako0129)
-
-
----
-
-### 📦 totec448-spec/chat-on-steroids
-
-> **Categories:** `#automation` `#chatgpt` `#chrome_extension` `#electron` `#linux` `#local_first` `#macos` `#mcp` `#multi_agent` `#windows`
-
-Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
-**Language**: TypeScript
-
-- 🐙 **Source Code:** [https://github.com/totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
-- 👤 **Developer:** [totec448-spec](https://github.com/totec448-spec)
-
-
----
-
-### 📦 Voicelive Api Salescoach
-
-> **Categories:** `#GitHub` `#OpenSource`
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-- 🐙 **Source Code:** [https://github.com/Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach)
-- 👤 **Developer:** [Azure-Samples](https://github.com/Azure-Samples)
 
 
 ---
