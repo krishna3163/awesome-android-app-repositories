@@ -44834,5 +44834,27 @@
     "message_id": 11161,
     "raw_text": "[**Voice-Pro**](https://github.com/abus-aikorea/voice-pro) — это современное веб-приложение, которое упрощает создание мультимедийного контента. \n\nОн объединяет в одном мощном инструменте функции загрузки видео с YouTube, разделения голоса и текста, распознавания речи, перевода и преобразования текста в речь для авторов, исследователей и специалистов, работающих с несколькими языками.\n\n🐱[** **](https://t.me/techno_news)[**GitHu**](https://t.me/github)[**b**](https://t.me/+cWuBx6rLtukxN2Uy)",
     "timestamp": "2026-09-01T19:02:37.185326+00:00"
+  },
+  {
+    "incoming_name": "MoneyPrinterTurbo",
+    "incoming_normalized": "moneyprinterturbo",
+    "matched_project_id": "moneyprinter",
+    "matched_project_name": "MoneyPrinter",
+    "similarity_score": 82.75862068965517,
+    "channel": "@github_repositories_bds",
+    "message_id": 944,
+    "raw_text": "**MoneyPrinterTurbo**\n\nA Chinese developer has just released a FREE tool capable of automatically creating videos for TikTok, Reels, and YouTube Shorts.\n\n✅ It works like this:\n1. You input a topic or keyword\n2. The AI generates the script, narration, and subtitles\n3. It searches for visual material, edits the video, and delivers the final result\n\nEverything happens in a single workflow.\n\nCreator:   harry0703\nStars ⭐️:  119,300\nForked by:  18,300\n\nGithub Repo:\nhttps://github.com/harry0703/MoneyPr",
+    "timestamp": "2026-09-02T10:15:13.542168+00:00"
+  },
+  {
+    "incoming_name": "Zedis",
+    "incoming_normalized": "zedis",
+    "matched_project_id": "zed",
+    "matched_project_name": "Zed",
+    "similarity_score": 75.0,
+    "channel": "@github",
+    "message_id": 11164,
+    "raw_text": "[**Zedis**](https://github.com/vicanso/zedis) — графический интерфейс Redis, который открывает вашу базу данных с миллионами ключей без индикатора загрузки — нативный, с ускорением на GPU, на Rust и GPUI\n\n🐱[** **](https://t.me/techno_news)[**GitHu**](https://t.me/github)[**b**](https://t.me/techgames)",
+    "timestamp": "2026-09-02T10:15:17.412475+00:00"
   }
 ]

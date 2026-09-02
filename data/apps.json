@@ -1,5 +1,39 @@
 [
   {
+    "id": "git-agni-prod-farm-ios-core",
+    "name": "Git-Agni/prod-FARM-IOS-Core",
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.\n**Language**: TypeScript",
+    "website": "",
+    "repository": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+    "developer": {
+      "name": "Git-Agni",
+      "url": "https://github.com/Git-Agni"
+    },
+    "features": [],
+    "tags": [
+      "appium",
+      "device_farm",
+      "ios_automation",
+      "marketing_automation",
+      "phone_farm",
+      "tiktok_automation_script",
+      "webdriveragent"
+    ],
+    "images": {
+      "cover": "",
+      "screenshots": []
+    },
+    "telegram": {
+      "main_channel": "@github_repos",
+      "main_message_id": 13729,
+      "features_channel": "",
+      "features_message_id": null
+    },
+    "status": "active",
+    "created_at": "2026-09-02T10:00:02+00:00",
+    "updated_at": "2026-09-02T10:15:12.287358+00:00"
+  },
+  {
     "id": "soirihiroka-shrimply",
     "name": "soirihiroka/shrimply",
     "description": "you're telling me a shrimp made this video?\n**Language**: Rust\n**Stars**: 563 **Issues**: 10 **Forks**: 29\n[https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)",

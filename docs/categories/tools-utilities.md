@@ -4,7 +4,22 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13426`
+> **Total Apps in Category:** `13427`
+
+---
+
+### 📦 soirihiroka/shrimply
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+you're telling me a shrimp made this video?
+**Language**: Rust
+**Stars**: 563 **Issues**: 10 **Forks**: 29
+[https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+
+- 🐙 **Source Code:** [https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+- 👤 **Developer:** [soirihiroka](https://github.com/soirihiroka)
+
 
 ---
 
@@ -197921,17 +197936,15 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 ---
 
-### 📦 soirihiroka/shrimply
+### 📦 Git-Agni/prod-FARM-IOS-Core
 
-> **Categories:** `#GitHub` `#OpenSource`
+> **Categories:** `#appium` `#device_farm` `#ios_automation` `#marketing_automation` `#phone_farm` `#tiktok_automation_script` `#webdriveragent`
 
-you're telling me a shrimp made this video?
-**Language**: Rust
-**Stars**: 563 **Issues**: 10 **Forks**: 29
-[https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.
+**Language**: TypeScript
 
-- 🐙 **Source Code:** [https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
-- 👤 **Developer:** [soirihiroka](https://github.com/soirihiroka)
+- 🐙 **Source Code:** [https://github.com/Git-Agni/prod-FARM-IOS-Core](https://github.com/Git-Agni/prod-FARM-IOS-Core)
+- 👤 **Developer:** [Git-Agni](https://github.com/Git-Agni)
 
 
 ---

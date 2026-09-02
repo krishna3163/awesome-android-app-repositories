@@ -36,9 +36,9 @@ This repository is an **automated, curated catalog** of newly discovered open-so
 
 ## 📊 Catalog Overview
 
-- 📦 **Total Discovered Apps & Projects:** `17026`
-- 🏷️ **Unique Categories / Tags:** `15578`
-- 🔄 **Last Automatically Synchronized:** `2026-09-02 05:17 UTC`
+- 📦 **Total Discovered Apps & Projects:** `17027`
+- 🏷️ **Unique Categories / Tags:** `15582`
+- 🔄 **Last Automatically Synchronized:** `2026-09-02 10:15 UTC`
 
 ---
 
@@ -275,7 +275,7 @@ Explore our organized category directories to find the exact apps and tools you 
 | Category | Focus & Description | Total Apps | Direct Link |
 |:---|:---|:---|:---|
 | **📱 Android Apps & Utilities** | Open-source Android applications, power tools, and clients. | `1612 apps` | [**Explore →**](docs/categories/android.md) |
-| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13426 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
+| **🛠️ Tools, Productivity & Utilities** | Productivity apps, file managers, system tweaks, notes, and utilities. | `13427 apps` | [**Explore →**](docs/categories/tools-utilities.md) |
 | **💻 Windows Applications & Tweaks** | Open-source tools, desktop software, and customizers for Windows. | `827 apps` | [**Explore →**](docs/categories/windows.md) |
 | **🐧 Linux Software & CLI Tools** | Linux applications, command-line utilities, packages, and desktop tools. | `783 apps` | [**Explore →**](docs/categories/linux.md) |
 | **🍎 macOS & iOS Applications** | Open-source tools and applications for macOS and iOS devices. | `696 apps` | [**Explore →**](docs/categories/apple.md) |
@@ -283,13 +283,28 @@ Explore our organized category directories to find the exact apps and tools you 
 | **🌐 Web, AI & Cloud Platforms** | AI platforms, web applications, self-hosted services, and cloud tools. | `1052 apps` | [**Explore →**](docs/categories/web-ai.md) |
 | **⚡ Root, Magisk & KernelSU Modules** | Root utilities, Magisk/KernelSU/APatch modules, and Xposed enhancements. | `241 apps` | [**Explore →**](docs/categories/root-modules.md) |
 | **🧩 Browser Extensions & Add-ons** | Extensions and scripts for Chrome, Firefox, Edge, and Chromium browsers. | `348 apps` | [**Explore →**](docs/categories/extensions.md) |
-| **📚 Complete A–Z Index** | Full searchable table of all 17026 cataloged applications | `17026 apps` | [**View Full Table →**](docs/all-apps.md) |
+| **📚 Complete A–Z Index** | Full searchable table of all 17027 cataloged applications | `17027 apps` | [**View Full Table →**](docs/all-apps.md) |
 
 ---
 
 ## 🆕 Latest Discovered Projects (Top 25)
 
-> Showing the newest **25 additions**. To browse all **17026 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+> Showing the newest **25 additions**. To browse all **17027 apps**, visit the [Category Pages](#-browse-by-platform--category) or [Full Directory Index](docs/all-apps.md).
+
+### 📦 soirihiroka/shrimply
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+you're telling me a shrimp made this video?
+**Language**: Rust
+**Stars**: 563 **Issues**: 10 **Forks**: 29
+[https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+
+- 🐙 **Source Code:** [https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+- 👤 **Developer:** [soirihiroka](https://github.com/soirihiroka)
+
+
+---
 
 ### 📦 hkqr/my-free-code
 
@@ -629,19 +644,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 - 🐙 **Source Code:** [https://github.com/zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli)
 - 👤 **Developer:** [zakirkun](https://github.com/zakirkun)
-
-
----
-
-### 📦 Nanako0129/sepia
-
-> **Categories:** `#agent_skills` `#ai_writing` `#antigravity` `#claude_code` `#codex` `#developer_tools` `#fiction` `#grok` `#humanizer` `#llm` `#prompt_engineering` `#writing_tools`
-
-De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-**Language**: Shell
-
-- 🐙 **Source Code:** [https://github.com/Nanako0129/sepia](https://github.com/Nanako0129/sepia)
-- 👤 **Developer:** [Nanako0129](https://github.com/Nanako0129)
 
 
 ---

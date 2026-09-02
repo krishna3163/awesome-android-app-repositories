@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17026`
+> **Total Cataloged Projects:** `17027`
 
 ---
 
@@ -5636,6 +5636,7 @@
 | **Git Mcp** | GitMCP is a free, open-source service that connects AI assistants to… | [GitHub](https://github.com/idosal/git-mcp) | — | `typescript, agentic_ai, agents, ai, claude, copilot, cursor, git, llm, mcp` |
 | **Git Open** | ⤷ [Available for download](https://github.com/paulirish/git-open) | [GitHub](https://github.com/paulirish/git-open) | — | `Interesting, Shell` |
 | **Git Who** | — | [GitHub](https://github.com/sinclairtarget/git-who) | — | `go` |
+| **Git-Agni/prod-FARM-IOS-Core** | A farm of real iPhones, run from your Mac. Open-source iOS device aut… | [GitHub](https://github.com/Git-Agni/prod-FARM-IOS-Core) | — | `appium, device_farm, ios_automation, marketing_automation, phone_farm, tiktok_automation_script, webdriveragent` |
 | **GitAtlas** | GitAtlas is a fluid Liquid Glass GitHub client featuring smart recomm… | [GitHub](https://github.com/Koustubh12345/GitAtlas) | — | `Android, Github, Client` |
 | **Gitbutler** | It allows you to quickly organize file changes into separate branches… | [GitHub](https://github.com/gitbutlerapp/gitbutler) | — | `rust, git, github, tauri, Interesting, Useful` |
 | **Gitea** | Gitea is a simple and fast way to set up your own Git service. It wor… | [GitHub](https://github.com/go-gitea/gitea) | — | `go, devops, docker_registry_v2, git, git_gui, git_server, gitea, github, github_actions, gitlab, gogs, golang, hacktoberfest, maven_server, npm_registry, vue, Interesting, Useful` |
