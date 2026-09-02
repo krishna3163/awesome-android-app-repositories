@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../../README.md) • [📚 **All Apps Index**](../all-apps.md)
 
-> **Total Apps in Category:** `13425`
+> **Total Apps in Category:** `13426`
 
 ---
 
@@ -197917,6 +197917,21 @@ Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
 - 🐙 **Source Code:** [https://github.com/CB-ysx/pageDesign](https://github.com/CB-ysx/pageDesign)
 - 👤 **Developer:** [CB-ysx](https://github.com/CB-ysx)
+
+
+---
+
+### 📦 soirihiroka/shrimply
+
+> **Categories:** `#GitHub` `#OpenSource`
+
+you're telling me a shrimp made this video?
+**Language**: Rust
+**Stars**: 563 **Issues**: 10 **Forks**: 29
+[https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+
+- 🐙 **Source Code:** [https://github.com/soirihiroka/shrimply](https://github.com/soirihiroka/shrimply)
+- 👤 **Developer:** [soirihiroka](https://github.com/soirihiroka)
 
 
 ---

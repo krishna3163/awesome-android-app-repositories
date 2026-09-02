@@ -4,7 +4,7 @@
 
 [⬅️ **Back to Main Catalog**](../README.md)
 
-> **Total Cataloged Projects:** `17025`
+> **Total Cataloged Projects:** `17026`
 
 ---
 
@@ -13665,6 +13665,7 @@
 | **soheilpro/mailwind** | Tailwind CSS for HTML emails. | [GitHub](https://github.com/soheilpro/mailwind) | — | `email, html_email, tailwind, tailwindcss` |
 | **sohzm/cheating-daddy** | a free and opensource app that lets you gain an unfair advantage | [GitHub](https://github.com/sohzm/cheating-daddy) | — | `GitHub, OpenSource` |
 | **Soinjector** | Can be useful when you need to change the behavior of a program or to… | [GitHub](https://github.com/meth1337/soinjector) | — | `Interesting, C, Linux` |
+| **soirihiroka/shrimply** | you're telling me a shrimp made this video? | [GitHub](https://github.com/soirihiroka/shrimply) | — | `GitHub, OpenSource` |
 | **sokra/rawact** | [POC] A babel plugin which compiles React.js components into native D… | [GitHub](https://github.com/sokra/rawact) | — | `GitHub, OpenSource` |
 | **sokrypton/ColabFold** | Making Protein folding accessible to all via Google Colab! | [GitHub](https://github.com/sokrypton/ColabFold) | — | `GitHub, OpenSource` |
 | **Sokuji** | It removes language barriers in real-time communication by capturing… | [GitHub](https://github.com/kizuna-ai-lab/sokuji) | — | `GitHub, OpenSource` |
