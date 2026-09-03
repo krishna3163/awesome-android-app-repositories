@@ -42,7 +42,7 @@ from src.matching.project_matcher import MatchType, find_matching_project
 from src.parsers.features_parser import FeatureParseError, parse_features
 from src.parsers.main_project_parser import ParseError, parse_main_project
 from src.telegram.channel_monitor import fetch_new_messages
-from src.telegram.client import TelegramClient
+from src.telegram.client import TelegramAuthError, TelegramClient
 from src.telegram.media_downloader import download_message_media
 from src.utils.hashing import slugify
 from src.utils.logger import setup_logging
@@ -365,13 +365,23 @@ def main() -> int:
         return 1
 
     if not settings.telegram_session_string:
-        logger.error("[ERROR] TELEGRAM_SESSION_STRING is required")
-        logger.error("[ERROR] Generate one with: python scripts/generate_session.py")
-        return 1
+        logger.warning("::warning title=Missing Telegram Session::TELEGRAM_SESSION_STRING is not set.")
+        logger.warning("[WARNING] TELEGRAM_SESSION_STRING is required. Skipping sync to avoid recurring failure alerts.")
+        logger.warning("[WARNING] Generate one with: python scripts/request_code.py")
+        return 0
 
     # Run the async sync
     try:
         results = asyncio.run(sync(settings, dry_run=args.dry_run, force_resync=args.force_resync))
+    except TelegramAuthError as exc:
+        logger.warning("::warning title=Telegram Session Expired::%s", exc)
+        logger.warning("")
+        logger.warning("=" * 56)
+        logger.warning("[WARNING] Telegram session is unauthorized or expired: %s", exc)
+        logger.warning("[WARNING] Sync skipped gracefully to prevent recurring CI failure emails.")
+        logger.warning("[WARNING] Please re-authenticate using scripts/request_code.py and update your secret.")
+        logger.warning("=" * 56)
+        return 0
     except Exception as exc:
         logger.error("[ERROR] Sync failed: %s", exc)
         return 1
