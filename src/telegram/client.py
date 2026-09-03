@@ -15,6 +15,11 @@ from telethon.sessions import StringSession
 logger = logging.getLogger("telegram-sync")
 
 
+class TelegramAuthError(Exception):
+    """Raised when Telegram session credentials or authorization fail."""
+    pass
+
+
 class TelegramClient:
     """Managed Telegram client that connects via session string.
 
@@ -51,12 +56,19 @@ class TelegramClient:
 
     async def connect(self) -> None:
         """Connect to Telegram."""
-        session = StringSession(self._session_string)
-        self._client = _TelegramClient(session, self._api_id, self._api_hash)
-        await self._client.connect()
+        try:
+            session = StringSession(self._session_string)
+            self._client = _TelegramClient(session, self._api_id, self._api_hash)
+            await self._client.connect()
+        except TelegramAuthError:
+            raise
+        except Exception as err:
+            logger.error("Failed to initialize Telegram client: %s", err)
+            raise TelegramAuthError(f"Telegram session string is invalid or connection failed: {err}") from err
+
         if not await self._client.is_user_authorized():
             logger.error("Telegram session is not authorized. Please regenerate the session string.")
-            raise RuntimeError("Telegram session is not authorized")
+            raise TelegramAuthError("Telegram session is not authorized or has expired.")
         logger.info("[INFO] Connected to Telegram")
 
     async def disconnect(self) -> None:
